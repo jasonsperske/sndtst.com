@@ -1,0 +1,101 @@
+{
+  "games": [
+    {
+      "guid": "Animal_Crossing-Cherry",
+      "title": "Animal Crossing: Hourly Music (Cherry)"
+    },
+    {
+      "guid": "Animal_Crossing-Default",
+      "title": "Animal Crossing: Hourly Music (default)"
+    },
+    {
+      "guid": "Animal_Crossing-Winter",
+      "title": "Animal Crossing: Hourly Music (Winter)"
+    },
+    {
+      "guid": "Banjo-Kazooie",
+      "title": "Banjo-Kazooie"
+    },
+    {
+      "guid": "Bomberman_Hero",
+      "title": "Bomberman Hero"
+    },
+    {
+      "guid": "Cruis_n_World",
+      "title": "Cruis'n World"
+    },
+    {
+      "guid": "Diddy_Kong_Racing",
+      "title": "Diddy Kong Racing"
+    },
+    {
+      "guid": "Donkey_Kong_64",
+      "title": "Donkey Kong 64"
+    },
+    {
+      "guid": "Dr_Mario_64",
+      "title": "Dr. Mario 64"
+    },
+    {
+      "guid": "Excitebike_64",
+      "title": "Excitebike 64"
+    },
+    {
+      "guid": "F-Zero_X",
+      "title": "F-Zero X"
+    },
+    {
+      "guid": "GoldenEye_007",
+      "title": "GoldenEye 007"
+    },
+    {
+      "guid": "Mario_Golf_64",
+      "title": "Mario Golf 64"
+    },
+    {
+      "guid": "Mario_Kart_64",
+      "title": "Mario Kart 64"
+    },
+    {
+      "guid": "Mario_Tennis",
+      "title": "Mario Tennis"
+    },
+    {
+      "guid": "Paper_Mario",
+      "title": "Paper Mario"
+    },
+    {
+      "guid": "Pokemon_Stadium",
+      "title": "Pokémon Stadium"
+    },
+    {
+      "guid": "Star_Fox_64",
+      "title": "Star Fox 64"
+    },
+    {
+      "guid": "Super_Mario_64",
+      "title": "Super Mario 64"
+    },
+    {
+      "guid": "Tetrisphere",
+      "title": "Tetrisphere"
+    },
+    {
+      "guid": "Legend_of_Zelda-Majoras_Mask",
+      "title": "The Legend of Zelda: Majora's Mask"
+    },
+    {
+      "guid": "Zelda-Ocarina_of_Time",
+      "title": "The Legend of Zelda: Ocarina of Time"
+    },
+    {
+      "guid": "Wave_Race_64",
+      "title": "Wave Race 64"
+    },
+    {
+      "guid": "WipEout_64",
+      "title": "WipEout 64"
+    }
+  ],
+  "guid": "N64"
+}

@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "guid": "Metroid_Fusion",
+      "title": "Metroid Fusion"
+    },
+    {
+      "guid": "Mother_3",
+      "title": "Mother 3"
+    },
+    {
+      "guid": "Sonic_Advance",
+      "title": "Sonic Advance"
+    },
+    {
+      "guid": "Sonic_Advance_2",
+      "title": "Sonic Advance 2"
+    },
+    {
+      "guid": "Sonic_Advance_3",
+      "title": "Sonic Advance 3"
+    }
+  ],
+  "guid": "GBA"
+}

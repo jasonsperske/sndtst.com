@@ -1,0 +1,381 @@
+{
+  "games": [
+    {
+      "guid": "Actraiser",
+      "title": "ActRaiser"
+    },
+    {
+      "guid": "Aero_Fighters",
+      "title": "Aero Fighters"
+    },
+    {
+      "guid": "Arcana",
+      "title": "Arcana"
+    },
+    {
+      "guid": "Axelay",
+      "title": "Axelay"
+    },
+    {
+      "guid": "Batman_Returns(SNES)",
+      "title": "Batman Returns"
+    },
+    {
+      "guid": "Battletoads_in_Battlemaniacs",
+      "title": "Battletoads in Battlemaniacs"
+    },
+    {
+      "guid": "Biker_Mice_from_Mars",
+      "title": "Biker Mice from Mars"
+    },
+    {
+      "guid": "Breath_of_Fire",
+      "title": "Breath of Fire"
+    },
+    {
+      "guid": "Breath_of_Fire_II",
+      "title": "Breath of Fire II"
+    },
+    {
+      "guid": "Chrono_Trigger",
+      "title": "Chrono Trigger"
+    },
+    {
+      "guid": "Contra_III",
+      "title": "Contra III: The Alien Wars"
+    },
+    {
+      "guid": "Demons_Crest",
+      "title": "Demon's Crest"
+    },
+    {
+      "guid": "Donkey_Kong_Country",
+      "title": "Donkey Kong Country"
+    },
+    {
+      "guid": "Donkey_Kong_Country_2",
+      "title": "Donkey Kong Country 2"
+    },
+    {
+      "guid": "Donkey_Kong_Country_3",
+      "title": "Donkey Kong Country 3"
+    },
+    {
+      "guid": "Dragon_Ball_Z-Super_Butouden",
+      "title": "Dragon Ball Z: Super Butouden"
+    },
+    {
+      "guid": "Dragon_Ball_Z-Super_Butouden_2",
+      "title": "Dragon Ball Z: Super Butouden 2"
+    },
+    {
+      "guid": "Dragon_Ball_Z-Super_Butouden_3",
+      "title": "Dragon Ball Z: Super Butouden 3"
+    },
+    {
+      "guid": "EarthBound",
+      "title": "EarthBound"
+    },
+    {
+      "guid": "Earthworm_Jim_(SNES)",
+      "title": "Earthworm Jim"
+    },
+    {
+      "guid": "Earthworm_Jim_2_(SNES)",
+      "title": "Earthworm Jim 2"
+    },
+    {
+      "guid": "F-Zero",
+      "title": "F-Zero"
+    },
+    {
+      "guid": "Fatal_Fury",
+      "title": "Fatal Fury"
+    },
+    {
+      "guid": "Final_Fantasy-Mystic_Quest",
+      "title": "Final Fantasy - Mystic Quest"
+    },
+    {
+      "guid": "Final_Fantasy_IV",
+      "title": "Final Fantasy IV"
+    },
+    {
+      "guid": "Final_Fantasy_V",
+      "title": "Final Fantasy V"
+    },
+    {
+      "guid": "Final_Fantasy_VI",
+      "title": "Final Fantasy VI"
+    },
+    {
+      "guid": "Final_Fight",
+      "title": "Final Fight"
+    },
+    {
+      "guid": "Fire_Emblem_MotE",
+      "title": "Fire Emblem: Mystery of the Emblem"
+    },
+    {
+      "guid": "Gradius_III",
+      "title": "Gradius III"
+    },
+    {
+      "guid": "HyperZone",
+      "title": "HyperZone"
+    },
+    {
+      "guid": "Illusion-of-Gaia",
+      "title": "Illusion of Gaia"
+    },
+    {
+      "guid": "International_Superstar_Soccer",
+      "title": "International Superstar Soccer"
+    },
+    {
+      "guid": "Itadaki_Street_2",
+      "title": "Itadaki Street 2: Neon Sign wa Bara Iro ni"
+    },
+    {
+      "guid": "Jurassic_Park_(SNES)",
+      "title": "Jurassic Park"
+    },
+    {
+      "guid": "Killer_Instinct",
+      "title": "Killer Instinct"
+    },
+    {
+      "guid": "Kirby_Super_Star",
+      "title": "Kirby Super Star"
+    },
+    {
+      "guid": "Lemmings",
+      "title": "Lemmings"
+    },
+    {
+      "guid": "Lufia",
+      "title": "Lufia & The Fortress of Doom"
+    },
+    {
+      "guid": "Lufia_II",
+      "title": "Lufia II - Rise of the Sinistrals"
+    },
+    {
+      "guid": "Mario_Paint",
+      "title": "Mario Paint"
+    },
+    {
+      "guid": "Mega_Man_7",
+      "title": "Mega Man 7"
+    },
+    {
+      "guid": "Mega_Man_X",
+      "title": "Mega Man X"
+    },
+    {
+      "guid": "Mega_Man_X2",
+      "title": "Mega Man X2"
+    },
+    {
+      "guid": "Mega_Man_X3",
+      "title": "Mega Man X3"
+    },
+    {
+      "guid": "Mortal_Kombat_(SNES)",
+      "title": "Mortal Kombat"
+    },
+    {
+      "guid": "Mortal_Kombat_2_(SNES)",
+      "title": "Mortal Kombat 2"
+    },
+    {
+      "guid": "Mortal_Kombat_3_(SNES)",
+      "title": "Mortal Kombat 3"
+    },
+    {
+      "guid": "Olympic_Summer_Games",
+      "title": "Olympic Summer Games"
+    },
+    {
+      "guid": "Pilotwings",
+      "title": "Pilotwings"
+    },
+    {
+      "guid": "Plok",
+      "title": "Plok"
+    },
+    {
+      "guid": "Porky_Pigs_Haunted_Holiday",
+      "title": "Porky Pig's Haunted Holiday"
+    },
+    {
+      "guid": "Rock_n_Roll_Racing",
+      "title": "Rock n' Roll Racing"
+    },
+    {
+      "guid": "Secret_of_Evermore",
+      "title": "Secret of Evermore"
+    },
+    {
+      "guid": "Secret_of_Mana",
+      "title": "Secret of Mana"
+    },
+    {
+      "guid": "Shadowrun",
+      "title": "Shadowrun"
+    },
+    {
+      "guid": "Sim_City_SNES",
+      "title": "Sim City"
+    },
+    {
+      "guid": "Star_Fox",
+      "title": "Star Fox"
+    },
+    {
+      "guid": "Street_Fighter_II",
+      "title": "Street Fighter II"
+    },
+    {
+      "guid": "Street_Fighter_II_Turbo",
+      "title": "Street Fighter II Turbo"
+    },
+    {
+      "guid": "Sunset_Riders",
+      "title": "Sunset Riders"
+    },
+    {
+      "guid": "Super_Adventure_Island",
+      "title": "Super Adventure Island"
+    },
+    {
+      "guid": "Super_Bomberman",
+      "title": "Super Bomberman"
+    },
+    {
+      "guid": "Super_Bomberman_2",
+      "title": "Super Bomberman 2"
+    },
+    {
+      "guid": "Super_Bomberman_3",
+      "title": "Super Bomberman 3"
+    },
+    {
+      "guid": "Super_Bomberman_4",
+      "title": "Super Bomberman 4"
+    },
+    {
+      "guid": "Super_Bomberman_5",
+      "title": "Super Bomberman 5"
+    },
+    {
+      "guid": "Super_Castlevania_IV",
+      "title": "Super Castlevania IV"
+    },
+    {
+      "guid": "Super_Conflict",
+      "title": "Super Conflict: The Mideast"
+    },
+    {
+      "guid": "Super_Double_Dragon",
+      "title": "Super Double Dragon"
+    },
+    {
+      "guid": "Super_Ghouls_n_Ghosts",
+      "title": "Super Ghouls 'n Ghosts"
+    },
+    {
+      "guid": "Super_Mario_All-Stars",
+      "title": "Super Mario All-Stars"
+    },
+    {
+      "guid": "Super_Mario_Kart",
+      "title": "Super Mario Kart"
+    },
+    {
+      "guid": "Super_Mario_RPG",
+      "title": "Super Mario RPG: Legend of the Seven Stars"
+    },
+    {
+      "guid": "Super_Mario_World",
+      "title": "Super Mario World"
+    },
+    {
+      "guid": "Super_Mario_World_2",
+      "title": "Super Mario World 2 - Yoshi's Island"
+    },
+    {
+      "guid": "Super_Metroid",
+      "title": "Super Metroid"
+    },
+    {
+      "guid": "Super_Off_Road",
+      "title": "Super Off Road"
+    },
+    {
+      "guid": "Super_Punch-Out",
+      "title": "Super Punch-Out!!"
+    },
+    {
+      "guid": "Super_R-Type",
+      "title": "Super R-Type"
+    },
+    {
+      "guid": "Super_Star_Wars",
+      "title": "Super Star Wars"
+    },
+    {
+      "guid": "TMNT4_Turtles_In_Time",
+      "title": "Teenage Mutant Ninja Turtles IV: Turtles in Time"
+    },
+    {
+      "guid": "Terranigma",
+      "title": "Terranigma"
+    },
+    {
+      "guid": "Zelda_A_Link_to_the_Past",
+      "title": "The Legend of Zelda: A Link to the Past"
+    },
+    {
+      "guid": "The_Ninja_Warriors",
+      "title": "The Ninja Warriors"
+    },
+    {
+      "guid": "The_Tick",
+      "title": "The Tick"
+    },
+    {
+      "guid": "Top_Gear",
+      "title": "Top Gear"
+    },
+    {
+      "guid": "Top_Gear_2",
+      "title": "Top Gear 2"
+    },
+    {
+      "guid": "Top_Gear_3000",
+      "title": "Top Gear 3000"
+    },
+    {
+      "guid": "UN_Squadron",
+      "title": "U.N. Squadron"
+    },
+    {
+      "guid": "Uniracers",
+      "title": "Uniracers"
+    },
+    {
+      "guid": "Urban_Strike",
+      "title": "Urban Strike"
+    },
+    {
+      "guid": "Wild_Guns",
+      "title": "Wild Guns"
+    },
+    {
+      "guid": "Ys_III_(SNES)",
+      "title": "Ys III - Wanderers From Ys"
+    }
+  ],
+  "guid": "SNES"
+}

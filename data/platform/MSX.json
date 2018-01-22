@@ -1,0 +1,13 @@
+{
+  "games": [
+    {
+      "guid": "Guardic",
+      "title": "Guardic"
+    },
+    {
+      "guid": "Vampire_Killer",
+      "title": "Vampire Killer"
+    }
+  ],
+  "guid": "MSX"
+}

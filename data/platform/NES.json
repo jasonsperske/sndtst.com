@@ -1,0 +1,397 @@
+{
+  "games": [
+    {
+      "guid": "Adventure_Island",
+      "title": "Adventure Island"
+    },
+    {
+      "guid": "Akumajou_Densetsu",
+      "title": "Akumajou Densetsu"
+    },
+    {
+      "guid": "Antarctic_Adventure",
+      "title": "Antarctic Adventure"
+    },
+    {
+      "guid": "Bad_News_Baseball",
+      "title": "Bad News Baseball"
+    },
+    {
+      "guid": "Balloon_Fight",
+      "title": "Balloon Fight"
+    },
+    {
+      "guid": "Batman",
+      "title": "Batman"
+    },
+    {
+      "guid": "Batman-Return_of_the_Joker",
+      "title": "Batman: Return of the Joker"
+    },
+    {
+      "guid": "Battle-of-Olympus",
+      "title": "Battle of Olympus"
+    },
+    {
+      "guid": "Battletoads",
+      "title": "Battletoads"
+    },
+    {
+      "guid": "Bionic_Commando",
+      "title": "Bionic Commando"
+    },
+    {
+      "guid": "Blades_of_Steel",
+      "title": "Blades of Steel"
+    },
+    {
+      "guid": "Blaster_Master",
+      "title": "Blaster Master"
+    },
+    {
+      "guid": "Bubble_Bobble",
+      "title": "Bubble Bobble"
+    },
+    {
+      "guid": "Captain_Tsubasa_Vol_II",
+      "title": "Captain Tsubasa Vol. II: Super Striker"
+    },
+    {
+      "guid": "Castlevania",
+      "title": "Castlevania"
+    },
+    {
+      "guid": "Castlevania_II",
+      "title": "Castlevania II: Simon's Quest"
+    },
+    {
+      "guid": "Castlevania_III",
+      "title": "Castlevania III:Dracula's Curse"
+    },
+    {
+      "guid": "Chip_and_Dale_Rescue_Rangers",
+      "title": "Chip and Dale Rescue Rangers"
+    },
+    {
+      "guid": "Circus_Charlie",
+      "title": "Circus Charlie"
+    },
+    {
+      "guid": "Contra",
+      "title": "Contra"
+    },
+    {
+      "guid": "Donkey_Kong",
+      "title": "Donkey Kong"
+    },
+    {
+      "guid": "Double_Dragon",
+      "title": "Double Dragon"
+    },
+    {
+      "guid": "Double_Dragon_II",
+      "title": "Double Dragon II: The Revenge"
+    },
+    {
+      "guid": "Double_Dragon_III",
+      "title": "Double Dragon III: The Sacred Stones"
+    },
+    {
+      "guid": "Dragon_Spirit_(NES)",
+      "title": "Dragon Spirit: The New Legend"
+    },
+    {
+      "guid": "Dragon_Warrior",
+      "title": "Dragon Warrior"
+    },
+    {
+      "guid": "Duck_Hunt",
+      "title": "Duck Hunt"
+    },
+    {
+      "guid": "Duck_Tales",
+      "title": "Duck Tales"
+    },
+    {
+      "guid": "Excitebike",
+      "title": "Excitebike"
+    },
+    {
+      "guid": "Faxanadu",
+      "title": "Faxanadu"
+    },
+    {
+      "guid": "Final_Fantasy_III",
+      "title": "Final Fantasy III"
+    },
+    {
+      "guid": "GI_Joe",
+      "title": "G.I. Joe: A Real American Hero"
+    },
+    {
+      "guid": "GI_Joe-The_Atlantis_Factor",
+      "title": "G.I. Joe: The Atlantis Factor"
+    },
+    {
+      "guid": "Gauntlet",
+      "title": "Gauntlet"
+    },
+    {
+      "guid": "Ghosts_N_Goblins",
+      "title": "Ghosts 'N Goblins"
+    },
+    {
+      "guid": "Gimmick",
+      "title": "Gimmick!"
+    },
+    {
+      "guid": "Gradius",
+      "title": "Gradius"
+    },
+    {
+      "guid": "Gradius_II",
+      "title": "Gradius II"
+    },
+    {
+      "guid": "Gun_Smoke",
+      "title": "Gun Smoke"
+    },
+    {
+      "guid": "Ironsword-Wizards_Warriors_II",
+      "title": "Ironsword: Wizards & Warriors II"
+    },
+    {
+      "guid": "Jackal",
+      "title": "Jackal"
+    },
+    {
+      "guid": "Jackie_Chan_s_Action_Kung_Fu",
+      "title": "Jackie Chan's Action Kung Fu"
+    },
+    {
+      "guid": "James_Bond_Jr",
+      "title": "James Bond Jr."
+    },
+    {
+      "guid": "Jaws",
+      "title": "Jaws"
+    },
+    {
+      "guid": "Journey_to_Silius",
+      "title": "Journey to Silius"
+    },
+    {
+      "guid": "Karnov",
+      "title": "Karnov"
+    },
+    {
+      "guid": "Kirbys_Adventure",
+      "title": "Kirby's Adventure"
+    },
+    {
+      "guid": "Legendary_Wings",
+      "title": "Legendary Wings"
+    },
+    {
+      "guid": "Life_Force",
+      "title": "Life Force"
+    },
+    {
+      "guid": "Little_Samson",
+      "title": "Little Samson"
+    },
+    {
+      "guid": "Magic_Johnsons_Fast_Break",
+      "title": "Magic Johnson's Fast Break"
+    },
+    {
+      "guid": "Maniac_Mansion",
+      "title": "Maniac Mansion"
+    },
+    {
+      "guid": "Mega_Man",
+      "title": "Mega Man"
+    },
+    {
+      "guid": "Mega_Man_II",
+      "title": "Mega Man II"
+    },
+    {
+      "guid": "Mega_Man_III",
+      "title": "Mega Man III"
+    },
+    {
+      "guid": "Mega_Man_IV",
+      "title": "Mega Man IV"
+    },
+    {
+      "guid": "Mega_Man_V",
+      "title": "Mega Man V"
+    },
+    {
+      "guid": "Mega_Man_VI",
+      "title": "Mega Man VI"
+    },
+    {
+      "guid": "Metroid",
+      "title": "Metroid"
+    },
+    {
+      "guid": "Mickey_Mousecapade",
+      "title": "Mickey Mousecapade"
+    },
+    {
+      "guid": "Mike_Tysons_Punch-Out",
+      "title": "Mike Tyson's Punch-Out!!"
+    },
+    {
+      "guid": "Mother",
+      "title": "Mother"
+    },
+    {
+      "guid": "Ninja_Gaiden",
+      "title": "Ninja Gaiden"
+    },
+    {
+      "guid": "Ninja_Gaiden_II",
+      "title": "Ninja Gaiden II - The Dark Sword of Chaos"
+    },
+    {
+      "guid": "Power_Blade",
+      "title": "Power Blade"
+    },
+    {
+      "guid": "RC_Pro-Am",
+      "title": "R.C. Pro-Am"
+    },
+    {
+      "guid": "Rad_Racer",
+      "title": "Rad Racer"
+    },
+    {
+      "guid": "River_City_Ransom",
+      "title": "River City Ransom"
+    },
+    {
+      "guid": "RoboCop",
+      "title": "RoboCop"
+    },
+    {
+      "guid": "RoboCop_3",
+      "title": "RoboCop 3"
+    },
+    {
+      "guid": "Rush_n_Attack",
+      "title": "Rush'n Attack"
+    },
+    {
+      "guid": "Rygar",
+      "title": "Rygar"
+    },
+    {
+      "guid": "Section_Z",
+      "title": "Section Z"
+    },
+    {
+      "guid": "Shatterhand",
+      "title": "Shatterhand"
+    },
+    {
+      "guid": "Silver_Surfer",
+      "title": "Silver Surfer"
+    },
+    {
+      "guid": "Solstice",
+      "title": "Solstice"
+    },
+    {
+      "guid": "Spy_Hunter",
+      "title": "Spy Hunter"
+    },
+    {
+      "guid": "Star_Tropics",
+      "title": "Star Tropics"
+    },
+    {
+      "guid": "Super_Contra",
+      "title": "Super Contra"
+    },
+    {
+      "guid": "Super_Dodge_Ball",
+      "title": "Super Dodge Ball"
+    },
+    {
+      "guid": "Super_Mario_Bros",
+      "title": "Super Mario Bros."
+    },
+    {
+      "guid": "Super_Mario_Bros_2",
+      "title": "Super Mario Bros. 2"
+    },
+    {
+      "guid": "Super_Mario_Bros_3",
+      "title": "Super Mario Bros. 3"
+    },
+    {
+      "guid": "T_and_C_Surf_Designs",
+      "title": "T&C Surf Designs"
+    },
+    {
+      "guid": "Tecmo_Bowl",
+      "title": "Tecmo Bowl"
+    },
+    {
+      "guid": "Tecmo_World_Cup_Soccer",
+      "title": "Tecmo World Cup Soccer"
+    },
+    {
+      "guid": "Teenage_Mutant_Ninja_Turtles",
+      "title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "guid": "TMNT2_The_Arcade_Game",
+      "title": "Teenage Mutant Ninja Turtles 2: The Arcade Game"
+    },
+    {
+      "guid": "TMNT3_The_Manhattan_Project",
+      "title": "Teenage Mutant Ninja Turtles 3: The Manhattan Project"
+    },
+    {
+      "guid": "Tetris",
+      "title": "Tetris"
+    },
+    {
+      "guid": "The_Adventures_of_Bayou_Billy",
+      "title": "The Adventures of Bayou Billy"
+    },
+    {
+      "guid": "The_Goonies_II",
+      "title": "The Goonies II"
+    },
+    {
+      "guid": "The_Guardian_Legend",
+      "title": "The Guardian Legend"
+    },
+    {
+      "guid": "Legend_of_Zelda",
+      "title": "The Legend of Zelda"
+    },
+    {
+      "guid": "Treasure_Master",
+      "title": "Treasure Master"
+    },
+    {
+      "guid": "Werewolf_The_Last_Warrior",
+      "title": "Werewolf: The Last Warrior"
+    },
+    {
+      "guid": "Wizards_and_Warriors",
+      "title": "Wizards & Warriors"
+    },
+    {
+      "guid": "Zelda_II",
+      "title": "Zelda II: The Adventure of Link"
+    }
+  ],
+  "guid": "NES"
+}

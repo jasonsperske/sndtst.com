@@ -1,0 +1,397 @@
+{
+  "games": [
+    {
+      "guid": "Aladdin_(Genesis)",
+      "title": "Aladdin"
+    },
+    {
+      "guid": "Alien_Soldier",
+      "title": "Alien Soldier"
+    },
+    {
+      "guid": "Altered_Beast",
+      "title": "Altered Beast"
+    },
+    {
+      "guid": "Arnold_Palmer_Tournament_Golf",
+      "title": "Arnold Palmer Tournament Golf"
+    },
+    {
+      "guid": "Batman_Returns",
+      "title": "Batman Returns"
+    },
+    {
+      "guid": "Battletoads_(Genesis)",
+      "title": "Battletoads"
+    },
+    {
+      "guid": "Battletoads_and_Double_Dragon",
+      "title": "Battletoads & Double Dragon-The Ultimate Team"
+    },
+    {
+      "guid": "Castlevania-Bloodlines",
+      "title": "Castlevania - Bloodlines"
+    },
+    {
+      "guid": "Chakan",
+      "title": "Chakan - The Forever Man"
+    },
+    {
+      "guid": "Chuck_Rock",
+      "title": "Chuck Rock"
+    },
+    {
+      "guid": "Chuck_Rock_II",
+      "title": "Chuck Rock II: Son of Chuck"
+    },
+    {
+      "guid": "Columns",
+      "title": "Columns"
+    },
+    {
+      "guid": "Comix_Zone",
+      "title": "Comix Zone"
+    },
+    {
+      "guid": "Contra-Hard_Corps",
+      "title": "Contra: Hard Corps"
+    },
+    {
+      "guid": "Cool_Spot",
+      "title": "Cool Spot"
+    },
+    {
+      "guid": "Crusader_of_Centy",
+      "title": "Crusader of Centy"
+    },
+    {
+      "guid": "Dashin_Desperadoes",
+      "title": "Dashin' Desperadoes"
+    },
+    {
+      "guid": "Desert_Strike",
+      "title": "Desert Strike"
+    },
+    {
+      "guid": "Dr_Robotniks_Mean_Bean_Machine",
+      "title": "Dr. Robotnik's Mean Bean Machine"
+    },
+    {
+      "guid": "Warriors_of_the_Eternal_Sun",
+      "title": "Dungeons & Dragons: Warriors of the Eternal Sun"
+    },
+    {
+      "guid": "Earthworm_Jim_(Genesis)",
+      "title": "Earthworm Jim"
+    },
+    {
+      "guid": "Earthworm_Jim_2_(Genesis)",
+      "title": "Earthworm Jim 2"
+    },
+    {
+      "guid": "Ecco_the_Dolphin",
+      "title": "Ecco the Dolphin"
+    },
+    {
+      "guid": "Ecco-Tides_of_Time",
+      "title": "Ecco: Tides of Time"
+    },
+    {
+      "guid": "El_Viento",
+      "title": "El Viento"
+    },
+    {
+      "guid": "Elemental_Master",
+      "title": "Elemental Master"
+    },
+    {
+      "guid": "ESWAT_City_Under_Siege",
+      "title": "ESWAT: City Under Siege"
+    },
+    {
+      "guid": "FIFA_Soccer_95",
+      "title": "FIFA Soccer '95"
+    },
+    {
+      "guid": "Fire_Shark",
+      "title": "Fire Shark"
+    },
+    {
+      "guid": "Forgotten_Worlds",
+      "title": "Forgotten Worlds"
+    },
+    {
+      "guid": "Galaxy_Force_II",
+      "title": "Galaxy Force II"
+    },
+    {
+      "guid": "Gauntlet_IV",
+      "title": "Gauntlet IV"
+    },
+    {
+      "guid": "Ghostbusters",
+      "title": "Ghostbusters"
+    },
+    {
+      "guid": "Ghouls_n_Ghosts",
+      "title": "Ghouls 'n Ghosts"
+    },
+    {
+      "guid": "Golden_Axe",
+      "title": "Golden Axe"
+    },
+    {
+      "guid": "Gunstar_Heroes",
+      "title": "Gunstar Heroes"
+    },
+    {
+      "guid": "Herzog_Zwei",
+      "title": "Herzog Zwei"
+    },
+    {
+      "guid": "Jungle_Strike",
+      "title": "Jungle Strike"
+    },
+    {
+      "guid": "Jurassic_Park_(Genesis)",
+      "title": "Jurassic Park"
+    },
+    {
+      "guid": "Landstalker",
+      "title": "Landstalker - The Treasures of King Nole"
+    },
+    {
+      "guid": "Lotus_II-RECS",
+      "title": "Lotus II - R.E.C.S."
+    },
+    {
+      "guid": "Lotus_Turbo_Challenge",
+      "title": "Lotus Turbo Challenge"
+    },
+    {
+      "guid": "Magical_Hat_no_Buttobi_Turbo",
+      "title": "Magical Hat no Buttobi Turbo! Daibouken"
+    },
+    {
+      "guid": "Mega_Bomberman",
+      "title": "Mega Bomberman"
+    },
+    {
+      "guid": "Michael_Jacksons_Moonwalker",
+      "title": "Michael Jackson's Moonwalker"
+    },
+    {
+      "guid": "Midnight_Resistance",
+      "title": "Midnight Resistance"
+    },
+    {
+      "guid": "Mortal_Kombat_(Genesis)",
+      "title": "Mortal Kombat"
+    },
+    {
+      "guid": "Mortal_Kombat_2_(Genesis)",
+      "title": "Mortal Kombat 2"
+    },
+    {
+      "guid": "Mortal_Kombat_3_(Genesis)",
+      "title": "Mortal Kombat 3"
+    },
+    {
+      "guid": "NHL_95",
+      "title": "NHL All-Star Hockey '95"
+    },
+    {
+      "guid": "Out_Run",
+      "title": "Out Run"
+    },
+    {
+      "guid": "Phantasy_Star_II",
+      "title": "Phantasy Star II"
+    },
+    {
+      "guid": "Phantasy_Star_III",
+      "title": "Phantasy Star III"
+    },
+    {
+      "guid": "Phantasy_Star_IV",
+      "title": "Phantasy Star IV"
+    },
+    {
+      "guid": "QuackShot",
+      "title": "QuackShot"
+    },
+    {
+      "guid": "Rambo_III",
+      "title": "Rambo III"
+    },
+    {
+      "guid": "Red_Zone",
+      "title": "Red Zone"
+    },
+    {
+      "guid": "Ristar",
+      "title": "Ristar"
+    },
+    {
+      "guid": "Road_Rash",
+      "title": "Road Rash"
+    },
+    {
+      "guid": "Road_Rash_II",
+      "title": "Road Rash II"
+    },
+    {
+      "guid": "Rocket_Knight_Adventures",
+      "title": "Rocket Knight Adventures"
+    },
+    {
+      "guid": "Sega_CD",
+      "title": "Sega CD"
+    },
+    {
+      "guid": "Shadow_Dancer",
+      "title": "Shadow Dancer: The Secret of Shinobi"
+    },
+    {
+      "guid": "Shadow_of_the_Beast",
+      "title": "Shadow of the Beast"
+    },
+    {
+      "guid": "Shining_In_The_Darkness",
+      "title": "Shining In The Darkness"
+    },
+    {
+      "guid": "Shinobi_III",
+      "title": "Shinobi III - Return of the Ninja Master"
+    },
+    {
+      "guid": "Sonic_The_Hedgehog",
+      "title": "Sonic The Hedgehog"
+    },
+    {
+      "guid": "Sonic_The_Hedgehog_2",
+      "title": "Sonic The Hedgehog 2"
+    },
+    {
+      "guid": "Sonic_The_Hedgehog_3_Knuckles",
+      "title": "Sonic The Hedgehog 3 & Knuckles"
+    },
+    {
+      "guid": "Sonic_Spinball",
+      "title": "Sonic the Hedgehog Spinball"
+    },
+    {
+      "guid": "Space_Harrier_II",
+      "title": "Space Harrier II"
+    },
+    {
+      "guid": "SpiderMan_Venom_MaximumCarnage",
+      "title": "Spider-Man & Venom-Maximum Carnage"
+    },
+    {
+      "guid": "Street_Fighter_II-Champion",
+      "title": "Street Fighter II: Special Champion Edition"
+    },
+    {
+      "guid": "Street_Smart",
+      "title": "Street Smart"
+    },
+    {
+      "guid": "Streets_of_Rage",
+      "title": "Streets of Rage"
+    },
+    {
+      "guid": "Streets_of_Rage_2",
+      "title": "Streets of Rage 2"
+    },
+    {
+      "guid": "Streets_of_Rage_3",
+      "title": "Streets of Rage 3"
+    },
+    {
+      "guid": "Strider",
+      "title": "Strider"
+    },
+    {
+      "guid": "Super_Hang-On",
+      "title": "Super Hang-On"
+    },
+    {
+      "guid": "Super_Monaco_GP",
+      "title": "Super Monaco GP"
+    },
+    {
+      "guid": "Sword_Of_Vermilion",
+      "title": "Sword Of Vermilion"
+    },
+    {
+      "guid": "Target_Earth",
+      "title": "Target Earth"
+    },
+    {
+      "guid": "Adventures_of_Batman_and_Robin",
+      "title": "The Adventures of Batman & Robin"
+    },
+    {
+      "guid": "Revenge_of_Shinobi",
+      "title": "The Revenge of Shinobi"
+    },
+    {
+      "guid": "Thunder_Force_II",
+      "title": "Thunder Force II"
+    },
+    {
+      "guid": "Thunder_Force_III",
+      "title": "Thunder Force III"
+    },
+    {
+      "guid": "Thunder_Force_IV",
+      "title": "Thunder Force IV"
+    },
+    {
+      "guid": "ToeJam_Earl",
+      "title": "ToeJam & Earl"
+    },
+    {
+      "guid": "Trampoline_Terror",
+      "title": "Trampoline Terror!"
+    },
+    {
+      "guid": "True_Lies",
+      "title": "True Lies"
+    },
+    {
+      "guid": "Truxton",
+      "title": "Truxton"
+    },
+    {
+      "guid": "Turrican",
+      "title": "Turrican"
+    },
+    {
+      "guid": "Vectorman",
+      "title": "Vectorman"
+    },
+    {
+      "guid": "Vectorman_2",
+      "title": "Vectorman 2"
+    },
+    {
+      "guid": "Whip_Rush",
+      "title": "Whip Rush"
+    },
+    {
+      "guid": "X-Men(Genesis)",
+      "title": "X-Men"
+    },
+    {
+      "guid": "X-Men_2",
+      "title": "X-Men 2: Clone Wars"
+    },
+    {
+      "guid": "Zero_Wing",
+      "title": "Zero Wing"
+    }
+  ],
+  "guid": "Genesis"
+}

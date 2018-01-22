@@ -1,0 +1,73 @@
+{
+  "games": [
+    {
+      "guid": "Blazing_Lazers",
+      "title": "Blazing Lazers"
+    },
+    {
+      "guid": "Bloody_Wolf",
+      "title": "Bloody Wolf"
+    },
+    {
+      "guid": "Bonks_Adventure",
+      "title": "Bonk's Adventure"
+    },
+    {
+      "guid": "Devils_Crush",
+      "title": "Devil's Crush"
+    },
+    {
+      "guid": "Dragon_Spirit",
+      "title": "Dragon Spirit"
+    },
+    {
+      "guid": "Keith_Courage_in_Alpha_Zones",
+      "title": "Keith Courage in Alpha Zones"
+    },
+    {
+      "guid": "Magical_Chase",
+      "title": "Magical Chase"
+    },
+    {
+      "guid": "Military_Madness",
+      "title": "Military Madness"
+    },
+    {
+      "guid": "Neutopia",
+      "title": "Neutopia"
+    },
+    {
+      "guid": "Ninja_Spirit",
+      "title": "Ninja Spirit"
+    },
+    {
+      "guid": "R-Type",
+      "title": "R-Type"
+    },
+    {
+      "guid": "Silent_Debuggers",
+      "title": "Silent Debuggers"
+    },
+    {
+      "guid": "Splatterhouse",
+      "title": "Splatterhouse"
+    },
+    {
+      "guid": "Tatsujin",
+      "title": "Tatsujin"
+    },
+    {
+      "guid": "The_Legendary_Axe",
+      "title": "The Legendary Axe"
+    },
+    {
+      "guid": "Legendary_Axe_II",
+      "title": "The Legendary Axe II"
+    },
+    {
+      "guid": "Victory_Run",
+      "title": "Victory Run"
+    }
+  ],
+  "guid": "TG16"
+}

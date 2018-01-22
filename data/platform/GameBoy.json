@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "guid": "Pokemon_Blue",
+      "title": "Pokémon Blue"
+    },
+    {
+      "guid": "Pokemon_Red",
+      "title": "Pokémon Red"
+    },
+    {
+      "guid": "Super_Mario_Land",
+      "title": "Super Mario Land"
+    },
+    {
+      "guid": "Super_Mario_Land_2",
+      "title": "Super Mario Land 2"
+    },
+    {
+      "guid": "Tetris_(GameBoy)",
+      "title": "Tetris"
+    }
+  ],
+  "guid": "GameBoy"
+}

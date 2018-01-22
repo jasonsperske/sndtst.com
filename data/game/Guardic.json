@@ -1,0 +1,66 @@
+{
+  "composed_by": [
+  ],
+  "guid": "Guardic",
+  "id": "292",
+  "platform": "MSX",
+  "playlist": [
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fef",
+      "title": "Title"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fee",
+      "title": "Guardic Battle"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fed",
+      "title": "Sound Test 05"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fec",
+      "title": "It's Your Choice"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7feb",
+      "title": "Sound Test 0E"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fea",
+      "title": "Sound Test 10"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fe9",
+      "title": "Extra's Recieved"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fe8",
+      "title": "Guardian"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fe7",
+      "title": "High Score"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fe6",
+      "title": "Sound Test 14"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fe5",
+      "title": "Sound Test 15"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fe4",
+      "title": "Randar Theme"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fe3",
+      "title": "Sound Test 17"
+    },
+    {
+      "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fe2",
+      "title": "Game Over"
+    }
+  ],
+  "title": "Guardic"
+}

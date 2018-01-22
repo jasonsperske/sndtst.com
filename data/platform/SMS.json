@@ -1,0 +1,29 @@
+{
+  "games": [
+    {
+      "guid": "Alex_Kidd_in_Miracle_World",
+      "title": "Alex Kidd in Miracle World"
+    },
+    {
+      "guid": "Legend_of_Kage",
+      "title": "Legend of Kage"
+    },
+    {
+      "guid": "Phantasy_Star",
+      "title": "Phantasy Star"
+    },
+    {
+      "guid": "Power_Strike",
+      "title": "Power Strike"
+    },
+    {
+      "guid": "Sonic_The_Hedgehog(SMS)",
+      "title": "Sonic The Hedgehog"
+    },
+    {
+      "guid": "Wonder_Boy",
+      "title": "Wonder Boy"
+    }
+  ],
+  "guid": "SMS"
+}

@@ -1,0 +1,81 @@
+{
+  "games": [
+    {
+      "guid": "After_Burner",
+      "title": "After Burner"
+    },
+    {
+      "guid": "Battle_Garegga",
+      "title": "Battle Garegga"
+    },
+    {
+      "guid": "Cadillacs_and_Dinosaurs",
+      "title": "Cadillacs & Dinosaurs"
+    },
+    {
+      "guid": "Crude_Buster",
+      "title": "Crude Buster"
+    },
+    {
+      "guid": "Dragon_Saber",
+      "title": "Dragon Saber-After Story of Dragon Spirit"
+    },
+    {
+      "guid": "Fatal_Fury_Special",
+      "title": "Fatal Fury Special"
+    },
+    {
+      "guid": "Metal_Slug",
+      "title": "Metal Slug"
+    },
+    {
+      "guid": "Mortal_Kombat_(Arcade)",
+      "title": "Mortal Kombat"
+    },
+    {
+      "guid": "Out_Zone",
+      "title": "Out Zone"
+    },
+    {
+      "guid": "Salamander",
+      "title": "Salamander"
+    },
+    {
+      "guid": "Snow_Bros",
+      "title": "Snow Bros."
+    },
+    {
+      "guid": "Street_Fighter_Alpha_2",
+      "title": "Street Fighter Alpha 2"
+    },
+    {
+      "guid": "Super_Street_Fighter_II",
+      "title": "Super Street Fighter II:The New Challengers"
+    },
+    {
+      "guid": "TMNT_Arcade",
+      "title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "guid": "TMNT_Turtles_In_Time_Arcade",
+      "title": "Teenage Mutant Ninja Turtles: Turtles In Time"
+    },
+    {
+      "guid": "Terra_Force",
+      "title": "Terra Force"
+    },
+    {
+      "guid": "Violent_Storm",
+      "title": "Violent Storm"
+    },
+    {
+      "guid": "World_Heroes_2",
+      "title": "World Heroes 2"
+    },
+    {
+      "guid": "X-Men",
+      "title": "X-Men"
+    }
+  ],
+  "guid": "Arcade"
+}

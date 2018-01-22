@@ -1,0 +1,77 @@
+{
+  "games": [
+    {
+      "guid": "Civilization-Call_To_Power",
+      "title": "Civilization: Call To Power"
+    },
+    {
+      "guid": "Continuum",
+      "title": "Continuum"
+    },
+    {
+      "guid": "Diablo",
+      "title": "Diablo"
+    },
+    {
+      "guid": "Doom",
+      "title": "Doom"
+    },
+    {
+      "guid": "DOOM_II",
+      "title": "Doom II: Hell on Earth"
+    },
+    {
+      "guid": "Duke_Nukem_3D",
+      "title": "Duke Nukem 3D"
+    },
+    {
+      "guid": "Dune_II",
+      "title": "Dune II: The Building of a Dynasty"
+    },
+    {
+      "guid": "Prince_of_Persia",
+      "title": "Prince of Persia"
+    },
+    {
+      "guid": "Quest_for_Glory_1",
+      "title": "Quest for Glory 1"
+    },
+    {
+      "guid": "Rise_of_the_Triad",
+      "title": "Rise of the Triad"
+    },
+    {
+      "guid": "Sim_City_2000",
+      "title": "Sim City 2000"
+    },
+    {
+      "guid": "The_Legend_of_Kyrandia_1",
+      "title": "The Legend of Kyrandia (book 1)"
+    },
+    {
+      "guid": "Wacky_Wheels",
+      "title": "Wacky Wheels"
+    },
+    {
+      "guid": "Ween-The_Prophecy",
+      "title": "Ween - The Prophecy"
+    },
+    {
+      "guid": "Windows_95",
+      "title": "Windows 95"
+    },
+    {
+      "guid": "WFW_311",
+      "title": "Windows for Workgroups 3.11"
+    },
+    {
+      "guid": "Windows_XP",
+      "title": "Windows XP"
+    },
+    {
+      "guid": "Wolf3D",
+      "title": "Wolfenstein 3D"
+    }
+  ],
+  "guid": "PC"
+}
