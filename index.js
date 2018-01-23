@@ -4,11 +4,16 @@ const path = require('path')
 const ejs = require('ejs')
 const express = require('express')
 const app = express()
+const forceDomain = require('forcedomain')
 
 ejs.delimiter = ':'
 app.set('view engine', 'html')
 app.engine('html', ejs.renderFile)
 app.locals.layout = 'layout'
+
+if (settings.get('forceDomain')) {
+  app.use(forceDomain(settings.get('forceDomain')))
+}
 
 app.use('/static', express.static('static'))
 app.use(require('express-ejs-layouts'))
