@@ -26,6 +26,12 @@
         $('.jp-playing-track').removeClass('jp-playing-track')
         currentTrack.addClass('jp-playing-track')
         $('.jp-title').html(currentTrack.data('title'))
+      }).on($.jPlayer.event.ended, function () {
+        var next = $('li.jp-playing-track').next()
+        $(this).removeData('current-track')
+        if (typeof next !== 'undefined') {
+          window.SNDTST.play(next.data('song'))
+        }
       })
     },
     play: function (track) {
