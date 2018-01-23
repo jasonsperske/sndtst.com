@@ -1,1 +1,63 @@
-{"guid": "Actraiser", "platform": "SNES", "title": "ActRaiser", "composed_by": ["Yuzo Koshiro"], "playlist": [{"title": "Opening", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7fff"}, {"title": "Sky Palace", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ8000"}, {"title": "Descent", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffe"}, {"title": "Filmoa", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffb"}, {"title": "The Beast Appears", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffd"}, {"title": "Round Clear", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffc"}, {"title": "Blood Pool ~ Casandora", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffa"}, {"title": "Aitos ~ Temple", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff9"}, {"title": "Powerful Enemy", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff8"}, {"title": "North Wall", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff7"}, {"title": "Satan", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff5"}, {"title": "Silence", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff6"}, {"title": "Sacrifices", "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff4"}], "id": "4"}
+{
+  "composed_by": [
+    "Yuzo Koshiro"
+  ],
+  "guid": "Actraiser",
+  "id": "4",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7fff",
+      "title": "Opening"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ8000",
+      "title": "Sky Palace"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffe",
+      "title": "Descent"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffb",
+      "title": "Filmoa"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffd",
+      "title": "The Beast Appears"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffc",
+      "title": "Round Clear"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ffa",
+      "title": "Blood Pool ~ Casandora"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff9",
+      "title": "Aitos ~ Temple"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff8",
+      "title": "Powerful Enemy"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff7",
+      "title": "North Wall"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff5",
+      "title": "Satan"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff6",
+      "title": "Silence"
+    },
+    {
+      "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7ff4",
+      "title": "Sacrifices"
+    }
+  ],
+  "title": "ActRaiser"
+}

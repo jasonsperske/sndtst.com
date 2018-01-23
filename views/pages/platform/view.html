@@ -1,0 +1,15 @@
+<div class="jumbotron">
+  <p>A sound test for as many <:=platform.title:> games as I can find.</p>
+</div>
+<div class="row">
+	<div class="col-md-9">
+		<h2>Games</h2>
+		<ul>
+    <: platform.games.forEach((game) => { :>
+      <li><a href="/<:=game.guid:>"><:=game.title:></a></li>
+    <: }) :>
+    </ul>
+	</div>
+	<div class="col-md-3">
+	</div>
+</div>

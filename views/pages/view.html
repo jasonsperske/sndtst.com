@@ -1,0 +1,50 @@
+<style type="text/css">
+  html, body {
+    background-image: url(https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/title);
+  }
+  #Playlist {
+    margin-left: 10px;
+  }
+</style>
+<div class="row">
+	<div class="col-12">
+		<h1><:=game.title:></h1>
+  </div>
+</div>
+<div class="row">
+	<div class="col-md-9">
+    <button id="ActionPlay" class="btn btn-info" disabled="disabled">Play All Songs</button>
+		<h2>Songs</h2>
+		<ol id="Playlist">
+    <: game.playlist.forEach((track) => { :>
+      <li data-song='<:=track.guid:>' data-title='<:=track.title:>'><:=track.title:></li>
+    <: }) :>
+    </ol>
+	</div>
+	<div class="col-md-3">
+    <h3>Composed By</h3>
+    <: if(game.composed_by.length > 0) { :>
+      <: game.composed_by.forEach((composer) => { :>
+        <p><:=composer:></p>
+      <: }) :>
+    <: } else { :>
+      <p>???</p>
+    <: } :>
+    <h3>Tell others that you like this</h3>
+    <p>
+      <a href="https://twitter.com/intent/tweet?url=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>&amp;text=<:=encodeURIComponent('Listening to "'+game.title+'" @SND_TST'):>" target="_blank" class="btn btn-success btn-sm"><i class="fa fa-twitter"></i> Twitter</a>
+    </p>
+    <p>
+      <a href="https://www.facebook.com/dialog/share?app_id=1468367333395700&amp;display=popup&amp;href=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>&amp;redirect_uri=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>" target="_blank" class="btn btn-info btn-sm"><i class="fa fa-facebook-square"></i> Facebook</a>
+    </p>
+	</div>
+</div>
+<script>
+  $(function () {
+    SNDTST.init('#Playlist', 'https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/song/', function () {
+      $('#ActionPlay').on('click', function () {
+        SNDTST.play()
+      }).prop('disabled', false)
+    })
+  })
+</script>
