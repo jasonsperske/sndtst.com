@@ -1,0 +1,1548 @@
+{
+  "games": [
+    {
+      "guid": "Actraiser",
+      "title": "ActRaiser"
+    },
+    {
+      "guid": "Adventures_of_Batman_and_Robin",
+      "title": "The Adventures of Batman & Robin"
+    },
+    {
+      "guid": "Adventure_Island",
+      "title": "Adventure Island"
+    },
+    {
+      "guid": "Aero_Fighters",
+      "title": "Aero Fighters"
+    },
+    {
+      "guid": "After_Burner",
+      "title": "After Burner"
+    },
+    {
+      "guid": "Akumajou_Densetsu",
+      "title": "Akumajou Densetsu"
+    },
+    {
+      "guid": "Aladdin_(Genesis)",
+      "title": "Aladdin"
+    },
+    {
+      "guid": "Alex_Kidd_in_Miracle_World",
+      "title": "Alex Kidd in Miracle World"
+    },
+    {
+      "guid": "Alien_Soldier",
+      "title": "Alien Soldier"
+    },
+    {
+      "guid": "Altered_Beast",
+      "title": "Altered Beast"
+    },
+    {
+      "guid": "Animal_Crossing-Cherry",
+      "title": "Animal Crossing: Hourly Music (Cherry)"
+    },
+    {
+      "guid": "Animal_Crossing-Default",
+      "title": "Animal Crossing: Hourly Music (default)"
+    },
+    {
+      "guid": "Animal_Crossing-Winter",
+      "title": "Animal Crossing: Hourly Music (Winter)"
+    },
+    {
+      "guid": "Antarctic_Adventure",
+      "title": "Antarctic Adventure"
+    },
+    {
+      "guid": "Arcana",
+      "title": "Arcana"
+    },
+    {
+      "guid": "Arnold_Palmer_Tournament_Golf",
+      "title": "Arnold Palmer Tournament Golf"
+    },
+    {
+      "guid": "Axelay",
+      "title": "Axelay"
+    },
+    {
+      "guid": "Bad_News_Baseball",
+      "title": "Bad News Baseball"
+    },
+    {
+      "guid": "Balloon_Fight",
+      "title": "Balloon Fight"
+    },
+    {
+      "guid": "Banjo-Kazooie",
+      "title": "Banjo-Kazooie"
+    },
+    {
+      "guid": "Batman-Return_of_the_Joker",
+      "title": "Batman: Return of the Joker"
+    },
+    {
+      "guid": "Batman",
+      "title": "Batman"
+    },
+    {
+      "guid": "Batman_Returns",
+      "title": "Batman Returns"
+    },
+    {
+      "guid": "Batman_Returns_(SNES)",
+      "title": "Batman Returns"
+    },
+    {
+      "guid": "Battle-of-Olympus",
+      "title": "Battle of Olympus"
+    },
+    {
+      "guid": "Battletoads",
+      "title": "Battletoads"
+    },
+    {
+      "guid": "Battletoads_(Genesis)",
+      "title": "Battletoads"
+    },
+    {
+      "guid": "Battletoads_and_Double_Dragon",
+      "title": "Battletoads & Double Dragon-The Ultimate Team"
+    },
+    {
+      "guid": "Battletoads_in_Battlemaniacs",
+      "title": "Battletoads in Battlemaniacs"
+    },
+    {
+      "guid": "Battle_Garegga",
+      "title": "Battle Garegga"
+    },
+    {
+      "guid": "Biker_Mice_from_Mars",
+      "title": "Biker Mice from Mars"
+    },
+    {
+      "guid": "Bionic_Commando",
+      "title": "Bionic Commando"
+    },
+    {
+      "guid": "Blades_of_Steel",
+      "title": "Blades of Steel"
+    },
+    {
+      "guid": "Blaster_Master",
+      "title": "Blaster Master"
+    },
+    {
+      "guid": "Blazing_Lazers",
+      "title": "Blazing Lazers"
+    },
+    {
+      "guid": "Bloody_Wolf",
+      "title": "Bloody Wolf"
+    },
+    {
+      "guid": "Bomberman_Hero",
+      "title": "Bomberman Hero"
+    },
+    {
+      "guid": "Bonks_Adventure",
+      "title": "Bonk's Adventure"
+    },
+    {
+      "guid": "Breath_of_Fire",
+      "title": "Breath of Fire"
+    },
+    {
+      "guid": "Breath_of_Fire_II",
+      "title": "Breath of Fire II"
+    },
+    {
+      "guid": "Bubble_Bobble",
+      "title": "Bubble Bobble"
+    },
+    {
+      "guid": "Cadillacs_and_Dinosaurs",
+      "title": "Cadillacs & Dinosaurs"
+    },
+    {
+      "guid": "Captain_Tsubasa_Vol_II",
+      "title": "Captain Tsubasa Vol. II: Super Striker"
+    },
+    {
+      "guid": "Castlevania-Bloodlines",
+      "title": "Castlevania - Bloodlines"
+    },
+    {
+      "guid": "Castlevania",
+      "title": "Castlevania"
+    },
+    {
+      "guid": "Castlevania_II",
+      "title": "Castlevania II: Simon's Quest"
+    },
+    {
+      "guid": "Castlevania_III",
+      "title": "Castlevania III:Dracula's Curse"
+    },
+    {
+      "guid": "Chakan",
+      "title": "Chakan - The Forever Man"
+    },
+    {
+      "guid": "Chip_and_Dale_Rescue_Rangers",
+      "title": "Chip and Dale Rescue Rangers"
+    },
+    {
+      "guid": "Chrono_Trigger",
+      "title": "Chrono Trigger"
+    },
+    {
+      "guid": "Chuck_Rock",
+      "title": "Chuck Rock"
+    },
+    {
+      "guid": "Chuck_Rock_II",
+      "title": "Chuck Rock II: Son of Chuck"
+    },
+    {
+      "guid": "Circus_Charlie",
+      "title": "Circus Charlie"
+    },
+    {
+      "guid": "Civilization-Call_To_Power",
+      "title": "Civilization: Call To Power"
+    },
+    {
+      "guid": "Columns",
+      "title": "Columns"
+    },
+    {
+      "guid": "Comix_Zone",
+      "title": "Comix Zone"
+    },
+    {
+      "guid": "Continuum",
+      "title": "Continuum"
+    },
+    {
+      "guid": "Contra-Hard_Corps",
+      "title": "Contra: Hard Corps"
+    },
+    {
+      "guid": "Contra",
+      "title": "Contra"
+    },
+    {
+      "guid": "Contra_III",
+      "title": "Contra III: The Alien Wars"
+    },
+    {
+      "guid": "Cool_Spot",
+      "title": "Cool Spot"
+    },
+    {
+      "guid": "Crude_Buster",
+      "title": "Crude Buster"
+    },
+    {
+      "guid": "Cruis_n_World",
+      "title": "Cruis'n World"
+    },
+    {
+      "guid": "Crusader_of_Centy",
+      "title": "Crusader of Centy"
+    },
+    {
+      "guid": "Dashin_Desperadoes",
+      "title": "Dashin' Desperadoes"
+    },
+    {
+      "guid": "Demons_Crest",
+      "title": "Demon's Crest"
+    },
+    {
+      "guid": "Desert_Strike",
+      "title": "Desert Strike"
+    },
+    {
+      "guid": "Devils_Crush",
+      "title": "Devil's Crush"
+    },
+    {
+      "guid": "Diablo",
+      "title": "Diablo"
+    },
+    {
+      "guid": "Diddy_Kong_Racing",
+      "title": "Diddy Kong Racing"
+    },
+    {
+      "guid": "Donkey_Kong",
+      "title": "Donkey Kong"
+    },
+    {
+      "guid": "Donkey_Kong_64",
+      "title": "Donkey Kong 64"
+    },
+    {
+      "guid": "Donkey_Kong_Country",
+      "title": "Donkey Kong Country"
+    },
+    {
+      "guid": "Donkey_Kong_Country_2",
+      "title": "Donkey Kong Country 2"
+    },
+    {
+      "guid": "Donkey_Kong_Country_3",
+      "title": "Donkey Kong Country 3"
+    },
+    {
+      "guid": "Doom",
+      "title": "Doom"
+    },
+    {
+      "guid": "DOOM_II",
+      "title": "Doom II: Hell on Earth"
+    },
+    {
+      "guid": "Double_Dragon",
+      "title": "Double Dragon"
+    },
+    {
+      "guid": "Double_Dragon_II",
+      "title": "Double Dragon II: The Revenge"
+    },
+    {
+      "guid": "Double_Dragon_III",
+      "title": "Double Dragon III: The Sacred Stones"
+    },
+    {
+      "guid": "Dragon_Ball_Z-Super_Butouden",
+      "title": "Dragon Ball Z: Super Butouden"
+    },
+    {
+      "guid": "Dragon_Ball_Z-Super_Butouden_2",
+      "title": "Dragon Ball Z: Super Butouden 2"
+    },
+    {
+      "guid": "Dragon_Ball_Z-Super_Butouden_3",
+      "title": "Dragon Ball Z: Super Butouden 3"
+    },
+    {
+      "guid": "Dragon_Saber",
+      "title": "Dragon Saber-After Story of Dragon Spirit"
+    },
+    {
+      "guid": "Dragon_Spirit",
+      "title": "Dragon Spirit"
+    },
+    {
+      "guid": "Dragon_Spirit_(NES)",
+      "title": "Dragon Spirit: The New Legend"
+    },
+    {
+      "guid": "Dragon_Warrior",
+      "title": "Dragon Warrior"
+    },
+    {
+      "guid": "Dr_Mario_64",
+      "title": "Dr. Mario 64"
+    },
+    {
+      "guid": "Dr_Robotniks_Mean_Bean_Machine",
+      "title": "Dr. Robotnik's Mean Bean Machine"
+    },
+    {
+      "guid": "Duck_Hunt",
+      "title": "Duck Hunt"
+    },
+    {
+      "guid": "Duck_Tales",
+      "title": "Duck Tales"
+    },
+    {
+      "guid": "Duke_Nukem_3D",
+      "title": "Duke Nukem 3D"
+    },
+    {
+      "guid": "Dune_II",
+      "title": "Dune II: The Building of a Dynasty"
+    },
+    {
+      "guid": "EarthBound",
+      "title": "EarthBound"
+    },
+    {
+      "guid": "Earthworm_Jim_(Genesis)",
+      "title": "Earthworm Jim"
+    },
+    {
+      "guid": "Earthworm_Jim_(SNES)",
+      "title": "Earthworm Jim"
+    },
+    {
+      "guid": "Earthworm_Jim_2_(Genesis)",
+      "title": "Earthworm Jim 2"
+    },
+    {
+      "guid": "Earthworm_Jim_2_(SNES)",
+      "title": "Earthworm Jim 2"
+    },
+    {
+      "guid": "Ecco-Tides_of_Time",
+      "title": "Ecco: Tides of Time"
+    },
+    {
+      "guid": "Ecco_the_Dolphin",
+      "title": "Ecco the Dolphin"
+    },
+    {
+      "guid": "Elemental_Master",
+      "title": "Elemental Master"
+    },
+    {
+      "guid": "El_Viento",
+      "title": "El Viento"
+    },
+    {
+      "guid": "ESWAT_City_Under_Siege",
+      "title": "ESWAT: City Under Siege"
+    },
+    {
+      "guid": "Excitebike",
+      "title": "Excitebike"
+    },
+    {
+      "guid": "Excitebike_64",
+      "title": "Excitebike 64"
+    },
+    {
+      "guid": "F-Zero",
+      "title": "F-Zero"
+    },
+    {
+      "guid": "F-Zero_X",
+      "title": "F-Zero X"
+    },
+    {
+      "guid": "Fatal_Fury",
+      "title": "Fatal Fury"
+    },
+    {
+      "guid": "Fatal_Fury_Special",
+      "title": "Fatal Fury Special"
+    },
+    {
+      "guid": "Faxanadu",
+      "title": "Faxanadu"
+    },
+    {
+      "guid": "FIFA_Soccer_95",
+      "title": "FIFA Soccer '95"
+    },
+    {
+      "guid": "Final_Fantasy-Mystic_Quest",
+      "title": "Final Fantasy - Mystic Quest"
+    },
+    {
+      "guid": "Final_Fantasy_III",
+      "title": "Final Fantasy III"
+    },
+    {
+      "guid": "Final_Fantasy_IV",
+      "title": "Final Fantasy IV"
+    },
+    {
+      "guid": "Final_Fantasy_V",
+      "title": "Final Fantasy V"
+    },
+    {
+      "guid": "Final_Fantasy_VI",
+      "title": "Final Fantasy VI"
+    },
+    {
+      "guid": "Final_Fight",
+      "title": "Final Fight"
+    },
+    {
+      "guid": "Fire_Emblem_MotE",
+      "title": "Fire Emblem: Mystery of the Emblem"
+    },
+    {
+      "guid": "Fire_Shark",
+      "title": "Fire Shark"
+    },
+    {
+      "guid": "Forgotten_Worlds",
+      "title": "Forgotten Worlds"
+    },
+    {
+      "guid": "Galaxy_Force_II",
+      "title": "Galaxy Force II"
+    },
+    {
+      "guid": "Gauntlet",
+      "title": "Gauntlet"
+    },
+    {
+      "guid": "Gauntlet_IV",
+      "title": "Gauntlet IV"
+    },
+    {
+      "guid": "Ghostbusters",
+      "title": "Ghostbusters"
+    },
+    {
+      "guid": "Ghosts_N_Goblins",
+      "title": "Ghosts 'N Goblins"
+    },
+    {
+      "guid": "Ghouls_n_Ghosts",
+      "title": "Ghouls 'n Ghosts"
+    },
+    {
+      "guid": "Gimmick",
+      "title": "Gimmick!"
+    },
+    {
+      "guid": "GI_Joe-The_Atlantis_Factor",
+      "title": "G.I. Joe: The Atlantis Factor"
+    },
+    {
+      "guid": "GI_Joe",
+      "title": "G.I. Joe: A Real American Hero"
+    },
+    {
+      "guid": "GoldenEye_007",
+      "title": "GoldenEye 007"
+    },
+    {
+      "guid": "Golden_Axe",
+      "title": "Golden Axe"
+    },
+    {
+      "guid": "Gradius",
+      "title": "Gradius"
+    },
+    {
+      "guid": "Gradius_II",
+      "title": "Gradius II"
+    },
+    {
+      "guid": "Gradius_III",
+      "title": "Gradius III"
+    },
+    {
+      "guid": "Guardic",
+      "title": "Guardic"
+    },
+    {
+      "guid": "Gunstar_Heroes",
+      "title": "Gunstar Heroes"
+    },
+    {
+      "guid": "Gun_Smoke",
+      "title": "Gun Smoke"
+    },
+    {
+      "guid": "Herzog_Zwei",
+      "title": "Herzog Zwei"
+    },
+    {
+      "guid": "HyperZone",
+      "title": "HyperZone"
+    },
+    {
+      "guid": "Illusion-of-Gaia",
+      "title": "Illusion of Gaia"
+    },
+    {
+      "guid": "International_Superstar_Soccer",
+      "title": "International Superstar Soccer"
+    },
+    {
+      "guid": "Ironsword-Wizards_Warriors_II",
+      "title": "Ironsword: Wizards & Warriors II"
+    },
+    {
+      "guid": "Itadaki_Street_2",
+      "title": "Itadaki Street 2: Neon Sign wa Bara Iro ni"
+    },
+    {
+      "guid": "Jackal",
+      "title": "Jackal"
+    },
+    {
+      "guid": "Jackie_Chan_s_Action_Kung_Fu",
+      "title": "Jackie Chan's Action Kung Fu"
+    },
+    {
+      "guid": "James_Bond_Jr",
+      "title": "James Bond Jr."
+    },
+    {
+      "guid": "Jaws",
+      "title": "Jaws"
+    },
+    {
+      "guid": "Journey_to_Silius",
+      "title": "Journey to Silius"
+    },
+    {
+      "guid": "Jungle_Strike",
+      "title": "Jungle Strike"
+    },
+    {
+      "guid": "Jurassic_Park_(Genesis)",
+      "title": "Jurassic Park"
+    },
+    {
+      "guid": "Jurassic_Park_(SNES)",
+      "title": "Jurassic Park"
+    },
+    {
+      "guid": "Karnov",
+      "title": "Karnov"
+    },
+    {
+      "guid": "Keith_Courage_in_Alpha_Zones",
+      "title": "Keith Courage in Alpha Zones"
+    },
+    {
+      "guid": "Killer_Instinct",
+      "title": "Killer Instinct"
+    },
+    {
+      "guid": "Kirbys_Adventure",
+      "title": "Kirby's Adventure"
+    },
+    {
+      "guid": "Kirby_Super_Star",
+      "title": "Kirby Super Star"
+    },
+    {
+      "guid": "Landstalker",
+      "title": "Landstalker - The Treasures of King Nole"
+    },
+    {
+      "guid": "Legendary_Axe_II",
+      "title": "The Legendary Axe II"
+    },
+    {
+      "guid": "Legendary_Wings",
+      "title": "Legendary Wings"
+    },
+    {
+      "guid": "Legend_of_Kage",
+      "title": "Legend of Kage"
+    },
+    {
+      "guid": "Legend_of_Zelda-Majoras_Mask",
+      "title": "The Legend of Zelda: Majora's Mask"
+    },
+    {
+      "guid": "Legend_of_Zelda",
+      "title": "The Legend of Zelda"
+    },
+    {
+      "guid": "Lemmings",
+      "title": "Lemmings"
+    },
+    {
+      "guid": "Life_Force",
+      "title": "Life Force"
+    },
+    {
+      "guid": "Little_Samson",
+      "title": "Little Samson"
+    },
+    {
+      "guid": "Lotus_II-RECS",
+      "title": "Lotus II - R.E.C.S."
+    },
+    {
+      "guid": "Lotus_Turbo_Challenge",
+      "title": "Lotus Turbo Challenge"
+    },
+    {
+      "guid": "Lufia",
+      "title": "Lufia & The Fortress of Doom"
+    },
+    {
+      "guid": "Lufia_II",
+      "title": "Lufia II - Rise of the Sinistrals"
+    },
+    {
+      "guid": "Magical_Chase",
+      "title": "Magical Chase"
+    },
+    {
+      "guid": "Magical_Hat_no_Buttobi_Turbo",
+      "title": "Magical Hat no Buttobi Turbo! Daibouken"
+    },
+    {
+      "guid": "Magic_Johnsons_Fast_Break",
+      "title": "Magic Johnson's Fast Break"
+    },
+    {
+      "guid": "Maniac_Mansion",
+      "title": "Maniac Mansion"
+    },
+    {
+      "guid": "Mario_Golf_64",
+      "title": "Mario Golf 64"
+    },
+    {
+      "guid": "Mario_Kart_64",
+      "title": "Mario Kart 64"
+    },
+    {
+      "guid": "Mario_Paint",
+      "title": "Mario Paint"
+    },
+    {
+      "guid": "Mario_Tennis",
+      "title": "Mario Tennis"
+    },
+    {
+      "guid": "Mega_Bomberman",
+      "title": "Mega Bomberman"
+    },
+    {
+      "guid": "Mega_Man",
+      "title": "Mega Man"
+    },
+    {
+      "guid": "Mega_Man_7",
+      "title": "Mega Man 7"
+    },
+    {
+      "guid": "Mega_Man_II",
+      "title": "Mega Man II"
+    },
+    {
+      "guid": "Mega_Man_III",
+      "title": "Mega Man III"
+    },
+    {
+      "guid": "Mega_Man_IV",
+      "title": "Mega Man IV"
+    },
+    {
+      "guid": "Mega_Man_V",
+      "title": "Mega Man V"
+    },
+    {
+      "guid": "Mega_Man_VI",
+      "title": "Mega Man VI"
+    },
+    {
+      "guid": "Mega_Man_X",
+      "title": "Mega Man X"
+    },
+    {
+      "guid": "Mega_Man_X2",
+      "title": "Mega Man X2"
+    },
+    {
+      "guid": "Mega_Man_X3",
+      "title": "Mega Man X3"
+    },
+    {
+      "guid": "Metal_Slug",
+      "title": "Metal Slug"
+    },
+    {
+      "guid": "Metroid",
+      "title": "Metroid"
+    },
+    {
+      "guid": "Metroid_Fusion",
+      "title": "Metroid Fusion"
+    },
+    {
+      "guid": "Michael_Jacksons_Moonwalker",
+      "title": "Michael Jackson's Moonwalker"
+    },
+    {
+      "guid": "Mickey_Mousecapade",
+      "title": "Mickey Mousecapade"
+    },
+    {
+      "guid": "Midnight_Resistance",
+      "title": "Midnight Resistance"
+    },
+    {
+      "guid": "Mike_Tysons_Punch-Out",
+      "title": "Mike Tyson's Punch-Out!!"
+    },
+    {
+      "guid": "Military_Madness",
+      "title": "Military Madness"
+    },
+    {
+      "guid": "Mortal_Kombat_(Arcade)",
+      "title": "Mortal Kombat"
+    },
+    {
+      "guid": "Mortal_Kombat_(Genesis)",
+      "title": "Mortal Kombat"
+    },
+    {
+      "guid": "Mortal_Kombat_(SNES)",
+      "title": "Mortal Kombat"
+    },
+    {
+      "guid": "Mortal_Kombat_2_(Genesis)",
+      "title": "Mortal Kombat 2"
+    },
+    {
+      "guid": "Mortal_Kombat_2_(SNES)",
+      "title": "Mortal Kombat 2"
+    },
+    {
+      "guid": "Mortal_Kombat_3_(Genesis)",
+      "title": "Mortal Kombat 3"
+    },
+    {
+      "guid": "Mortal_Kombat_3_(SNES)",
+      "title": "Mortal Kombat 3"
+    },
+    {
+      "guid": "Mother",
+      "title": "Mother"
+    },
+    {
+      "guid": "Mother_3",
+      "title": "Mother 3"
+    },
+    {
+      "guid": "Neutopia",
+      "title": "Neutopia"
+    },
+    {
+      "guid": "NHL_95",
+      "title": "NHL All-Star Hockey '95"
+    },
+    {
+      "guid": "Ninja_Gaiden",
+      "title": "Ninja Gaiden"
+    },
+    {
+      "guid": "Ninja_Gaiden_II",
+      "title": "Ninja Gaiden II - The Dark Sword of Chaos"
+    },
+    {
+      "guid": "Ninja_Spirit",
+      "title": "Ninja Spirit"
+    },
+    {
+      "guid": "Olympic_Summer_Games",
+      "title": "Olympic Summer Games"
+    },
+    {
+      "guid": "Out_Run",
+      "title": "Out Run"
+    },
+    {
+      "guid": "Out_Zone",
+      "title": "Out Zone"
+    },
+    {
+      "guid": "Paper_Mario",
+      "title": "Paper Mario"
+    },
+    {
+      "guid": "Phantasy_Star",
+      "title": "Phantasy Star"
+    },
+    {
+      "guid": "Phantasy_Star_II",
+      "title": "Phantasy Star II"
+    },
+    {
+      "guid": "Phantasy_Star_III",
+      "title": "Phantasy Star III"
+    },
+    {
+      "guid": "Phantasy_Star_IV",
+      "title": "Phantasy Star IV"
+    },
+    {
+      "guid": "Pilotwings",
+      "title": "Pilotwings"
+    },
+    {
+      "guid": "Plok",
+      "title": "Plok"
+    },
+    {
+      "guid": "Pokemon_Blue",
+      "title": "Pokémon Blue"
+    },
+    {
+      "guid": "Pokemon_Red",
+      "title": "Pokémon Red"
+    },
+    {
+      "guid": "Pokemon_Stadium",
+      "title": "Pokémon Stadium"
+    },
+    {
+      "guid": "Porky_Pigs_Haunted_Holiday",
+      "title": "Porky Pig's Haunted Holiday"
+    },
+    {
+      "guid": "Power_Blade",
+      "title": "Power Blade"
+    },
+    {
+      "guid": "Power_Strike",
+      "title": "Power Strike"
+    },
+    {
+      "guid": "Prince_of_Persia",
+      "title": "Prince of Persia"
+    },
+    {
+      "guid": "QuackShot",
+      "title": "QuackShot"
+    },
+    {
+      "guid": "Quest_for_Glory_1",
+      "title": "Quest for Glory 1"
+    },
+    {
+      "guid": "R-Type",
+      "title": "R-Type"
+    },
+    {
+      "guid": "Rad_Racer",
+      "title": "Rad Racer"
+    },
+    {
+      "guid": "Rambo_III",
+      "title": "Rambo III"
+    },
+    {
+      "guid": "RC_Pro-Am",
+      "title": "R.C. Pro-Am"
+    },
+    {
+      "guid": "Red_Zone",
+      "title": "Red Zone"
+    },
+    {
+      "guid": "Revenge_of_Shinobi",
+      "title": "The Revenge of Shinobi"
+    },
+    {
+      "guid": "Rise_of_the_Triad",
+      "title": "Rise of the Triad"
+    },
+    {
+      "guid": "Ristar",
+      "title": "Ristar"
+    },
+    {
+      "guid": "River_City_Ransom",
+      "title": "River City Ransom"
+    },
+    {
+      "guid": "Road_Rash",
+      "title": "Road Rash"
+    },
+    {
+      "guid": "Road_Rash_II",
+      "title": "Road Rash II"
+    },
+    {
+      "guid": "RoboCop",
+      "title": "RoboCop"
+    },
+    {
+      "guid": "RoboCop_3",
+      "title": "RoboCop 3"
+    },
+    {
+      "guid": "Rocket_Knight_Adventures",
+      "title": "Rocket Knight Adventures"
+    },
+    {
+      "guid": "Rock_n_Roll_Racing",
+      "title": "Rock n' Roll Racing"
+    },
+    {
+      "guid": "Rush_n_Attack",
+      "title": "Rush'n Attack"
+    },
+    {
+      "guid": "Rygar",
+      "title": "Rygar"
+    },
+    {
+      "guid": "Salamander",
+      "title": "Salamander"
+    },
+    {
+      "guid": "Secret_of_Evermore",
+      "title": "Secret of Evermore"
+    },
+    {
+      "guid": "Secret_of_Mana",
+      "title": "Secret of Mana"
+    },
+    {
+      "guid": "Section_Z",
+      "title": "Section Z"
+    },
+    {
+      "guid": "Sega_CD",
+      "title": "Sega CD"
+    },
+    {
+      "guid": "Shadowrun",
+      "title": "Shadowrun"
+    },
+    {
+      "guid": "Shadow_Dancer",
+      "title": "Shadow Dancer: The Secret of Shinobi"
+    },
+    {
+      "guid": "Shadow_of_the_Beast",
+      "title": "Shadow of the Beast"
+    },
+    {
+      "guid": "Shatterhand",
+      "title": "Shatterhand"
+    },
+    {
+      "guid": "Shining_In_The_Darkness",
+      "title": "Shining In The Darkness"
+    },
+    {
+      "guid": "Shinobi_III",
+      "title": "Shinobi III - Return of the Ninja Master"
+    },
+    {
+      "guid": "Silent_Debuggers",
+      "title": "Silent Debuggers"
+    },
+    {
+      "guid": "Silver_Surfer",
+      "title": "Silver Surfer"
+    },
+    {
+      "guid": "Sim_City_2000",
+      "title": "Sim City 2000"
+    },
+    {
+      "guid": "Sim_City_SNES",
+      "title": "Sim City"
+    },
+    {
+      "guid": "Snow_Bros",
+      "title": "Snow Bros."
+    },
+    {
+      "guid": "Solstice",
+      "title": "Solstice"
+    },
+    {
+      "guid": "Sonic_Advance",
+      "title": "Sonic Advance"
+    },
+    {
+      "guid": "Sonic_Advance_2",
+      "title": "Sonic Advance 2"
+    },
+    {
+      "guid": "Sonic_Advance_3",
+      "title": "Sonic Advance 3"
+    },
+    {
+      "guid": "Sonic_Spinball",
+      "title": "Sonic the Hedgehog Spinball"
+    },
+    {
+      "guid": "Sonic_The_Hedgehog",
+      "title": "Sonic The Hedgehog"
+    },
+    {
+      "guid": "Sonic_The_Hedgehog_(SMS)",
+      "title": "Sonic The Hedgehog"
+    },
+    {
+      "guid": "Sonic_The_Hedgehog_2",
+      "title": "Sonic The Hedgehog 2"
+    },
+    {
+      "guid": "Sonic_The_Hedgehog_3_Knuckles",
+      "title": "Sonic The Hedgehog 3 & Knuckles"
+    },
+    {
+      "guid": "Space_Harrier_II",
+      "title": "Space Harrier II"
+    },
+    {
+      "guid": "SpiderMan_Venom_MaximumCarnage",
+      "title": "Spider-Man & Venom-Maximum Carnage"
+    },
+    {
+      "guid": "Splatterhouse",
+      "title": "Splatterhouse"
+    },
+    {
+      "guid": "Spy_Hunter",
+      "title": "Spy Hunter"
+    },
+    {
+      "guid": "Star_Fox",
+      "title": "Star Fox"
+    },
+    {
+      "guid": "Star_Fox_64",
+      "title": "Star Fox 64"
+    },
+    {
+      "guid": "Star_Tropics",
+      "title": "Star Tropics"
+    },
+    {
+      "guid": "Streets_of_Rage",
+      "title": "Streets of Rage"
+    },
+    {
+      "guid": "Streets_of_Rage_2",
+      "title": "Streets of Rage 2"
+    },
+    {
+      "guid": "Streets_of_Rage_3",
+      "title": "Streets of Rage 3"
+    },
+    {
+      "guid": "Street_Fighter_Alpha_2",
+      "title": "Street Fighter Alpha 2"
+    },
+    {
+      "guid": "Street_Fighter_II-Champion",
+      "title": "Street Fighter II: Special Champion Edition"
+    },
+    {
+      "guid": "Street_Fighter_II",
+      "title": "Street Fighter II"
+    },
+    {
+      "guid": "Street_Fighter_II_Turbo",
+      "title": "Street Fighter II Turbo"
+    },
+    {
+      "guid": "Street_Smart",
+      "title": "Street Smart"
+    },
+    {
+      "guid": "Strider",
+      "title": "Strider"
+    },
+    {
+      "guid": "Sunset_Riders",
+      "title": "Sunset Riders"
+    },
+    {
+      "guid": "Super_Adventure_Island",
+      "title": "Super Adventure Island"
+    },
+    {
+      "guid": "Super_Bomberman",
+      "title": "Super Bomberman"
+    },
+    {
+      "guid": "Super_Bomberman_2",
+      "title": "Super Bomberman 2"
+    },
+    {
+      "guid": "Super_Bomberman_3",
+      "title": "Super Bomberman 3"
+    },
+    {
+      "guid": "Super_Bomberman_4",
+      "title": "Super Bomberman 4"
+    },
+    {
+      "guid": "Super_Bomberman_5",
+      "title": "Super Bomberman 5"
+    },
+    {
+      "guid": "Super_Castlevania_IV",
+      "title": "Super Castlevania IV"
+    },
+    {
+      "guid": "Super_Conflict",
+      "title": "Super Conflict: The Mideast"
+    },
+    {
+      "guid": "Super_Contra",
+      "title": "Super Contra"
+    },
+    {
+      "guid": "Super_Dodge_Ball",
+      "title": "Super Dodge Ball"
+    },
+    {
+      "guid": "Super_Double_Dragon",
+      "title": "Super Double Dragon"
+    },
+    {
+      "guid": "Super_Ghouls_n_Ghosts",
+      "title": "Super Ghouls 'n Ghosts"
+    },
+    {
+      "guid": "Super_Hang-On",
+      "title": "Super Hang-On"
+    },
+    {
+      "guid": "Super_Mario_64",
+      "title": "Super Mario 64"
+    },
+    {
+      "guid": "Super_Mario_All-Stars",
+      "title": "Super Mario All-Stars"
+    },
+    {
+      "guid": "Super_Mario_Bros",
+      "title": "Super Mario Bros."
+    },
+    {
+      "guid": "Super_Mario_Bros_2",
+      "title": "Super Mario Bros. 2"
+    },
+    {
+      "guid": "Super_Mario_Bros_3",
+      "title": "Super Mario Bros. 3"
+    },
+    {
+      "guid": "Super_Mario_Kart",
+      "title": "Super Mario Kart"
+    },
+    {
+      "guid": "Super_Mario_Land",
+      "title": "Super Mario Land"
+    },
+    {
+      "guid": "Super_Mario_Land_2",
+      "title": "Super Mario Land 2"
+    },
+    {
+      "guid": "Super_Mario_RPG",
+      "title": "Super Mario RPG: Legend of the Seven Stars"
+    },
+    {
+      "guid": "Super_Mario_World",
+      "title": "Super Mario World"
+    },
+    {
+      "guid": "Super_Mario_World_2",
+      "title": "Super Mario World 2 - Yoshi's Island"
+    },
+    {
+      "guid": "Super_Metroid",
+      "title": "Super Metroid"
+    },
+    {
+      "guid": "Super_Monaco_GP",
+      "title": "Super Monaco GP"
+    },
+    {
+      "guid": "Super_Off_Road",
+      "title": "Super Off Road"
+    },
+    {
+      "guid": "Super_Punch-Out",
+      "title": "Super Punch-Out!!"
+    },
+    {
+      "guid": "Super_R-Type",
+      "title": "Super R-Type"
+    },
+    {
+      "guid": "Super_Star_Wars",
+      "title": "Super Star Wars"
+    },
+    {
+      "guid": "Super_Street_Fighter_II",
+      "title": "Super Street Fighter II:The New Challengers"
+    },
+    {
+      "guid": "Sword_Of_Vermilion",
+      "title": "Sword Of Vermilion"
+    },
+    {
+      "guid": "Target_Earth",
+      "title": "Target Earth"
+    },
+    {
+      "guid": "Tatsujin",
+      "title": "Tatsujin"
+    },
+    {
+      "guid": "Tecmo_Bowl",
+      "title": "Tecmo Bowl"
+    },
+    {
+      "guid": "Tecmo_World_Cup_Soccer",
+      "title": "Tecmo World Cup Soccer"
+    },
+    {
+      "guid": "Teenage_Mutant_Ninja_Turtles",
+      "title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "guid": "Terranigma",
+      "title": "Terranigma"
+    },
+    {
+      "guid": "Terra_Force",
+      "title": "Terra Force"
+    },
+    {
+      "guid": "Tetris",
+      "title": "Tetris"
+    },
+    {
+      "guid": "Tetrisphere",
+      "title": "Tetrisphere"
+    },
+    {
+      "guid": "Tetris_(GameBoy)",
+      "title": "Tetris"
+    },
+    {
+      "guid": "The_Adventures_of_Bayou_Billy",
+      "title": "The Adventures of Bayou Billy"
+    },
+    {
+      "guid": "The_Goonies_II",
+      "title": "The Goonies II"
+    },
+    {
+      "guid": "The_Guardian_Legend",
+      "title": "The Guardian Legend"
+    },
+    {
+      "guid": "The_Legendary_Axe",
+      "title": "The Legendary Axe"
+    },
+    {
+      "guid": "The_Legend_of_Kyrandia_1",
+      "title": "The Legend of Kyrandia (book 1)"
+    },
+    {
+      "guid": "The_Ninja_Warriors",
+      "title": "The Ninja Warriors"
+    },
+    {
+      "guid": "The_Tick",
+      "title": "The Tick"
+    },
+    {
+      "guid": "Thunder_Force_II",
+      "title": "Thunder Force II"
+    },
+    {
+      "guid": "Thunder_Force_III",
+      "title": "Thunder Force III"
+    },
+    {
+      "guid": "Thunder_Force_IV",
+      "title": "Thunder Force IV"
+    },
+    {
+      "guid": "TMNT2_The_Arcade_Game",
+      "title": "Teenage Mutant Ninja Turtles 2: The Arcade Game"
+    },
+    {
+      "guid": "TMNT3_The_Manhattan_Project",
+      "title": "Teenage Mutant Ninja Turtles 3: The Manhattan Project"
+    },
+    {
+      "guid": "TMNT4_Turtles_In_Time",
+      "title": "Teenage Mutant Ninja Turtles IV: Turtles in Time"
+    },
+    {
+      "guid": "TMNT_Arcade",
+      "title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "guid": "TMNT_Turtles_In_Time_Arcade",
+      "title": "Teenage Mutant Ninja Turtles: Turtles In Time"
+    },
+    {
+      "guid": "ToeJam_Earl",
+      "title": "ToeJam & Earl"
+    },
+    {
+      "guid": "Top_Gear",
+      "title": "Top Gear"
+    },
+    {
+      "guid": "Top_Gear_2",
+      "title": "Top Gear 2"
+    },
+    {
+      "guid": "Top_Gear_3000",
+      "title": "Top Gear 3000"
+    },
+    {
+      "guid": "Trampoline_Terror",
+      "title": "Trampoline Terror!"
+    },
+    {
+      "guid": "Treasure_Master",
+      "title": "Treasure Master"
+    },
+    {
+      "guid": "True_Lies",
+      "title": "True Lies"
+    },
+    {
+      "guid": "Truxton",
+      "title": "Truxton"
+    },
+    {
+      "guid": "Turrican",
+      "title": "Turrican"
+    },
+    {
+      "guid": "T_and_C_Surf_Designs",
+      "title": "T&C Surf Designs"
+    },
+    {
+      "guid": "Uniracers",
+      "title": "Uniracers"
+    },
+    {
+      "guid": "UN_Squadron",
+      "title": "U.N. Squadron"
+    },
+    {
+      "guid": "Urban_Strike",
+      "title": "Urban Strike"
+    },
+    {
+      "guid": "Vampire_Killer",
+      "title": "Vampire Killer"
+    },
+    {
+      "guid": "Vectorman",
+      "title": "Vectorman"
+    },
+    {
+      "guid": "Vectorman_2",
+      "title": "Vectorman 2"
+    },
+    {
+      "guid": "Victory_Run",
+      "title": "Victory Run"
+    },
+    {
+      "guid": "Violent_Storm",
+      "title": "Violent Storm"
+    },
+    {
+      "guid": "Wacky_Wheels",
+      "title": "Wacky Wheels"
+    },
+    {
+      "guid": "Warriors_of_the_Eternal_Sun",
+      "title": "Dungeons & Dragons: Warriors of the Eternal Sun"
+    },
+    {
+      "guid": "Wave_Race_64",
+      "title": "Wave Race 64"
+    },
+    {
+      "guid": "Ween-The_Prophecy",
+      "title": "Ween - The Prophecy"
+    },
+    {
+      "guid": "Werewolf_The_Last_Warrior",
+      "title": "Werewolf: The Last Warrior"
+    },
+    {
+      "guid": "WFW_311",
+      "title": "Windows for Workgroups 3.11"
+    },
+    {
+      "guid": "Whip_Rush",
+      "title": "Whip Rush"
+    },
+    {
+      "guid": "Wild_Guns",
+      "title": "Wild Guns"
+    },
+    {
+      "guid": "Windows_95",
+      "title": "Windows 95"
+    },
+    {
+      "guid": "Windows_XP",
+      "title": "Windows XP"
+    },
+    {
+      "guid": "WipEout_64",
+      "title": "WipEout 64"
+    },
+    {
+      "guid": "Wizards_and_Warriors",
+      "title": "Wizards & Warriors"
+    },
+    {
+      "guid": "Wolf3D",
+      "title": "Wolfenstein 3D"
+    },
+    {
+      "guid": "Wonder_Boy",
+      "title": "Wonder Boy"
+    },
+    {
+      "guid": "World_Heroes_2",
+      "title": "World Heroes 2"
+    },
+    {
+      "guid": "X-Men",
+      "title": "X-Men"
+    },
+    {
+      "guid": "X-Men_(Genesis)",
+      "title": "X-Men"
+    },
+    {
+      "guid": "X-Men_2",
+      "title": "X-Men 2: Clone Wars"
+    },
+    {
+      "guid": "Ys_III_(SNES)",
+      "title": "Ys III - Wanderers From Ys"
+    },
+    {
+      "guid": "Zelda-Ocarina_of_Time",
+      "title": "The Legend of Zelda: Ocarina of Time"
+    },
+    {
+      "guid": "Zelda_A_Link_to_the_Past",
+      "title": "The Legend of Zelda: A Link to the Past"
+    },
+    {
+      "guid": "Zelda_II",
+      "title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "guid": "Zero_Wing",
+      "title": "Zero Wing"
+    }
+  ]
+}
