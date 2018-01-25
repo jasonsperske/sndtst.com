@@ -1,1 +1,113 @@
-{"guid": "Crusader_of_Centy", "platform": "Genesis", "title": "Crusader of Centy", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f21"}, {"title": "Data Select", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f23"}, {"title": "Town", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f22"}, {"title": "Soleil Plaza", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f20"}, {"title": "Fortuneteller", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1f"}, {"title": "Overworld Map", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1e"}, {"title": "Rafflesia Training Grounds", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1d"}, {"title": "Monster Area", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1c"}, {"title": "Dahlia Valley", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1b"}, {"title": "Battle 1", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1a"}, {"title": "Anemone Beach", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f19"}, {"title": "Animal Town", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f18"}, {"title": "Water Lily", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f17"}, {"title": "Burn Daisy", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f16"}, {"title": "Battle 2", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f15"}, {"title": "Camellia Desert", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f14"}, {"title": "Tower of Babel", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f13"}, {"title": "Castle Freesia", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f12"}, {"title": "Root Temple", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f11"}, {"title": "Battle 3", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0f"}, {"title": "Place of Peace", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f10"}, {"title": "Desert Palace", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0e"}, {"title": "Mother Monster", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0d"}, {"title": "Dark Night", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0c"}, {"title": "Ending Theme", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0b"}, {"title": "Game Over", "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0a"}], "id": "261"}
+{
+  "composed_by": [],
+  "guid": "Crusader_of_Centy",
+  "id": "261",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f21"
+    },
+    {
+      "title": "Data Select",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f23"
+    },
+    {
+      "title": "Town",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f22"
+    },
+    {
+      "title": "Soleil Plaza",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f20"
+    },
+    {
+      "title": "Fortuneteller",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1f"
+    },
+    {
+      "title": "Overworld Map",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1e"
+    },
+    {
+      "title": "Rafflesia Training Grounds",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1d"
+    },
+    {
+      "title": "Monster Area",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1c"
+    },
+    {
+      "title": "Dahlia Valley",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1b"
+    },
+    {
+      "title": "Battle 1",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f1a"
+    },
+    {
+      "title": "Anemone Beach",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f19"
+    },
+    {
+      "title": "Animal Town",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f18"
+    },
+    {
+      "title": "Water Lily",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f17"
+    },
+    {
+      "title": "Burn Daisy",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f16"
+    },
+    {
+      "title": "Battle 2",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f15"
+    },
+    {
+      "title": "Camellia Desert",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f14"
+    },
+    {
+      "title": "Tower of Babel",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f13"
+    },
+    {
+      "title": "Castle Freesia",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f12"
+    },
+    {
+      "title": "Root Temple",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f11"
+    },
+    {
+      "title": "Battle 3",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0f"
+    },
+    {
+      "title": "Place of Peace",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f10"
+    },
+    {
+      "title": "Desert Palace",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0e"
+    },
+    {
+      "title": "Mother Monster",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0d"
+    },
+    {
+      "title": "Dark Night",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0c"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0b"
+    },
+    {
+      "title": "Game Over",
+      "guid": "261-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f0a"
+    }
+  ],
+  "title": "Crusader of Centy"
+}

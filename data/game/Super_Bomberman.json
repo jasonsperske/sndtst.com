@@ -1,1 +1,83 @@
-{"guid": "Super_Bomberman", "platform": "SNES", "title": "Super Bomberman", "composed_by": ["Jun Chikuma"], "playlist": [{"title": "Title", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dd0"}, {"title": "Map", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dd1"}, {"title": "Start", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dcf"}, {"title": "Level 1", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dce"}, {"title": "Level 2", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dcd"}, {"title": "Level 3", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dcb"}, {"title": "Level 4", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dcc"}, {"title": "Level 5", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dca"}, {"title": "Level 6", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc9"}, {"title": "Stage Complete", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc8"}, {"title": "Battle Menu", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc7"}, {"title": "Battle", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc6"}, {"title": "Battle Victory", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc5"}, {"title": "Battle Draw", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc4"}, {"title": "Boss", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc3"}, {"title": "Ending", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc2"}, {"title": "Password", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc0"}, {"title": "Game Over", "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc1"}], "id": "150"}
+{
+  "composed_by": [
+    "Jun Chikuma"
+  ],
+  "guid": "Super_Bomberman",
+  "id": "150",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dd0"
+    },
+    {
+      "title": "Map",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dd1"
+    },
+    {
+      "title": "Start",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dcf"
+    },
+    {
+      "title": "Level 1",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dce"
+    },
+    {
+      "title": "Level 2",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dcd"
+    },
+    {
+      "title": "Level 3",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dcb"
+    },
+    {
+      "title": "Level 4",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dcc"
+    },
+    {
+      "title": "Level 5",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dca"
+    },
+    {
+      "title": "Level 6",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc9"
+    },
+    {
+      "title": "Stage Complete",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc8"
+    },
+    {
+      "title": "Battle Menu",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc7"
+    },
+    {
+      "title": "Battle",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc6"
+    },
+    {
+      "title": "Battle Victory",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc5"
+    },
+    {
+      "title": "Battle Draw",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc4"
+    },
+    {
+      "title": "Boss",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc3"
+    },
+    {
+      "title": "Ending",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc2"
+    },
+    {
+      "title": "Password",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc0"
+    },
+    {
+      "title": "Game Over",
+      "guid": "150-e23928424a65de06Og51524729Og146e61fe80cOgLQ7dc1"
+    }
+  ],
+  "title": "Super Bomberman"
+}

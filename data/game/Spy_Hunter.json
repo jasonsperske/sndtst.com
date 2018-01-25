@@ -1,1 +1,21 @@
-{"guid": "Spy_Hunter", "platform": "NES", "title": "Spy Hunter", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "279-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da0"}, {"title": "Game Over", "guid": "279-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7d9d"}, {"title": "Unknown", "guid": "279-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7d9c"}], "id": "279"}
+{
+  "composed_by": [],
+  "guid": "Spy_Hunter",
+  "id": "279",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "279-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da0"
+    },
+    {
+      "title": "Game Over",
+      "guid": "279-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7d9d"
+    },
+    {
+      "title": "Unknown",
+      "guid": "279-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7d9c"
+    }
+  ],
+  "title": "Spy Hunter"
+}

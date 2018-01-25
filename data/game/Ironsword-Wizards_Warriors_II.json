@@ -1,1 +1,73 @@
-{"guid": "Ironsword-Wizards_Warriors_II", "platform": "NES", "title": "Ironsword: Wizards & Warriors II", "composed_by": [], "playlist": [{"title": "Intro", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea7"}, {"title": "Password_Store_Initials_Game Over", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea8"}, {"title": "Map", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea6"}, {"title": "Stage 1 - Mountains", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea5"}, {"title": "Shop", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea4"}, {"title": "Stage 2 - Up in the Clouds", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea2"}, {"title": "Found A Treasure!", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea3"}, {"title": "Wind Elemental", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea1"}, {"title": "Fancy A Wager?", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea0"}, {"title": "Water Elemental", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e99"}, {"title": "Fire Elemental", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9f"}, {"title": "Falling...", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9e"}, {"title": "Lava Malkil", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9d"}, {"title": "Mount... Doom?", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9c"}, {"title": "Victory", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9b"}, {"title": "Credits", "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9a"}], "id": "231"}
+{
+  "composed_by": [],
+  "guid": "Ironsword-Wizards_Warriors_II",
+  "id": "231",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Intro",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea7"
+    },
+    {
+      "title": "Password_Store_Initials_Game Over",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea8"
+    },
+    {
+      "title": "Map",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea6"
+    },
+    {
+      "title": "Stage 1 - Mountains",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea5"
+    },
+    {
+      "title": "Shop",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea4"
+    },
+    {
+      "title": "Stage 2 - Up in the Clouds",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea2"
+    },
+    {
+      "title": "Found A Treasure!",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea3"
+    },
+    {
+      "title": "Wind Elemental",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea1"
+    },
+    {
+      "title": "Fancy A Wager?",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ea0"
+    },
+    {
+      "title": "Water Elemental",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e99"
+    },
+    {
+      "title": "Fire Elemental",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9f"
+    },
+    {
+      "title": "Falling...",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9e"
+    },
+    {
+      "title": "Lava Malkil",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9d"
+    },
+    {
+      "title": "Mount... Doom?",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9c"
+    },
+    {
+      "title": "Victory",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9b"
+    },
+    {
+      "title": "Credits",
+      "guid": "231-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e9a"
+    }
+  ],
+  "title": "Ironsword: Wizards & Warriors II"
+}

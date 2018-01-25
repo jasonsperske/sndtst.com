@@ -1,1 +1,45 @@
-{"guid": "Gauntlet", "platform": "NES", "title": "Gauntlet", "composed_by": [], "playlist": [{"title": "Title", "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4d"}, {"title": "Stages 1", "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4c"}, {"title": "Stages 2", "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4b"}, {"title": "Stages 3", "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4a"}, {"title": "Stages 4", "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f49"}, {"title": "Treasure Room", "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f48"}, {"title": "Secret Stage", "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f45"}, {"title": "Ending", "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f47"}, {"title": "Unknown", "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f46"}], "id": "298"}
+{
+  "composed_by": [],
+  "guid": "Gauntlet",
+  "id": "298",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4d"
+    },
+    {
+      "title": "Stages 1",
+      "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4c"
+    },
+    {
+      "title": "Stages 2",
+      "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4b"
+    },
+    {
+      "title": "Stages 3",
+      "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4a"
+    },
+    {
+      "title": "Stages 4",
+      "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f49"
+    },
+    {
+      "title": "Treasure Room",
+      "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f48"
+    },
+    {
+      "title": "Secret Stage",
+      "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f45"
+    },
+    {
+      "title": "Ending",
+      "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f47"
+    },
+    {
+      "title": "Unknown",
+      "guid": "298-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f46"
+    }
+  ],
+  "title": "Gauntlet"
+}

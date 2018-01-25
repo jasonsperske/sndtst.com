@@ -1,1 +1,125 @@
-{"guid": "Dragon_Saber", "platform": "Arcade", "title": "Dragon Saber-After Story of Dragon Spirit", "composed_by": [], "playlist": [{"title": "Story of Dragon Saber (Opening 1)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f08"}, {"title": "Credit", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f09"}, {"title": "Opening Visual (Opening 2)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f07"}, {"title": "Submerged City (Stage 1)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f05"}, {"title": "Boss A (Boss 1)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f06"}, {"title": "Volcano (Stage 2)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f04"}, {"title": "Boss B (Boss 2)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f03"}, {"title": "Fossil (Stage 3)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f02"}, {"title": "Waste Land (Stage 4)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f00"}, {"title": "Woody (Boss 3)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f01"}, {"title": "Canyon (Stage 5)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eff"}, {"title": "Ice Cave (Stage 6)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efa"}, {"title": "Continue", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efe"}, {"title": "Name Ranking A", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efd"}, {"title": "Devildom (Stage 7)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efc"}, {"title": "Dragon Zombie (Boss 4)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efb"}, {"title": "Dark (Stage 8)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef9"}, {"title": "Ultima (Stage 9)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef5"}, {"title": "Chaos (Final Boss)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef8"}, {"title": "Ending", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef7"}, {"title": "Name Ranking B", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef6"}, {"title": "The Paleozoic Era (Hidden Stage 1)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef4"}, {"title": "Volcano (Hidden Stage 2)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef3"}, {"title": "Cave Road (Hidden Stage 3)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef2"}, {"title": "Jungle (Hidden Stage 4)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef1"}, {"title": "Grave Yard (Hidden Stage 5)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef0"}, {"title": "Glacier Land (Hidden Stage 6)", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eef"}, {"title": "Hidden Ending", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eee"}, {"title": "Hidden Name Ranking", "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eed"}], "id": "262"}
+{
+  "composed_by": [],
+  "guid": "Dragon_Saber",
+  "id": "262",
+  "platform": "Arcade",
+  "playlist": [
+    {
+      "title": "Story of Dragon Saber (Opening 1)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f08"
+    },
+    {
+      "title": "Credit",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f09"
+    },
+    {
+      "title": "Opening Visual (Opening 2)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f07"
+    },
+    {
+      "title": "Submerged City (Stage 1)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f05"
+    },
+    {
+      "title": "Boss A (Boss 1)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f06"
+    },
+    {
+      "title": "Volcano (Stage 2)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f04"
+    },
+    {
+      "title": "Boss B (Boss 2)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f03"
+    },
+    {
+      "title": "Fossil (Stage 3)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f02"
+    },
+    {
+      "title": "Waste Land (Stage 4)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f00"
+    },
+    {
+      "title": "Woody (Boss 3)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f01"
+    },
+    {
+      "title": "Canyon (Stage 5)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eff"
+    },
+    {
+      "title": "Ice Cave (Stage 6)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efa"
+    },
+    {
+      "title": "Continue",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efe"
+    },
+    {
+      "title": "Name Ranking A",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efd"
+    },
+    {
+      "title": "Devildom (Stage 7)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efc"
+    },
+    {
+      "title": "Dragon Zombie (Boss 4)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7efb"
+    },
+    {
+      "title": "Dark (Stage 8)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef9"
+    },
+    {
+      "title": "Ultima (Stage 9)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef5"
+    },
+    {
+      "title": "Chaos (Final Boss)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef8"
+    },
+    {
+      "title": "Ending",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef7"
+    },
+    {
+      "title": "Name Ranking B",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef6"
+    },
+    {
+      "title": "The Paleozoic Era (Hidden Stage 1)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef4"
+    },
+    {
+      "title": "Volcano (Hidden Stage 2)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef3"
+    },
+    {
+      "title": "Cave Road (Hidden Stage 3)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef2"
+    },
+    {
+      "title": "Jungle (Hidden Stage 4)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef1"
+    },
+    {
+      "title": "Grave Yard (Hidden Stage 5)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ef0"
+    },
+    {
+      "title": "Glacier Land (Hidden Stage 6)",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eef"
+    },
+    {
+      "title": "Hidden Ending",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eee"
+    },
+    {
+      "title": "Hidden Name Ranking",
+      "guid": "262-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eed"
+    }
+  ],
+  "title": "Dragon Saber-After Story of Dragon Spirit"
+}

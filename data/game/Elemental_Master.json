@@ -1,1 +1,108 @@
-{"guid": "Elemental_Master", "platform": "Genesis", "title": "Elemental Master", "composed_by": ["Naosuke Arai", "Toshiharu Yamanishi"], "playlist": [{"title": "Great Spirit Overture (Opening Theme)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f99"}, {"title": "Cursed Destiny (Visual Scene 1)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f98"}, {"title": "Temptation of the Devil (Stage Select)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f96"}, {"title": "Dance of Flame (Stage 1)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f97"}, {"title": "Avatar of Flame (Stage 1 Boss)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f95"}, {"title": "Spirit of Light (Visual Scene 2)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f94"}, {"title": "Like the Wind (Stage 2)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f92"}, {"title": "Roar of the Monster (Stage 2 Boss)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f93"}, {"title": "Until the End of the Earth (Stage 3)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f91"}, {"title": "Evil Beat (Stage 3 Boss)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f90"}, {"title": "Blood-Stained Lake (Stage 4)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8e"}, {"title": "Specter Living in the Water (Stage 4 Boss)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8f"}, {"title": "Terror of the Glacier (Stage 5)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8d"}, {"title": "Calling on the Dark Dragon King (Stage 5 Boss)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8c"}, {"title": "Ring of Light (Visual Scene 3)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8b"}, {"title": "Den of Evil (Stage 6)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8a"}, {"title": "Suspicious Beauty (Stage 6 Boss)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f88"}, {"title": "Shudder of Darkness (Stage 7)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f89"}, {"title": "Fate (Stage 7 Boss)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f87"}, {"title": "King Garia's Revival (Final Boss)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f86"}, {"title": "Sorrowful Requiem (Ending Theme)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f85"}, {"title": "Setting Out (Staff Roll)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f83"}, {"title": "Ghost Story of Hell (Continue)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f84"}, {"title": "Like a Nightmare (Game Over)", "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f82"}], "id": "388"}
+{
+  "composed_by": [
+    "Naosuke Arai",
+    "Toshiharu Yamanishi"
+  ],
+  "guid": "Elemental_Master",
+  "id": "388",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Great Spirit Overture (Opening Theme)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f99"
+    },
+    {
+      "title": "Cursed Destiny (Visual Scene 1)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f98"
+    },
+    {
+      "title": "Temptation of the Devil (Stage Select)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f96"
+    },
+    {
+      "title": "Dance of Flame (Stage 1)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f97"
+    },
+    {
+      "title": "Avatar of Flame (Stage 1 Boss)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f95"
+    },
+    {
+      "title": "Spirit of Light (Visual Scene 2)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f94"
+    },
+    {
+      "title": "Like the Wind (Stage 2)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f92"
+    },
+    {
+      "title": "Roar of the Monster (Stage 2 Boss)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f93"
+    },
+    {
+      "title": "Until the End of the Earth (Stage 3)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f91"
+    },
+    {
+      "title": "Evil Beat (Stage 3 Boss)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f90"
+    },
+    {
+      "title": "Blood-Stained Lake (Stage 4)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8e"
+    },
+    {
+      "title": "Specter Living in the Water (Stage 4 Boss)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8f"
+    },
+    {
+      "title": "Terror of the Glacier (Stage 5)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8d"
+    },
+    {
+      "title": "Calling on the Dark Dragon King (Stage 5 Boss)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8c"
+    },
+    {
+      "title": "Ring of Light (Visual Scene 3)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8b"
+    },
+    {
+      "title": "Den of Evil (Stage 6)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f8a"
+    },
+    {
+      "title": "Suspicious Beauty (Stage 6 Boss)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f88"
+    },
+    {
+      "title": "Shudder of Darkness (Stage 7)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f89"
+    },
+    {
+      "title": "Fate (Stage 7 Boss)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f87"
+    },
+    {
+      "title": "King Garia's Revival (Final Boss)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f86"
+    },
+    {
+      "title": "Sorrowful Requiem (Ending Theme)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f85"
+    },
+    {
+      "title": "Setting Out (Staff Roll)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f83"
+    },
+    {
+      "title": "Ghost Story of Hell (Continue)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f84"
+    },
+    {
+      "title": "Like a Nightmare (Game Over)",
+      "guid": "388-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f82"
+    }
+  ],
+  "title": "Elemental Master"
+}

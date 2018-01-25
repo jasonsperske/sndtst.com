@@ -1,1 +1,127 @@
-{"guid": "Lemmings", "platform": "SNES", "title": "Lemmings", "composed_by": ["Tomomi Hatakeyama"], "playlist": [{"title": "Title Screen", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fec"}, {"title": "Stage Intro", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fed"}, {"title": "Stage Clear", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7feb"}, {"title": "Failure", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fea"}, {"title": "Just Dig!", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe9"}, {"title": "Only Floaters Can Survive This", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe8"}, {"title": "Tailor-Made For Blockers", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe7"}, {"title": "Now Use Miners and Climbers", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe5"}, {"title": "You Need Bashers This Time", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe6"}, {"title": "A Task For Blockers and Bombers", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe4"}, {"title": "Builders Will Help You Here", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe2"}, {"title": "Not As Complicated As it Looks", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe3"}, {"title": "As Long As You Try Your Best", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe1"}, {"title": "Smile if You Love Lemmings", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe0"}, {"title": "Keep Your Hair on Mr. Lemming", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fdf"}, {"title": "Patience", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fde"}, {"title": "We All Fall Down", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fdd"}, {"title": "Origins and Lemmings", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fdc"}, {"title": "Don't Let Your Eyes Deceive You", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fdb"}, {"title": "Don't Do Anything Too Hasty", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fda"}, {"title": "Easy When You Know How", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd9"}, {"title": "Beast I", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd8"}, {"title": "Menace", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd7"}, {"title": "Awesome", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd6"}, {"title": "Beast II", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd5"}, {"title": "Intermission", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd3"}, {"title": "Ending", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd4"}, {"title": "Staff Roll", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd1"}, {"title": "Trapdoor", "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd2"}], "id": "337"}
+{
+  "composed_by": [
+    "Tomomi Hatakeyama"
+  ],
+  "guid": "Lemmings",
+  "id": "337",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Title Screen",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fec"
+    },
+    {
+      "title": "Stage Intro",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fed"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7feb"
+    },
+    {
+      "title": "Failure",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fea"
+    },
+    {
+      "title": "Just Dig!",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe9"
+    },
+    {
+      "title": "Only Floaters Can Survive This",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe8"
+    },
+    {
+      "title": "Tailor-Made For Blockers",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe7"
+    },
+    {
+      "title": "Now Use Miners and Climbers",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe5"
+    },
+    {
+      "title": "You Need Bashers This Time",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe6"
+    },
+    {
+      "title": "A Task For Blockers and Bombers",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe4"
+    },
+    {
+      "title": "Builders Will Help You Here",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe2"
+    },
+    {
+      "title": "Not As Complicated As it Looks",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe3"
+    },
+    {
+      "title": "As Long As You Try Your Best",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe1"
+    },
+    {
+      "title": "Smile if You Love Lemmings",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fe0"
+    },
+    {
+      "title": "Keep Your Hair on Mr. Lemming",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fdf"
+    },
+    {
+      "title": "Patience",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fde"
+    },
+    {
+      "title": "We All Fall Down",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fdd"
+    },
+    {
+      "title": "Origins and Lemmings",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fdc"
+    },
+    {
+      "title": "Don't Let Your Eyes Deceive You",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fdb"
+    },
+    {
+      "title": "Don't Do Anything Too Hasty",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fda"
+    },
+    {
+      "title": "Easy When You Know How",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd9"
+    },
+    {
+      "title": "Beast I",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd8"
+    },
+    {
+      "title": "Menace",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd7"
+    },
+    {
+      "title": "Awesome",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd6"
+    },
+    {
+      "title": "Beast II",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd5"
+    },
+    {
+      "title": "Intermission",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd3"
+    },
+    {
+      "title": "Ending",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd4"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd1"
+    },
+    {
+      "title": "Trapdoor",
+      "guid": "337-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd2"
+    }
+  ],
+  "title": "Lemmings"
+}

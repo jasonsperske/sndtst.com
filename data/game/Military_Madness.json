@@ -1,1 +1,83 @@
-{"guid": "Military_Madness", "platform": "TG16", "title": "Military Madness", "composed_by": ["Jun Chikuma"], "playlist": [{"title": "Title", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff0"}, {"title": "Menu", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff1"}, {"title": "Manual", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fef"}, {"title": "Password", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fee"}, {"title": "Opening", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fed"}, {"title": "Operation Map", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fec"}, {"title": "Player's Turn", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7feb"}, {"title": "Enemy's Turn", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fea"}, {"title": "Player's Last Stage", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe9"}, {"title": "Enemy's Last Stage", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe8"}, {"title": "Factory Captured!", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe7"}, {"title": "Stage Clear", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe6"}, {"title": "Game Over", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe5"}, {"title": "Player's Victory", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe4"}, {"title": "Player's Defeat", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe3"}, {"title": "Enemy's Victory", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe2"}, {"title": "Enemy's Defeat", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe1"}, {"title": "Ending", "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe0"}], "id": "63"}
+{
+  "composed_by": [
+    "Jun Chikuma"
+  ],
+  "guid": "Military_Madness",
+  "id": "63",
+  "platform": "TG16",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff0"
+    },
+    {
+      "title": "Menu",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff1"
+    },
+    {
+      "title": "Manual",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fef"
+    },
+    {
+      "title": "Password",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fee"
+    },
+    {
+      "title": "Opening",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fed"
+    },
+    {
+      "title": "Operation Map",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fec"
+    },
+    {
+      "title": "Player's Turn",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7feb"
+    },
+    {
+      "title": "Enemy's Turn",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fea"
+    },
+    {
+      "title": "Player's Last Stage",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe9"
+    },
+    {
+      "title": "Enemy's Last Stage",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe8"
+    },
+    {
+      "title": "Factory Captured!",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe7"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe6"
+    },
+    {
+      "title": "Game Over",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe5"
+    },
+    {
+      "title": "Player's Victory",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe4"
+    },
+    {
+      "title": "Player's Defeat",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe3"
+    },
+    {
+      "title": "Enemy's Victory",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe2"
+    },
+    {
+      "title": "Enemy's Defeat",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe1"
+    },
+    {
+      "title": "Ending",
+      "guid": "63-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fe0"
+    }
+  ],
+  "title": "Military Madness"
+}

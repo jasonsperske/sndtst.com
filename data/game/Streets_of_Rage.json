@@ -1,1 +1,73 @@
-{"guid": "Streets_of_Rage", "platform": "Genesis", "title": "Streets of Rage", "composed_by": [], "playlist": [{"title": "The Street of Rage", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f19"}, {"title": "Player Select", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f1a"}, {"title": "Fighting In the Street", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f17"}, {"title": "Dilapadated Town", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f18"}, {"title": "Moon Beach", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f15"}, {"title": "Keep the Groovin'", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f16"}, {"title": "Beatnik On the Ship", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f14"}, {"title": "Stealthy Steps", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f12"}, {"title": "Violent Breathing", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f13"}, {"title": "The Last Soul", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f11"}, {"title": "Attack the Barbarian", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0f"}, {"title": "Round Clear", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f10"}, {"title": "Big Boss", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0d"}, {"title": "Game Over", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0e"}, {"title": "You Became the Bad Guy!", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0b"}, {"title": "My Little Baby", "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0c"}], "id": "27"}
+{
+  "composed_by": [],
+  "guid": "Streets_of_Rage",
+  "id": "27",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "The Street of Rage",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f19"
+    },
+    {
+      "title": "Player Select",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f1a"
+    },
+    {
+      "title": "Fighting In the Street",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f17"
+    },
+    {
+      "title": "Dilapadated Town",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f18"
+    },
+    {
+      "title": "Moon Beach",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f15"
+    },
+    {
+      "title": "Keep the Groovin'",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f16"
+    },
+    {
+      "title": "Beatnik On the Ship",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f14"
+    },
+    {
+      "title": "Stealthy Steps",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f12"
+    },
+    {
+      "title": "Violent Breathing",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f13"
+    },
+    {
+      "title": "The Last Soul",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f11"
+    },
+    {
+      "title": "Attack the Barbarian",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0f"
+    },
+    {
+      "title": "Round Clear",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f10"
+    },
+    {
+      "title": "Big Boss",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0d"
+    },
+    {
+      "title": "Game Over",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0e"
+    },
+    {
+      "title": "You Became the Bad Guy!",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0b"
+    },
+    {
+      "title": "My Little Baby",
+      "guid": "27-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0c"
+    }
+  ],
+  "title": "Streets of Rage"
+}

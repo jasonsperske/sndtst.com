@@ -1,1 +1,89 @@
-{"guid": "F-Zero_X", "platform": "N64", "title": "F-Zero X", "composed_by": [], "playlist": [{"title": "Endless Challenge", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e97"}, {"title": "Dream Chaser", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e96"}, {"title": "Fall Down to the Scream", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e95"}, {"title": "Decide in the Eyes", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e94"}, {"title": "Devil's Call in your Heart", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e93"}, {"title": "The Long Distance of Murder", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e92"}, {"title": "Crazy Call at Cry", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e91"}, {"title": "Drivin' Through on Max", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e90"}, {"title": "Climb up! And Get the Last Chance!", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8f"}, {"title": "All Need is 30 Deaths", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8e"}, {"title": "Title BGM", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8d"}, {"title": "Car Select", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8c"}, {"title": "Option", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8a"}, {"title": "Start Demo", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8b"}, {"title": "Goal Fanfare", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e89"}, {"title": "Goal BGM", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e87"}, {"title": "Retire", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e88"}, {"title": "Game Over", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e86"}, {"title": "Grandprix Ending", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e85"}, {"title": "Staff Roll", "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e84"}], "id": "197"}
+{
+  "composed_by": [],
+  "guid": "F-Zero_X",
+  "id": "197",
+  "platform": "N64",
+  "playlist": [
+    {
+      "title": "Endless Challenge",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e97"
+    },
+    {
+      "title": "Dream Chaser",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e96"
+    },
+    {
+      "title": "Fall Down to the Scream",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e95"
+    },
+    {
+      "title": "Decide in the Eyes",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e94"
+    },
+    {
+      "title": "Devil's Call in your Heart",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e93"
+    },
+    {
+      "title": "The Long Distance of Murder",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e92"
+    },
+    {
+      "title": "Crazy Call at Cry",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e91"
+    },
+    {
+      "title": "Drivin' Through on Max",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e90"
+    },
+    {
+      "title": "Climb up! And Get the Last Chance!",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8f"
+    },
+    {
+      "title": "All Need is 30 Deaths",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8e"
+    },
+    {
+      "title": "Title BGM",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8d"
+    },
+    {
+      "title": "Car Select",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8c"
+    },
+    {
+      "title": "Option",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8a"
+    },
+    {
+      "title": "Start Demo",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e8b"
+    },
+    {
+      "title": "Goal Fanfare",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e89"
+    },
+    {
+      "title": "Goal BGM",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e87"
+    },
+    {
+      "title": "Retire",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e88"
+    },
+    {
+      "title": "Game Over",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e86"
+    },
+    {
+      "title": "Grandprix Ending",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e85"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "197-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e84"
+    }
+  ],
+  "title": "F-Zero X"
+}

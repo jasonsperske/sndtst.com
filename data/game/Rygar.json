@@ -1,1 +1,57 @@
-{"guid": "Rygar", "platform": "NES", "title": "Rygar", "composed_by": [], "playlist": [{"title": "Sunset", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7faa"}, {"title": "Mountain", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fab"}, {"title": "Paths", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa8"}, {"title": "Caves", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa9"}, {"title": "Lapis", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa6"}, {"title": "Castle", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa7"}, {"title": "Tower", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa5"}, {"title": "Guru", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa4"}, {"title": "Cliffs", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa3"}, {"title": "Forest", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa2"}, {"title": "Flute", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa1"}, {"title": "End", "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa0"}], "id": "59"}
+{
+  "composed_by": [],
+  "guid": "Rygar",
+  "id": "59",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Sunset",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7faa"
+    },
+    {
+      "title": "Mountain",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fab"
+    },
+    {
+      "title": "Paths",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa8"
+    },
+    {
+      "title": "Caves",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa9"
+    },
+    {
+      "title": "Lapis",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa6"
+    },
+    {
+      "title": "Castle",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa7"
+    },
+    {
+      "title": "Tower",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa5"
+    },
+    {
+      "title": "Guru",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa4"
+    },
+    {
+      "title": "Cliffs",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa3"
+    },
+    {
+      "title": "Forest",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa2"
+    },
+    {
+      "title": "Flute",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa1"
+    },
+    {
+      "title": "End",
+      "guid": "59-aa2cc732a5107841Og33632e41Og14606a6e613OgLQ7fa0"
+    }
+  ],
+  "title": "Rygar"
+}

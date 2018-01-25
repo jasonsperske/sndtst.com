@@ -1,1 +1,93 @@
-{"guid": "Dr_Robotniks_Mean_Bean_Machine", "platform": "Genesis", "title": "Dr. Robotnik's Mean Bean Machine", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f38"}, {"title": "Configuration", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f37"}, {"title": "Password Entry", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f36"}, {"title": "Stages 1-4 Intro", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f35"}, {"title": "Stages 1-4", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f33"}, {"title": "Stages 5-8 Intro", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f34"}, {"title": "Stages 5-8", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f32"}, {"title": "Stages 9-12 Intro", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f31"}, {"title": "Stages 9-12", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2f"}, {"title": "Stage 13 Intro", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f30"}, {"title": "Stage 13", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2e"}, {"title": "Dr. R's in Danger!", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2d"}, {"title": "Dr. Robotnik Defeated", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2c"}, {"title": "The Machine Explodes", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2b"}, {"title": "Continue", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2a"}, {"title": "Ending Theme", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f29"}, {"title": "Staff Roll", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f28"}, {"title": "Exercise Mode", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f27"}, {"title": "2 Player vs", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f26"}, {"title": "Danger!", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f24"}, {"title": "Victory!", "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f25"}], "id": "223"}
+{
+  "composed_by": [],
+  "guid": "Dr_Robotniks_Mean_Bean_Machine",
+  "id": "223",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f38"
+    },
+    {
+      "title": "Configuration",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f37"
+    },
+    {
+      "title": "Password Entry",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f36"
+    },
+    {
+      "title": "Stages 1-4 Intro",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f35"
+    },
+    {
+      "title": "Stages 1-4",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f33"
+    },
+    {
+      "title": "Stages 5-8 Intro",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f34"
+    },
+    {
+      "title": "Stages 5-8",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f32"
+    },
+    {
+      "title": "Stages 9-12 Intro",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f31"
+    },
+    {
+      "title": "Stages 9-12",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2f"
+    },
+    {
+      "title": "Stage 13 Intro",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f30"
+    },
+    {
+      "title": "Stage 13",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2e"
+    },
+    {
+      "title": "Dr. R's in Danger!",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2d"
+    },
+    {
+      "title": "Dr. Robotnik Defeated",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2c"
+    },
+    {
+      "title": "The Machine Explodes",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2b"
+    },
+    {
+      "title": "Continue",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f2a"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f29"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f28"
+    },
+    {
+      "title": "Exercise Mode",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f27"
+    },
+    {
+      "title": "2 Player vs",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f26"
+    },
+    {
+      "title": "Danger!",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f24"
+    },
+    {
+      "title": "Victory!",
+      "guid": "223-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f25"
+    }
+  ],
+  "title": "Dr. Robotnik's Mean Bean Machine"
+}

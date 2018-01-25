@@ -1,1 +1,99 @@
-{"guid": "Super_Bomberman_2", "platform": "SNES", "title": "Super Bomberman 2", "composed_by": ["Hirohiko Fukuda"], "playlist": [{"title": "The Five Dastardly Bombers", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef3"}, {"title": "Title", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef5"}, {"title": "Map", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef4"}, {"title": "Stage Start", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef2"}, {"title": "BGM 1", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef0"}, {"title": "BGM 2", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef1"}, {"title": "BGM 3", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eef"}, {"title": "BGM 4", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eee"}, {"title": "BGM 5", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eea"}, {"title": "Stage Clear", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eed"}, {"title": "Next Level", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eec"}, {"title": "Options", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eeb"}, {"title": "Battle 1", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee8"}, {"title": "Battle 2", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee9"}, {"title": "Battle 3", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee4"}, {"title": "Draw Game", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee7"}, {"title": "Victory", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee6"}, {"title": "Roulette", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee5"}, {"title": "Dastardly Bomber", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee3"}, {"title": "Dastardly Bomber's Machine", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee2"}, {"title": "Credits", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee1"}, {"title": "Continue", "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee0"}], "id": "141"}
+{
+  "composed_by": [
+    "Hirohiko Fukuda"
+  ],
+  "guid": "Super_Bomberman_2",
+  "id": "141",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "The Five Dastardly Bombers",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef3"
+    },
+    {
+      "title": "Title",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef5"
+    },
+    {
+      "title": "Map",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef4"
+    },
+    {
+      "title": "Stage Start",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef2"
+    },
+    {
+      "title": "BGM 1",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef0"
+    },
+    {
+      "title": "BGM 2",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ef1"
+    },
+    {
+      "title": "BGM 3",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eef"
+    },
+    {
+      "title": "BGM 4",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eee"
+    },
+    {
+      "title": "BGM 5",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eea"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eed"
+    },
+    {
+      "title": "Next Level",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eec"
+    },
+    {
+      "title": "Options",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7eeb"
+    },
+    {
+      "title": "Battle 1",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee8"
+    },
+    {
+      "title": "Battle 2",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee9"
+    },
+    {
+      "title": "Battle 3",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee4"
+    },
+    {
+      "title": "Draw Game",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee7"
+    },
+    {
+      "title": "Victory",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee6"
+    },
+    {
+      "title": "Roulette",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee5"
+    },
+    {
+      "title": "Dastardly Bomber",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee3"
+    },
+    {
+      "title": "Dastardly Bomber's Machine",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee2"
+    },
+    {
+      "title": "Credits",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee1"
+    },
+    {
+      "title": "Continue",
+      "guid": "141-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ee0"
+    }
+  ],
+  "title": "Super Bomberman 2"
+}

@@ -1,1 +1,63 @@
-{"guid": "Adventure_Island", "platform": "NES", "title": "Adventure Island", "composed_by": ["Jun Chikuma"], "playlist": [{"title": "Title Screen", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8a"}, {"title": "Wild Plains", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e89"}, {"title": "Cliff's Rocks", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e88"}, {"title": "Ice Caverns", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e87"}, {"title": "Gloomy Forest", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e86"}, {"title": "Mountain Peak", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e85"}, {"title": "Invincibility", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e84"}, {"title": "Round Clear!", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e83"}, {"title": "Game Over", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e82"}, {"title": "Leechin You", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e81"}, {"title": "Boss Battle", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e80"}, {"title": "Boss Defeated!", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e7f"}, {"title": "Ending", "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e7e"}], "id": "35"}
+{
+  "composed_by": [
+    "Jun Chikuma"
+  ],
+  "guid": "Adventure_Island",
+  "id": "35",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title Screen",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8a"
+    },
+    {
+      "title": "Wild Plains",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e89"
+    },
+    {
+      "title": "Cliff's Rocks",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e88"
+    },
+    {
+      "title": "Ice Caverns",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e87"
+    },
+    {
+      "title": "Gloomy Forest",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e86"
+    },
+    {
+      "title": "Mountain Peak",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e85"
+    },
+    {
+      "title": "Invincibility",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e84"
+    },
+    {
+      "title": "Round Clear!",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e83"
+    },
+    {
+      "title": "Game Over",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e82"
+    },
+    {
+      "title": "Leechin You",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e81"
+    },
+    {
+      "title": "Boss Battle",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e80"
+    },
+    {
+      "title": "Boss Defeated!",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e7f"
+    },
+    {
+      "title": "Ending",
+      "guid": "35-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e7e"
+    }
+  ],
+  "title": "Adventure Island"
+}

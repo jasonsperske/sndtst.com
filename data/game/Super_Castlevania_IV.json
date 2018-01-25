@@ -1,1 +1,153 @@
-{"guid": "Super_Castlevania_IV", "platform": "SNES", "title": "Super Castlevania IV", "composed_by": [], "playlist": [{"title": "Konami Logo", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ8000"}, {"title": "Demon Castle Dracula", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fff"}, {"title": "Dracula's Theme", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffc"}, {"title": "Password", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffe"}, {"title": "Prologue", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffd"}, {"title": "Theme of Simon", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffb"}, {"title": "Forest of Monsters", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffa"}, {"title": "The Cave", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff9"}, {"title": "The Waterfalls", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff8"}, {"title": "The Submerged City", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff7"}, {"title": "Rotating Room", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff6"}, {"title": "Spinning Tower", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff5"}, {"title": "Boss 1", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff4"}, {"title": "Stage Clear", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff3"}, {"title": "Map A", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff2"}, {"title": "In the Castle", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff0"}, {"title": "The Castle's Gate", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff1"}, {"title": "Entrance Hall", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fef"}, {"title": "Chandeliers", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fee"}, {"title": "Pillared Corridor", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fed"}, {"title": "Cellar", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7feb"}, {"title": "Map B", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fec"}, {"title": "Treasury Room", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe8"}, {"title": "Boss 2", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fea"}, {"title": "Map C", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe9"}, {"title": "Bloody Tears", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe6"}, {"title": "Map D", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe7"}, {"title": "Vampire Killer", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe5"}, {"title": "Beginning", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe4"}, {"title": "Room of Close Associates", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe3"}, {"title": "Dracula Battle", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe1"}, {"title": "Dracula's Death", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe2"}, {"title": "Ending", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe0"}, {"title": "Secret Room", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fdf"}, {"title": "Death of Simon", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fde"}, {"title": "Game Over", "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fdd"}], "id": "135"}
+{
+  "composed_by": [],
+  "guid": "Super_Castlevania_IV",
+  "id": "135",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Konami Logo",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ8000"
+    },
+    {
+      "title": "Demon Castle Dracula",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fff"
+    },
+    {
+      "title": "Dracula's Theme",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffc"
+    },
+    {
+      "title": "Password",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffe"
+    },
+    {
+      "title": "Prologue",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffd"
+    },
+    {
+      "title": "Theme of Simon",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffb"
+    },
+    {
+      "title": "Forest of Monsters",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ffa"
+    },
+    {
+      "title": "The Cave",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff9"
+    },
+    {
+      "title": "The Waterfalls",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff8"
+    },
+    {
+      "title": "The Submerged City",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff7"
+    },
+    {
+      "title": "Rotating Room",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff6"
+    },
+    {
+      "title": "Spinning Tower",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff5"
+    },
+    {
+      "title": "Boss 1",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff4"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff3"
+    },
+    {
+      "title": "Map A",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff2"
+    },
+    {
+      "title": "In the Castle",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff0"
+    },
+    {
+      "title": "The Castle's Gate",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7ff1"
+    },
+    {
+      "title": "Entrance Hall",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fef"
+    },
+    {
+      "title": "Chandeliers",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fee"
+    },
+    {
+      "title": "Pillared Corridor",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fed"
+    },
+    {
+      "title": "Cellar",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7feb"
+    },
+    {
+      "title": "Map B",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fec"
+    },
+    {
+      "title": "Treasury Room",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe8"
+    },
+    {
+      "title": "Boss 2",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fea"
+    },
+    {
+      "title": "Map C",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe9"
+    },
+    {
+      "title": "Bloody Tears",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe6"
+    },
+    {
+      "title": "Map D",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe7"
+    },
+    {
+      "title": "Vampire Killer",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe5"
+    },
+    {
+      "title": "Beginning",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe4"
+    },
+    {
+      "title": "Room of Close Associates",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe3"
+    },
+    {
+      "title": "Dracula Battle",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe1"
+    },
+    {
+      "title": "Dracula's Death",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe2"
+    },
+    {
+      "title": "Ending",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fe0"
+    },
+    {
+      "title": "Secret Room",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fdf"
+    },
+    {
+      "title": "Death of Simon",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fde"
+    },
+    {
+      "title": "Game Over",
+      "guid": "135-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fdd"
+    }
+  ],
+  "title": "Super Castlevania IV"
+}

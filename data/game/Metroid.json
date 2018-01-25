@@ -1,1 +1,59 @@
-{"guid": "Metroid", "platform": "NES", "title": "Metroid", "composed_by": ["Hirokazu Tanaka"], "playlist": [{"title": "Intro", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eca"}, {"title": "Enter:  Samus", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ecb"}, {"title": "Brinstar", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec9"}, {"title": "Norfair", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec8"}, {"title": "Kraid's Lair", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec7"}, {"title": "Ridley's Lair", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec4"}, {"title": "Chozos", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec6"}, {"title": "Power Up", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec5"}, {"title": "Tourian", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec3"}, {"title": "Mother Brain", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec2"}, {"title": "Quick Escape", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec0"}, {"title": "Mission Completed Successfully", "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec1"}], "id": "194"}
+{
+  "composed_by": [
+    "Hirokazu Tanaka"
+  ],
+  "guid": "Metroid",
+  "id": "194",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Intro",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eca"
+    },
+    {
+      "title": "Enter:  Samus",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ecb"
+    },
+    {
+      "title": "Brinstar",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec9"
+    },
+    {
+      "title": "Norfair",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec8"
+    },
+    {
+      "title": "Kraid's Lair",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec7"
+    },
+    {
+      "title": "Ridley's Lair",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec4"
+    },
+    {
+      "title": "Chozos",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec6"
+    },
+    {
+      "title": "Power Up",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec5"
+    },
+    {
+      "title": "Tourian",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec3"
+    },
+    {
+      "title": "Mother Brain",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec2"
+    },
+    {
+      "title": "Quick Escape",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec0"
+    },
+    {
+      "title": "Mission Completed Successfully",
+      "guid": "194-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ec1"
+    }
+  ],
+  "title": "Metroid"
+}

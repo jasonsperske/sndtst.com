@@ -1,1 +1,77 @@
-{"guid": "Forgotten_Worlds", "platform": "Genesis", "title": "Forgotten Worlds", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f86"}, {"title": "Round 1 (Dust World 1)", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f85"}, {"title": "Round 2 (Dust World 2)", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f84"}, {"title": "Mid-Boss A (Outside)", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f83"}, {"title": "Round 3 (Dust World 3)", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f81"}, {"title": "Boss Theme", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f82"}, {"title": "Round 4 (Pyramid World 1)", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f80"}, {"title": "Round 5 (Pyramid World 2)", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7f"}, {"title": "Mid-Boss B (Inside)", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7e"}, {"title": "Shoppin'", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7d"}, {"title": "Round 7 (Etherous World 1)", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7c"}, {"title": "Round 9 (Etherous World 3)", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7b"}, {"title": "Final Boss", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7a"}, {"title": "Round Clear", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f79"}, {"title": "Ending Theme", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f78"}, {"title": "Staff Roll", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f77"}, {"title": "Game Over", "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f76"}], "id": "69"}
+{
+  "composed_by": [],
+  "guid": "Forgotten_Worlds",
+  "id": "69",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f86"
+    },
+    {
+      "title": "Round 1 (Dust World 1)",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f85"
+    },
+    {
+      "title": "Round 2 (Dust World 2)",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f84"
+    },
+    {
+      "title": "Mid-Boss A (Outside)",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f83"
+    },
+    {
+      "title": "Round 3 (Dust World 3)",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f81"
+    },
+    {
+      "title": "Boss Theme",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f82"
+    },
+    {
+      "title": "Round 4 (Pyramid World 1)",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f80"
+    },
+    {
+      "title": "Round 5 (Pyramid World 2)",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7f"
+    },
+    {
+      "title": "Mid-Boss B (Inside)",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7e"
+    },
+    {
+      "title": "Shoppin'",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7d"
+    },
+    {
+      "title": "Round 7 (Etherous World 1)",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7c"
+    },
+    {
+      "title": "Round 9 (Etherous World 3)",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7b"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f7a"
+    },
+    {
+      "title": "Round Clear",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f79"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f78"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f77"
+    },
+    {
+      "title": "Game Over",
+      "guid": "69-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f76"
+    }
+  ],
+  "title": "Forgotten Worlds"
+}

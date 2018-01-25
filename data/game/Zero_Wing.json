@@ -1,1 +1,81 @@
-{"guid": "Zero_Wing", "platform": "Genesis", "title": "Zero Wing", "composed_by": [], "playlist": [{"title": "Introduction (Part 1)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d62"}, {"title": "Introduction (Part 2)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d63"}, {"title": "Open Your Eyes (Stage 1 Natols)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d61"}, {"title": "Open Your Eyes (Stage 1 Natols No Intro)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d60"}, {"title": "New Day for Me (Stage 2 Legrous)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5e"}, {"title": "Babylonian Nights (Stage 3 Pleades)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5f"}, {"title": "You Get (Stage 4 Aquese)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5d"}, {"title": "Old Sense (Stage 5 Submarine Tunnel)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5c"}, {"title": "New Say (Stage 6 Barricade Zone)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5b"}, {"title": "Same One (Stage 7 Bellon)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5a"}, {"title": "Hit Man (Stage 8 Gerbarra)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d59"}, {"title": "Ending 1 (Dancing Raisins)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d58"}, {"title": "Ending 2", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d56"}, {"title": "Ending 3", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d57"}, {"title": "Game Set (Game Over)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d55"}, {"title": "Dullard (Continue)", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d54"}, {"title": "Continue Jingle", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d53"}, {"title": "Extra Life", "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d52"}], "id": "236"}
+{
+  "composed_by": [],
+  "guid": "Zero_Wing",
+  "id": "236",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Introduction (Part 1)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d62"
+    },
+    {
+      "title": "Introduction (Part 2)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d63"
+    },
+    {
+      "title": "Open Your Eyes (Stage 1 Natols)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d61"
+    },
+    {
+      "title": "Open Your Eyes (Stage 1 Natols No Intro)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d60"
+    },
+    {
+      "title": "New Day for Me (Stage 2 Legrous)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5e"
+    },
+    {
+      "title": "Babylonian Nights (Stage 3 Pleades)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5f"
+    },
+    {
+      "title": "You Get (Stage 4 Aquese)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5d"
+    },
+    {
+      "title": "Old Sense (Stage 5 Submarine Tunnel)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5c"
+    },
+    {
+      "title": "New Say (Stage 6 Barricade Zone)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5b"
+    },
+    {
+      "title": "Same One (Stage 7 Bellon)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d5a"
+    },
+    {
+      "title": "Hit Man (Stage 8 Gerbarra)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d59"
+    },
+    {
+      "title": "Ending 1 (Dancing Raisins)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d58"
+    },
+    {
+      "title": "Ending 2",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d56"
+    },
+    {
+      "title": "Ending 3",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d57"
+    },
+    {
+      "title": "Game Set (Game Over)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d55"
+    },
+    {
+      "title": "Dullard (Continue)",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d54"
+    },
+    {
+      "title": "Continue Jingle",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d53"
+    },
+    {
+      "title": "Extra Life",
+      "guid": "236-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d52"
+    }
+  ],
+  "title": "Zero Wing"
+}

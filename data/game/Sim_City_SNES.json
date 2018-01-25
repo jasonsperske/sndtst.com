@@ -1,1 +1,81 @@
-{"guid": "Sim_City_SNES", "platform": "SNES", "title": "Sim City", "composed_by": [], "playlist": [{"title": "Opening", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fff"}, {"title": "Selection", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ8000"}, {"title": "Village", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffe"}, {"title": "Town", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffd"}, {"title": "City", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffc"}, {"title": "Capital", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffb"}, {"title": "Metropolis", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffa"}, {"title": "Megalopolis", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff9"}, {"title": "Bad Evaluation", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff8"}, {"title": "Good Evaluation", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff7"}, {"title": "Information", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff5"}, {"title": "Growth", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff6"}, {"title": "Disaster", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff4"}, {"title": "Budget", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff3"}, {"title": "Congratulations", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff2"}, {"title": "Congratulations On Megalopolis", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff0"}, {"title": "You're Fired!", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff1"}, {"title": "Ending", "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fef"}], "id": "9"}
+{
+  "composed_by": [],
+  "guid": "Sim_City_SNES",
+  "id": "9",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Opening",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fff"
+    },
+    {
+      "title": "Selection",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ8000"
+    },
+    {
+      "title": "Village",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffe"
+    },
+    {
+      "title": "Town",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffd"
+    },
+    {
+      "title": "City",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffc"
+    },
+    {
+      "title": "Capital",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffb"
+    },
+    {
+      "title": "Metropolis",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ffa"
+    },
+    {
+      "title": "Megalopolis",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff9"
+    },
+    {
+      "title": "Bad Evaluation",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff8"
+    },
+    {
+      "title": "Good Evaluation",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff7"
+    },
+    {
+      "title": "Information",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff5"
+    },
+    {
+      "title": "Growth",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff6"
+    },
+    {
+      "title": "Disaster",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff4"
+    },
+    {
+      "title": "Budget",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff3"
+    },
+    {
+      "title": "Congratulations",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff2"
+    },
+    {
+      "title": "Congratulations On Megalopolis",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff0"
+    },
+    {
+      "title": "You're Fired!",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7ff1"
+    },
+    {
+      "title": "Ending",
+      "guid": "9-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fef"
+    }
+  ],
+  "title": "Sim City"
+}

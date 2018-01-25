@@ -1,1 +1,73 @@
-{"guid": "Cool_Spot", "platform": "Genesis", "title": "Cool Spot", "composed_by": [], "playlist": [{"title": "Wipeout Tune", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f69"}, {"title": "Beach Music", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f68"}, {"title": "Jazzy Tune", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f67"}, {"title": "Wall Tune", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f66"}, {"title": "Groovie Tune", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f65"}, {"title": "Play da Blues", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f64"}, {"title": "Western Tune", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f63"}, {"title": "Parade Tune", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f62"}, {"title": "Rave Dancetune", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f60"}, {"title": "7 Cool Points", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f61"}, {"title": "Replenish", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5f"}, {"title": "1-Up", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5e"}, {"title": "Getting Letter", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5d"}, {"title": "Flag Rising", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5c"}, {"title": "Spot Fall Over", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5b"}, {"title": "Game Over Tune", "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5a"}], "id": "220"}
+{
+  "composed_by": [],
+  "guid": "Cool_Spot",
+  "id": "220",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Wipeout Tune",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f69"
+    },
+    {
+      "title": "Beach Music",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f68"
+    },
+    {
+      "title": "Jazzy Tune",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f67"
+    },
+    {
+      "title": "Wall Tune",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f66"
+    },
+    {
+      "title": "Groovie Tune",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f65"
+    },
+    {
+      "title": "Play da Blues",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f64"
+    },
+    {
+      "title": "Western Tune",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f63"
+    },
+    {
+      "title": "Parade Tune",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f62"
+    },
+    {
+      "title": "Rave Dancetune",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f60"
+    },
+    {
+      "title": "7 Cool Points",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f61"
+    },
+    {
+      "title": "Replenish",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5f"
+    },
+    {
+      "title": "1-Up",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5e"
+    },
+    {
+      "title": "Getting Letter",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5d"
+    },
+    {
+      "title": "Flag Rising",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5c"
+    },
+    {
+      "title": "Spot Fall Over",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5b"
+    },
+    {
+      "title": "Game Over Tune",
+      "guid": "220-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f5a"
+    }
+  ],
+  "title": "Cool Spot"
+}

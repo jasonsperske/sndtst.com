@@ -1,1 +1,187 @@
-{"guid": "Star_Fox", "platform": "SNES", "title": "Star Fox", "composed_by": ["Hajime Hirasawa"], "playlist": [{"title": "Title Demo", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe8"}, {"title": "Title Screen", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe7"}, {"title": "Controls", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe6"}, {"title": "Course Map Select", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe5"}, {"title": "Emergency Call", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe4"}, {"title": "Corneria", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe3"}, {"title": "Meteor", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe2"}, {"title": "Titania", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe1"}, {"title": "Fortuna", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe0"}, {"title": "Macbeth", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fdf"}, {"title": "Asteroid & Venom Orbital", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fdd"}, {"title": "Space Armada", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fde"}, {"title": "Venom Base (Level 2)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fdc"}, {"title": "Sector X & Sector Z", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fda"}, {"title": "Sector Y", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fdb"}, {"title": "Venom Base (Level 1 & 3)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd9"}, {"title": "Boss (Corneria, Planet Battle)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd8"}, {"title": "Boss (Fortuna)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd7"}, {"title": "Boss (Macbeth)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd6"}, {"title": "Boss (Titania)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd4"}, {"title": "Boss (Asteroid, Space Battle)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd5"}, {"title": "Boss (Space Armada, Core Type)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd3"}, {"title": "Boss (Venom Base 1)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd2"}, {"title": "Boss (Venom Base 2)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd1"}, {"title": "Boss (Last Boss Andolf)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd0"}, {"title": "Player Down (Orchestra Version)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fcf"}, {"title": "Player Down (Band Version)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fce"}, {"title": "Game Over", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fcd"}, {"title": "Continue", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fcc"}, {"title": "Course Clear (Orchestra Version)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fcb"}, {"title": "Course Clear (Band Version)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fca"}, {"title": "Last Boss Clear", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc9"}, {"title": "Game Clear Demonstration", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc8"}, {"title": "Ending", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc7"}, {"title": "Main Theme", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc6"}, {"title": "Out of this Dimension", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc5"}, {"title": "Slot Machine", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc4"}, {"title": "Black Hole (BGM)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc3"}, {"title": "Black Hole (Map Select)", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc2"}, {"title": "Training Mode", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc0"}, {"title": "The End", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc1"}, {"title": "Briefing", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fbf"}, {"title": "Come in, Corneria!", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fbe"}, {"title": "Good Luck!", "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fbd"}], "id": "11"}
+{
+  "composed_by": [
+    "Hajime Hirasawa"
+  ],
+  "guid": "Star_Fox",
+  "id": "11",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Title Demo",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe8"
+    },
+    {
+      "title": "Title Screen",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe7"
+    },
+    {
+      "title": "Controls",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe6"
+    },
+    {
+      "title": "Course Map Select",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe5"
+    },
+    {
+      "title": "Emergency Call",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe4"
+    },
+    {
+      "title": "Corneria",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe3"
+    },
+    {
+      "title": "Meteor",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe2"
+    },
+    {
+      "title": "Titania",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe1"
+    },
+    {
+      "title": "Fortuna",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fe0"
+    },
+    {
+      "title": "Macbeth",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fdf"
+    },
+    {
+      "title": "Asteroid & Venom Orbital",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fdd"
+    },
+    {
+      "title": "Space Armada",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fde"
+    },
+    {
+      "title": "Venom Base (Level 2)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fdc"
+    },
+    {
+      "title": "Sector X & Sector Z",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fda"
+    },
+    {
+      "title": "Sector Y",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fdb"
+    },
+    {
+      "title": "Venom Base (Level 1 & 3)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd9"
+    },
+    {
+      "title": "Boss (Corneria, Planet Battle)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd8"
+    },
+    {
+      "title": "Boss (Fortuna)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd7"
+    },
+    {
+      "title": "Boss (Macbeth)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd6"
+    },
+    {
+      "title": "Boss (Titania)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd4"
+    },
+    {
+      "title": "Boss (Asteroid, Space Battle)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd5"
+    },
+    {
+      "title": "Boss (Space Armada, Core Type)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd3"
+    },
+    {
+      "title": "Boss (Venom Base 1)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd2"
+    },
+    {
+      "title": "Boss (Venom Base 2)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd1"
+    },
+    {
+      "title": "Boss (Last Boss Andolf)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fd0"
+    },
+    {
+      "title": "Player Down (Orchestra Version)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fcf"
+    },
+    {
+      "title": "Player Down (Band Version)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fce"
+    },
+    {
+      "title": "Game Over",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fcd"
+    },
+    {
+      "title": "Continue",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fcc"
+    },
+    {
+      "title": "Course Clear (Orchestra Version)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fcb"
+    },
+    {
+      "title": "Course Clear (Band Version)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fca"
+    },
+    {
+      "title": "Last Boss Clear",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc9"
+    },
+    {
+      "title": "Game Clear Demonstration",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc8"
+    },
+    {
+      "title": "Ending",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc7"
+    },
+    {
+      "title": "Main Theme",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc6"
+    },
+    {
+      "title": "Out of this Dimension",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc5"
+    },
+    {
+      "title": "Slot Machine",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc4"
+    },
+    {
+      "title": "Black Hole (BGM)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc3"
+    },
+    {
+      "title": "Black Hole (Map Select)",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc2"
+    },
+    {
+      "title": "Training Mode",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc0"
+    },
+    {
+      "title": "The End",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fc1"
+    },
+    {
+      "title": "Briefing",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fbf"
+    },
+    {
+      "title": "Come in, Corneria!",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fbe"
+    },
+    {
+      "title": "Good Luck!",
+      "guid": "11-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fbd"
+    }
+  ],
+  "title": "Star Fox"
+}

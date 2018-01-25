@@ -1,1 +1,105 @@
-{"guid": "Fatal_Fury_Special", "platform": "Arcade", "title": "Fatal Fury Special", "composed_by": [], "playlist": [{"title": "Garou Densetsu Special (Title)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c61"}, {"title": "LEVEL UP 2 [Level Select]", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c60"}, {"title": "PLAYER SELECT", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5e"}, {"title": "VS", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5f"}, {"title": "Kurikinton (America Stage I - Terry Bogard)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5d"}, {"title": "Pasta (Italy Stage - Andy Bogard)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5c"}, {"title": "A New Poem Southern Thailand Wants to Tell [Thai nanbu ni tsutawatta sp no shi] (Thailand Stage - Joe Higashi)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5a"}, {"title": "WINNER DEMO", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5b"}, {"title": "Tanaka and Kitapi (Australia Stage - Big Bear)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c58"}, {"title": "Jubei (Japan Stage I - Jubei Yamada)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c59"}, {"title": "Flame Dragon God [Enryuujin] (Japan Stage II - Mai Shiranui)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c56"}, {"title": "Pangyago Hoho [Pangyago houho] (Hong Kong Stage - Cheng Sinzan)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c57"}, {"title": "Let's Go to Seoul! [Seoul ni ikou!] (Korea Stage - Kim Kaphwan)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c54"}, {"title": "Duck Dub Dub [Duck, and You too] (America Stage III - Duck King)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c55"}, {"title": "How Has China Survived 4000 Years (China Stage - Tung Fu Rue)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c52"}, {"title": "London March (England Stage - Billy Kane)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c53"}, {"title": "Kinku Konku (America Stage II - Axel Hawk)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c51"}, {"title": "Working as a Matador [Practicing Matador] (Spain Stage - Lawrence Blood)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c50"}, {"title": "Geese ni shouyu [Soy Sauce on Geese] (America Stage IV - Geese Howard)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4e"}, {"title": "Requiem in D Minor K.626 Dies Irae (Germany Stage - Wolfgang Krauser)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4f"}, {"title": "Ryuuko no Ken Ver.230000000.0 (Japan Stage III - Ryo Sakazaki)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4d"}, {"title": "More Mission (Ending)", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4c"}, {"title": "CONTINUE ~ GAME OVER", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4b"}, {"title": "NAME", "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4a"}], "id": "247"}
+{
+  "composed_by": [],
+  "guid": "Fatal_Fury_Special",
+  "id": "247",
+  "platform": "Arcade",
+  "playlist": [
+    {
+      "title": "Garou Densetsu Special (Title)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c61"
+    },
+    {
+      "title": "LEVEL UP 2 [Level Select]",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c60"
+    },
+    {
+      "title": "PLAYER SELECT",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5e"
+    },
+    {
+      "title": "VS",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5f"
+    },
+    {
+      "title": "Kurikinton (America Stage I - Terry Bogard)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5d"
+    },
+    {
+      "title": "Pasta (Italy Stage - Andy Bogard)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5c"
+    },
+    {
+      "title": "A New Poem Southern Thailand Wants to Tell [Thai nanbu ni tsutawatta sp no shi] (Thailand Stage - Joe Higashi)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5a"
+    },
+    {
+      "title": "WINNER DEMO",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c5b"
+    },
+    {
+      "title": "Tanaka and Kitapi (Australia Stage - Big Bear)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c58"
+    },
+    {
+      "title": "Jubei (Japan Stage I - Jubei Yamada)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c59"
+    },
+    {
+      "title": "Flame Dragon God [Enryuujin] (Japan Stage II - Mai Shiranui)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c56"
+    },
+    {
+      "title": "Pangyago Hoho [Pangyago houho] (Hong Kong Stage - Cheng Sinzan)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c57"
+    },
+    {
+      "title": "Let's Go to Seoul! [Seoul ni ikou!] (Korea Stage - Kim Kaphwan)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c54"
+    },
+    {
+      "title": "Duck Dub Dub [Duck, and You too] (America Stage III - Duck King)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c55"
+    },
+    {
+      "title": "How Has China Survived 4000 Years (China Stage - Tung Fu Rue)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c52"
+    },
+    {
+      "title": "London March (England Stage - Billy Kane)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c53"
+    },
+    {
+      "title": "Kinku Konku (America Stage II - Axel Hawk)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c51"
+    },
+    {
+      "title": "Working as a Matador [Practicing Matador] (Spain Stage - Lawrence Blood)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c50"
+    },
+    {
+      "title": "Geese ni shouyu [Soy Sauce on Geese] (America Stage IV - Geese Howard)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4e"
+    },
+    {
+      "title": "Requiem in D Minor K.626 Dies Irae (Germany Stage - Wolfgang Krauser)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4f"
+    },
+    {
+      "title": "Ryuuko no Ken Ver.230000000.0 (Japan Stage III - Ryo Sakazaki)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4d"
+    },
+    {
+      "title": "More Mission (Ending)",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4c"
+    },
+    {
+      "title": "CONTINUE ~ GAME OVER",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4b"
+    },
+    {
+      "title": "NAME",
+      "guid": "247-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7c4a"
+    }
+  ],
+  "title": "Fatal Fury Special"
+}

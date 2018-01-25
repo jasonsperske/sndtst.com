@@ -1,1 +1,73 @@
-{"guid": "Street_Fighter_II_Turbo", "platform": "SNES", "title": "Street Fighter II Turbo", "composed_by": [], "playlist": [{"title": "Character Select", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7feb"}, {"title": "Ryu", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe3"}, {"title": "Ken", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe4"}, {"title": "E. Honda", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe7"}, {"title": "Chun Li", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe9"}, {"title": "Blanka", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fed"}, {"title": "Zangief", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe0"}, {"title": "Guile", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe6"}, {"title": "Dhalsim", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe8"}, {"title": "Balrog", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fee"}, {"title": "Vega", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fdf"}, {"title": "Sagat", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe1"}, {"title": "M. Bison", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe5"}, {"title": "Staff Roll", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe2"}, {"title": "Bonus Round", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fec"}, {"title": "Continue?", "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fea"}], "id": "10"}
+{
+  "composed_by": [],
+  "guid": "Street_Fighter_II_Turbo",
+  "id": "10",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Character Select",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7feb"
+    },
+    {
+      "title": "Ryu",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe3"
+    },
+    {
+      "title": "Ken",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe4"
+    },
+    {
+      "title": "E. Honda",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe7"
+    },
+    {
+      "title": "Chun Li",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe9"
+    },
+    {
+      "title": "Blanka",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fed"
+    },
+    {
+      "title": "Zangief",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe0"
+    },
+    {
+      "title": "Guile",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe6"
+    },
+    {
+      "title": "Dhalsim",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe8"
+    },
+    {
+      "title": "Balrog",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fee"
+    },
+    {
+      "title": "Vega",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fdf"
+    },
+    {
+      "title": "Sagat",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe1"
+    },
+    {
+      "title": "M. Bison",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe5"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fe2"
+    },
+    {
+      "title": "Bonus Round",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fec"
+    },
+    {
+      "title": "Continue?",
+      "guid": "10-4b8a3ade4c369956OgLQ11ef3a3eOg1458dd9a7e4OgLQ7fea"
+    }
+  ],
+  "title": "Street Fighter II Turbo"
+}

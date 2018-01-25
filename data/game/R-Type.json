@@ -1,1 +1,67 @@
-{"guid": "R-Type", "platform": "TG16", "title": "R-Type", "composed_by": ["Masahiko Ishida"], "playlist": [{"title": "Title", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ8000"}, {"title": "Battle Theme [Stage 1]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fff"}, {"title": "Monster Beat [Stage 2]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffe"}, {"title": "Battle Pressure [Stage 3]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffd"}, {"title": "Granulationes [Stage 4]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffc"}, {"title": "Monster Lurking in the Cave [Stage 5]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffa"}, {"title": "Scramble Crossroad [Stage 6]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffb"}, {"title": "Dream Island [Stage 7]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff8"}, {"title": "Uterus [Stage 8]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff9"}, {"title": "Boss Theme", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff7"}, {"title": "Return in Triumph [Stage Clear]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff5"}, {"title": "The End of the War [Game Over]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff6"}, {"title": "Name Entry", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff4"}, {"title": "Like a Hero [Ending]", "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff3"}], "id": "94"}
+{
+  "composed_by": [
+    "Masahiko Ishida"
+  ],
+  "guid": "R-Type",
+  "id": "94",
+  "platform": "TG16",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ8000"
+    },
+    {
+      "title": "Battle Theme [Stage 1]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fff"
+    },
+    {
+      "title": "Monster Beat [Stage 2]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffe"
+    },
+    {
+      "title": "Battle Pressure [Stage 3]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffd"
+    },
+    {
+      "title": "Granulationes [Stage 4]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffc"
+    },
+    {
+      "title": "Monster Lurking in the Cave [Stage 5]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffa"
+    },
+    {
+      "title": "Scramble Crossroad [Stage 6]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ffb"
+    },
+    {
+      "title": "Dream Island [Stage 7]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff8"
+    },
+    {
+      "title": "Uterus [Stage 8]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff9"
+    },
+    {
+      "title": "Boss Theme",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff7"
+    },
+    {
+      "title": "Return in Triumph [Stage Clear]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff5"
+    },
+    {
+      "title": "The End of the War [Game Over]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff6"
+    },
+    {
+      "title": "Name Entry",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff4"
+    },
+    {
+      "title": "Like a Hero [Ending]",
+      "guid": "94-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ff3"
+    }
+  ],
+  "title": "R-Type"
+}

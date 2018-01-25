@@ -1,1 +1,108 @@
-{"guid": "Desert_Strike", "platform": "Genesis", "title": "Desert Strike", "composed_by": ["Brian Schmidt", "Rob Hubbard"], "playlist": [{"title": "Title Theme", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fae"}, {"title": "Opening (Part 1)", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fad"}, {"title": "Opening (Part 2)", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fac"}, {"title": "Opening (Part 3)", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7faa"}, {"title": "Opening (Part 4)", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fab"}, {"title": "Opening (Part 5)", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa9"}, {"title": "Mission Briefing 1", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa8"}, {"title": "Campaign 1 Cutscene 1", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa7"}, {"title": "Campaign 1 Cutscene 2", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa6"}, {"title": "Campaign Clear", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa5"}, {"title": "Mission Briefing 2", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa4"}, {"title": "Campaign 2 Cutscene", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa3"}, {"title": "Mission Briefing 3", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa1"}, {"title": "Campaign 3 Cutscene 1", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa2"}, {"title": "Campaign 3 Cutscene 2", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa0"}, {"title": "Mission Failed", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9f"}, {"title": "Mission Briefing 4", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9d"}, {"title": "Campaign 4 Cutscene", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9e"}, {"title": "Ending Theme", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9c"}, {"title": "Staff Roll", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9a"}, {"title": "Unknown (Sound Code 65)", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9b"}, {"title": "Unknown (Sound Code 6F)", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f99"}, {"title": "Unknown (Sound Code 70)", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f98"}, {"title": "Unknown (Sound Code 74)", "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f97"}], "id": "339"}
+{
+  "composed_by": [
+    "Brian Schmidt",
+    "Rob Hubbard"
+  ],
+  "guid": "Desert_Strike",
+  "id": "339",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Title Theme",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fae"
+    },
+    {
+      "title": "Opening (Part 1)",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fad"
+    },
+    {
+      "title": "Opening (Part 2)",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fac"
+    },
+    {
+      "title": "Opening (Part 3)",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7faa"
+    },
+    {
+      "title": "Opening (Part 4)",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fab"
+    },
+    {
+      "title": "Opening (Part 5)",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa9"
+    },
+    {
+      "title": "Mission Briefing 1",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa8"
+    },
+    {
+      "title": "Campaign 1 Cutscene 1",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa7"
+    },
+    {
+      "title": "Campaign 1 Cutscene 2",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa6"
+    },
+    {
+      "title": "Campaign Clear",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa5"
+    },
+    {
+      "title": "Mission Briefing 2",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa4"
+    },
+    {
+      "title": "Campaign 2 Cutscene",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa3"
+    },
+    {
+      "title": "Mission Briefing 3",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa1"
+    },
+    {
+      "title": "Campaign 3 Cutscene 1",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa2"
+    },
+    {
+      "title": "Campaign 3 Cutscene 2",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fa0"
+    },
+    {
+      "title": "Mission Failed",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9f"
+    },
+    {
+      "title": "Mission Briefing 4",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9d"
+    },
+    {
+      "title": "Campaign 4 Cutscene",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9e"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9c"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9a"
+    },
+    {
+      "title": "Unknown (Sound Code 65)",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f9b"
+    },
+    {
+      "title": "Unknown (Sound Code 6F)",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f99"
+    },
+    {
+      "title": "Unknown (Sound Code 70)",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f98"
+    },
+    {
+      "title": "Unknown (Sound Code 74)",
+      "guid": "339-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f97"
+    }
+  ],
+  "title": "Desert Strike"
+}

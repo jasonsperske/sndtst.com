@@ -1,1 +1,79 @@
-{"guid": "Bonks_Adventure", "platform": "TG16", "title": "Bonk's Adventure", "composed_by": ["Tsukasa Masuko"], "playlist": [{"title": "Title", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd8"}, {"title": "Round 1", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd9"}, {"title": "Round 2", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd7"}, {"title": "Round 3", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd6"}, {"title": "Round 4", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd5"}, {"title": "Round 5", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd4"}, {"title": "Round 6", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd3"}, {"title": "Round 7-1 (Warumono Yousai 1)", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd2"}, {"title": "Round 7-2 (Warumono Yousai 2)", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd1"}, {"title": "Bonus Stage", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fcf"}, {"title": "Power Up", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd0"}, {"title": "Area Clear", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fce"}, {"title": "Moon Base", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fcc"}, {"title": "Boss 1", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fcd"}, {"title": "Boss 2", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fcb"}, {"title": "Round Clear", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fca"}, {"title": "Ending", "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc9"}], "id": "48"}
+{
+  "composed_by": [
+    "Tsukasa Masuko"
+  ],
+  "guid": "Bonks_Adventure",
+  "id": "48",
+  "platform": "TG16",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd8"
+    },
+    {
+      "title": "Round 1",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd9"
+    },
+    {
+      "title": "Round 2",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd7"
+    },
+    {
+      "title": "Round 3",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd6"
+    },
+    {
+      "title": "Round 4",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd5"
+    },
+    {
+      "title": "Round 5",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd4"
+    },
+    {
+      "title": "Round 6",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd3"
+    },
+    {
+      "title": "Round 7-1 (Warumono Yousai 1)",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd2"
+    },
+    {
+      "title": "Round 7-2 (Warumono Yousai 2)",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd1"
+    },
+    {
+      "title": "Bonus Stage",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fcf"
+    },
+    {
+      "title": "Power Up",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fd0"
+    },
+    {
+      "title": "Area Clear",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fce"
+    },
+    {
+      "title": "Moon Base",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fcc"
+    },
+    {
+      "title": "Boss 1",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fcd"
+    },
+    {
+      "title": "Boss 2",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fcb"
+    },
+    {
+      "title": "Round Clear",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fca"
+    },
+    {
+      "title": "Ending",
+      "guid": "48-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc9"
+    }
+  ],
+  "title": "Bonk's Adventure"
+}

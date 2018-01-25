@@ -1,1 +1,61 @@
-{"guid": "Earthworm_Jim_2_(SNES)", "platform": "SNES", "title": "Earthworm Jim 2", "composed_by": [], "playlist": [{"title": "Title", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb6"}, {"title": "Anything but Tangerines", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb5"}, {"title": "Lorenzen's Soil", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb4"}, {"title": "Villi People", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb2"}, {"title": "Game Show", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb3"}, {"title": "The Flyin' King", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb1"}, {"title": "Udderly Abducted", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eaf"}, {"title": "Forked", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb0"}, {"title": "See Jim Run. Run Jim Run.", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eae"}, {"title": "Puppy Love", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ead"}, {"title": "Bonus", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eac"}, {"title": "Continue", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eab"}, {"title": "Ending", "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eaa"}], "id": "114"}
+{
+  "composed_by": [],
+  "guid": "Earthworm_Jim_2_(SNES)",
+  "id": "114",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb6"
+    },
+    {
+      "title": "Anything but Tangerines",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb5"
+    },
+    {
+      "title": "Lorenzen's Soil",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb4"
+    },
+    {
+      "title": "Villi People",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb2"
+    },
+    {
+      "title": "Game Show",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb3"
+    },
+    {
+      "title": "The Flyin' King",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb1"
+    },
+    {
+      "title": "Udderly Abducted",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eaf"
+    },
+    {
+      "title": "Forked",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb0"
+    },
+    {
+      "title": "See Jim Run. Run Jim Run.",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eae"
+    },
+    {
+      "title": "Puppy Love",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ead"
+    },
+    {
+      "title": "Bonus",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eac"
+    },
+    {
+      "title": "Continue",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eab"
+    },
+    {
+      "title": "Ending",
+      "guid": "114-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eaa"
+    }
+  ],
+  "title": "Earthworm Jim 2"
+}

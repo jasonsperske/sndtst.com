@@ -1,1 +1,133 @@
-{"guid": "Mega_Bomberman", "platform": "Genesis", "title": "Mega Bomberman", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fec"}, {"title": "Title Theme", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7feb"}, {"title": "Password Entry", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fea"}, {"title": "Area Select", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe9"}, {"title": "Stage Select", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe8"}, {"title": "Area 1 Jammin' Jungle", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe6"}, {"title": "Stage Clear", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe7"}, {"title": "Boss Theme 1 (Areas 1, 3, 4, 5)", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe4"}, {"title": "Area 2 Vexin' Volcano", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe5"}, {"title": "Boss Theme 2 (Area 2)", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe3"}, {"title": "Area 3 Slammin' Sea", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe2"}, {"title": "Area 4 Crankin' Castle", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe1"}, {"title": "Area 5 Thrashin' Tundra", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fdf"}, {"title": "Final Area Intro", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe0"}, {"title": "Final Area", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fdd"}, {"title": "Final Boss (Part 1 Intro)", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fde"}, {"title": "Final Boss (Part 1)", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fdc"}, {"title": "Final Boss (Part 2 Intro)", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fdb"}, {"title": "Final Boss (Part 2)", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd6"}, {"title": "Final Boss (Part 3 Intro)", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fda"}, {"title": "Final Boss (Part 3)", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd9"}, {"title": "Game Clear", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd8"}, {"title": "Player Death", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd7"}, {"title": "Staff Roll", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd4"}, {"title": "Game Over", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd5"}, {"title": "Battle Configuration", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd3"}, {"title": "Battle Start", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd2"}, {"title": "Battle Theme", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fce"}, {"title": "Battle Win", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd1"}, {"title": "Battle Draw", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd0"}, {"title": "Battle Victory", "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fcf"}], "id": "213"}
+{
+  "composed_by": [],
+  "guid": "Mega_Bomberman",
+  "id": "213",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fec"
+    },
+    {
+      "title": "Title Theme",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7feb"
+    },
+    {
+      "title": "Password Entry",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fea"
+    },
+    {
+      "title": "Area Select",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe9"
+    },
+    {
+      "title": "Stage Select",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe8"
+    },
+    {
+      "title": "Area 1 Jammin' Jungle",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe6"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe7"
+    },
+    {
+      "title": "Boss Theme 1 (Areas 1, 3, 4, 5)",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe4"
+    },
+    {
+      "title": "Area 2 Vexin' Volcano",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe5"
+    },
+    {
+      "title": "Boss Theme 2 (Area 2)",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe3"
+    },
+    {
+      "title": "Area 3 Slammin' Sea",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe2"
+    },
+    {
+      "title": "Area 4 Crankin' Castle",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe1"
+    },
+    {
+      "title": "Area 5 Thrashin' Tundra",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fdf"
+    },
+    {
+      "title": "Final Area Intro",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fe0"
+    },
+    {
+      "title": "Final Area",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fdd"
+    },
+    {
+      "title": "Final Boss (Part 1 Intro)",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fde"
+    },
+    {
+      "title": "Final Boss (Part 1)",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fdc"
+    },
+    {
+      "title": "Final Boss (Part 2 Intro)",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fdb"
+    },
+    {
+      "title": "Final Boss (Part 2)",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd6"
+    },
+    {
+      "title": "Final Boss (Part 3 Intro)",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fda"
+    },
+    {
+      "title": "Final Boss (Part 3)",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd9"
+    },
+    {
+      "title": "Game Clear",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd8"
+    },
+    {
+      "title": "Player Death",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd7"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd4"
+    },
+    {
+      "title": "Game Over",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd5"
+    },
+    {
+      "title": "Battle Configuration",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd3"
+    },
+    {
+      "title": "Battle Start",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd2"
+    },
+    {
+      "title": "Battle Theme",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fce"
+    },
+    {
+      "title": "Battle Win",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd1"
+    },
+    {
+      "title": "Battle Draw",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fd0"
+    },
+    {
+      "title": "Battle Victory",
+      "guid": "213-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7fcf"
+    }
+  ],
+  "title": "Mega Bomberman"
+}

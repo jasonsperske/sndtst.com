@@ -1,1 +1,89 @@
-{"guid": "Space_Harrier_II", "platform": "Genesis", "title": "Space Harrier II", "composed_by": [], "playlist": [{"title": "Motion (Title Screen)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f75"}, {"title": "Harrier Saga (Stage Theme)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f74"}, {"title": "Nuclear Shock (Boss 1 Trimuller)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f73"}, {"title": "Mind Quake (Boss 2 Paranoia)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f72"}, {"title": "Neo (Boss 3 Brizard)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f71"}, {"title": "Giga (Boss 4 Neo Dom)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f70"}, {"title": "The Stairs to Z (Boss 5 Mantichora)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6f"}, {"title": "Handcuff (Boss 6 Wizard)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6e"}, {"title": "Perspective (Boss 7 Medusa)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6d"}, {"title": "Machine Henge (Boss 8 Neo Tomos)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6c"}, {"title": "Jelly Syndrome (Boss 9 Cragon)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6b"}, {"title": "Outsider (Boss 10 Bins Been)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6a"}, {"title": "An Omen (Boss 11 Love Face)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f69"}, {"title": "Mega Chance (Boss 12 Cthugha)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f68"}, {"title": "Reverse Infect (Final Boss Dark Harrier)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f67"}, {"title": "Illusion (Staff Roll)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f66"}, {"title": "Winner's Flight (Bonus Stage)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f65"}, {"title": "Name Entry", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f64"}, {"title": "An Epitaph (Ending Theme)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f62"}, {"title": "A (Game Over)", "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f63"}], "id": "70"}
+{
+  "composed_by": [],
+  "guid": "Space_Harrier_II",
+  "id": "70",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Motion (Title Screen)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f75"
+    },
+    {
+      "title": "Harrier Saga (Stage Theme)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f74"
+    },
+    {
+      "title": "Nuclear Shock (Boss 1 Trimuller)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f73"
+    },
+    {
+      "title": "Mind Quake (Boss 2 Paranoia)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f72"
+    },
+    {
+      "title": "Neo (Boss 3 Brizard)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f71"
+    },
+    {
+      "title": "Giga (Boss 4 Neo Dom)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f70"
+    },
+    {
+      "title": "The Stairs to Z (Boss 5 Mantichora)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6f"
+    },
+    {
+      "title": "Handcuff (Boss 6 Wizard)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6e"
+    },
+    {
+      "title": "Perspective (Boss 7 Medusa)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6d"
+    },
+    {
+      "title": "Machine Henge (Boss 8 Neo Tomos)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6c"
+    },
+    {
+      "title": "Jelly Syndrome (Boss 9 Cragon)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6b"
+    },
+    {
+      "title": "Outsider (Boss 10 Bins Been)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f6a"
+    },
+    {
+      "title": "An Omen (Boss 11 Love Face)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f69"
+    },
+    {
+      "title": "Mega Chance (Boss 12 Cthugha)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f68"
+    },
+    {
+      "title": "Reverse Infect (Final Boss Dark Harrier)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f67"
+    },
+    {
+      "title": "Illusion (Staff Roll)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f66"
+    },
+    {
+      "title": "Winner's Flight (Bonus Stage)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f65"
+    },
+    {
+      "title": "Name Entry",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f64"
+    },
+    {
+      "title": "An Epitaph (Ending Theme)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f62"
+    },
+    {
+      "title": "A (Game Over)",
+      "guid": "70-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f63"
+    }
+  ],
+  "title": "Space Harrier II"
+}

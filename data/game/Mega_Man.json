@@ -1,1 +1,76 @@
-{"guid": "Mega_Man", "platform": "NES", "title": "Mega Man", "composed_by": ["Manami Matsumae", "Yoshihiro Sakaguchi"], "playlist": [{"title": "Stage Select", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd3"}, {"title": "Game Start", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd4"}, {"title": "Cutman Stage", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd1"}, {"title": "Gutsman Stage", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd2"}, {"title": "Iceman Stage", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fcf"}, {"title": "Bombman Stage", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd0"}, {"title": "Fireman Stage", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fce"}, {"title": "Elecman Stage", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fcd"}, {"title": "Boss", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fcc"}, {"title": "Stage Clear", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fcb"}, {"title": "Game Over", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fca"}, {"title": "Dr. Wily Stage 1", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc9"}, {"title": "Dr. Wily Stage 2", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc8"}, {"title": "Dr. Wily Stage Boss", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc6"}, {"title": "All Stage Clear", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc7"}, {"title": "Ending", "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc5"}], "id": "19"}
+{
+  "composed_by": [
+    "Manami Matsumae",
+    "Yoshihiro Sakaguchi"
+  ],
+  "guid": "Mega_Man",
+  "id": "19",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Stage Select",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd3"
+    },
+    {
+      "title": "Game Start",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd4"
+    },
+    {
+      "title": "Cutman Stage",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd1"
+    },
+    {
+      "title": "Gutsman Stage",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd2"
+    },
+    {
+      "title": "Iceman Stage",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fcf"
+    },
+    {
+      "title": "Bombman Stage",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fd0"
+    },
+    {
+      "title": "Fireman Stage",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fce"
+    },
+    {
+      "title": "Elecman Stage",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fcd"
+    },
+    {
+      "title": "Boss",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fcc"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fcb"
+    },
+    {
+      "title": "Game Over",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fca"
+    },
+    {
+      "title": "Dr. Wily Stage 1",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc9"
+    },
+    {
+      "title": "Dr. Wily Stage 2",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc8"
+    },
+    {
+      "title": "Dr. Wily Stage Boss",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc6"
+    },
+    {
+      "title": "All Stage Clear",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc7"
+    },
+    {
+      "title": "Ending",
+      "guid": "19-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fc5"
+    }
+  ],
+  "title": "Mega Man"
+}

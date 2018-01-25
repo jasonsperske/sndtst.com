@@ -1,1 +1,103 @@
-{"guid": "Tetrisphere", "platform": "N64", "title": "Tetrisphere", "composed_by": ["Neil D. Voss"], "playlist": [{"title": "Prophetic - Title", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fdb"}, {"title": "Azule Lux", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fdc"}, {"title": "Martist", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fda"}, {"title": "Compliant Confuse", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd9"}, {"title": "Faze", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd8"}, {"title": "Flim Flam", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd7"}, {"title": "ManicDrumMix", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd6"}, {"title": "Hallucid", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd5"}, {"title": "Perpetuate303", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd4"}, {"title": "Phony", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd3"}, {"title": "T. Grey", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd2"}, {"title": "Learn", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd1"}, {"title": "Zyp Zyp", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd0"}, {"title": "Extol", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fcf"}, {"title": "Magic Fluter", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fce"}, {"title": "Spooky Baby", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fcd"}, {"title": "Zooming Car", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fcc"}, {"title": "Cheddar Funk", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fcb"}, {"title": "SnowyMushrooms", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fca"}, {"title": "Dog Robot", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fc9"}, {"title": "Sappy", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fc8"}, {"title": "SkankBowlFight", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fc7"}, {"title": "Birthday Bumps", "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fc6"}], "id": "385"}
+{
+  "composed_by": [
+    "Neil D. Voss"
+  ],
+  "guid": "Tetrisphere",
+  "id": "385",
+  "platform": "N64",
+  "playlist": [
+    {
+      "title": "Prophetic - Title",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fdb"
+    },
+    {
+      "title": "Azule Lux",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fdc"
+    },
+    {
+      "title": "Martist",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fda"
+    },
+    {
+      "title": "Compliant Confuse",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd9"
+    },
+    {
+      "title": "Faze",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd8"
+    },
+    {
+      "title": "Flim Flam",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd7"
+    },
+    {
+      "title": "ManicDrumMix",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd6"
+    },
+    {
+      "title": "Hallucid",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd5"
+    },
+    {
+      "title": "Perpetuate303",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd4"
+    },
+    {
+      "title": "Phony",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd3"
+    },
+    {
+      "title": "T. Grey",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd2"
+    },
+    {
+      "title": "Learn",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd1"
+    },
+    {
+      "title": "Zyp Zyp",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fd0"
+    },
+    {
+      "title": "Extol",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fcf"
+    },
+    {
+      "title": "Magic Fluter",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fce"
+    },
+    {
+      "title": "Spooky Baby",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fcd"
+    },
+    {
+      "title": "Zooming Car",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fcc"
+    },
+    {
+      "title": "Cheddar Funk",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fcb"
+    },
+    {
+      "title": "SnowyMushrooms",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fca"
+    },
+    {
+      "title": "Dog Robot",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fc9"
+    },
+    {
+      "title": "Sappy",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fc8"
+    },
+    {
+      "title": "SkankBowlFight",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fc7"
+    },
+    {
+      "title": "Birthday Bumps",
+      "guid": "385-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fc6"
+    }
+  ],
+  "title": "Tetrisphere"
+}

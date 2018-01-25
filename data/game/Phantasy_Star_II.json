@@ -1,1 +1,97 @@
-{"guid": "Phantasy_Star_II", "platform": "Genesis", "title": "Phantasy Star II", "composed_by": [], "playlist": [{"title": "Phantasy", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e02"}, {"title": "A Prologue", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e04"}, {"title": "Pressure", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e03"}, {"title": "My Home", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e01"}, {"title": "Pleasure", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e15"}, {"title": "Step Up", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e16"}, {"title": "Bracky News", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e14"}, {"title": "Restoration", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e13"}, {"title": "Rise or Fall", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e12"}, {"title": "Movement", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e11"}, {"title": "Advanced", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e10"}, {"title": "Secret Ways", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0f"}, {"title": "Mystery", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0d"}, {"title": "Over", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0e"}, {"title": "Silent Zone", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0c"}, {"title": "Excite Town", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0b"}, {"title": "Violation", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0a"}, {"title": "Power", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e09"}, {"title": "Under", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e08"}, {"title": "Death Place", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e06"}, {"title": "Exclaim", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e07"}, {"title": "Never Dream", "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e05"}], "id": "42"}
+{
+  "composed_by": [],
+  "guid": "Phantasy_Star_II",
+  "id": "42",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Phantasy",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e02"
+    },
+    {
+      "title": "A Prologue",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e04"
+    },
+    {
+      "title": "Pressure",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e03"
+    },
+    {
+      "title": "My Home",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e01"
+    },
+    {
+      "title": "Pleasure",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e15"
+    },
+    {
+      "title": "Step Up",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e16"
+    },
+    {
+      "title": "Bracky News",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e14"
+    },
+    {
+      "title": "Restoration",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e13"
+    },
+    {
+      "title": "Rise or Fall",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e12"
+    },
+    {
+      "title": "Movement",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e11"
+    },
+    {
+      "title": "Advanced",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e10"
+    },
+    {
+      "title": "Secret Ways",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0f"
+    },
+    {
+      "title": "Mystery",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0d"
+    },
+    {
+      "title": "Over",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0e"
+    },
+    {
+      "title": "Silent Zone",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0c"
+    },
+    {
+      "title": "Excite Town",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0b"
+    },
+    {
+      "title": "Violation",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e0a"
+    },
+    {
+      "title": "Power",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e09"
+    },
+    {
+      "title": "Under",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e08"
+    },
+    {
+      "title": "Death Place",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e06"
+    },
+    {
+      "title": "Exclaim",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e07"
+    },
+    {
+      "title": "Never Dream",
+      "guid": "42-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e05"
+    }
+  ],
+  "title": "Phantasy Star II"
+}

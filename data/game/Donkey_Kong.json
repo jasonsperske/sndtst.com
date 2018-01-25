@@ -1,1 +1,45 @@
-{"guid": "Donkey_Kong", "platform": "NES", "title": "Donkey Kong", "composed_by": [], "playlist": [{"title": "Title", "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e50"}, {"title": "Level Start", "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4f"}, {"title": "Level 1 BGM", "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4e"}, {"title": "Got the Hammer", "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4d"}, {"title": "Reached the Top", "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4c"}, {"title": "Level 3 BGM", "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4b"}, {"title": "Donkey Kong Dies", "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4a"}, {"title": "Saved Pauline", "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e49"}, {"title": "Mario Dies", "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e48"}], "id": "148"}
+{
+  "composed_by": [],
+  "guid": "Donkey_Kong",
+  "id": "148",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e50"
+    },
+    {
+      "title": "Level Start",
+      "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4f"
+    },
+    {
+      "title": "Level 1 BGM",
+      "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4e"
+    },
+    {
+      "title": "Got the Hammer",
+      "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4d"
+    },
+    {
+      "title": "Reached the Top",
+      "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4c"
+    },
+    {
+      "title": "Level 3 BGM",
+      "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4b"
+    },
+    {
+      "title": "Donkey Kong Dies",
+      "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e4a"
+    },
+    {
+      "title": "Saved Pauline",
+      "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e49"
+    },
+    {
+      "title": "Mario Dies",
+      "guid": "148-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e48"
+    }
+  ],
+  "title": "Donkey Kong"
+}

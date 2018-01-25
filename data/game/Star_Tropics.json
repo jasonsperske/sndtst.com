@@ -1,1 +1,133 @@
-{"guid": "Star_Tropics", "platform": "NES", "title": "Star Tropics", "composed_by": [], "playlist": [{"title": "Opening", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbe"}, {"title": "Chapter Introduction", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbf"}, {"title": "Overworld Theme", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbc"}, {"title": "Overworld Theme (fixed)", "guid": "84-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bfc"}, {"title": "Tension", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbd"}, {"title": "Dungeon Theme", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fba"}, {"title": "Getting Harder", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbb"}, {"title": "Medecine", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb9"}, {"title": "Boss Battle", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb8"}, {"title": "Victory", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb6"}, {"title": "A Death", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb7"}, {"title": "Inside The Sub-C", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb3"}, {"title": "Off In The Blue", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb4"}, {"title": "Sailing", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb2"}, {"title": "The Storm Before The Calm", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb1"}, {"title": "The Calm After The Storm", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb0"}, {"title": "Miracola", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7faf"}, {"title": "The Graveyard", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fae"}, {"title": "Shecola Castle", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fad"}, {"title": "The Queen", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fac"}, {"title": "Inside The Whale", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7faa"}, {"title": "Peter The Parrot", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa9"}, {"title": "The Organ Played", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa7"}, {"title": "A Farewell", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa6"}, {"title": "Dr. J Found", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa5"}, {"title": "It Was For The Children (fixed)", "guid": "84-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bfd"}, {"title": "The Alien Spaceship", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa4"}, {"title": "Inside The Spaceship", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa3"}, {"title": "It Was For The Children", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa2"}, {"title": "Ending", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa1"}, {"title": "Credits", "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa0"}], "id": "84"}
+{
+  "composed_by": [],
+  "guid": "Star_Tropics",
+  "id": "84",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Opening",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbe"
+    },
+    {
+      "title": "Chapter Introduction",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbf"
+    },
+    {
+      "title": "Overworld Theme",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbc"
+    },
+    {
+      "title": "Overworld Theme (fixed)",
+      "guid": "84-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bfc"
+    },
+    {
+      "title": "Tension",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbd"
+    },
+    {
+      "title": "Dungeon Theme",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fba"
+    },
+    {
+      "title": "Getting Harder",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fbb"
+    },
+    {
+      "title": "Medecine",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb9"
+    },
+    {
+      "title": "Boss Battle",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb8"
+    },
+    {
+      "title": "Victory",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb6"
+    },
+    {
+      "title": "A Death",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb7"
+    },
+    {
+      "title": "Inside The Sub-C",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb3"
+    },
+    {
+      "title": "Off In The Blue",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb4"
+    },
+    {
+      "title": "Sailing",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb2"
+    },
+    {
+      "title": "The Storm Before The Calm",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb1"
+    },
+    {
+      "title": "The Calm After The Storm",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fb0"
+    },
+    {
+      "title": "Miracola",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7faf"
+    },
+    {
+      "title": "The Graveyard",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fae"
+    },
+    {
+      "title": "Shecola Castle",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fad"
+    },
+    {
+      "title": "The Queen",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fac"
+    },
+    {
+      "title": "Inside The Whale",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7faa"
+    },
+    {
+      "title": "Peter The Parrot",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa9"
+    },
+    {
+      "title": "The Organ Played",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa7"
+    },
+    {
+      "title": "A Farewell",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa6"
+    },
+    {
+      "title": "Dr. J Found",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa5"
+    },
+    {
+      "title": "It Was For The Children (fixed)",
+      "guid": "84-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bfd"
+    },
+    {
+      "title": "The Alien Spaceship",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa4"
+    },
+    {
+      "title": "Inside The Spaceship",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa3"
+    },
+    {
+      "title": "It Was For The Children",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa2"
+    },
+    {
+      "title": "Ending",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa1"
+    },
+    {
+      "title": "Credits",
+      "guid": "84-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fa0"
+    }
+  ],
+  "title": "Star Tropics"
+}

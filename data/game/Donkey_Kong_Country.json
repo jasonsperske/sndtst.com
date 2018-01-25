@@ -1,1 +1,97 @@
-{"guid": "Donkey_Kong_Country", "platform": "SNES", "title": "Donkey Kong Country", "composed_by": [], "playlist": [{"title": "Theme", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ8000"}, {"title": "Simian Segue", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fff"}, {"title": "DK Island Swing", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffd"}, {"title": "Cranky's Theme", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffe"}, {"title": "Cave Dweller Concert", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff9"}, {"title": "Bonus Room Blitz", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffc"}, {"title": "Aquatic Ambiance", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffb"}, {"title": "Candy's Love Song", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffa"}, {"title": "Bad Boss Boogie", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff8"}, {"title": "Mine Cart Madness", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff7"}, {"title": "Life in the Mines", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff6"}, {"title": "Voices of the Temple", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff5"}, {"title": "Forest Frenzy", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff4"}, {"title": "Treetop Rock", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff3"}, {"title": "Funky's Fugue", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff2"}, {"title": "Misty Menace", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff0"}, {"title": "Northern Hemispheres", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff1"}, {"title": "Ice Cave Chant", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fef"}, {"title": "Fear Factory", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7feb"}, {"title": "Gang-Plank Galleon", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fee"}, {"title": "K. Rool's Cacophony", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fed"}, {"title": "The Credits Concerto", "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fec"}], "id": "61"}
+{
+  "composed_by": [],
+  "guid": "Donkey_Kong_Country",
+  "id": "61",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Theme",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ8000"
+    },
+    {
+      "title": "Simian Segue",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fff"
+    },
+    {
+      "title": "DK Island Swing",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffd"
+    },
+    {
+      "title": "Cranky's Theme",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffe"
+    },
+    {
+      "title": "Cave Dweller Concert",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff9"
+    },
+    {
+      "title": "Bonus Room Blitz",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffc"
+    },
+    {
+      "title": "Aquatic Ambiance",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffb"
+    },
+    {
+      "title": "Candy's Love Song",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ffa"
+    },
+    {
+      "title": "Bad Boss Boogie",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff8"
+    },
+    {
+      "title": "Mine Cart Madness",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff7"
+    },
+    {
+      "title": "Life in the Mines",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff6"
+    },
+    {
+      "title": "Voices of the Temple",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff5"
+    },
+    {
+      "title": "Forest Frenzy",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff4"
+    },
+    {
+      "title": "Treetop Rock",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff3"
+    },
+    {
+      "title": "Funky's Fugue",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff2"
+    },
+    {
+      "title": "Misty Menace",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff0"
+    },
+    {
+      "title": "Northern Hemispheres",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7ff1"
+    },
+    {
+      "title": "Ice Cave Chant",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fef"
+    },
+    {
+      "title": "Fear Factory",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7feb"
+    },
+    {
+      "title": "Gang-Plank Galleon",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fee"
+    },
+    {
+      "title": "K. Rool's Cacophony",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fed"
+    },
+    {
+      "title": "The Credits Concerto",
+      "guid": "61-c51bb4d58980ad43OgLQ7506f8a1Og146506376aaOgLQ7fec"
+    }
+  ],
+  "title": "Donkey Kong Country"
+}

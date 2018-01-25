@@ -1,1 +1,139 @@
-{"guid": "Super_Mario_Bros_3", "platform": "NES", "title": "Super Mario Bros. 3", "composed_by": ["Koji Kondo"], "playlist": [{"title": "Grass Land", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef1"}, {"title": "Desert Land", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef2"}, {"title": "Water World", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eef"}, {"title": "Giant's World", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef0"}, {"title": "The World in the Sky", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eee"}, {"title": "Ice Everywhere", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eed"}, {"title": "A World of Pipes", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eec"}, {"title": "A World of Darkness", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eeb"}, {"title": "Running Around", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eea"}, {"title": "Still Running Around", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee9"}, {"title": "Swimming in the Calm Water", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee8"}, {"title": "Running Around Underground", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee7"}, {"title": "Up Above", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee6"}, {"title": "Invincible!", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee5"}, {"title": "Warp Whistle", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee4"}, {"title": "Go to Sleep...", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee3"}, {"title": "Thinking Really Hard", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee2"}, {"title": "Select an Item", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee1"}, {"title": "The Hammer Bros!", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee0"}, {"title": "Saving the King", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7edf"}, {"title": "The Airship!", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ede"}, {"title": "Unexpected Encounter", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7edd"}, {"title": "The Castle...", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7edc"}, {"title": "It's Bowser!", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7edb"}, {"title": "The Princess is Saved", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed9"}, {"title": "Hurry!", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eda"}, {"title": "Level Completed", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed8"}, {"title": "Bowser Defeated!", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed7"}, {"title": "Airship Completed!", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed6"}, {"title": "Boom Boom Defeated", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed5"}, {"title": "Game Over", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed4"}, {"title": "You have Died", "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed3"}], "id": "111"}
+{
+  "composed_by": [
+    "Koji Kondo"
+  ],
+  "guid": "Super_Mario_Bros_3",
+  "id": "111",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Grass Land",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef1"
+    },
+    {
+      "title": "Desert Land",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef2"
+    },
+    {
+      "title": "Water World",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eef"
+    },
+    {
+      "title": "Giant's World",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef0"
+    },
+    {
+      "title": "The World in the Sky",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eee"
+    },
+    {
+      "title": "Ice Everywhere",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eed"
+    },
+    {
+      "title": "A World of Pipes",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eec"
+    },
+    {
+      "title": "A World of Darkness",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eeb"
+    },
+    {
+      "title": "Running Around",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eea"
+    },
+    {
+      "title": "Still Running Around",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee9"
+    },
+    {
+      "title": "Swimming in the Calm Water",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee8"
+    },
+    {
+      "title": "Running Around Underground",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee7"
+    },
+    {
+      "title": "Up Above",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee6"
+    },
+    {
+      "title": "Invincible!",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee5"
+    },
+    {
+      "title": "Warp Whistle",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee4"
+    },
+    {
+      "title": "Go to Sleep...",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee3"
+    },
+    {
+      "title": "Thinking Really Hard",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee2"
+    },
+    {
+      "title": "Select an Item",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee1"
+    },
+    {
+      "title": "The Hammer Bros!",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ee0"
+    },
+    {
+      "title": "Saving the King",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7edf"
+    },
+    {
+      "title": "The Airship!",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ede"
+    },
+    {
+      "title": "Unexpected Encounter",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7edd"
+    },
+    {
+      "title": "The Castle...",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7edc"
+    },
+    {
+      "title": "It's Bowser!",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7edb"
+    },
+    {
+      "title": "The Princess is Saved",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed9"
+    },
+    {
+      "title": "Hurry!",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eda"
+    },
+    {
+      "title": "Level Completed",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed8"
+    },
+    {
+      "title": "Bowser Defeated!",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed7"
+    },
+    {
+      "title": "Airship Completed!",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed6"
+    },
+    {
+      "title": "Boom Boom Defeated",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed5"
+    },
+    {
+      "title": "Game Over",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed4"
+    },
+    {
+      "title": "You have Died",
+      "guid": "111-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ed3"
+    }
+  ],
+  "title": "Super Mario Bros. 3"
+}

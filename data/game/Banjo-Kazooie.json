@@ -1,1 +1,939 @@
-{"guid": "Banjo-Kazooie", "platform": "N64", "title": "Banjo-Kazooie", "composed_by": ["Grant Kirkhope"], "playlist": [{"title": "Nintendo & Rare Logo", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0f"}, {"title": "Main Title", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0e"}, {"title": "Game Selection 1", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0d"}, {"title": "Game Selection 2", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0c"}, {"title": "Game Selection 3", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0b"}, {"title": "Overture", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0a"}, {"title": "Spiral Mountain (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f09"}, {"title": "Spiral Mountain (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f08"}, {"title": "Pause Screen", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f07"}, {"title": "Bridge to Gruntilda's Lair", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f06"}, {"title": "Grunty's Beauty Steal Machine", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f05"}, {"title": "Gruntilda's Lair (Mumbo's Mountain)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f03"}, {"title": "Gruntilda's Lair (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f04"}, {"title": "Mumbo's Mountain (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f02"}, {"title": "Mumbo's Mountain (Conga's Patch)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f00"}, {"title": "Mumbo's Mountain (Mumbo's Hut)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f01"}, {"title": "Mumbo's Mountain (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eff"}, {"title": "Mumbo's Mountain (Ticker's Tower)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efe"}, {"title": "Mumbo's Hut", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efd"}, {"title": "Ticker's Tower", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efb"}, {"title": "Gruntilda's Lair (Clanker's Cavern)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efc"}, {"title": "Gruntilda's Lair (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efa"}, {"title": "Gruntilda's Lair (Treasure Trove Cove)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef9"}, {"title": "Brentilda's Theme", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef8"}, {"title": "Treasure Trove Cove (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef7"}, {"title": "Treasure Trove Cove (Captain Blubber Area)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef6"}, {"title": "Treasure Trove Cove (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef4"}, {"title": "Snipper Battle", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef5"}, {"title": "Inside Snipper's Shell", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef2"}, {"title": "Snacker Attack", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef3"}, {"title": "Inside the Sandcastle (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef1"}, {"title": "Inside the Sandcastle (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eef"}, {"title": "Gruntilda's Lair (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef0"}, {"title": "Gruntilda's Lair (Click Clock Wood)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eee"}, {"title": "Gruntilda's Lair (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eed"}, {"title": "Gruntilda's Lair (Treasure Trove Cove)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eec"}, {"title": "Gruntilda's Lair (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eeb"}, {"title": "Gruntilda's Lair (Bubblegloop Swamp)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eea"}, {"title": "Gruntilda's Lair (Clanker's Cavern)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee9"}, {"title": "Clanker's Cavern (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee8"}, {"title": "Clanker's Cavern (Deep Underwater)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee6"}, {"title": "Clanker's Cavern (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee7"}, {"title": "Mutie-Snippets", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee5"}, {"title": "Inside Clanker (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee3"}, {"title": "Inside Clanker (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee4"}, {"title": "Gruntilda's Lair (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7edf"}, {"title": "Gruntilda's Lair (Bubblegloop Swamp)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee1"}, {"title": "Gruntilda's Lair (Freezeezy Peak)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee0"}, {"title": "Gruntilda's Lair (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee2"}, {"title": "Cheato's Theme", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ede"}, {"title": "Bubblegloop Swamp", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7edc"}, {"title": "Bubblegloop Swamp Interiors", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7edd"}, {"title": "Mr_ Vile's Game", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7edb"}, {"title": "Flippits Battle", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eda"}, {"title": "Gruntilda's Lair (Freezeezy Peak)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed8"}, {"title": "Gruntilda's Lair (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed9"}, {"title": "Freezeezy Peak (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed5"}, {"title": "Freezeezy Peak (Normal with Christmas Bells)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed6"}, {"title": "Freezeezy Peak (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed7"}, {"title": "Twinklies' Journey", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed4"}, {"title": "Inside the Christmas Tree", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed3"}, {"title": "Boggy's Igloo (Sad)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed1"}, {"title": "Boggy's Igloo (Happy)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed2"}, {"title": "Wozza's Cave (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ecf"}, {"title": "Wozza's Cave (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed0"}, {"title": "Boggy's Race", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ece"}, {"title": "Gruntilda's Lair (Gobi's Valley)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ecc"}, {"title": "Gruntilda's Lair (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ecd"}, {"title": "Gobi's Valley (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec9"}, {"title": "Gobi's Valley (Jinxy's Area)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eca"}, {"title": "Gobi's Valley (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ecb"}, {"title": "Inside the Pyramid", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec8"}, {"title": "Hissup", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec7"}, {"title": "King Sandybutt's Maze", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec6"}, {"title": "Gruntilda's Lair (Gobi's Valley)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec4"}, {"title": "Gruntilda's Lair (Mad Monster Mansion)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec3"}, {"title": "Gruntilda's Lair (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec5"}, {"title": "Gruntilda's Lair (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebf"}, {"title": "Gruntilda's Lair (Mad Monster Mansion)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec0"}, {"title": "Gruntilda's Lair (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec2"}, {"title": "Gruntilda's Lair (Rusty Bucket Bay)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec1"}, {"title": "Mad Monster Mansion (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebc"}, {"title": "Mad Monster Mansion (Normal with Church Bell)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebd"}, {"title": "Mad Monster Mansion (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebe"}, {"title": "Inside the Mansion", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebb"}, {"title": "Inside the Toilet", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eba"}, {"title": "Tubular's Oujia", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb9"}, {"title": "Cemetery", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb8"}, {"title": "Inside the Church", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb7"}, {"title": "Rusty Bucket Bay (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb5"}, {"title": "Rusty Bucket Bay (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb6"}, {"title": "Rusty Bucket Bay (Whistle Puzzle)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb4"}, {"title": "Inside the Warehouse (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb2"}, {"title": "Inside the Warehouse (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb3"}, {"title": "Inside Crew Quarters", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb1"}, {"title": "Machine Room (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eaf"}, {"title": "Machine Room (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb0"}, {"title": "Boss Boom Box", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eae"}, {"title": "Gruntilda's Lair (Click Clock Wood)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ead"}, {"title": "Gruntilda's Lair (Grunty's Furnace Fun)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eab"}, {"title": "Gruntilda's Lair (Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eac"}, {"title": "Click Clock Wood (Lobby All-In-One)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eaa"}, {"title": "Click Clock Wood (Lobby, Autumn)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea6"}, {"title": "Click Clock Wood (Lobby, Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea9"}, {"title": "Click Clock Wood (Lobby, Spring)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea8"}, {"title": "Click Clock Wood (Lobby, Summer)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea7"}, {"title": "Click Clock Wood (Lobby, Winter)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea5"}, {"title": "Click Clock Wood (Spring, Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea3"}, {"title": "Click Clock Wood (Spring, Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea4"}, {"title": "Zubba's Nest", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea2"}, {"title": "Nabnut's House (All-In-One)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea1"}, {"title": "Nabnut's House (Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9c"}, {"title": "Nabnut's House (Autumn)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9e"}, {"title": "Nabnut's House (Spring)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea0"}, {"title": "Nabnut's House (Summer)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9f"}, {"title": "Nabnut's House (Winter)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9d"}, {"title": "Inside the Treetops (All-In-One)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9b"}, {"title": "Inside the Treetops (Autumn)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e98"}, {"title": "Inside the Treetops (Spring)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9a"}, {"title": "Inside the Treetops (Summer)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e99"}, {"title": "Inside the Treetops (Winter)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e97"}, {"title": "Click Clock Wood (Summer)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e96"}, {"title": "Zubba Battle", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e95"}, {"title": "Click Clock Wood (Autumn, Aquatic)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e93"}, {"title": "Click Clock Wood (Autumn, Normal)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e94"}, {"title": "Gnawty's House", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e92"}, {"title": "Click Clock Wood (Winter)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e91"}, {"title": "Nabnut's Storeage Room", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e90"}, {"title": "Bottle's Puzzle Challenge", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8f"}, {"title": "Grunty's Furnace Fun", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8e"}, {"title": "Grunty's Defeat", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8d"}, {"title": "Tooty's Theme", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8c"}, {"title": "End Credits", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8a"}, {"title": "Mumbo's Barbeque", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8b"}, {"title": "Top of the Lair", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e88"}, {"title": "Final Battle", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e89"}, {"title": "Jinjonator Charges", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e87"}, {"title": "Grunty Falls", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e86"}, {"title": "Buried under a Rock", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e85"}, {"title": "Ending - On Vacation", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e84"}, {"title": "The End", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e83"}, {"title": "Advent (Unused Beta Song)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e82"}, {"title": "Mumbo's Raindance (Unused Beta Song)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e81"}, {"title": "Click Clock Wood (Unused Beta Version 1)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e80"}, {"title": "Click Clock Wood (Unused Beta Version 2)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7f"}, {"title": "Secret Fanfare 1 (Treasure Trove Cove, Rusty Bucket Bay)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7e"}, {"title": "Secret Fanfare 2 (Freezeezy Peak)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7d"}, {"title": "Secret Fanfare 3 (Gobi's Valley)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7c"}, {"title": "Secret Fanfare 4 (Mad Monster Mansion)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7b"}, {"title": "Secret Fanfare 5 (Click Clock Wood)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7a"}, {"title": "World Puzzle Complete Fanfare", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e79"}, {"title": "Open Note Door Fanfare", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e78"}, {"title": "Correct Fanfare", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e77"}, {"title": "King's Sandybuzz's Maze", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e76"}, {"title": "Collect a Secret Item Fanfare", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e75"}, {"title": "Banjo Wins the Furnace Fun Fanfare", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e74"}, {"title": "Grunty's Door Opens Fanfare", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e73"}, {"title": "Jinjonator Appears Fanfare", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e72"}, {"title": "Hit 1", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e71"}, {"title": "Hit 2", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e70"}, {"title": "Hit 3", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6f"}, {"title": "Hit 4", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6e"}, {"title": "Hit 5", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6d"}, {"title": "Hit 6", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6c"}, {"title": "Hit 7", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6b"}, {"title": "Hit 8", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6a"}, {"title": "Hit 9", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e69"}, {"title": "Hit 10", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e68"}, {"title": "Barbeque Shock 1", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e67"}, {"title": "Barbeque Shock 2", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e66"}, {"title": "Barbeque Shock 3", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e65"}, {"title": "Barbeque Shock 4", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e64"}, {"title": "Boggy's Race Win", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e63"}, {"title": "Boggy's Race Lose", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e62"}, {"title": "Running Shoes Jingle", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e61"}, {"title": "Running Shoes", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5f"}, {"title": "Wading Boots", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e60"}, {"title": "Using Gold Feathers", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5d"}, {"title": "Furnace Fun Banjo-Kazooie Question", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5e"}, {"title": "Furnace Fun Death Skull Question", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5c"}, {"title": "Furnace Fun Gruntilda Question", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5a"}, {"title": "Furnace Fun Joker", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5b"}, {"title": "Furnace Fun Note Question", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e58"}, {"title": "Collect Extra Life", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e59"}, {"title": "Lose Life", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e57"}, {"title": "Game Over", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e56"}, {"title": "Jiggy Appearance", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e55"}, {"title": "Collect Jigsaw Piece", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e54"}, {"title": "World Door Open", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e53"}, {"title": "Mumbo's Magic", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e52"}, {"title": "Collect Jinjo", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e50"}, {"title": "Collect all Jinjos", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e51"}, {"title": "Complete Extra Honeycomb", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4e"}, {"title": "Christmas Lights On", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4f"}, {"title": "Complete Mozand's Song", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4c"}, {"title": "Church Door Opens", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4d"}, {"title": "Unused Jingle", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4b"}, {"title": "Bottles' Puzzle Challenge Start", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4a"}, {"title": "Collect Honeycomb", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e49"}, {"title": "Collect Extra Honeycomb", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e48"}, {"title": "Collect Blue Egg", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e47"}, {"title": "Blue Egg Max", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e46"}, {"title": "Collect Red Feather", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e45"}, {"title": "Red Feather Max", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e44"}, {"title": "Collect Gold Feather", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e42"}, {"title": "Gold Feather Max", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e43"}, {"title": "Collect Note", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e41"}, {"title": "Collect all Notes", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e40"}, {"title": "SFX Bottles' Challenge Pick Up", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3f"}, {"title": "SFX Bottles' Challenge Put Back", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3e"}, {"title": "SFX Brentilda Appears", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3d"}, {"title": "SFX Brentilda Dissappears", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3c"}, {"title": "SFX Correct Jingle", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3a"}, {"title": "SFX Dingpot Warp", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3b"}, {"title": "Zoom In", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e39"}, {"title": "Zoom Out", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e38"}, {"title": "SFX Jinjo Activates", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e37"}, {"title": "SFX Jinjonator Maximum", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e36"}, {"title": "SFX Lighthouse Winds", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e34"}, {"title": "SFX Lose Oxygen", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e35"}, {"title": "SFX Magic Carpet Rises", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e33"}, {"title": "SFX Magic Carpet Drop", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e32"}, {"title": "SFX Patch", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e30"}, {"title": "SFX Patch Remove", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e31"}, {"title": "SFX Pyramids", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2f"}, {"title": "SFX Rare & Nintendo Logo (without Music)", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2e"}, {"title": "SFX Right", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2d"}, {"title": "SFX Transformation", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2c"}, {"title": "SFX Warp", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2a"}, {"title": "SFX Wrong", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2b"}, {"title": "Unused 1", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e29"}, {"title": "Unused 2", "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e28"}], "id": "354"}
+{
+  "composed_by": [
+    "Grant Kirkhope"
+  ],
+  "guid": "Banjo-Kazooie",
+  "id": "354",
+  "platform": "N64",
+  "playlist": [
+    {
+      "title": "Nintendo & Rare Logo",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0f"
+    },
+    {
+      "title": "Main Title",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0e"
+    },
+    {
+      "title": "Game Selection 1",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0d"
+    },
+    {
+      "title": "Game Selection 2",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0c"
+    },
+    {
+      "title": "Game Selection 3",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0b"
+    },
+    {
+      "title": "Overture",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f0a"
+    },
+    {
+      "title": "Spiral Mountain (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f09"
+    },
+    {
+      "title": "Spiral Mountain (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f08"
+    },
+    {
+      "title": "Pause Screen",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f07"
+    },
+    {
+      "title": "Bridge to Gruntilda's Lair",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f06"
+    },
+    {
+      "title": "Grunty's Beauty Steal Machine",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f05"
+    },
+    {
+      "title": "Gruntilda's Lair (Mumbo's Mountain)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f03"
+    },
+    {
+      "title": "Gruntilda's Lair (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f04"
+    },
+    {
+      "title": "Mumbo's Mountain (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f02"
+    },
+    {
+      "title": "Mumbo's Mountain (Conga's Patch)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f00"
+    },
+    {
+      "title": "Mumbo's Mountain (Mumbo's Hut)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f01"
+    },
+    {
+      "title": "Mumbo's Mountain (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eff"
+    },
+    {
+      "title": "Mumbo's Mountain (Ticker's Tower)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efe"
+    },
+    {
+      "title": "Mumbo's Hut",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efd"
+    },
+    {
+      "title": "Ticker's Tower",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efb"
+    },
+    {
+      "title": "Gruntilda's Lair (Clanker's Cavern)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efc"
+    },
+    {
+      "title": "Gruntilda's Lair (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7efa"
+    },
+    {
+      "title": "Gruntilda's Lair (Treasure Trove Cove)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef9"
+    },
+    {
+      "title": "Brentilda's Theme",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef8"
+    },
+    {
+      "title": "Treasure Trove Cove (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef7"
+    },
+    {
+      "title": "Treasure Trove Cove (Captain Blubber Area)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef6"
+    },
+    {
+      "title": "Treasure Trove Cove (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef4"
+    },
+    {
+      "title": "Snipper Battle",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef5"
+    },
+    {
+      "title": "Inside Snipper's Shell",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef2"
+    },
+    {
+      "title": "Snacker Attack",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef3"
+    },
+    {
+      "title": "Inside the Sandcastle (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef1"
+    },
+    {
+      "title": "Inside the Sandcastle (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eef"
+    },
+    {
+      "title": "Gruntilda's Lair (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ef0"
+    },
+    {
+      "title": "Gruntilda's Lair (Click Clock Wood)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eee"
+    },
+    {
+      "title": "Gruntilda's Lair (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eed"
+    },
+    {
+      "title": "Gruntilda's Lair (Treasure Trove Cove)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eec"
+    },
+    {
+      "title": "Gruntilda's Lair (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eeb"
+    },
+    {
+      "title": "Gruntilda's Lair (Bubblegloop Swamp)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eea"
+    },
+    {
+      "title": "Gruntilda's Lair (Clanker's Cavern)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee9"
+    },
+    {
+      "title": "Clanker's Cavern (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee8"
+    },
+    {
+      "title": "Clanker's Cavern (Deep Underwater)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee6"
+    },
+    {
+      "title": "Clanker's Cavern (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee7"
+    },
+    {
+      "title": "Mutie-Snippets",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee5"
+    },
+    {
+      "title": "Inside Clanker (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee3"
+    },
+    {
+      "title": "Inside Clanker (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee4"
+    },
+    {
+      "title": "Gruntilda's Lair (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7edf"
+    },
+    {
+      "title": "Gruntilda's Lair (Bubblegloop Swamp)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee1"
+    },
+    {
+      "title": "Gruntilda's Lair (Freezeezy Peak)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee0"
+    },
+    {
+      "title": "Gruntilda's Lair (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ee2"
+    },
+    {
+      "title": "Cheato's Theme",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ede"
+    },
+    {
+      "title": "Bubblegloop Swamp",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7edc"
+    },
+    {
+      "title": "Bubblegloop Swamp Interiors",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7edd"
+    },
+    {
+      "title": "Mr_ Vile's Game",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7edb"
+    },
+    {
+      "title": "Flippits Battle",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eda"
+    },
+    {
+      "title": "Gruntilda's Lair (Freezeezy Peak)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed8"
+    },
+    {
+      "title": "Gruntilda's Lair (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed9"
+    },
+    {
+      "title": "Freezeezy Peak (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed5"
+    },
+    {
+      "title": "Freezeezy Peak (Normal with Christmas Bells)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed6"
+    },
+    {
+      "title": "Freezeezy Peak (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed7"
+    },
+    {
+      "title": "Twinklies' Journey",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed4"
+    },
+    {
+      "title": "Inside the Christmas Tree",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed3"
+    },
+    {
+      "title": "Boggy's Igloo (Sad)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed1"
+    },
+    {
+      "title": "Boggy's Igloo (Happy)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed2"
+    },
+    {
+      "title": "Wozza's Cave (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ecf"
+    },
+    {
+      "title": "Wozza's Cave (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ed0"
+    },
+    {
+      "title": "Boggy's Race",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ece"
+    },
+    {
+      "title": "Gruntilda's Lair (Gobi's Valley)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ecc"
+    },
+    {
+      "title": "Gruntilda's Lair (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ecd"
+    },
+    {
+      "title": "Gobi's Valley (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec9"
+    },
+    {
+      "title": "Gobi's Valley (Jinxy's Area)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eca"
+    },
+    {
+      "title": "Gobi's Valley (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ecb"
+    },
+    {
+      "title": "Inside the Pyramid",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec8"
+    },
+    {
+      "title": "Hissup",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec7"
+    },
+    {
+      "title": "King Sandybutt's Maze",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec6"
+    },
+    {
+      "title": "Gruntilda's Lair (Gobi's Valley)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec4"
+    },
+    {
+      "title": "Gruntilda's Lair (Mad Monster Mansion)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec3"
+    },
+    {
+      "title": "Gruntilda's Lair (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec5"
+    },
+    {
+      "title": "Gruntilda's Lair (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebf"
+    },
+    {
+      "title": "Gruntilda's Lair (Mad Monster Mansion)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec0"
+    },
+    {
+      "title": "Gruntilda's Lair (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec2"
+    },
+    {
+      "title": "Gruntilda's Lair (Rusty Bucket Bay)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ec1"
+    },
+    {
+      "title": "Mad Monster Mansion (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebc"
+    },
+    {
+      "title": "Mad Monster Mansion (Normal with Church Bell)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebd"
+    },
+    {
+      "title": "Mad Monster Mansion (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebe"
+    },
+    {
+      "title": "Inside the Mansion",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ebb"
+    },
+    {
+      "title": "Inside the Toilet",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eba"
+    },
+    {
+      "title": "Tubular's Oujia",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb9"
+    },
+    {
+      "title": "Cemetery",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb8"
+    },
+    {
+      "title": "Inside the Church",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb7"
+    },
+    {
+      "title": "Rusty Bucket Bay (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb5"
+    },
+    {
+      "title": "Rusty Bucket Bay (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb6"
+    },
+    {
+      "title": "Rusty Bucket Bay (Whistle Puzzle)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb4"
+    },
+    {
+      "title": "Inside the Warehouse (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb2"
+    },
+    {
+      "title": "Inside the Warehouse (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb3"
+    },
+    {
+      "title": "Inside Crew Quarters",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb1"
+    },
+    {
+      "title": "Machine Room (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eaf"
+    },
+    {
+      "title": "Machine Room (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eb0"
+    },
+    {
+      "title": "Boss Boom Box",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eae"
+    },
+    {
+      "title": "Gruntilda's Lair (Click Clock Wood)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ead"
+    },
+    {
+      "title": "Gruntilda's Lair (Grunty's Furnace Fun)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eab"
+    },
+    {
+      "title": "Gruntilda's Lair (Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eac"
+    },
+    {
+      "title": "Click Clock Wood (Lobby All-In-One)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7eaa"
+    },
+    {
+      "title": "Click Clock Wood (Lobby, Autumn)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea6"
+    },
+    {
+      "title": "Click Clock Wood (Lobby, Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea9"
+    },
+    {
+      "title": "Click Clock Wood (Lobby, Spring)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea8"
+    },
+    {
+      "title": "Click Clock Wood (Lobby, Summer)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea7"
+    },
+    {
+      "title": "Click Clock Wood (Lobby, Winter)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea5"
+    },
+    {
+      "title": "Click Clock Wood (Spring, Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea3"
+    },
+    {
+      "title": "Click Clock Wood (Spring, Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea4"
+    },
+    {
+      "title": "Zubba's Nest",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea2"
+    },
+    {
+      "title": "Nabnut's House (All-In-One)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea1"
+    },
+    {
+      "title": "Nabnut's House (Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9c"
+    },
+    {
+      "title": "Nabnut's House (Autumn)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9e"
+    },
+    {
+      "title": "Nabnut's House (Spring)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ea0"
+    },
+    {
+      "title": "Nabnut's House (Summer)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9f"
+    },
+    {
+      "title": "Nabnut's House (Winter)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9d"
+    },
+    {
+      "title": "Inside the Treetops (All-In-One)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9b"
+    },
+    {
+      "title": "Inside the Treetops (Autumn)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e98"
+    },
+    {
+      "title": "Inside the Treetops (Spring)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e9a"
+    },
+    {
+      "title": "Inside the Treetops (Summer)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e99"
+    },
+    {
+      "title": "Inside the Treetops (Winter)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e97"
+    },
+    {
+      "title": "Click Clock Wood (Summer)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e96"
+    },
+    {
+      "title": "Zubba Battle",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e95"
+    },
+    {
+      "title": "Click Clock Wood (Autumn, Aquatic)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e93"
+    },
+    {
+      "title": "Click Clock Wood (Autumn, Normal)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e94"
+    },
+    {
+      "title": "Gnawty's House",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e92"
+    },
+    {
+      "title": "Click Clock Wood (Winter)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e91"
+    },
+    {
+      "title": "Nabnut's Storeage Room",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e90"
+    },
+    {
+      "title": "Bottle's Puzzle Challenge",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8f"
+    },
+    {
+      "title": "Grunty's Furnace Fun",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8e"
+    },
+    {
+      "title": "Grunty's Defeat",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8d"
+    },
+    {
+      "title": "Tooty's Theme",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8c"
+    },
+    {
+      "title": "End Credits",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8a"
+    },
+    {
+      "title": "Mumbo's Barbeque",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e8b"
+    },
+    {
+      "title": "Top of the Lair",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e88"
+    },
+    {
+      "title": "Final Battle",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e89"
+    },
+    {
+      "title": "Jinjonator Charges",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e87"
+    },
+    {
+      "title": "Grunty Falls",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e86"
+    },
+    {
+      "title": "Buried under a Rock",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e85"
+    },
+    {
+      "title": "Ending - On Vacation",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e84"
+    },
+    {
+      "title": "The End",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e83"
+    },
+    {
+      "title": "Advent (Unused Beta Song)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e82"
+    },
+    {
+      "title": "Mumbo's Raindance (Unused Beta Song)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e81"
+    },
+    {
+      "title": "Click Clock Wood (Unused Beta Version 1)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e80"
+    },
+    {
+      "title": "Click Clock Wood (Unused Beta Version 2)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7f"
+    },
+    {
+      "title": "Secret Fanfare 1 (Treasure Trove Cove, Rusty Bucket Bay)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7e"
+    },
+    {
+      "title": "Secret Fanfare 2 (Freezeezy Peak)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7d"
+    },
+    {
+      "title": "Secret Fanfare 3 (Gobi's Valley)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7c"
+    },
+    {
+      "title": "Secret Fanfare 4 (Mad Monster Mansion)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7b"
+    },
+    {
+      "title": "Secret Fanfare 5 (Click Clock Wood)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e7a"
+    },
+    {
+      "title": "World Puzzle Complete Fanfare",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e79"
+    },
+    {
+      "title": "Open Note Door Fanfare",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e78"
+    },
+    {
+      "title": "Correct Fanfare",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e77"
+    },
+    {
+      "title": "King's Sandybuzz's Maze",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e76"
+    },
+    {
+      "title": "Collect a Secret Item Fanfare",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e75"
+    },
+    {
+      "title": "Banjo Wins the Furnace Fun Fanfare",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e74"
+    },
+    {
+      "title": "Grunty's Door Opens Fanfare",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e73"
+    },
+    {
+      "title": "Jinjonator Appears Fanfare",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e72"
+    },
+    {
+      "title": "Hit 1",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e71"
+    },
+    {
+      "title": "Hit 2",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e70"
+    },
+    {
+      "title": "Hit 3",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6f"
+    },
+    {
+      "title": "Hit 4",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6e"
+    },
+    {
+      "title": "Hit 5",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6d"
+    },
+    {
+      "title": "Hit 6",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6c"
+    },
+    {
+      "title": "Hit 7",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6b"
+    },
+    {
+      "title": "Hit 8",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e6a"
+    },
+    {
+      "title": "Hit 9",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e69"
+    },
+    {
+      "title": "Hit 10",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e68"
+    },
+    {
+      "title": "Barbeque Shock 1",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e67"
+    },
+    {
+      "title": "Barbeque Shock 2",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e66"
+    },
+    {
+      "title": "Barbeque Shock 3",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e65"
+    },
+    {
+      "title": "Barbeque Shock 4",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e64"
+    },
+    {
+      "title": "Boggy's Race Win",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e63"
+    },
+    {
+      "title": "Boggy's Race Lose",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e62"
+    },
+    {
+      "title": "Running Shoes Jingle",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e61"
+    },
+    {
+      "title": "Running Shoes",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5f"
+    },
+    {
+      "title": "Wading Boots",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e60"
+    },
+    {
+      "title": "Using Gold Feathers",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5d"
+    },
+    {
+      "title": "Furnace Fun Banjo-Kazooie Question",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5e"
+    },
+    {
+      "title": "Furnace Fun Death Skull Question",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5c"
+    },
+    {
+      "title": "Furnace Fun Gruntilda Question",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5a"
+    },
+    {
+      "title": "Furnace Fun Joker",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e5b"
+    },
+    {
+      "title": "Furnace Fun Note Question",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e58"
+    },
+    {
+      "title": "Collect Extra Life",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e59"
+    },
+    {
+      "title": "Lose Life",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e57"
+    },
+    {
+      "title": "Game Over",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e56"
+    },
+    {
+      "title": "Jiggy Appearance",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e55"
+    },
+    {
+      "title": "Collect Jigsaw Piece",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e54"
+    },
+    {
+      "title": "World Door Open",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e53"
+    },
+    {
+      "title": "Mumbo's Magic",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e52"
+    },
+    {
+      "title": "Collect Jinjo",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e50"
+    },
+    {
+      "title": "Collect all Jinjos",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e51"
+    },
+    {
+      "title": "Complete Extra Honeycomb",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4e"
+    },
+    {
+      "title": "Christmas Lights On",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4f"
+    },
+    {
+      "title": "Complete Mozand's Song",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4c"
+    },
+    {
+      "title": "Church Door Opens",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4d"
+    },
+    {
+      "title": "Unused Jingle",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4b"
+    },
+    {
+      "title": "Bottles' Puzzle Challenge Start",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e4a"
+    },
+    {
+      "title": "Collect Honeycomb",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e49"
+    },
+    {
+      "title": "Collect Extra Honeycomb",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e48"
+    },
+    {
+      "title": "Collect Blue Egg",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e47"
+    },
+    {
+      "title": "Blue Egg Max",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e46"
+    },
+    {
+      "title": "Collect Red Feather",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e45"
+    },
+    {
+      "title": "Red Feather Max",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e44"
+    },
+    {
+      "title": "Collect Gold Feather",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e42"
+    },
+    {
+      "title": "Gold Feather Max",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e43"
+    },
+    {
+      "title": "Collect Note",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e41"
+    },
+    {
+      "title": "Collect all Notes",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e40"
+    },
+    {
+      "title": "SFX Bottles' Challenge Pick Up",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3f"
+    },
+    {
+      "title": "SFX Bottles' Challenge Put Back",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3e"
+    },
+    {
+      "title": "SFX Brentilda Appears",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3d"
+    },
+    {
+      "title": "SFX Brentilda Dissappears",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3c"
+    },
+    {
+      "title": "SFX Correct Jingle",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3a"
+    },
+    {
+      "title": "SFX Dingpot Warp",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e3b"
+    },
+    {
+      "title": "Zoom In",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e39"
+    },
+    {
+      "title": "Zoom Out",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e38"
+    },
+    {
+      "title": "SFX Jinjo Activates",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e37"
+    },
+    {
+      "title": "SFX Jinjonator Maximum",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e36"
+    },
+    {
+      "title": "SFX Lighthouse Winds",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e34"
+    },
+    {
+      "title": "SFX Lose Oxygen",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e35"
+    },
+    {
+      "title": "SFX Magic Carpet Rises",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e33"
+    },
+    {
+      "title": "SFX Magic Carpet Drop",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e32"
+    },
+    {
+      "title": "SFX Patch",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e30"
+    },
+    {
+      "title": "SFX Patch Remove",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e31"
+    },
+    {
+      "title": "SFX Pyramids",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2f"
+    },
+    {
+      "title": "SFX Rare & Nintendo Logo (without Music)",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2e"
+    },
+    {
+      "title": "SFX Right",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2d"
+    },
+    {
+      "title": "SFX Transformation",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2c"
+    },
+    {
+      "title": "SFX Warp",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2a"
+    },
+    {
+      "title": "SFX Wrong",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e2b"
+    },
+    {
+      "title": "Unused 1",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e29"
+    },
+    {
+      "title": "Unused 2",
+      "guid": "354-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e28"
+    }
+  ],
+  "title": "Banjo-Kazooie"
+}

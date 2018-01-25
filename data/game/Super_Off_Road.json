@@ -1,1 +1,71 @@
-{"guid": "Super_Off_Road", "platform": "SNES", "title": "Super Off Road", "composed_by": ["Tim Follin"], "playlist": [{"title": "Title Demo", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc0"}, {"title": "Name Screen", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbf"}, {"title": "Set Up", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbd"}, {"title": "Start", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbe"}, {"title": "Fandango", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbc"}, {"title": "Huevos Grande", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbb"}, {"title": "Sidewinder", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fba"}, {"title": "Big Dukes", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb9"}, {"title": "Redoubt-about", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb8"}, {"title": "Huevos Grande Rewind", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb7"}, {"title": "Sidewinder Rewind", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb6"}, {"title": "Blaster", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb5"}, {"title": "Goal", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb4"}, {"title": "Celebration", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb3"}, {"title": "Game Over", "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb2"}], "id": "77"}
+{
+  "composed_by": [
+    "Tim Follin"
+  ],
+  "guid": "Super_Off_Road",
+  "id": "77",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Title Demo",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc0"
+    },
+    {
+      "title": "Name Screen",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbf"
+    },
+    {
+      "title": "Set Up",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbd"
+    },
+    {
+      "title": "Start",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbe"
+    },
+    {
+      "title": "Fandango",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbc"
+    },
+    {
+      "title": "Huevos Grande",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fbb"
+    },
+    {
+      "title": "Sidewinder",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fba"
+    },
+    {
+      "title": "Big Dukes",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb9"
+    },
+    {
+      "title": "Redoubt-about",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb8"
+    },
+    {
+      "title": "Huevos Grande Rewind",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb7"
+    },
+    {
+      "title": "Sidewinder Rewind",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb6"
+    },
+    {
+      "title": "Blaster",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb5"
+    },
+    {
+      "title": "Goal",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb4"
+    },
+    {
+      "title": "Celebration",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb3"
+    },
+    {
+      "title": "Game Over",
+      "guid": "77-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb2"
+    }
+  ],
+  "title": "Super Off Road"
+}

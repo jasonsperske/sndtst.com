@@ -1,1 +1,77 @@
-{"guid": "Sonic_The_Hedgehog", "platform": "Genesis", "title": "Sonic The Hedgehog", "composed_by": [], "playlist": [{"title": "Title Screen", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe7"}, {"title": "Green Hill Zone", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe5"}, {"title": "Marble Zone", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe6"}, {"title": "Spring Yard Zone", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe4"}, {"title": "Labyrinth Zone", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe3"}, {"title": "Star Light Zone", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe2"}, {"title": "Scrap Brain Zone", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe0"}, {"title": "Boss", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe1"}, {"title": "Continue?", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fdf"}, {"title": "Game Over", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fde"}, {"title": "Act Cleared", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fdd"}, {"title": "Special Stage", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fdb"}, {"title": "Extra Life", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fdc"}, {"title": "Invincible", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fda"}, {"title": "Final Zone", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fd8"}, {"title": "Ending", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fd9"}, {"title": "Staff Credits", "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fd7"}], "id": "7"}
+{
+  "composed_by": [],
+  "guid": "Sonic_The_Hedgehog",
+  "id": "7",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Title Screen",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe7"
+    },
+    {
+      "title": "Green Hill Zone",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe5"
+    },
+    {
+      "title": "Marble Zone",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe6"
+    },
+    {
+      "title": "Spring Yard Zone",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe4"
+    },
+    {
+      "title": "Labyrinth Zone",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe3"
+    },
+    {
+      "title": "Star Light Zone",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe2"
+    },
+    {
+      "title": "Scrap Brain Zone",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe0"
+    },
+    {
+      "title": "Boss",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe1"
+    },
+    {
+      "title": "Continue?",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fdf"
+    },
+    {
+      "title": "Game Over",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fde"
+    },
+    {
+      "title": "Act Cleared",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fdd"
+    },
+    {
+      "title": "Special Stage",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fdb"
+    },
+    {
+      "title": "Extra Life",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fdc"
+    },
+    {
+      "title": "Invincible",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fda"
+    },
+    {
+      "title": "Final Zone",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fd8"
+    },
+    {
+      "title": "Ending",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fd9"
+    },
+    {
+      "title": "Staff Credits",
+      "guid": "7-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fd7"
+    }
+  ],
+  "title": "Sonic The Hedgehog"
+}

@@ -1,1 +1,33 @@
-{"guid": "Lotus_II-RECS", "platform": "Genesis", "title": "Lotus II - R.E.C.S.", "composed_by": [], "playlist": [{"title": "Main Theme", "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b95"}, {"title": "Breathless (BGM 1)", "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b94"}, {"title": "BGM 2", "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b92"}, {"title": "Shamrip (BGM 3)", "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b93"}, {"title": "Results", "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b91"}, {"title": "Game Over", "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b90"}], "id": "165"}
+{
+  "composed_by": [],
+  "guid": "Lotus_II-RECS",
+  "id": "165",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Main Theme",
+      "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b95"
+    },
+    {
+      "title": "Breathless (BGM 1)",
+      "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b94"
+    },
+    {
+      "title": "BGM 2",
+      "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b92"
+    },
+    {
+      "title": "Shamrip (BGM 3)",
+      "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b93"
+    },
+    {
+      "title": "Results",
+      "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b91"
+    },
+    {
+      "title": "Game Over",
+      "guid": "165-e23928424a65de06Og51524729Og146e61fe80cOgLQ7b90"
+    }
+  ],
+  "title": "Lotus II - R.E.C.S."
+}

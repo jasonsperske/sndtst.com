@@ -1,1 +1,445 @@
-{"guid": "Donkey_Kong_Country_2", "platform": "SNES", "title": "Donkey Kong Country 2", "composed_by": [], "playlist": [{"title": "K. Rool Returns", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d5c"}, {"title": "1-up Balloon (part 1)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d5d"}, {"title": "1-up Balloon (part 2)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d5b"}, {"title": "Welcome to Crocodile Isle", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d5a"}, {"title": "Klomp's Romp", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d59"}, {"title": "Lockjaw's Saga", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d57"}, {"title": "Jib Jig", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d58"}, {"title": "Swanky's Swing", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d56"}, {"title": "Snakey Chantey", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d55"}, {"title": "Bayou Boogie", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d54"}, {"title": "School House Harmony", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d53"}, {"title": "Forest Interlude", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d51"}, {"title": "Funky the Main Monkey", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d52"}, {"title": "Flight of the Zinger", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d50"}, {"title": "Cranky's Conga", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4f"}, {"title": "Hot-Head Bop", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4d"}, {"title": "Run, Rambi! Run!", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4e"}, {"title": "Lose", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4b"}, {"title": "Token Tango", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4c"}, {"title": "Win", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4a"}, {"title": "Stickerbrush Symphony", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d48"}, {"title": "Bad Bird Rag", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d49"}, {"title": "Disco Train", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d47"}, {"title": "Boss Bossanova", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d46"}, {"title": "Steel Drum Rhumba", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d45"}, {"title": "Krook's March", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d44"}, {"title": "Klubba's Reveille", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d43"}, {"title": "Haunted Chase", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d42"}, {"title": "In a Snow-Bound Land", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d41"}, {"title": "Lost World Anthem", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d40"}, {"title": "Primal Rave", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3f"}, {"title": "Crocodile Cacophony", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3e"}, {"title": "Donkey Kong Rescued", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3d"}, {"title": "Opening", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3c"}, {"title": "Player Down (Klomp's Romp)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3b"}, {"title": "Player Down (Lockjaw's Saga)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3a"}, {"title": "Player Down (Jib Jig)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d39"}, {"title": "Player Down (Snakey Chantey)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d38"}, {"title": "Player Down (Bayou Boogie 1)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d37"}, {"title": "Player Down (Bayou Boogie 2)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d36"}, {"title": "Player Down (Forest Interlude)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d35"}, {"title": "Player Down (Flight of the Zinger)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d34"}, {"title": "Player Down (Hot Head Bop)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d33"}, {"title": "Player Down (Stickerbrush Symphony)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d32"}, {"title": "Player Down (Disco Train)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d31"}, {"title": "Player Down (Mining Melancholy)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d30"}, {"title": "Player Down (Krook's March)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2f"}, {"title": "Player Down (Haunted Chase)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2e"}, {"title": "Player Down (In a Snow-Bound Land)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2d"}, {"title": "Player Down (Primal Rave)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2c"}, {"title": "Diddy Clear (Bayou Boogie)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d27"}, {"title": "Diddy Clear (Disco Train)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d22"}, {"title": "Diddy Clear (Flight of the Zinger)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d25"}, {"title": "Diddy Clear (Forest Interlude)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d26"}, {"title": "Diddy Clear (Haunted Chase)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1f"}, {"title": "Diddy Clear (Hot Head Bop)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d24"}, {"title": "Diddy Clear (In a Snow-Bound Land)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1e"}, {"title": "Diddy Clear (Jib Jig)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d29"}, {"title": "Diddy Clear (Klomp's Romp)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2b"}, {"title": "Diddy Clear (Krook's March)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d20"}, {"title": "Diddy Clear (Lockjaw's Saga)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2a"}, {"title": "Diddy Clear (Mining Melancholy)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d21"}, {"title": "Diddy Clear (Primal Rave)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1d"}, {"title": "Diddy Clear (Snakey Chantey)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d28"}, {"title": "Diddy Clear (Stickerbrush Symphony)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d23"}, {"title": "Dixie Clear (Bayou Boogie)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d18"}, {"title": "Dixie Clear (Disco Train)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d13"}, {"title": "Dixie Clear (Flight of the Zinger)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d15"}, {"title": "Dixie Clear (Forest Interlude)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d17"}, {"title": "Dixie Clear (Haunted Chase)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d10"}, {"title": "Dixie Clear (Hot Head Bop)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d16"}, {"title": "Dixie Clear (In a Snow-Bound Land)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0f"}, {"title": "Dixie Clear (Jib Jig)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1a"}, {"title": "Dixie Clear (Klomp's Romp)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1c"}, {"title": "Dixie Clear (Krook's March)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d11"}, {"title": "Dixie Clear (Lockjaw's Saga)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1b"}, {"title": "Dixie Clear (Mining Melancholy)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d12"}, {"title": "Dixie Clear (Primal Rave)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0e"}, {"title": "Dixie Clear (Snakey Chantey)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d19"}, {"title": "Dixie Clear (Stickerbrush Symphony)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d14"}, {"title": "Stronghold Showdown", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0d"}, {"title": "The Flying Krock", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0b"}, {"title": "Diddy Clear (Crocodile Cacophony)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0a"}, {"title": "Dixie Clear (Crocodile Cacophony)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d09"}, {"title": "Player Down (Crocodile Cacophony)", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0c"}, {"title": "Game Over", "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d08"}, {"title": "Bonus Intro", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fcf"}, {"title": "Diddy Clear (Boss Bossanova)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd0"}, {"title": "Dixie Clear (Boss Bossanova)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fce"}, {"title": "Ending Ambience", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fcd"}, {"title": "K. Rool's Letter", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fcc"}, {"title": "Mining Melancholy", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fba"}, {"title": "Pause!", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fcb"}, {"title": "Player Down (Boss Bossanova)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fca"}, {"title": "Stage Clear (Bayou Boogie)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc9"}, {"title": "Stage Clear (Disco Train)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc8"}, {"title": "Stage Clear (Flight of the Zinger)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc7"}, {"title": "Stage Clear (Forest Interlude)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc6"}, {"title": "Stage Clear (Haunted Chase)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc5"}, {"title": "Stage Clear (Hot Head Bop)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc4"}, {"title": "Stage Clear (In a Snow-Bound Land)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc3"}, {"title": "Stage Clear (Jib Jig)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc2"}, {"title": "Stage Clear (Klomp's Romp)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc1"}, {"title": "Stage Clear (Krook's March)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc0"}, {"title": "Stage Clear (Lockjaw's Saga)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbf"}, {"title": "Stage Clear (Mining Melancholy)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbe"}, {"title": "Stage Clear (Primal Rave)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbd"}, {"title": "Stage Clear (Snakey Chantey)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbc"}, {"title": "Stage Clear (Stickerbrush Symphony)", "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbb"}], "id": "154"}
+{
+  "composed_by": [],
+  "guid": "Donkey_Kong_Country_2",
+  "id": "154",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "K. Rool Returns",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d5c"
+    },
+    {
+      "title": "1-up Balloon (part 1)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d5d"
+    },
+    {
+      "title": "1-up Balloon (part 2)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d5b"
+    },
+    {
+      "title": "Welcome to Crocodile Isle",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d5a"
+    },
+    {
+      "title": "Klomp's Romp",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d59"
+    },
+    {
+      "title": "Lockjaw's Saga",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d57"
+    },
+    {
+      "title": "Jib Jig",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d58"
+    },
+    {
+      "title": "Swanky's Swing",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d56"
+    },
+    {
+      "title": "Snakey Chantey",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d55"
+    },
+    {
+      "title": "Bayou Boogie",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d54"
+    },
+    {
+      "title": "School House Harmony",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d53"
+    },
+    {
+      "title": "Forest Interlude",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d51"
+    },
+    {
+      "title": "Funky the Main Monkey",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d52"
+    },
+    {
+      "title": "Flight of the Zinger",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d50"
+    },
+    {
+      "title": "Cranky's Conga",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4f"
+    },
+    {
+      "title": "Hot-Head Bop",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4d"
+    },
+    {
+      "title": "Run, Rambi! Run!",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4e"
+    },
+    {
+      "title": "Lose",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4b"
+    },
+    {
+      "title": "Token Tango",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4c"
+    },
+    {
+      "title": "Win",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d4a"
+    },
+    {
+      "title": "Stickerbrush Symphony",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d48"
+    },
+    {
+      "title": "Bad Bird Rag",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d49"
+    },
+    {
+      "title": "Disco Train",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d47"
+    },
+    {
+      "title": "Boss Bossanova",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d46"
+    },
+    {
+      "title": "Steel Drum Rhumba",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d45"
+    },
+    {
+      "title": "Krook's March",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d44"
+    },
+    {
+      "title": "Klubba's Reveille",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d43"
+    },
+    {
+      "title": "Haunted Chase",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d42"
+    },
+    {
+      "title": "In a Snow-Bound Land",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d41"
+    },
+    {
+      "title": "Lost World Anthem",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d40"
+    },
+    {
+      "title": "Primal Rave",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3f"
+    },
+    {
+      "title": "Crocodile Cacophony",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3e"
+    },
+    {
+      "title": "Donkey Kong Rescued",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3d"
+    },
+    {
+      "title": "Opening",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3c"
+    },
+    {
+      "title": "Player Down (Klomp's Romp)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3b"
+    },
+    {
+      "title": "Player Down (Lockjaw's Saga)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d3a"
+    },
+    {
+      "title": "Player Down (Jib Jig)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d39"
+    },
+    {
+      "title": "Player Down (Snakey Chantey)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d38"
+    },
+    {
+      "title": "Player Down (Bayou Boogie 1)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d37"
+    },
+    {
+      "title": "Player Down (Bayou Boogie 2)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d36"
+    },
+    {
+      "title": "Player Down (Forest Interlude)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d35"
+    },
+    {
+      "title": "Player Down (Flight of the Zinger)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d34"
+    },
+    {
+      "title": "Player Down (Hot Head Bop)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d33"
+    },
+    {
+      "title": "Player Down (Stickerbrush Symphony)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d32"
+    },
+    {
+      "title": "Player Down (Disco Train)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d31"
+    },
+    {
+      "title": "Player Down (Mining Melancholy)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d30"
+    },
+    {
+      "title": "Player Down (Krook's March)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2f"
+    },
+    {
+      "title": "Player Down (Haunted Chase)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2e"
+    },
+    {
+      "title": "Player Down (In a Snow-Bound Land)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2d"
+    },
+    {
+      "title": "Player Down (Primal Rave)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2c"
+    },
+    {
+      "title": "Diddy Clear (Bayou Boogie)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d27"
+    },
+    {
+      "title": "Diddy Clear (Disco Train)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d22"
+    },
+    {
+      "title": "Diddy Clear (Flight of the Zinger)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d25"
+    },
+    {
+      "title": "Diddy Clear (Forest Interlude)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d26"
+    },
+    {
+      "title": "Diddy Clear (Haunted Chase)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1f"
+    },
+    {
+      "title": "Diddy Clear (Hot Head Bop)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d24"
+    },
+    {
+      "title": "Diddy Clear (In a Snow-Bound Land)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1e"
+    },
+    {
+      "title": "Diddy Clear (Jib Jig)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d29"
+    },
+    {
+      "title": "Diddy Clear (Klomp's Romp)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2b"
+    },
+    {
+      "title": "Diddy Clear (Krook's March)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d20"
+    },
+    {
+      "title": "Diddy Clear (Lockjaw's Saga)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d2a"
+    },
+    {
+      "title": "Diddy Clear (Mining Melancholy)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d21"
+    },
+    {
+      "title": "Diddy Clear (Primal Rave)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1d"
+    },
+    {
+      "title": "Diddy Clear (Snakey Chantey)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d28"
+    },
+    {
+      "title": "Diddy Clear (Stickerbrush Symphony)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d23"
+    },
+    {
+      "title": "Dixie Clear (Bayou Boogie)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d18"
+    },
+    {
+      "title": "Dixie Clear (Disco Train)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d13"
+    },
+    {
+      "title": "Dixie Clear (Flight of the Zinger)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d15"
+    },
+    {
+      "title": "Dixie Clear (Forest Interlude)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d17"
+    },
+    {
+      "title": "Dixie Clear (Haunted Chase)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d10"
+    },
+    {
+      "title": "Dixie Clear (Hot Head Bop)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d16"
+    },
+    {
+      "title": "Dixie Clear (In a Snow-Bound Land)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0f"
+    },
+    {
+      "title": "Dixie Clear (Jib Jig)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1a"
+    },
+    {
+      "title": "Dixie Clear (Klomp's Romp)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1c"
+    },
+    {
+      "title": "Dixie Clear (Krook's March)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d11"
+    },
+    {
+      "title": "Dixie Clear (Lockjaw's Saga)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d1b"
+    },
+    {
+      "title": "Dixie Clear (Mining Melancholy)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d12"
+    },
+    {
+      "title": "Dixie Clear (Primal Rave)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0e"
+    },
+    {
+      "title": "Dixie Clear (Snakey Chantey)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d19"
+    },
+    {
+      "title": "Dixie Clear (Stickerbrush Symphony)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d14"
+    },
+    {
+      "title": "Stronghold Showdown",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0d"
+    },
+    {
+      "title": "The Flying Krock",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0b"
+    },
+    {
+      "title": "Diddy Clear (Crocodile Cacophony)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0a"
+    },
+    {
+      "title": "Dixie Clear (Crocodile Cacophony)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d09"
+    },
+    {
+      "title": "Player Down (Crocodile Cacophony)",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d0c"
+    },
+    {
+      "title": "Game Over",
+      "guid": "154-e23928424a65de06Og51524729Og146e61fe80cOgLQ7d08"
+    },
+    {
+      "title": "Bonus Intro",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fcf"
+    },
+    {
+      "title": "Diddy Clear (Boss Bossanova)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd0"
+    },
+    {
+      "title": "Dixie Clear (Boss Bossanova)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fce"
+    },
+    {
+      "title": "Ending Ambience",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fcd"
+    },
+    {
+      "title": "K. Rool's Letter",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fcc"
+    },
+    {
+      "title": "Mining Melancholy",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fba"
+    },
+    {
+      "title": "Pause!",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fcb"
+    },
+    {
+      "title": "Player Down (Boss Bossanova)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fca"
+    },
+    {
+      "title": "Stage Clear (Bayou Boogie)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc9"
+    },
+    {
+      "title": "Stage Clear (Disco Train)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc8"
+    },
+    {
+      "title": "Stage Clear (Flight of the Zinger)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc7"
+    },
+    {
+      "title": "Stage Clear (Forest Interlude)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc6"
+    },
+    {
+      "title": "Stage Clear (Haunted Chase)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc5"
+    },
+    {
+      "title": "Stage Clear (Hot Head Bop)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc4"
+    },
+    {
+      "title": "Stage Clear (In a Snow-Bound Land)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc3"
+    },
+    {
+      "title": "Stage Clear (Jib Jig)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc2"
+    },
+    {
+      "title": "Stage Clear (Klomp's Romp)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc1"
+    },
+    {
+      "title": "Stage Clear (Krook's March)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fc0"
+    },
+    {
+      "title": "Stage Clear (Lockjaw's Saga)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbf"
+    },
+    {
+      "title": "Stage Clear (Mining Melancholy)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbe"
+    },
+    {
+      "title": "Stage Clear (Primal Rave)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbd"
+    },
+    {
+      "title": "Stage Clear (Snakey Chantey)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbc"
+    },
+    {
+      "title": "Stage Clear (Stickerbrush Symphony)",
+      "guid": "154-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fbb"
+    }
+  ],
+  "title": "Donkey Kong Country 2"
+}

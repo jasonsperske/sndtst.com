@@ -1,1 +1,41 @@
-{"guid": "Jackal", "platform": "NES", "title": "Jackal", "composed_by": [], "playlist": [{"title": "Title", "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0f"}, {"title": "Stage 1", "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0e"}, {"title": "Stage 2", "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0c"}, {"title": "Stage 3", "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0d"}, {"title": "(Final) Boss", "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0a"}, {"title": "Stage Clear", "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0b"}, {"title": "Game Over", "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f09"}, {"title": "Ending", "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f08"}], "id": "189"}
+{
+  "composed_by": [],
+  "guid": "Jackal",
+  "id": "189",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0f"
+    },
+    {
+      "title": "Stage 1",
+      "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0e"
+    },
+    {
+      "title": "Stage 2",
+      "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0c"
+    },
+    {
+      "title": "Stage 3",
+      "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0d"
+    },
+    {
+      "title": "(Final) Boss",
+      "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0a"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f0b"
+    },
+    {
+      "title": "Game Over",
+      "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f09"
+    },
+    {
+      "title": "Ending",
+      "guid": "189-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f08"
+    }
+  ],
+  "title": "Jackal"
+}

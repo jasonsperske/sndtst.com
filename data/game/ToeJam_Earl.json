@@ -1,1 +1,40 @@
-{"guid": "ToeJam_Earl", "platform": "Genesis", "title": "ToeJam & Earl", "composed_by": ["John Baker", "Mark Miller"], "playlist": [{"title": "ToeJam Jammin'", "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef9"}, {"title": "Big Earl Bump", "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef8"}, {"title": "Rapmaster Rocket Racket", "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef7"}, {"title": "Funkotronic Beat", "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef6"}, {"title": "Alien Break Down", "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef5"}, {"title": "ToeJam Slowjam", "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef4"}, {"title": "Elevator Beats", "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef3"}], "id": "110"}
+{
+  "composed_by": [
+    "John Baker",
+    "Mark Miller"
+  ],
+  "guid": "ToeJam_Earl",
+  "id": "110",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "ToeJam Jammin'",
+      "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef9"
+    },
+    {
+      "title": "Big Earl Bump",
+      "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef8"
+    },
+    {
+      "title": "Rapmaster Rocket Racket",
+      "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef7"
+    },
+    {
+      "title": "Funkotronic Beat",
+      "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef6"
+    },
+    {
+      "title": "Alien Break Down",
+      "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef5"
+    },
+    {
+      "title": "ToeJam Slowjam",
+      "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef4"
+    },
+    {
+      "title": "Elevator Beats",
+      "guid": "110-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ef3"
+    }
+  ],
+  "title": "ToeJam & Earl"
+}

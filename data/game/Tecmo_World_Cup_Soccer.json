@@ -1,1 +1,45 @@
-{"guid": "Tecmo_World_Cup_Soccer", "platform": "NES", "title": "Tecmo World Cup Soccer", "composed_by": [], "playlist": [{"title": "Unknown", "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e76"}, {"title": "Unknown", "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e75"}, {"title": "Unknown", "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e74"}, {"title": "Unknown", "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e72"}, {"title": "Unknown", "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e73"}, {"title": "Unknown", "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e71"}, {"title": "Unknown", "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e70"}, {"title": "Unknown", "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e6f"}, {"title": "Unknown", "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e6e"}], "id": "199"}
+{
+  "composed_by": [],
+  "guid": "Tecmo_World_Cup_Soccer",
+  "id": "199",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Unknown",
+      "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e76"
+    },
+    {
+      "title": "Unknown",
+      "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e75"
+    },
+    {
+      "title": "Unknown",
+      "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e74"
+    },
+    {
+      "title": "Unknown",
+      "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e72"
+    },
+    {
+      "title": "Unknown",
+      "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e73"
+    },
+    {
+      "title": "Unknown",
+      "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e71"
+    },
+    {
+      "title": "Unknown",
+      "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e70"
+    },
+    {
+      "title": "Unknown",
+      "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e6f"
+    },
+    {
+      "title": "Unknown",
+      "guid": "199-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e6e"
+    }
+  ],
+  "title": "Tecmo World Cup Soccer"
+}

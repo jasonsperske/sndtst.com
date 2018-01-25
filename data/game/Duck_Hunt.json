@@ -1,1 +1,91 @@
-{"guid": "Duck_Hunt", "platform": "NES", "title": "Duck Hunt", "composed_by": ["Hirokazu Tanaka"], "playlist": [{"title": "Title", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ea3"}, {"title": "Duck Hunt Intro", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ea2"}, {"title": "Clay Shooting Intro", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ea1"}, {"title": "Dog Shows Duck(s)", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ea0"}, {"title": "Round Clear", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9f"}, {"title": "Perfect", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9e"}, {"title": "You Failed", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9d"}, {"title": "Game Over", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9c"}, {"title": "SFX: Pause", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9b"}, {"title": "SFX: Gun Shot", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9a"}, {"title": "SFX: Counting Hits", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e99"}, {"title": "SFX: Dog Bark", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e98"}, {"title": "SFX: Duck Quack", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e97"}, {"title": "SFX: Dead Duck Falls", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e96"}, {"title": "SFX: Dead Duck Lands", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e95"}, {"title": "SFX: Dog Laughs", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e94"}, {"title": "SFX: Disc Fired", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e93"}, {"title": "SFX: Flying Disc", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e92"}, {"title": "SFX: Disc Lands", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e91"}, {"title": "SFX: Disc Explodes", "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e90"}], "id": "366"}
+{
+  "composed_by": [
+    "Hirokazu Tanaka"
+  ],
+  "guid": "Duck_Hunt",
+  "id": "366",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ea3"
+    },
+    {
+      "title": "Duck Hunt Intro",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ea2"
+    },
+    {
+      "title": "Clay Shooting Intro",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ea1"
+    },
+    {
+      "title": "Dog Shows Duck(s)",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ea0"
+    },
+    {
+      "title": "Round Clear",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9f"
+    },
+    {
+      "title": "Perfect",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9e"
+    },
+    {
+      "title": "You Failed",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9d"
+    },
+    {
+      "title": "Game Over",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9c"
+    },
+    {
+      "title": "SFX: Pause",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9b"
+    },
+    {
+      "title": "SFX: Gun Shot",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e9a"
+    },
+    {
+      "title": "SFX: Counting Hits",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e99"
+    },
+    {
+      "title": "SFX: Dog Bark",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e98"
+    },
+    {
+      "title": "SFX: Duck Quack",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e97"
+    },
+    {
+      "title": "SFX: Dead Duck Falls",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e96"
+    },
+    {
+      "title": "SFX: Dead Duck Lands",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e95"
+    },
+    {
+      "title": "SFX: Dog Laughs",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e94"
+    },
+    {
+      "title": "SFX: Disc Fired",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e93"
+    },
+    {
+      "title": "SFX: Flying Disc",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e92"
+    },
+    {
+      "title": "SFX: Disc Lands",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e91"
+    },
+    {
+      "title": "SFX: Disc Explodes",
+      "guid": "366-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e90"
+    }
+  ],
+  "title": "Duck Hunt"
+}

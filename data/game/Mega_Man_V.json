@@ -1,1 +1,111 @@
-{"guid": "Mega_Man_V", "platform": "NES", "title": "Mega Man V", "composed_by": ["Mari Yamaguchi"], "playlist": [{"title": "Intro", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e99"}, {"title": "Main Theme", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e98"}, {"title": "Make Your Selection", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e97"}, {"title": "Prepare for Battle!", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e96"}, {"title": "GravityMan", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e95"}, {"title": "StoneMan", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e94"}, {"title": "WaveMan", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e93"}, {"title": "StarMan", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e92"}, {"title": "CrystalMan", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e90"}, {"title": "GyroMan", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e91"}, {"title": "ChargeMan", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8e"}, {"title": "NapalmMan", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8f"}, {"title": "Defeated", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8d"}, {"title": "Stage Boss", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8b"}, {"title": "Victory!", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8c"}, {"title": "New Toys", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8a"}, {"title": "Password", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e88"}, {"title": "ProtoMan's Fortress", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e89"}, {"title": "ProtoMan's Fortress Stage", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e86"}, {"title": "Dr. Wily's Castle", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e87"}, {"title": "Dr. Wily's Castle Stage", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e85"}, {"title": "Battle with Dr. Wily", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e83"}, {"title": "Dr. Wily is Down!", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e84"}, {"title": "Castle Collapsing", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e82"}, {"title": "Credits", "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e81"}], "id": "332"}
+{
+  "composed_by": [
+    "Mari Yamaguchi"
+  ],
+  "guid": "Mega_Man_V",
+  "id": "332",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Intro",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e99"
+    },
+    {
+      "title": "Main Theme",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e98"
+    },
+    {
+      "title": "Make Your Selection",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e97"
+    },
+    {
+      "title": "Prepare for Battle!",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e96"
+    },
+    {
+      "title": "GravityMan",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e95"
+    },
+    {
+      "title": "StoneMan",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e94"
+    },
+    {
+      "title": "WaveMan",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e93"
+    },
+    {
+      "title": "StarMan",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e92"
+    },
+    {
+      "title": "CrystalMan",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e90"
+    },
+    {
+      "title": "GyroMan",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e91"
+    },
+    {
+      "title": "ChargeMan",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8e"
+    },
+    {
+      "title": "NapalmMan",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8f"
+    },
+    {
+      "title": "Defeated",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8d"
+    },
+    {
+      "title": "Stage Boss",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8b"
+    },
+    {
+      "title": "Victory!",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8c"
+    },
+    {
+      "title": "New Toys",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e8a"
+    },
+    {
+      "title": "Password",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e88"
+    },
+    {
+      "title": "ProtoMan's Fortress",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e89"
+    },
+    {
+      "title": "ProtoMan's Fortress Stage",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e86"
+    },
+    {
+      "title": "Dr. Wily's Castle",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e87"
+    },
+    {
+      "title": "Dr. Wily's Castle Stage",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e85"
+    },
+    {
+      "title": "Battle with Dr. Wily",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e83"
+    },
+    {
+      "title": "Dr. Wily is Down!",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e84"
+    },
+    {
+      "title": "Castle Collapsing",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e82"
+    },
+    {
+      "title": "Credits",
+      "guid": "332-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e81"
+    }
+  ],
+  "title": "Mega Man V"
+}

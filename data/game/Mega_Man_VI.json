@@ -1,1 +1,143 @@
-{"guid": "Mega_Man_VI", "platform": "NES", "title": "Mega Man VI", "composed_by": ["Yuko Takehara"], "playlist": [{"title": "Capcom Logo", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e80"}, {"title": "Opening", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7f"}, {"title": "Title", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7e"}, {"title": "Password", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7d"}, {"title": "Stage Select", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7c"}, {"title": "Windman Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7b"}, {"title": "Blizzardman Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7a"}, {"title": "Yamatoman Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e79"}, {"title": "Flameman Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e78"}, {"title": "Plantman Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e77"}, {"title": "Centaurman Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e75"}, {"title": "Tomahawkman Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e76"}, {"title": "Knightman Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e73"}, {"title": "Boss", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e74"}, {"title": "Get a Weapon", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e60"}, {"title": "Get a Weapon", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e72"}, {"title": "All Stage Clear", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e71"}, {"title": "Mr. X Stage Map", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e70"}, {"title": "Mr. X Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6f"}, {"title": "Dr. Wily Stage Map", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6e"}, {"title": "Dr. Wily Stage", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6d"}, {"title": "Last Boss", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6c"}, {"title": "Ending Part 1", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6b"}, {"title": "Ending Part 2 Blizzardman", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6a"}, {"title": "Ending Part 3 Centaurman", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e69"}, {"title": "Ending Part 4 Flameman", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e68"}, {"title": "Ending Part 5 Yamatoman", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e67"}, {"title": "Ending Part 6 Plantman", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e66"}, {"title": "Ending Part 7 Tomahawkman", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e65"}, {"title": "Ending Part 8 Windman", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e64"}, {"title": "Ending Part 9 Knightman", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e63"}, {"title": "Ending Part 10", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e62"}, {"title": "Game Over", "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e61"}], "id": "333"}
+{
+  "composed_by": [
+    "Yuko Takehara"
+  ],
+  "guid": "Mega_Man_VI",
+  "id": "333",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Capcom Logo",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e80"
+    },
+    {
+      "title": "Opening",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7f"
+    },
+    {
+      "title": "Title",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7e"
+    },
+    {
+      "title": "Password",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7d"
+    },
+    {
+      "title": "Stage Select",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7c"
+    },
+    {
+      "title": "Windman Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7b"
+    },
+    {
+      "title": "Blizzardman Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e7a"
+    },
+    {
+      "title": "Yamatoman Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e79"
+    },
+    {
+      "title": "Flameman Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e78"
+    },
+    {
+      "title": "Plantman Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e77"
+    },
+    {
+      "title": "Centaurman Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e75"
+    },
+    {
+      "title": "Tomahawkman Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e76"
+    },
+    {
+      "title": "Knightman Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e73"
+    },
+    {
+      "title": "Boss",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e74"
+    },
+    {
+      "title": "Get a Weapon",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e60"
+    },
+    {
+      "title": "Get a Weapon",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e72"
+    },
+    {
+      "title": "All Stage Clear",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e71"
+    },
+    {
+      "title": "Mr. X Stage Map",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e70"
+    },
+    {
+      "title": "Mr. X Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6f"
+    },
+    {
+      "title": "Dr. Wily Stage Map",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6e"
+    },
+    {
+      "title": "Dr. Wily Stage",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6d"
+    },
+    {
+      "title": "Last Boss",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6c"
+    },
+    {
+      "title": "Ending Part 1",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6b"
+    },
+    {
+      "title": "Ending Part 2 Blizzardman",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e6a"
+    },
+    {
+      "title": "Ending Part 3 Centaurman",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e69"
+    },
+    {
+      "title": "Ending Part 4 Flameman",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e68"
+    },
+    {
+      "title": "Ending Part 5 Yamatoman",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e67"
+    },
+    {
+      "title": "Ending Part 6 Plantman",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e66"
+    },
+    {
+      "title": "Ending Part 7 Tomahawkman",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e65"
+    },
+    {
+      "title": "Ending Part 8 Windman",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e64"
+    },
+    {
+      "title": "Ending Part 9 Knightman",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e63"
+    },
+    {
+      "title": "Ending Part 10",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e62"
+    },
+    {
+      "title": "Game Over",
+      "guid": "333-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e61"
+    }
+  ],
+  "title": "Mega Man VI"
+}

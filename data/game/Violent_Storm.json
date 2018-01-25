@@ -1,1 +1,81 @@
-{"guid": "Violent_Storm", "platform": "Arcade", "title": "Violent Storm", "composed_by": [], "playlist": [{"title": "Pleased To Meet You (Player Shoukai Demo)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7e"}, {"title": "Prologue (Prologue Demo)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7f"}, {"title": "Funky Guys (Player Select)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7d"}, {"title": "Who'll Be The Hero (1st BGM)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b79"}, {"title": "On The Train (2nd BGM)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7c"}, {"title": "Feel My Power (3rd BGM 1)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7b"}, {"title": "Sharara's Dancing ~ Light Steps (3rd BGM 2)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7a"}, {"title": "Drifting Tension (4th BGM)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b78"}, {"title": "We Are Free (5th BGM)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b77"}, {"title": "Hey! Hey! Hey! (6th BGM)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b76"}, {"title": "The Final Technique (7th BGM)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b74"}, {"title": "Who Are You (Boss BGM 1)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b75"}, {"title": "In The Shadows (Boss BGM 2)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b73"}, {"title": "VS Geldo (Saishuu Boss)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b70"}, {"title": "Kick It! (Stage Clear)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b72"}, {"title": "Out Of Luck! (Game Over)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b71"}, {"title": "Nice Fight. Congratulations (Naming)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b6f"}, {"title": "Are You Ready To Have A Good Time (Ending)", "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b6e"}], "id": "254"}
+{
+  "composed_by": [],
+  "guid": "Violent_Storm",
+  "id": "254",
+  "platform": "Arcade",
+  "playlist": [
+    {
+      "title": "Pleased To Meet You (Player Shoukai Demo)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7e"
+    },
+    {
+      "title": "Prologue (Prologue Demo)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7f"
+    },
+    {
+      "title": "Funky Guys (Player Select)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7d"
+    },
+    {
+      "title": "Who'll Be The Hero (1st BGM)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b79"
+    },
+    {
+      "title": "On The Train (2nd BGM)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7c"
+    },
+    {
+      "title": "Feel My Power (3rd BGM 1)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7b"
+    },
+    {
+      "title": "Sharara's Dancing ~ Light Steps (3rd BGM 2)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b7a"
+    },
+    {
+      "title": "Drifting Tension (4th BGM)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b78"
+    },
+    {
+      "title": "We Are Free (5th BGM)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b77"
+    },
+    {
+      "title": "Hey! Hey! Hey! (6th BGM)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b76"
+    },
+    {
+      "title": "The Final Technique (7th BGM)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b74"
+    },
+    {
+      "title": "Who Are You (Boss BGM 1)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b75"
+    },
+    {
+      "title": "In The Shadows (Boss BGM 2)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b73"
+    },
+    {
+      "title": "VS Geldo (Saishuu Boss)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b70"
+    },
+    {
+      "title": "Kick It! (Stage Clear)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b72"
+    },
+    {
+      "title": "Out Of Luck! (Game Over)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b71"
+    },
+    {
+      "title": "Nice Fight. Congratulations (Naming)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b6f"
+    },
+    {
+      "title": "Are You Ready To Have A Good Time (Ending)",
+      "guid": "254-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7b6e"
+    }
+  ],
+  "title": "Violent Storm"
+}

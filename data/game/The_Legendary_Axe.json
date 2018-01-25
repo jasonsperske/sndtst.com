@@ -1,1 +1,56 @@
-{"guid": "The_Legendary_Axe", "platform": "TG16", "title": "The Legendary Axe", "composed_by": ["Jun Chikuma", "Toshiaki Takimoto"], "playlist": [{"title": "Level 1", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7faf"}, {"title": "Level 2", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fb0"}, {"title": "Level 3", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fae"}, {"title": "Level 4", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fad"}, {"title": "Level 5", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fac"}, {"title": "Level 6", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fab"}, {"title": "Level 7", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7faa"}, {"title": "Boss 1", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fa9"}, {"title": "Boss 2", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fa7"}, {"title": "Boss 3", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fa8"}, {"title": "Ending", "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fa6"}], "id": "51"}
+{
+  "composed_by": [
+    "Jun Chikuma",
+    "Toshiaki Takimoto"
+  ],
+  "guid": "The_Legendary_Axe",
+  "id": "51",
+  "platform": "TG16",
+  "playlist": [
+    {
+      "title": "Level 1",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7faf"
+    },
+    {
+      "title": "Level 2",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fb0"
+    },
+    {
+      "title": "Level 3",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fae"
+    },
+    {
+      "title": "Level 4",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fad"
+    },
+    {
+      "title": "Level 5",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fac"
+    },
+    {
+      "title": "Level 6",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fab"
+    },
+    {
+      "title": "Level 7",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7faa"
+    },
+    {
+      "title": "Boss 1",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fa9"
+    },
+    {
+      "title": "Boss 2",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fa7"
+    },
+    {
+      "title": "Boss 3",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fa8"
+    },
+    {
+      "title": "Ending",
+      "guid": "51-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fa6"
+    }
+  ],
+  "title": "The Legendary Axe"
+}

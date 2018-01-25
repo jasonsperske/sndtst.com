@@ -1,1 +1,61 @@
-{"guid": "Ghosts_N_Goblins", "platform": "NES", "title": "Ghosts 'N Goblins", "composed_by": [], "playlist": [{"title": "Introduction", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fcf"}, {"title": "Start", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fce"}, {"title": "Stage 1", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fcd"}, {"title": "Stage 3 & Stage 4", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fcc"}, {"title": "Stage 5 & Stage 6", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fcb"}, {"title": "Stage 5 & Stage 6 (Part 2)", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fca"}, {"title": "Final Boss", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc9"}, {"title": "Illusion (1st Ending)", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc8"}, {"title": "Congraturation (2nd Ending)", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc7"}, {"title": "Stage Complete", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc6"}, {"title": "Out of Time", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc5"}, {"title": "Player Lost", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc4"}, {"title": "Game Over", "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc3"}], "id": "96"}
+{
+  "composed_by": [],
+  "guid": "Ghosts_N_Goblins",
+  "id": "96",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Introduction",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fcf"
+    },
+    {
+      "title": "Start",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fce"
+    },
+    {
+      "title": "Stage 1",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fcd"
+    },
+    {
+      "title": "Stage 3 & Stage 4",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fcc"
+    },
+    {
+      "title": "Stage 5 & Stage 6",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fcb"
+    },
+    {
+      "title": "Stage 5 & Stage 6 (Part 2)",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fca"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc9"
+    },
+    {
+      "title": "Illusion (1st Ending)",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc8"
+    },
+    {
+      "title": "Congraturation (2nd Ending)",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc7"
+    },
+    {
+      "title": "Stage Complete",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc6"
+    },
+    {
+      "title": "Out of Time",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc5"
+    },
+    {
+      "title": "Player Lost",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc4"
+    },
+    {
+      "title": "Game Over",
+      "guid": "96-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fc3"
+    }
+  ],
+  "title": "Ghosts 'N Goblins"
+}

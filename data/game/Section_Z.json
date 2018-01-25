@@ -1,1 +1,53 @@
-{"guid": "Section_Z", "platform": "NES", "title": "Section Z", "composed_by": [], "playlist": [{"title": "Title", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fff"}, {"title": "Beginning", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ8000"}, {"title": "Area 1", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffe"}, {"title": "Recharge Room", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffd"}, {"title": "Boss", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffb"}, {"title": "Stage Complete", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffc"}, {"title": "Area 2", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ff9"}, {"title": "Area 3", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffa"}, {"title": "Final Boss", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ff8"}, {"title": "Ending", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ff7"}, {"title": "Warp", "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ff6"}], "id": "81"}
+{
+  "composed_by": [],
+  "guid": "Section_Z",
+  "id": "81",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7fff"
+    },
+    {
+      "title": "Beginning",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ8000"
+    },
+    {
+      "title": "Area 1",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffe"
+    },
+    {
+      "title": "Recharge Room",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffd"
+    },
+    {
+      "title": "Boss",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffb"
+    },
+    {
+      "title": "Stage Complete",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffc"
+    },
+    {
+      "title": "Area 2",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ff9"
+    },
+    {
+      "title": "Area 3",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ffa"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ff8"
+    },
+    {
+      "title": "Ending",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ff7"
+    },
+    {
+      "title": "Warp",
+      "guid": "81-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7ff6"
+    }
+  ],
+  "title": "Section Z"
+}

@@ -1,1 +1,69 @@
-{"guid": "Mario_Paint", "platform": "SNES", "title": "Mario Paint", "composed_by": ["Ryoji Yoshitomi", "Kazumi Totaka", "Player 1"], "playlist": [{"title": "Mario Paint", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd1"}, {"title": "Opening Credits", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd0"}, {"title": "Rainbow Paintbrush", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fce"}, {"title": "Flower Garden", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fcf"}, {"title": "Falling Star", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fcd"}, {"title": "Creative Exercise", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fcc"}, {"title": "Monkey Song", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fcb"}, {"title": "Mysterious", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc9"}, {"title": "Special Stamps", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fca"}, {"title": "Data Robot", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc8"}, {"title": "Flyswatter ~ Level 1", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc6"}, {"title": "Flyswatter ~ Level 2", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc7"}, {"title": "Flyswatter ~ Level 3", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc5"}, {"title": "Big Robo Bug", "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc4"}], "id": "66"}
+{
+  "composed_by": [
+    "Ryoji Yoshitomi",
+    "Kazumi Totaka",
+    "Player 1"
+  ],
+  "guid": "Mario_Paint",
+  "id": "66",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Mario Paint",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd1"
+    },
+    {
+      "title": "Opening Credits",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd0"
+    },
+    {
+      "title": "Rainbow Paintbrush",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fce"
+    },
+    {
+      "title": "Flower Garden",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fcf"
+    },
+    {
+      "title": "Falling Star",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fcd"
+    },
+    {
+      "title": "Creative Exercise",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fcc"
+    },
+    {
+      "title": "Monkey Song",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fcb"
+    },
+    {
+      "title": "Mysterious",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc9"
+    },
+    {
+      "title": "Special Stamps",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fca"
+    },
+    {
+      "title": "Data Robot",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc8"
+    },
+    {
+      "title": "Flyswatter ~ Level 1",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc6"
+    },
+    {
+      "title": "Flyswatter ~ Level 2",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc7"
+    },
+    {
+      "title": "Flyswatter ~ Level 3",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc5"
+    },
+    {
+      "title": "Big Robo Bug",
+      "guid": "66-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fc4"
+    }
+  ],
+  "title": "Mario Paint"
+}

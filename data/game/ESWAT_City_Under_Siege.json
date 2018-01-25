@@ -1,1 +1,61 @@
-{"guid": "ESWAT_City_Under_Siege", "platform": "Genesis", "title": "ESWAT: City Under Siege", "composed_by": ["Y\u014d Takada", "Takayuki Nakamura", "Tokuhiko Uwabo"], "playlist": [{"title": "Opening Theme", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ8000"}, {"title": "Introduction", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffe"}, {"title": "Round Start", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7fff"}, {"title": "BGM 1", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffc"}, {"title": "Stage Clear", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffd"}, {"title": "BGM 2", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffa"}, {"title": "Boss Theme 1", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffb"}, {"title": "BGM 3", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff8"}, {"title": "BGM 4", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff9"}, {"title": "Boss Theme 2", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff7"}, {"title": "Ending Theme", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff6"}, {"title": "Game Over", "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff5"}], "id": "55"}
+{
+  "composed_by": [
+    "Yō Takada",
+    "Takayuki Nakamura",
+    "Tokuhiko Uwabo"
+  ],
+  "guid": "ESWAT_City_Under_Siege",
+  "id": "55",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ8000"
+    },
+    {
+      "title": "Introduction",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffe"
+    },
+    {
+      "title": "Round Start",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7fff"
+    },
+    {
+      "title": "BGM 1",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffc"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffd"
+    },
+    {
+      "title": "BGM 2",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffa"
+    },
+    {
+      "title": "Boss Theme 1",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ffb"
+    },
+    {
+      "title": "BGM 3",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff8"
+    },
+    {
+      "title": "BGM 4",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff9"
+    },
+    {
+      "title": "Boss Theme 2",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff7"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff6"
+    },
+    {
+      "title": "Game Over",
+      "guid": "55-e60467d7fc50db7dOg7dec2eb7Og145f8cd2d8dOgLQ7ff5"
+    }
+  ],
+  "title": "ESWAT: City Under Siege"
+}

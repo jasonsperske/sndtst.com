@@ -1,1 +1,73 @@
-{"guid": "Legendary_Wings", "platform": "NES", "title": "Legendary Wings", "composed_by": ["Tamayo Kawamoto", "Manami Matsumae", "Yoshihiro Sakaguchi"], "playlist": [{"title": "Stage 1P", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa8"}, {"title": "Stage 2", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa7"}, {"title": "Stage 3", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa6"}, {"title": "Stage 4", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa5"}, {"title": "Stage 5P", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa3"}, {"title": "Danger Theme", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa4"}, {"title": "Danger Miniboss", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa2"}, {"title": "Lucky!", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa1"}, {"title": "Stage Boss", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa0"}, {"title": "Palace Theme", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9f"}, {"title": "Palace Boss", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9d"}, {"title": "Area Cleared", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9e"}, {"title": "Credits", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9c"}, {"title": "Game Over", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9b"}, {"title": "Hi Score", "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9a"}], "id": "387"}
+{
+  "composed_by": [
+    "Tamayo Kawamoto",
+    "Manami Matsumae",
+    "Yoshihiro Sakaguchi"
+  ],
+  "guid": "Legendary_Wings",
+  "id": "387",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Stage 1P",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa8"
+    },
+    {
+      "title": "Stage 2",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa7"
+    },
+    {
+      "title": "Stage 3",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa6"
+    },
+    {
+      "title": "Stage 4",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa5"
+    },
+    {
+      "title": "Stage 5P",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa3"
+    },
+    {
+      "title": "Danger Theme",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa4"
+    },
+    {
+      "title": "Danger Miniboss",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa2"
+    },
+    {
+      "title": "Lucky!",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa1"
+    },
+    {
+      "title": "Stage Boss",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fa0"
+    },
+    {
+      "title": "Palace Theme",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9f"
+    },
+    {
+      "title": "Palace Boss",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9d"
+    },
+    {
+      "title": "Area Cleared",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9e"
+    },
+    {
+      "title": "Credits",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9c"
+    },
+    {
+      "title": "Game Over",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9b"
+    },
+    {
+      "title": "Hi Score",
+      "guid": "387-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7f9a"
+    }
+  ],
+  "title": "Legendary Wings"
+}

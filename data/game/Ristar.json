@@ -1,1 +1,139 @@
-{"guid": "Ristar", "platform": "Genesis", "title": "Ristar", "composed_by": ["Tomoko Sasaki"], "playlist": [{"title": "Opening Theme 1 - Ebony Force", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d9b"}, {"title": "Opening Theme 2 - Pray!! Pray!! Play!!", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d9c"}, {"title": "Round 1-1 - Shooting Ristar", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d99"}, {"title": "Round 1-2 - Dancing Leaves", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d9a"}, {"title": "Round 2-1 - Splash Down!!", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d98"}, {"title": "Round 2-2 - Break Silence", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d97"}, {"title": "Round 3-1 - Busy Flare", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d96"}, {"title": "Round 3-2 - Under Magma", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d94"}, {"title": "Round 4-1 - Pre-Song - Intension", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d95"}, {"title": "Round 4-1 - Pre-Song - Intension (First Bird)", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d93"}, {"title": "Round 4-1 - Pre-Song - Intension (Second Bird)", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d92"}, {"title": "Round 4-1 - Pre-Song - Intension (Third Bird)", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d91"}, {"title": "Round 4-1 - Pre-Song - Intension (Fourth Bird)", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8f"}, {"title": "Round 4-1 - Du-Di-Da!!", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d90"}, {"title": "Round 4-1 - Du-Di-Da!! (With Intro)", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8e"}, {"title": "Round 4-2 - On Parade", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8d"}, {"title": "Round 5-1 - Ring Rink", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8c"}, {"title": "Round 5-2 - Ice Scream", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8b"}, {"title": "Round 6-1 - Crying World", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d89"}, {"title": "Round 6-2 - Lock Up!!", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8a"}, {"title": "Battle Entry - Concentration", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d88"}, {"title": "Battle Theme - Crazy Kings", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d87"}, {"title": "Theme of Kaiser - Greedy Game", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d85"}, {"title": "Bonus Stage 1 - Formation Lap", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d86"}, {"title": "Bonus Stage 2 - Ready... Go!!", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d84"}, {"title": "Area Clear - Go Ahead", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d83"}, {"title": "Round Clear 1 - Let's Go!!", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d81"}, {"title": "Round Clear 2 - Beyond Space", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d82"}, {"title": "Continue - Once More", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d80"}, {"title": "Game Over", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7f"}, {"title": "Ending 1 - Star Humming", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7e"}, {"title": "Ending 2 - Next Cruise", "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7d"}], "id": "126"}
+{
+  "composed_by": [
+    "Tomoko Sasaki"
+  ],
+  "guid": "Ristar",
+  "id": "126",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme 1 - Ebony Force",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d9b"
+    },
+    {
+      "title": "Opening Theme 2 - Pray!! Pray!! Play!!",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d9c"
+    },
+    {
+      "title": "Round 1-1 - Shooting Ristar",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d99"
+    },
+    {
+      "title": "Round 1-2 - Dancing Leaves",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d9a"
+    },
+    {
+      "title": "Round 2-1 - Splash Down!!",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d98"
+    },
+    {
+      "title": "Round 2-2 - Break Silence",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d97"
+    },
+    {
+      "title": "Round 3-1 - Busy Flare",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d96"
+    },
+    {
+      "title": "Round 3-2 - Under Magma",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d94"
+    },
+    {
+      "title": "Round 4-1 - Pre-Song - Intension",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d95"
+    },
+    {
+      "title": "Round 4-1 - Pre-Song - Intension (First Bird)",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d93"
+    },
+    {
+      "title": "Round 4-1 - Pre-Song - Intension (Second Bird)",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d92"
+    },
+    {
+      "title": "Round 4-1 - Pre-Song - Intension (Third Bird)",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d91"
+    },
+    {
+      "title": "Round 4-1 - Pre-Song - Intension (Fourth Bird)",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8f"
+    },
+    {
+      "title": "Round 4-1 - Du-Di-Da!!",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d90"
+    },
+    {
+      "title": "Round 4-1 - Du-Di-Da!! (With Intro)",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8e"
+    },
+    {
+      "title": "Round 4-2 - On Parade",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8d"
+    },
+    {
+      "title": "Round 5-1 - Ring Rink",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8c"
+    },
+    {
+      "title": "Round 5-2 - Ice Scream",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8b"
+    },
+    {
+      "title": "Round 6-1 - Crying World",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d89"
+    },
+    {
+      "title": "Round 6-2 - Lock Up!!",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d8a"
+    },
+    {
+      "title": "Battle Entry - Concentration",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d88"
+    },
+    {
+      "title": "Battle Theme - Crazy Kings",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d87"
+    },
+    {
+      "title": "Theme of Kaiser - Greedy Game",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d85"
+    },
+    {
+      "title": "Bonus Stage 1 - Formation Lap",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d86"
+    },
+    {
+      "title": "Bonus Stage 2 - Ready... Go!!",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d84"
+    },
+    {
+      "title": "Area Clear - Go Ahead",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d83"
+    },
+    {
+      "title": "Round Clear 1 - Let's Go!!",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d81"
+    },
+    {
+      "title": "Round Clear 2 - Beyond Space",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d82"
+    },
+    {
+      "title": "Continue - Once More",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d80"
+    },
+    {
+      "title": "Game Over",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7f"
+    },
+    {
+      "title": "Ending 1 - Star Humming",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7e"
+    },
+    {
+      "title": "Ending 2 - Next Cruise",
+      "guid": "126-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7d"
+    }
+  ],
+  "title": "Ristar"
+}

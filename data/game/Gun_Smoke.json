@@ -1,1 +1,81 @@
-{"guid": "Gun_Smoke", "platform": "NES", "title": "Gun Smoke", "composed_by": [], "playlist": [{"title": "Title", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec7"}, {"title": "Town of Hicksville", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec6"}, {"title": "Bandit Bill", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec5"}, {"title": "The Boulders", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec3"}, {"title": "Cutter", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec4"}, {"title": "Comanche Village", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec2"}, {"title": "Devil Hawk", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec0"}, {"title": "Death Mountain", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec1"}, {"title": "Ninja", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebf"}, {"title": "Cheyenne River", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebd"}, {"title": "Fatman Joe", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebe"}, {"title": "Fort Wingate", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebc"}, {"title": "Wingate", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebb"}, {"title": "Store", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eba"}, {"title": "Weapon Select", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eb8"}, {"title": "Game Over", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eb9"}, {"title": "Stage Clear", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eb7"}, {"title": "Ending", "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eb6"}], "id": "31"}
+{
+  "composed_by": [],
+  "guid": "Gun_Smoke",
+  "id": "31",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec7"
+    },
+    {
+      "title": "Town of Hicksville",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec6"
+    },
+    {
+      "title": "Bandit Bill",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec5"
+    },
+    {
+      "title": "The Boulders",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec3"
+    },
+    {
+      "title": "Cutter",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec4"
+    },
+    {
+      "title": "Comanche Village",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec2"
+    },
+    {
+      "title": "Devil Hawk",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec0"
+    },
+    {
+      "title": "Death Mountain",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ec1"
+    },
+    {
+      "title": "Ninja",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebf"
+    },
+    {
+      "title": "Cheyenne River",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebd"
+    },
+    {
+      "title": "Fatman Joe",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebe"
+    },
+    {
+      "title": "Fort Wingate",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebc"
+    },
+    {
+      "title": "Wingate",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ebb"
+    },
+    {
+      "title": "Store",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eba"
+    },
+    {
+      "title": "Weapon Select",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eb8"
+    },
+    {
+      "title": "Game Over",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eb9"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eb7"
+    },
+    {
+      "title": "Ending",
+      "guid": "31-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eb6"
+    }
+  ],
+  "title": "Gun Smoke"
+}

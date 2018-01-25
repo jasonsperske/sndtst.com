@@ -1,1 +1,45 @@
-{"guid": "Karnov", "platform": "NES", "title": "Karnov", "composed_by": [], "playlist": [{"title": "Opening (JP Version) East", "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c8b"}, {"title": "Level Theme", "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c8a"}, {"title": "Hurry Up, Karnov!", "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c89"}, {"title": "You Died", "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c88"}, {"title": "Game Over", "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c87"}, {"title": "Level Complete", "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c86"}, {"title": "Final Battle", "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c85"}, {"title": "The End", "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c84"}, {"title": "The End (JP Version)", "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c83"}], "id": "159"}
+{
+  "composed_by": [],
+  "guid": "Karnov",
+  "id": "159",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Opening (JP Version) East",
+      "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c8b"
+    },
+    {
+      "title": "Level Theme",
+      "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c8a"
+    },
+    {
+      "title": "Hurry Up, Karnov!",
+      "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c89"
+    },
+    {
+      "title": "You Died",
+      "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c88"
+    },
+    {
+      "title": "Game Over",
+      "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c87"
+    },
+    {
+      "title": "Level Complete",
+      "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c86"
+    },
+    {
+      "title": "Final Battle",
+      "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c85"
+    },
+    {
+      "title": "The End",
+      "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c84"
+    },
+    {
+      "title": "The End (JP Version)",
+      "guid": "159-e23928424a65de06Og51524729Og146e61fe80cOgLQ7c83"
+    }
+  ],
+  "title": "Karnov"
+}

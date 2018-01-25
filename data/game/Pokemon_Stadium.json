@@ -1,1 +1,293 @@
-{"guid": "Pokemon_Stadium", "platform": "N64", "title": "Pok\u00e9mon Stadium", "composed_by": [], "playlist": [{"title": "Opening Demo", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f78"}, {"title": "Title", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f77"}, {"title": "Game Demo", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f75"}, {"title": "Map", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f76"}, {"title": "Hall of Fame", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f74"}, {"title": "Professor Oak's Lab", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f73"}, {"title": "Pok\u00e9mon Transfer", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f72"}, {"title": "Kids Club Menu", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f71"}, {"title": "Magikarp's Splash", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f70"}, {"title": "Clefairy Says (Percussion)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6f"}, {"title": "Clefairy Says (Wrong Version)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6e"}, {"title": "Clefairy Says (Right Version)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6d"}, {"title": "Run, Rattata, Run", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6c"}, {"title": "Snore War", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6b"}, {"title": "Thundering Dynamo", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6a"}, {"title": "Sushi-Go-Round", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f69"}, {"title": "Ekans' Hoop Hurl", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f67"}, {"title": "Rock Harden", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f68"}, {"title": "Dig! Dig! Dig!", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f66"}, {"title": "Mini Game End", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f65"}, {"title": "Kids Club (Loss)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f64"}, {"title": "Kids Club (Draw)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f63"}, {"title": "Kids Club (Champion)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f62"}, {"title": "Free Battle Menu", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f60"}, {"title": "VS Intro (Short)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f61"}, {"title": "Free Battle", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5f"}, {"title": "Stadium Selection", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5e"}, {"title": "Pok\u00e9mon Selection", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5d"}, {"title": "VS Intro", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5c"}, {"title": "P97+98 Cup Battle 4-6", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5a"}, {"title": "P97+98 Cup Semifinal", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5b"}, {"title": "P97+98 Cup Final", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f59"}, {"title": "Pika Cup Battles 1-3", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f58"}, {"title": "Pika Cup Battles 4-6", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f57"}, {"title": "Pika Cup Semifinal", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f56"}, {"title": "Pika Cup Final", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f55"}, {"title": "Petit Cup Battles 1-3", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f54"}, {"title": "Petit Cup Battles 4-6", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f53"}, {"title": "Petit Cup Semifinal", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f52"}, {"title": "Petit Cup Final", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f51"}, {"title": "Pok\u00e9 Cup Battles 1-3", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f50"}, {"title": "Pok\u00e9 Cup Battles 4-6", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4f"}, {"title": "Pok\u00e9 Cup Semifinal", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4e"}, {"title": "Pok\u00e9 Cup Final", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4d"}, {"title": "Prime Cup Battles 1-3", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4c"}, {"title": "Prime Cup Battles 4-6", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4b"}, {"title": "Prime Cup Semifinal", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f49"}, {"title": "Prime Cup Final", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4a"}, {"title": "Stadium Cup ~ Victory Badges", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f48"}, {"title": "Pok\u00e9 & Prime Cup Trophy Presentation", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f47"}, {"title": "Pok\u00e9mon Victory Poses & Cup Presentation", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f45"}, {"title": "Battle End", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f46"}, {"title": "VS Won", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f44"}, {"title": "VS Lost", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f43"}, {"title": "Doduo~Dodrio GB Tower Obtained", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f42"}, {"title": "Gym Leader Castle", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f41"}, {"title": "Gym Leader Castle Menu", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f40"}, {"title": "Gym Leader Castle (Preliminary Battles)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3e"}, {"title": "Gym Leader Battle", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3f"}, {"title": "Gym Leader Castle Stage Clear", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3d"}, {"title": "Gym Leader Castle (Elite Four)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3c"}, {"title": "Rival Battle", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3a"}, {"title": "Gym Leader Castle ~ Final Victory", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3b"}, {"title": "Gym Leader Castle Clear", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f39"}, {"title": "Pok\u00e9mon Present", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f38"}, {"title": "Pok\u00e9mon Present Revealed", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f37"}, {"title": "Credits (Round 1)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f36"}, {"title": "Credits (Round 2)", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f35"}, {"title": "VS/Mewtwo Menu", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f34"}, {"title": "Battle with Mewtwo", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f32"}, {"title": "Mewtwo Defeated", "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f33"}], "id": "174"}
+{
+  "composed_by": [],
+  "guid": "Pokemon_Stadium",
+  "id": "174",
+  "platform": "N64",
+  "playlist": [
+    {
+      "title": "Opening Demo",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f78"
+    },
+    {
+      "title": "Title",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f77"
+    },
+    {
+      "title": "Game Demo",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f75"
+    },
+    {
+      "title": "Map",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f76"
+    },
+    {
+      "title": "Hall of Fame",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f74"
+    },
+    {
+      "title": "Professor Oak's Lab",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f73"
+    },
+    {
+      "title": "Pokémon Transfer",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f72"
+    },
+    {
+      "title": "Kids Club Menu",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f71"
+    },
+    {
+      "title": "Magikarp's Splash",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f70"
+    },
+    {
+      "title": "Clefairy Says (Percussion)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6f"
+    },
+    {
+      "title": "Clefairy Says (Wrong Version)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6e"
+    },
+    {
+      "title": "Clefairy Says (Right Version)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6d"
+    },
+    {
+      "title": "Run, Rattata, Run",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6c"
+    },
+    {
+      "title": "Snore War",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6b"
+    },
+    {
+      "title": "Thundering Dynamo",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f6a"
+    },
+    {
+      "title": "Sushi-Go-Round",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f69"
+    },
+    {
+      "title": "Ekans' Hoop Hurl",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f67"
+    },
+    {
+      "title": "Rock Harden",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f68"
+    },
+    {
+      "title": "Dig! Dig! Dig!",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f66"
+    },
+    {
+      "title": "Mini Game End",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f65"
+    },
+    {
+      "title": "Kids Club (Loss)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f64"
+    },
+    {
+      "title": "Kids Club (Draw)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f63"
+    },
+    {
+      "title": "Kids Club (Champion)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f62"
+    },
+    {
+      "title": "Free Battle Menu",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f60"
+    },
+    {
+      "title": "VS Intro (Short)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f61"
+    },
+    {
+      "title": "Free Battle",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5f"
+    },
+    {
+      "title": "Stadium Selection",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5e"
+    },
+    {
+      "title": "Pokémon Selection",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5d"
+    },
+    {
+      "title": "VS Intro",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5c"
+    },
+    {
+      "title": "P97+98 Cup Battle 4-6",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5a"
+    },
+    {
+      "title": "P97+98 Cup Semifinal",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f5b"
+    },
+    {
+      "title": "P97+98 Cup Final",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f59"
+    },
+    {
+      "title": "Pika Cup Battles 1-3",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f58"
+    },
+    {
+      "title": "Pika Cup Battles 4-6",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f57"
+    },
+    {
+      "title": "Pika Cup Semifinal",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f56"
+    },
+    {
+      "title": "Pika Cup Final",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f55"
+    },
+    {
+      "title": "Petit Cup Battles 1-3",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f54"
+    },
+    {
+      "title": "Petit Cup Battles 4-6",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f53"
+    },
+    {
+      "title": "Petit Cup Semifinal",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f52"
+    },
+    {
+      "title": "Petit Cup Final",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f51"
+    },
+    {
+      "title": "Poké Cup Battles 1-3",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f50"
+    },
+    {
+      "title": "Poké Cup Battles 4-6",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4f"
+    },
+    {
+      "title": "Poké Cup Semifinal",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4e"
+    },
+    {
+      "title": "Poké Cup Final",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4d"
+    },
+    {
+      "title": "Prime Cup Battles 1-3",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4c"
+    },
+    {
+      "title": "Prime Cup Battles 4-6",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4b"
+    },
+    {
+      "title": "Prime Cup Semifinal",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f49"
+    },
+    {
+      "title": "Prime Cup Final",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f4a"
+    },
+    {
+      "title": "Stadium Cup ~ Victory Badges",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f48"
+    },
+    {
+      "title": "Poké & Prime Cup Trophy Presentation",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f47"
+    },
+    {
+      "title": "Pokémon Victory Poses & Cup Presentation",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f45"
+    },
+    {
+      "title": "Battle End",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f46"
+    },
+    {
+      "title": "VS Won",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f44"
+    },
+    {
+      "title": "VS Lost",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f43"
+    },
+    {
+      "title": "Doduo~Dodrio GB Tower Obtained",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f42"
+    },
+    {
+      "title": "Gym Leader Castle",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f41"
+    },
+    {
+      "title": "Gym Leader Castle Menu",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f40"
+    },
+    {
+      "title": "Gym Leader Castle (Preliminary Battles)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3e"
+    },
+    {
+      "title": "Gym Leader Battle",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3f"
+    },
+    {
+      "title": "Gym Leader Castle Stage Clear",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3d"
+    },
+    {
+      "title": "Gym Leader Castle (Elite Four)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3c"
+    },
+    {
+      "title": "Rival Battle",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3a"
+    },
+    {
+      "title": "Gym Leader Castle ~ Final Victory",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f3b"
+    },
+    {
+      "title": "Gym Leader Castle Clear",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f39"
+    },
+    {
+      "title": "Pokémon Present",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f38"
+    },
+    {
+      "title": "Pokémon Present Revealed",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f37"
+    },
+    {
+      "title": "Credits (Round 1)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f36"
+    },
+    {
+      "title": "Credits (Round 2)",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f35"
+    },
+    {
+      "title": "VS/Mewtwo Menu",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f34"
+    },
+    {
+      "title": "Battle with Mewtwo",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f32"
+    },
+    {
+      "title": "Mewtwo Defeated",
+      "guid": "174-db9cebf4414ed406OgLQ1e975524Og1473b0a994dOgLQ7f33"
+    }
+  ],
+  "title": "Pokémon Stadium"
+}

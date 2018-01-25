@@ -1,1 +1,101 @@
-{"guid": "Thunder_Force_III", "platform": "Genesis", "title": "Thunder Force III", "composed_by": ["Toshiharu Yamanishi", "Tomomi Ootani", "Naosuke Arai"], "playlist": [{"title": "The Wind Blew All Day Long", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e00"}, {"title": "Beyond the Peace", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dff"}, {"title": "Back to the Fire", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfd"}, {"title": "Gargoyle", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfe"}, {"title": "Venus Fire", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfc"}, {"title": "Twin Vulcan", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfb"}, {"title": "The Grubby Dark Blue", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfa"}, {"title": "King Fish", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df9"}, {"title": "Truth", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df8"}, {"title": "G Lobster", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df7"}, {"title": "Final Take a Chance", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df6"}, {"title": "Mobile Fort", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df5"}, {"title": "His Behavior Inspired Us With Distrust", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df4"}, {"title": "Hunger Made Them Desperate", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df3"}, {"title": "Off Luck", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df2"}, {"title": "Final Moment", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df1"}, {"title": "Be Menaced By Orn", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7def"}, {"title": "Stage Clear", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df0"}, {"title": "Continue", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dee"}, {"title": "Game Over", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ded"}, {"title": "A War Without the End", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dec"}, {"title": "Present", "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7deb"}], "id": "43"}
+{
+  "composed_by": [
+    "Toshiharu Yamanishi",
+    "Tomomi Ootani",
+    "Naosuke Arai"
+  ],
+  "guid": "Thunder_Force_III",
+  "id": "43",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "The Wind Blew All Day Long",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e00"
+    },
+    {
+      "title": "Beyond the Peace",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dff"
+    },
+    {
+      "title": "Back to the Fire",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfd"
+    },
+    {
+      "title": "Gargoyle",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfe"
+    },
+    {
+      "title": "Venus Fire",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfc"
+    },
+    {
+      "title": "Twin Vulcan",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfb"
+    },
+    {
+      "title": "The Grubby Dark Blue",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dfa"
+    },
+    {
+      "title": "King Fish",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df9"
+    },
+    {
+      "title": "Truth",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df8"
+    },
+    {
+      "title": "G Lobster",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df7"
+    },
+    {
+      "title": "Final Take a Chance",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df6"
+    },
+    {
+      "title": "Mobile Fort",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df5"
+    },
+    {
+      "title": "His Behavior Inspired Us With Distrust",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df4"
+    },
+    {
+      "title": "Hunger Made Them Desperate",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df3"
+    },
+    {
+      "title": "Off Luck",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df2"
+    },
+    {
+      "title": "Final Moment",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df1"
+    },
+    {
+      "title": "Be Menaced By Orn",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7def"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7df0"
+    },
+    {
+      "title": "Continue",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dee"
+    },
+    {
+      "title": "Game Over",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ded"
+    },
+    {
+      "title": "A War Without the End",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7dec"
+    },
+    {
+      "title": "Present",
+      "guid": "43-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7deb"
+    }
+  ],
+  "title": "Thunder Force III"
+}

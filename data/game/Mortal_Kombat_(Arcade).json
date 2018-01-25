@@ -1,1 +1,81 @@
-{"guid": "Mortal_Kombat_(Arcade)", "platform": "Arcade", "title": "Mortal Kombat", "composed_by": [], "playlist": [{"title": "It Has Begun", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bca"}, {"title": "In the Beginning", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc9"}, {"title": "Battle Plan", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc8"}, {"title": "The Courtyard", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc7"}, {"title": "Palace Gates", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc6"}, {"title": "Warrior Shrine", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc5"}, {"title": "The Pit", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc4"}, {"title": "Throne Room", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc3"}, {"title": "Goro's Lair", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc2"}, {"title": "Player Two Has Entered the Tournament!", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc1"}, {"title": "Reptile Klue", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc0"}, {"title": "Reptile Defeated", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbf"}, {"title": "Fatality", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbe"}, {"title": "Test Your Might", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbd"}, {"title": "Success!", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbc"}, {"title": "Kontinue", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbb"}, {"title": "Game Over", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bba"}, {"title": "Victory", "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bb9"}], "id": "251"}
+{
+  "composed_by": [],
+  "guid": "Mortal_Kombat_(Arcade)",
+  "id": "251",
+  "platform": "Arcade",
+  "playlist": [
+    {
+      "title": "It Has Begun",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bca"
+    },
+    {
+      "title": "In the Beginning",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc9"
+    },
+    {
+      "title": "Battle Plan",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc8"
+    },
+    {
+      "title": "The Courtyard",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc7"
+    },
+    {
+      "title": "Palace Gates",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc6"
+    },
+    {
+      "title": "Warrior Shrine",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc5"
+    },
+    {
+      "title": "The Pit",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc4"
+    },
+    {
+      "title": "Throne Room",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc3"
+    },
+    {
+      "title": "Goro's Lair",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc2"
+    },
+    {
+      "title": "Player Two Has Entered the Tournament!",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc1"
+    },
+    {
+      "title": "Reptile Klue",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bc0"
+    },
+    {
+      "title": "Reptile Defeated",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbf"
+    },
+    {
+      "title": "Fatality",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbe"
+    },
+    {
+      "title": "Test Your Might",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbd"
+    },
+    {
+      "title": "Success!",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbc"
+    },
+    {
+      "title": "Kontinue",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bbb"
+    },
+    {
+      "title": "Game Over",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bba"
+    },
+    {
+      "title": "Victory",
+      "guid": "251-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bb9"
+    }
+  ],
+  "title": "Mortal Kombat"
+}

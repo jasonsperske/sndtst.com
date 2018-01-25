@@ -1,1 +1,73 @@
-{"guid": "Contra_III", "platform": "SNES", "title": "Contra III: The Alien Wars", "composed_by": ["Miki Yanagisawa", "Masanori Adachi", "Tappi Iwase"], "playlist": [{"title": "Red Falcon's Revenge", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7feb"}, {"title": "Ground Zero", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe9"}, {"title": "Point of Entry", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fea"}, {"title": "Tearing Up the Turnpike", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe8"}, {"title": "Neo Kobe Steel Factory", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe7"}, {"title": "Road Warriors", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe6"}, {"title": "Nesting in the Sands", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe5"}, {"title": "Invasion", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe3"}, {"title": "Casualty of War", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe4"}, {"title": "Mission Accomplished", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe2"}, {"title": "No Man's Land", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe0"}, {"title": "The Final Gauntlet (Part 1)", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe1"}, {"title": "The Final Gauntlet (Part 2)", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fdf"}, {"title": "The Final Gauntlet (Part 3)", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fde"}, {"title": "Cease Fire", "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fdd"}], "id": "384"}
+{
+  "composed_by": [
+    "Miki Yanagisawa",
+    "Masanori Adachi",
+    "Tappi Iwase"
+  ],
+  "guid": "Contra_III",
+  "id": "384",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Red Falcon's Revenge",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7feb"
+    },
+    {
+      "title": "Ground Zero",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe9"
+    },
+    {
+      "title": "Point of Entry",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fea"
+    },
+    {
+      "title": "Tearing Up the Turnpike",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe8"
+    },
+    {
+      "title": "Neo Kobe Steel Factory",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe7"
+    },
+    {
+      "title": "Road Warriors",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe6"
+    },
+    {
+      "title": "Nesting in the Sands",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe5"
+    },
+    {
+      "title": "Invasion",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe3"
+    },
+    {
+      "title": "Casualty of War",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe4"
+    },
+    {
+      "title": "Mission Accomplished",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe2"
+    },
+    {
+      "title": "No Man's Land",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe0"
+    },
+    {
+      "title": "The Final Gauntlet (Part 1)",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fe1"
+    },
+    {
+      "title": "The Final Gauntlet (Part 2)",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fdf"
+    },
+    {
+      "title": "The Final Gauntlet (Part 3)",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fde"
+    },
+    {
+      "title": "Cease Fire",
+      "guid": "384-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fdd"
+    }
+  ],
+  "title": "Contra III: The Alien Wars"
+}

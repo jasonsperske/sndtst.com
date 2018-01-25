@@ -1,1 +1,125 @@
-{"guid": "Mario_Kart_64", "platform": "N64", "title": "Mario Kart 64", "composed_by": [], "playlist": [{"title": "Mario Kart 64 Theme", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb3"}, {"title": "Setup and Kart Select", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb4"}, {"title": "3 Raceways, Wario Stadium", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb1"}, {"title": "Moo Moo Farm, Yoshi Valley", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb2"}, {"title": "Choco Mountain, Battle Arenas", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb0"}, {"title": "Koopa Troopa Beach", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eaf"}, {"title": "Banshee Boardwalk", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eae"}, {"title": "Frappe Snowland, Sherbet Land", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ead"}, {"title": "Bowser's Castle", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eac"}, {"title": "Kalimari Desert", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eab"}, {"title": "Starting Race (First)", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eaa"}, {"title": "Starting Race 2", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea9"}, {"title": "Finish Line", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea8"}, {"title": "Finish Line 2", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea7"}, {"title": "Finish Line (Lost)", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea6"}, {"title": "Winning Results", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea4"}, {"title": "Star Power", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea5"}, {"title": "Rainbow Road", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea2"}, {"title": "DK's Jungle Parkway", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea3"}, {"title": "No Trophy Finish", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea1"}, {"title": "Toad's Turnpike", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9f"}, {"title": "Starting Race 3", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea0"}, {"title": "Versus Match Results", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9e"}, {"title": "Losing Results", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9d"}, {"title": "Battle Arenas", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9c"}, {"title": "Trophy Presentations (Part 1)", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9b"}, {"title": "Trophy Presentations (Part 2)", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9a"}, {"title": "Victory Lap", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e99"}, {"title": "No Trophy for You!", "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e98"}], "id": "196"}
+{
+  "composed_by": [],
+  "guid": "Mario_Kart_64",
+  "id": "196",
+  "platform": "N64",
+  "playlist": [
+    {
+      "title": "Mario Kart 64 Theme",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb3"
+    },
+    {
+      "title": "Setup and Kart Select",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb4"
+    },
+    {
+      "title": "3 Raceways, Wario Stadium",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb1"
+    },
+    {
+      "title": "Moo Moo Farm, Yoshi Valley",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb2"
+    },
+    {
+      "title": "Choco Mountain, Battle Arenas",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eb0"
+    },
+    {
+      "title": "Koopa Troopa Beach",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eaf"
+    },
+    {
+      "title": "Banshee Boardwalk",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eae"
+    },
+    {
+      "title": "Frappe Snowland, Sherbet Land",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ead"
+    },
+    {
+      "title": "Bowser's Castle",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eac"
+    },
+    {
+      "title": "Kalimari Desert",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eab"
+    },
+    {
+      "title": "Starting Race (First)",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7eaa"
+    },
+    {
+      "title": "Starting Race 2",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea9"
+    },
+    {
+      "title": "Finish Line",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea8"
+    },
+    {
+      "title": "Finish Line 2",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea7"
+    },
+    {
+      "title": "Finish Line (Lost)",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea6"
+    },
+    {
+      "title": "Winning Results",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea4"
+    },
+    {
+      "title": "Star Power",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea5"
+    },
+    {
+      "title": "Rainbow Road",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea2"
+    },
+    {
+      "title": "DK's Jungle Parkway",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea3"
+    },
+    {
+      "title": "No Trophy Finish",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea1"
+    },
+    {
+      "title": "Toad's Turnpike",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9f"
+    },
+    {
+      "title": "Starting Race 3",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ea0"
+    },
+    {
+      "title": "Versus Match Results",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9e"
+    },
+    {
+      "title": "Losing Results",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9d"
+    },
+    {
+      "title": "Battle Arenas",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9c"
+    },
+    {
+      "title": "Trophy Presentations (Part 1)",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9b"
+    },
+    {
+      "title": "Trophy Presentations (Part 2)",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e9a"
+    },
+    {
+      "title": "Victory Lap",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e99"
+    },
+    {
+      "title": "No Trophy for You!",
+      "guid": "196-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7e98"
+    }
+  ],
+  "title": "Mario Kart 64"
+}

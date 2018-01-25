@@ -1,1 +1,55 @@
-{"guid": "Keith_Courage_in_Alpha_Zones", "platform": "TG16", "title": "Keith Courage in Alpha Zones", "composed_by": ["Michiharu Hasuya"], "playlist": [{"title": "Title", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc8"}, {"title": "House", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc7"}, {"title": "Hospital", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc5"}, {"title": "Rainbow", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc6"}, {"title": "Ingame 1", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc4"}, {"title": "Battle Stage 1", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc3"}, {"title": "Ingame 2", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc2"}, {"title": "Battle Stage 2", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc1"}, {"title": "Boss", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc0"}, {"title": "Game Over", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fbf"}, {"title": "Ending", "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fbe"}], "id": "49"}
+{
+  "composed_by": [
+    "Michiharu Hasuya"
+  ],
+  "guid": "Keith_Courage_in_Alpha_Zones",
+  "id": "49",
+  "platform": "TG16",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc8"
+    },
+    {
+      "title": "House",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc7"
+    },
+    {
+      "title": "Hospital",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc5"
+    },
+    {
+      "title": "Rainbow",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc6"
+    },
+    {
+      "title": "Ingame 1",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc4"
+    },
+    {
+      "title": "Battle Stage 1",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc3"
+    },
+    {
+      "title": "Ingame 2",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc2"
+    },
+    {
+      "title": "Battle Stage 2",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc1"
+    },
+    {
+      "title": "Boss",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fc0"
+    },
+    {
+      "title": "Game Over",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fbf"
+    },
+    {
+      "title": "Ending",
+      "guid": "49-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fbe"
+    }
+  ],
+  "title": "Keith Courage in Alpha Zones"
+}

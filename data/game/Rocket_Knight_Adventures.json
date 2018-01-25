@@ -1,1 +1,109 @@
-{"guid": "Rocket_Knight_Adventures", "platform": "Genesis", "title": "Rocket Knight Adventures", "composed_by": [], "playlist": [{"title": "Konami Logo", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ8000"}, {"title": "Interlude", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffe"}, {"title": "Stage Intro", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fff"}, {"title": "Stage 1-1", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffc"}, {"title": "Stage 1-2", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffd"}, {"title": "Stage 2-1", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffb"}, {"title": "Stage 2-2", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffa"}, {"title": "Stage 3", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff9"}, {"title": "Stage 4", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff8"}, {"title": "Stage 5-1", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff7"}, {"title": "Stage 5-2", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff6"}, {"title": "Stage 5-2 (No Intro)", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff5"}, {"title": "Stage 6", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff4"}, {"title": "Stage 7", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff1"}, {"title": "Stage Clear", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff3"}, {"title": "Miniboss", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff2"}, {"title": "Boss", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff0"}, {"title": "Boss (Fast Version)", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fee"}, {"title": "Final Boss Intro", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fef"}, {"title": "Final Boss", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fed"}, {"title": "Continue", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7feb"}, {"title": "Ending", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fec"}, {"title": "Congratulations!", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fea"}, {"title": "Staff Roll", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fe8"}, {"title": "Game Over", "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fe9"}], "id": "177"}
+{
+  "composed_by": [],
+  "guid": "Rocket_Knight_Adventures",
+  "id": "177",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Konami Logo",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ8000"
+    },
+    {
+      "title": "Interlude",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffe"
+    },
+    {
+      "title": "Stage Intro",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fff"
+    },
+    {
+      "title": "Stage 1-1",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffc"
+    },
+    {
+      "title": "Stage 1-2",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffd"
+    },
+    {
+      "title": "Stage 2-1",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffb"
+    },
+    {
+      "title": "Stage 2-2",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ffa"
+    },
+    {
+      "title": "Stage 3",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff9"
+    },
+    {
+      "title": "Stage 4",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff8"
+    },
+    {
+      "title": "Stage 5-1",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff7"
+    },
+    {
+      "title": "Stage 5-2",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff6"
+    },
+    {
+      "title": "Stage 5-2 (No Intro)",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff5"
+    },
+    {
+      "title": "Stage 6",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff4"
+    },
+    {
+      "title": "Stage 7",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff1"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff3"
+    },
+    {
+      "title": "Miniboss",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff2"
+    },
+    {
+      "title": "Boss",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7ff0"
+    },
+    {
+      "title": "Boss (Fast Version)",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fee"
+    },
+    {
+      "title": "Final Boss Intro",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fef"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fed"
+    },
+    {
+      "title": "Continue",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7feb"
+    },
+    {
+      "title": "Ending",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fec"
+    },
+    {
+      "title": "Congratulations!",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fea"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fe8"
+    },
+    {
+      "title": "Game Over",
+      "guid": "177-d4bc00edf6174a58OgLQ2ffbebbfOg1475bdd9fc6OgLQ7fe9"
+    }
+  ],
+  "title": "Rocket Knight Adventures"
+}

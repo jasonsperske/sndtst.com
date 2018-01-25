@@ -1,1 +1,107 @@
-{"guid": "Mega_Man_III", "platform": "NES", "title": "Mega Man III", "composed_by": ["Yasuaki Fujita"], "playlist": [{"title": "Title", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fac"}, {"title": "Stage Select", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fae"}, {"title": "Game Start", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fad"}, {"title": "Sparkman Stage", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fab"}, {"title": "Snakeman Stage", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7faa"}, {"title": "Needleman Stage", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa9"}, {"title": "Hardman Stage", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa8"}, {"title": "Topman Stage", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa7"}, {"title": "Geminiman Stage", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa6"}, {"title": "Magnetman Stage", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa4"}, {"title": "Shadowman Stage", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa5"}, {"title": "Boss", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa2"}, {"title": "Stage Clear", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa3"}, {"title": "Get a Weapon", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa1"}, {"title": "New Character", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9f"}, {"title": "Dr. Wily Stage Map", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa0"}, {"title": "Dr. Wily Stage 1", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9d"}, {"title": "Dr. Wily Stage 2", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9e"}, {"title": "Dr. Wily Stage 3", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9c"}, {"title": "Dr. Wily Stage Boss", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9a"}, {"title": "Password", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9b"}, {"title": "All Stage Clear", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f99"}, {"title": "Ending", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f97"}, {"title": "Staff Roll", "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f98"}], "id": "21"}
+{
+  "composed_by": [
+    "Yasuaki Fujita"
+  ],
+  "guid": "Mega_Man_III",
+  "id": "21",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fac"
+    },
+    {
+      "title": "Stage Select",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fae"
+    },
+    {
+      "title": "Game Start",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fad"
+    },
+    {
+      "title": "Sparkman Stage",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fab"
+    },
+    {
+      "title": "Snakeman Stage",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7faa"
+    },
+    {
+      "title": "Needleman Stage",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa9"
+    },
+    {
+      "title": "Hardman Stage",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa8"
+    },
+    {
+      "title": "Topman Stage",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa7"
+    },
+    {
+      "title": "Geminiman Stage",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa6"
+    },
+    {
+      "title": "Magnetman Stage",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa4"
+    },
+    {
+      "title": "Shadowman Stage",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa5"
+    },
+    {
+      "title": "Boss",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa2"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa3"
+    },
+    {
+      "title": "Get a Weapon",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa1"
+    },
+    {
+      "title": "New Character",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9f"
+    },
+    {
+      "title": "Dr. Wily Stage Map",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fa0"
+    },
+    {
+      "title": "Dr. Wily Stage 1",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9d"
+    },
+    {
+      "title": "Dr. Wily Stage 2",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9e"
+    },
+    {
+      "title": "Dr. Wily Stage 3",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9c"
+    },
+    {
+      "title": "Dr. Wily Stage Boss",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9a"
+    },
+    {
+      "title": "Password",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f9b"
+    },
+    {
+      "title": "All Stage Clear",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f99"
+    },
+    {
+      "title": "Ending",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f97"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "21-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f98"
+    }
+  ],
+  "title": "Mega Man III"
+}

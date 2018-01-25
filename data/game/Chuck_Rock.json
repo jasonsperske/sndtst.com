@@ -1,1 +1,35 @@
-{"guid": "Chuck_Rock", "platform": "Genesis", "title": "Chuck Rock", "composed_by": ["Matt Furniss"], "playlist": [{"title": "Title Theme", "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7fff"}, {"title": "Level 1", "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ8000"}, {"title": "Level 2", "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7ffe"}, {"title": "Level 3", "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7ffd"}, {"title": "Level 4", "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7ffc"}, {"title": "Level 5", "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7ffb"}], "id": "342"}
+{
+  "composed_by": [
+    "Matt Furniss"
+  ],
+  "guid": "Chuck_Rock",
+  "id": "342",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Title Theme",
+      "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7fff"
+    },
+    {
+      "title": "Level 1",
+      "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ8000"
+    },
+    {
+      "title": "Level 2",
+      "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7ffe"
+    },
+    {
+      "title": "Level 3",
+      "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7ffd"
+    },
+    {
+      "title": "Level 4",
+      "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7ffc"
+    },
+    {
+      "title": "Level 5",
+      "guid": "342-7ca21490ea3ceb89Og198762bcOg14f35597c36OgLQ7ffb"
+    }
+  ],
+  "title": "Chuck Rock"
+}

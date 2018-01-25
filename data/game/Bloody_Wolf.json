@@ -1,1 +1,79 @@
-{"guid": "Bloody_Wolf", "platform": "TG16", "title": "Bloody Wolf", "composed_by": ["Azusa Hara", "Hiroaki Yoshida", "Tatsuya Kiuchi", "Hitomi Komatsu", "Shuji Segawa"], "playlist": [{"title": "Title", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e80"}, {"title": "Player Select", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e81"}, {"title": "Stage 1", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7f"}, {"title": "Stage 2", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7e"}, {"title": "Stage 3", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7d"}, {"title": "Stage 4", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7c"}, {"title": "Stage 5", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7b"}, {"title": "Stage 6", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7a"}, {"title": "Stage 7", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e78"}, {"title": "Stage 8", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e79"}, {"title": "Boss", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e77"}, {"title": "Final Boss", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e76"}, {"title": "Stage Clear", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e75"}, {"title": "Continue", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e74"}, {"title": "Ending", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e73"}, {"title": "Credits", "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e72"}], "id": "144"}
+{
+  "composed_by": [
+    "Azusa Hara",
+    "Hiroaki Yoshida",
+    "Tatsuya Kiuchi",
+    "Hitomi Komatsu",
+    "Shuji Segawa"
+  ],
+  "guid": "Bloody_Wolf",
+  "id": "144",
+  "platform": "TG16",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e80"
+    },
+    {
+      "title": "Player Select",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e81"
+    },
+    {
+      "title": "Stage 1",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7f"
+    },
+    {
+      "title": "Stage 2",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7e"
+    },
+    {
+      "title": "Stage 3",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7d"
+    },
+    {
+      "title": "Stage 4",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7c"
+    },
+    {
+      "title": "Stage 5",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7b"
+    },
+    {
+      "title": "Stage 6",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e7a"
+    },
+    {
+      "title": "Stage 7",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e78"
+    },
+    {
+      "title": "Stage 8",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e79"
+    },
+    {
+      "title": "Boss",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e77"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e76"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e75"
+    },
+    {
+      "title": "Continue",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e74"
+    },
+    {
+      "title": "Ending",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e73"
+    },
+    {
+      "title": "Credits",
+      "guid": "144-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e72"
+    }
+  ],
+  "title": "Bloody Wolf"
+}

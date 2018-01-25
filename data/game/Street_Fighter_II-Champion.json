@@ -1,1 +1,145 @@
-{"guid": "Street_Fighter_II-Champion", "platform": "Genesis", "title": "Street Fighter II: Special Champion Edition", "composed_by": [], "playlist": [{"title": "Capcom Logo", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd7"}, {"title": "Opening Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd6"}, {"title": "Player Select", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd4"}, {"title": "VS Screen", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd5"}, {"title": "Ryu's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd3"}, {"title": "E. Honda's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd2"}, {"title": "Blanka's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd1"}, {"title": "Guile's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fcf"}, {"title": "Bonus Stage", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd0"}, {"title": "A New Challenger", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fce"}, {"title": "Ken's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fcc"}, {"title": "Chun Li's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fcd"}, {"title": "Zangief's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fcb"}, {"title": "Dhalsim's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fca"}, {"title": "Balrog's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc9"}, {"title": "Vega's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc7"}, {"title": "Sagat's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc8"}, {"title": "M. Bison's Theme", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc5"}, {"title": "Stage End", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc6"}, {"title": "Ryu's Ending", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc4"}, {"title": "E. Honda's Ending", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc3"}, {"title": "Blanka's Ending", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc2"}, {"title": "Guile's Ending", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc1"}, {"title": "Ken's Ending I", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc0"}, {"title": "Ken's Ending II", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbf"}, {"title": "Chun Li's Ending I", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbe"}, {"title": "Chun Li's Ending II", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbc"}, {"title": "Zangief's Ending", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbd"}, {"title": "Dhalsim's Ending", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbb"}, {"title": "Boss Character's Ending", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fba"}, {"title": "Staff Roll", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fb9"}, {"title": "Continue", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fb8"}, {"title": "Game Over", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fb7"}, {"title": "Ranking", "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fb6"}], "id": "397"}
+{
+  "composed_by": [],
+  "guid": "Street_Fighter_II-Champion",
+  "id": "397",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Capcom Logo",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd7"
+    },
+    {
+      "title": "Opening Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd6"
+    },
+    {
+      "title": "Player Select",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd4"
+    },
+    {
+      "title": "VS Screen",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd5"
+    },
+    {
+      "title": "Ryu's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd3"
+    },
+    {
+      "title": "E. Honda's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd2"
+    },
+    {
+      "title": "Blanka's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd1"
+    },
+    {
+      "title": "Guile's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fcf"
+    },
+    {
+      "title": "Bonus Stage",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fd0"
+    },
+    {
+      "title": "A New Challenger",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fce"
+    },
+    {
+      "title": "Ken's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fcc"
+    },
+    {
+      "title": "Chun Li's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fcd"
+    },
+    {
+      "title": "Zangief's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fcb"
+    },
+    {
+      "title": "Dhalsim's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fca"
+    },
+    {
+      "title": "Balrog's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc9"
+    },
+    {
+      "title": "Vega's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc7"
+    },
+    {
+      "title": "Sagat's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc8"
+    },
+    {
+      "title": "M. Bison's Theme",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc5"
+    },
+    {
+      "title": "Stage End",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc6"
+    },
+    {
+      "title": "Ryu's Ending",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc4"
+    },
+    {
+      "title": "E. Honda's Ending",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc3"
+    },
+    {
+      "title": "Blanka's Ending",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc2"
+    },
+    {
+      "title": "Guile's Ending",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc1"
+    },
+    {
+      "title": "Ken's Ending I",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fc0"
+    },
+    {
+      "title": "Ken's Ending II",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbf"
+    },
+    {
+      "title": "Chun Li's Ending I",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbe"
+    },
+    {
+      "title": "Chun Li's Ending II",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbc"
+    },
+    {
+      "title": "Zangief's Ending",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbd"
+    },
+    {
+      "title": "Dhalsim's Ending",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fbb"
+    },
+    {
+      "title": "Boss Character's Ending",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fba"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fb9"
+    },
+    {
+      "title": "Continue",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fb8"
+    },
+    {
+      "title": "Game Over",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fb7"
+    },
+    {
+      "title": "Ranking",
+      "guid": "397-88ff2e19d80c8750OgLQ3f86c1b0Og15d0a570b14OgLQ7fb6"
+    }
+  ],
+  "title": "Street Fighter II: Special Champion Edition"
+}

@@ -1,1 +1,121 @@
-{"guid": "Double_Dragon_III", "platform": "NES", "title": "Double Dragon III: The Sacred Stones", "composed_by": [], "playlist": [{"title": "Double Dragon 3 - Theme", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fda"}, {"title": "World Journey", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fdb"}, {"title": "U.S.A - The Last Words", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd9"}, {"title": "U.S.A - Street", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd8"}, {"title": "U.S.A - Factory", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd7"}, {"title": "U.S.A - Boss", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd5"}, {"title": "Stage Clear", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd6"}, {"title": "World Journey", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd4"}, {"title": "China - Great Wall", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd3"}, {"title": "China - Chin (Kungfu Master)", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd2"}, {"title": "Stage Clear", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd1"}, {"title": "World Journey", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd0"}, {"title": "Japan - Water Flows thru Bamboo Pipe", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fcf"}, {"title": "Japan - Ubiquitous Danger", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fce"}, {"title": "Japan - Ranzou (Ninja)", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fcc"}, {"title": "Stage Clear", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fcd"}, {"title": "World Journey", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fcb"}, {"title": "Roman - Coliseum", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fca"}, {"title": "Roman - Big Boss", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc9"}, {"title": "Stage Clear", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc8"}, {"title": "World Journey", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc7"}, {"title": "Egypt - Theme 1", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc6"}, {"title": "Egypt - Mystical Great Pyramic", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc5"}, {"title": "Egypt - Three Diamonds Chamber", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc4"}, {"title": "Egypt - Theme 2", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc2"}, {"title": "Egypt - Mummy Room", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc3"}, {"title": "Egypt - Cursed Magic", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc1"}, {"title": "Ending", "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc0"}], "id": "202"}
+{
+  "composed_by": [],
+  "guid": "Double_Dragon_III",
+  "id": "202",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Double Dragon 3 - Theme",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fda"
+    },
+    {
+      "title": "World Journey",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fdb"
+    },
+    {
+      "title": "U.S.A - The Last Words",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd9"
+    },
+    {
+      "title": "U.S.A - Street",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd8"
+    },
+    {
+      "title": "U.S.A - Factory",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd7"
+    },
+    {
+      "title": "U.S.A - Boss",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd5"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd6"
+    },
+    {
+      "title": "World Journey",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd4"
+    },
+    {
+      "title": "China - Great Wall",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd3"
+    },
+    {
+      "title": "China - Chin (Kungfu Master)",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd2"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd1"
+    },
+    {
+      "title": "World Journey",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fd0"
+    },
+    {
+      "title": "Japan - Water Flows thru Bamboo Pipe",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fcf"
+    },
+    {
+      "title": "Japan - Ubiquitous Danger",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fce"
+    },
+    {
+      "title": "Japan - Ranzou (Ninja)",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fcc"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fcd"
+    },
+    {
+      "title": "World Journey",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fcb"
+    },
+    {
+      "title": "Roman - Coliseum",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fca"
+    },
+    {
+      "title": "Roman - Big Boss",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc9"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc8"
+    },
+    {
+      "title": "World Journey",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc7"
+    },
+    {
+      "title": "Egypt - Theme 1",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc6"
+    },
+    {
+      "title": "Egypt - Mystical Great Pyramic",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc5"
+    },
+    {
+      "title": "Egypt - Three Diamonds Chamber",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc4"
+    },
+    {
+      "title": "Egypt - Theme 2",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc2"
+    },
+    {
+      "title": "Egypt - Mummy Room",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc3"
+    },
+    {
+      "title": "Egypt - Cursed Magic",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc1"
+    },
+    {
+      "title": "Ending",
+      "guid": "202-d9847fcf5794d207Og5fd21613Og1485b721164OgLQ7fc0"
+    }
+  ],
+  "title": "Double Dragon III: The Sacred Stones"
+}

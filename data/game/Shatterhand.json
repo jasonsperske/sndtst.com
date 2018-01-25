@@ -1,1 +1,63 @@
-{"guid": "Shatterhand", "platform": "NES", "title": "Shatterhand", "composed_by": ["Iku Mizutani"], "playlist": [{"title": "Introduction (US Version)", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f62"}, {"title": "Unknown", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f61"}, {"title": "Stage Select", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f60"}, {"title": "Area B", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5f"}, {"title": "Area C (US Version)", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5e"}, {"title": "Area D", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5d"}, {"title": "Areas E & F", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5b"}, {"title": "Boss Theme", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5c"}, {"title": "Area Cleared", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5a"}, {"title": "Final Area", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f59"}, {"title": "Ending, Credits", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f58"}, {"title": "Highscore", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f57"}, {"title": "Game Over", "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f56"}], "id": "352"}
+{
+  "composed_by": [
+    "Iku Mizutani"
+  ],
+  "guid": "Shatterhand",
+  "id": "352",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Introduction (US Version)",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f62"
+    },
+    {
+      "title": "Unknown",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f61"
+    },
+    {
+      "title": "Stage Select",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f60"
+    },
+    {
+      "title": "Area B",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5f"
+    },
+    {
+      "title": "Area C (US Version)",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5e"
+    },
+    {
+      "title": "Area D",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5d"
+    },
+    {
+      "title": "Areas E & F",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5b"
+    },
+    {
+      "title": "Boss Theme",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5c"
+    },
+    {
+      "title": "Area Cleared",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f5a"
+    },
+    {
+      "title": "Final Area",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f59"
+    },
+    {
+      "title": "Ending, Credits",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f58"
+    },
+    {
+      "title": "Highscore",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f57"
+    },
+    {
+      "title": "Game Over",
+      "guid": "352-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7f56"
+    }
+  ],
+  "title": "Shatterhand"
+}

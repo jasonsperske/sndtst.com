@@ -1,1 +1,87 @@
-{"guid": "Adventures_of_Batman_and_Robin", "platform": "Genesis", "title": "The Adventures of Batman & Robin", "composed_by": ["Jesper Kyd"], "playlist": [{"title": "Main Title", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f8b"}, {"title": "Gotham by Night", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7e"}, {"title": "Big Boss", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f8a"}, {"title": "Moving Trucks", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f89"}, {"title": "Joker's Theme", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f88"}, {"title": "Two-Face's Theme", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f87"}, {"title": "Not Much Time", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f86"}, {"title": "Flying Over The City", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f85"}, {"title": "Moving Boss", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f84"}, {"title": "Extreme Boss", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f83"}, {"title": "Dark Studio", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f82"}, {"title": "Animal Boss", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f81"}, {"title": "Psycho Section", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f80"}, {"title": "Space Boss", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7f"}, {"title": "The Lab", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7d"}, {"title": "Big Machines", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f79"}, {"title": "Final Boss", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7c"}, {"title": "Ending", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7b"}, {"title": "Continue", "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7a"}], "id": "311"}
+{
+  "composed_by": [
+    "Jesper Kyd"
+  ],
+  "guid": "Adventures_of_Batman_and_Robin",
+  "id": "311",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Main Title",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f8b"
+    },
+    {
+      "title": "Gotham by Night",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7e"
+    },
+    {
+      "title": "Big Boss",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f8a"
+    },
+    {
+      "title": "Moving Trucks",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f89"
+    },
+    {
+      "title": "Joker's Theme",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f88"
+    },
+    {
+      "title": "Two-Face's Theme",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f87"
+    },
+    {
+      "title": "Not Much Time",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f86"
+    },
+    {
+      "title": "Flying Over The City",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f85"
+    },
+    {
+      "title": "Moving Boss",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f84"
+    },
+    {
+      "title": "Extreme Boss",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f83"
+    },
+    {
+      "title": "Dark Studio",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f82"
+    },
+    {
+      "title": "Animal Boss",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f81"
+    },
+    {
+      "title": "Psycho Section",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f80"
+    },
+    {
+      "title": "Space Boss",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7f"
+    },
+    {
+      "title": "The Lab",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7d"
+    },
+    {
+      "title": "Big Machines",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f79"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7c"
+    },
+    {
+      "title": "Ending",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7b"
+    },
+    {
+      "title": "Continue",
+      "guid": "311-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f7a"
+    }
+  ],
+  "title": "The Adventures of Batman & Robin"
+}

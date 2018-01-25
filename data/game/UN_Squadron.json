@@ -1,1 +1,101 @@
-{"guid": "UN_Squadron", "platform": "SNES", "title": "U.N. Squadron", "composed_by": [], "playlist": [{"title": "Introduction", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f99"}, {"title": "Briefing", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f9a"}, {"title": "Store", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f98"}, {"title": "Front Line Base", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f97"}, {"title": "Enemy Airforce", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f96"}, {"title": "Forest Fortress 1", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f95"}, {"title": "Forest Fortress 2", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f94"}, {"title": "Ground Carrier", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f93"}, {"title": "Project 4 Fortress", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f92"}, {"title": "Quartermaster Corps", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f91"}, {"title": "The Minks", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f90"}, {"title": "The Seavet", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8f"}, {"title": "The Canyon", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8e"}, {"title": "Boss 1", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8d"}, {"title": "Boss 2", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8c"}, {"title": "Stage Clear", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8b"}, {"title": "Game Over", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8a"}, {"title": "Final Boss", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f89"}, {"title": "The End", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f88"}, {"title": "Rejoining", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f87"}, {"title": "Staff Roll", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f84"}, {"title": "Start", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f86"}, {"title": "Pause", "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f85"}], "id": "86"}
+{
+  "composed_by": [],
+  "guid": "UN_Squadron",
+  "id": "86",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Introduction",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f99"
+    },
+    {
+      "title": "Briefing",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f9a"
+    },
+    {
+      "title": "Store",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f98"
+    },
+    {
+      "title": "Front Line Base",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f97"
+    },
+    {
+      "title": "Enemy Airforce",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f96"
+    },
+    {
+      "title": "Forest Fortress 1",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f95"
+    },
+    {
+      "title": "Forest Fortress 2",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f94"
+    },
+    {
+      "title": "Ground Carrier",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f93"
+    },
+    {
+      "title": "Project 4 Fortress",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f92"
+    },
+    {
+      "title": "Quartermaster Corps",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f91"
+    },
+    {
+      "title": "The Minks",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f90"
+    },
+    {
+      "title": "The Seavet",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8f"
+    },
+    {
+      "title": "The Canyon",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8e"
+    },
+    {
+      "title": "Boss 1",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8d"
+    },
+    {
+      "title": "Boss 2",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8c"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8b"
+    },
+    {
+      "title": "Game Over",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f8a"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f89"
+    },
+    {
+      "title": "The End",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f88"
+    },
+    {
+      "title": "Rejoining",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f87"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f84"
+    },
+    {
+      "title": "Start",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f86"
+    },
+    {
+      "title": "Pause",
+      "guid": "86-7539f58c668ced0aOg1d42a185Og146b5ec39b3OgLQ7f85"
+    }
+  ],
+  "title": "U.N. Squadron"
+}

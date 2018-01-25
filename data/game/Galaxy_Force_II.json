@@ -1,1 +1,51 @@
-{"guid": "Galaxy_Force_II", "platform": "Genesis", "title": "Galaxy Force II", "composed_by": ["Masanori Hikichi"], "playlist": [{"title": "Credit", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ8000"}, {"title": "Scene Select", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7fff"}, {"title": "Beyond the Galaxy", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffe"}, {"title": "Defeat", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffd"}, {"title": "Take Back", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffb"}, {"title": "Alone Fighter", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffc"}, {"title": "Try-Z", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ff8"}, {"title": "Stage Clear", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffa"}, {"title": "Ending", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ff9"}, {"title": "Name Entry", "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ff7"}], "id": "345"}
+{
+  "composed_by": [
+    "Masanori Hikichi"
+  ],
+  "guid": "Galaxy_Force_II",
+  "id": "345",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Credit",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ8000"
+    },
+    {
+      "title": "Scene Select",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7fff"
+    },
+    {
+      "title": "Beyond the Galaxy",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffe"
+    },
+    {
+      "title": "Defeat",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffd"
+    },
+    {
+      "title": "Take Back",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffb"
+    },
+    {
+      "title": "Alone Fighter",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffc"
+    },
+    {
+      "title": "Try-Z",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ff8"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ffa"
+    },
+    {
+      "title": "Ending",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ff9"
+    },
+    {
+      "title": "Name Entry",
+      "guid": "345-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7ff7"
+    }
+  ],
+  "title": "Galaxy Force II"
+}

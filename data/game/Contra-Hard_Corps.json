@@ -1,1 +1,131 @@
-{"guid": "Contra-Hard_Corps", "platform": "Genesis", "title": "Contra: Hard Corps", "composed_by": ["Hiroshi Kobayashi", "Michiru Yamane", "Akira Yamaoka", "Hirofumi Taniguchi", "Aki Hata"], "playlist": [{"title": "Konami Music", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f6a"}, {"title": "Locked & Loaded", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f69"}, {"title": "Charshoe X", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f67"}, {"title": "Contra Overdrive", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f68"}, {"title": "Something Wonderful", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f66"}, {"title": "Jurassic Dope", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f65"}, {"title": "Alien's Den", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f64"}, {"title": "AC Violence", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f63"}, {"title": "Yoru no Nikusyokujyu", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f62"}, {"title": "The Hard Corps", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f61"}, {"title": "Zephyr", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f60"}, {"title": "Gekokujoh Norakura", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5e"}, {"title": "The Foggy Cave in the Darkness", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5f"}, {"title": "Guillotine", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5d"}, {"title": "Simon 1994RD", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5c"}, {"title": "R.A.V.E", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5b"}, {"title": "JB303", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5a"}, {"title": "A Spirit of Bushi", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f58"}, {"title": "GTR Attack!", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f59"}, {"title": "Moonlit Army", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f56"}, {"title": "Format X", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f57"}, {"title": "Last Springsteen", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f55"}, {"title": "The Dawn", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f53"}, {"title": "Contra The Blue Gale", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f54"}, {"title": "The Hard Corps Blues", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4e"}, {"title": "What a Painful World", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f52"}, {"title": "Game Over", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f51"}, {"title": "Stage Clear", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f50"}, {"title": "All Stage Clear", "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4f"}], "id": "297"}
+{
+  "composed_by": [
+    "Hiroshi Kobayashi",
+    "Michiru Yamane",
+    "Akira Yamaoka",
+    "Hirofumi Taniguchi",
+    "Aki Hata"
+  ],
+  "guid": "Contra-Hard_Corps",
+  "id": "297",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Konami Music",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f6a"
+    },
+    {
+      "title": "Locked & Loaded",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f69"
+    },
+    {
+      "title": "Charshoe X",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f67"
+    },
+    {
+      "title": "Contra Overdrive",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f68"
+    },
+    {
+      "title": "Something Wonderful",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f66"
+    },
+    {
+      "title": "Jurassic Dope",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f65"
+    },
+    {
+      "title": "Alien's Den",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f64"
+    },
+    {
+      "title": "AC Violence",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f63"
+    },
+    {
+      "title": "Yoru no Nikusyokujyu",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f62"
+    },
+    {
+      "title": "The Hard Corps",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f61"
+    },
+    {
+      "title": "Zephyr",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f60"
+    },
+    {
+      "title": "Gekokujoh Norakura",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5e"
+    },
+    {
+      "title": "The Foggy Cave in the Darkness",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5f"
+    },
+    {
+      "title": "Guillotine",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5d"
+    },
+    {
+      "title": "Simon 1994RD",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5c"
+    },
+    {
+      "title": "R.A.V.E",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5b"
+    },
+    {
+      "title": "JB303",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f5a"
+    },
+    {
+      "title": "A Spirit of Bushi",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f58"
+    },
+    {
+      "title": "GTR Attack!",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f59"
+    },
+    {
+      "title": "Moonlit Army",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f56"
+    },
+    {
+      "title": "Format X",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f57"
+    },
+    {
+      "title": "Last Springsteen",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f55"
+    },
+    {
+      "title": "The Dawn",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f53"
+    },
+    {
+      "title": "Contra The Blue Gale",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f54"
+    },
+    {
+      "title": "The Hard Corps Blues",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4e"
+    },
+    {
+      "title": "What a Painful World",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f52"
+    },
+    {
+      "title": "Game Over",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f51"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f50"
+    },
+    {
+      "title": "All Stage Clear",
+      "guid": "297-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f4f"
+    }
+  ],
+  "title": "Contra: Hard Corps"
+}

@@ -1,1 +1,43 @@
-{"guid": "Diablo", "platform": "PC", "title": "Diablo", "composed_by": ["Matt Uelmen"], "playlist": [{"title": "Diablo Theme", "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fee"}, {"title": "Town", "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fed"}, {"title": "Dungeon", "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fec"}, {"title": "Catacombs", "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7feb"}, {"title": "Caves", "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fea"}, {"title": "Hell", "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe9"}, {"title": "The Hive", "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe8"}, {"title": "The Crypts", "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe7"}], "id": "319"}
+{
+  "composed_by": [
+    "Matt Uelmen"
+  ],
+  "guid": "Diablo",
+  "id": "319",
+  "platform": "PC",
+  "playlist": [
+    {
+      "title": "Diablo Theme",
+      "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fee"
+    },
+    {
+      "title": "Town",
+      "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fed"
+    },
+    {
+      "title": "Dungeon",
+      "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fec"
+    },
+    {
+      "title": "Catacombs",
+      "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7feb"
+    },
+    {
+      "title": "Caves",
+      "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fea"
+    },
+    {
+      "title": "Hell",
+      "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe9"
+    },
+    {
+      "title": "The Hive",
+      "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe8"
+    },
+    {
+      "title": "The Crypts",
+      "guid": "319-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe7"
+    }
+  ],
+  "title": "Diablo"
+}

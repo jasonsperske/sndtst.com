@@ -1,1 +1,105 @@
-{"guid": "Animal_Crossing-Cherry", "platform": "N64", "title": "Animal Crossing: Hourly Music (Cherry)", "composed_by": [], "playlist": [{"title": "12 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ec0"}, {"title": "1 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebc"}, {"title": "2 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebf"}, {"title": "3 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebe"}, {"title": "4 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebd"}, {"title": "5 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebb"}, {"title": "6 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb6"}, {"title": "7 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eba"}, {"title": "8 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb9"}, {"title": "9 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb8"}, {"title": "10 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb7"}, {"title": "11 am Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb5"}, {"title": "12 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb0"}, {"title": "1 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb4"}, {"title": "2 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb3"}, {"title": "3 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb2"}, {"title": "4 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb1"}, {"title": "5 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eaf"}, {"title": "6 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eac"}, {"title": "7 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eae"}, {"title": "8 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ead"}, {"title": "9 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eab"}, {"title": "10 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ea9"}, {"title": "11 pm Hourly Music", "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eaa"}], "id": "304"}
+{
+  "composed_by": [],
+  "guid": "Animal_Crossing-Cherry",
+  "id": "304",
+  "platform": "N64",
+  "playlist": [
+    {
+      "title": "12 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ec0"
+    },
+    {
+      "title": "1 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebc"
+    },
+    {
+      "title": "2 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebf"
+    },
+    {
+      "title": "3 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebe"
+    },
+    {
+      "title": "4 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebd"
+    },
+    {
+      "title": "5 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ebb"
+    },
+    {
+      "title": "6 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb6"
+    },
+    {
+      "title": "7 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eba"
+    },
+    {
+      "title": "8 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb9"
+    },
+    {
+      "title": "9 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb8"
+    },
+    {
+      "title": "10 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb7"
+    },
+    {
+      "title": "11 am Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb5"
+    },
+    {
+      "title": "12 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb0"
+    },
+    {
+      "title": "1 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb4"
+    },
+    {
+      "title": "2 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb3"
+    },
+    {
+      "title": "3 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb2"
+    },
+    {
+      "title": "4 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eb1"
+    },
+    {
+      "title": "5 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eaf"
+    },
+    {
+      "title": "6 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eac"
+    },
+    {
+      "title": "7 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eae"
+    },
+    {
+      "title": "8 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ead"
+    },
+    {
+      "title": "9 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eab"
+    },
+    {
+      "title": "10 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ea9"
+    },
+    {
+      "title": "11 pm Hourly Music",
+      "guid": "304-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7eaa"
+    }
+  ],
+  "title": "Animal Crossing: Hourly Music (Cherry)"
+}

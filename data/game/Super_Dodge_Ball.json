@@ -1,1 +1,93 @@
-{"guid": "Super_Dodge_Ball", "platform": "NES", "title": "Super Dodge Ball", "composed_by": [], "playlist": [{"title": "Title Screen", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7eea"}, {"title": "Vs. Screen", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7eeb"}, {"title": "Team Setup", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee9"}, {"title": "Match Start", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee8"}, {"title": "Team All-Stars (Stage 1)", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee7"}, {"title": "Team England (Stage 2)", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee6"}, {"title": "Team India (Stage 3)", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee5"}, {"title": "Team Iceland (Stage 4)", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee4"}, {"title": "Team China (Stage 5)", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee3"}, {"title": "Team Kenya (Stage 6)", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee2"}, {"title": "Team Japan (Stage 7)", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee1"}, {"title": "Team USSR (Stage 8)", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee0"}, {"title": "Team Shadow (Final Stage)", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ede"}, {"title": "Win Match", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7edf"}, {"title": "Lose Match", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7edd"}, {"title": "Ending", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7edc"}, {"title": "Credits", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7edb"}, {"title": "Versus Play", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7eda"}, {"title": "Bean Ball", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ed9"}, {"title": "Unknown", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ed8"}, {"title": "Unknown", "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ed7"}], "id": "228"}
+{
+  "composed_by": [],
+  "guid": "Super_Dodge_Ball",
+  "id": "228",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title Screen",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7eea"
+    },
+    {
+      "title": "Vs. Screen",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7eeb"
+    },
+    {
+      "title": "Team Setup",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee9"
+    },
+    {
+      "title": "Match Start",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee8"
+    },
+    {
+      "title": "Team All-Stars (Stage 1)",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee7"
+    },
+    {
+      "title": "Team England (Stage 2)",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee6"
+    },
+    {
+      "title": "Team India (Stage 3)",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee5"
+    },
+    {
+      "title": "Team Iceland (Stage 4)",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee4"
+    },
+    {
+      "title": "Team China (Stage 5)",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee3"
+    },
+    {
+      "title": "Team Kenya (Stage 6)",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee2"
+    },
+    {
+      "title": "Team Japan (Stage 7)",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee1"
+    },
+    {
+      "title": "Team USSR (Stage 8)",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ee0"
+    },
+    {
+      "title": "Team Shadow (Final Stage)",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ede"
+    },
+    {
+      "title": "Win Match",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7edf"
+    },
+    {
+      "title": "Lose Match",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7edd"
+    },
+    {
+      "title": "Ending",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7edc"
+    },
+    {
+      "title": "Credits",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7edb"
+    },
+    {
+      "title": "Versus Play",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7eda"
+    },
+    {
+      "title": "Bean Ball",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ed9"
+    },
+    {
+      "title": "Unknown",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ed8"
+    },
+    {
+      "title": "Unknown",
+      "guid": "228-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ed7"
+    }
+  ],
+  "title": "Super Dodge Ball"
+}

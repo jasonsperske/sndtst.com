@@ -1,1 +1,143 @@
-{"guid": "Salamander", "platform": "Arcade", "title": "Salamander", "composed_by": ["Miki Higashino", "Hidenori Maezawa", "Shinya Sakamoto", "Satoe Terashima", "Atsushi Fujio"], "playlist": [{"title": "Power of Anger", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f61"}, {"title": "Fly High", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f62"}, {"title": "Planet Ratis", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f60"}, {"title": "Starfield", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5f"}, {"title": "Burn the Wind", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5e"}, {"title": "Destroy them All", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5d"}, {"title": "Aircraft Carrier", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5c"}, {"title": "Poison of Snake", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f59"}, {"title": "Peace Again", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5b"}, {"title": "Crystal Forever", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5a"}, {"title": "Thunderbolt", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f58"}, {"title": "Slash Fighter", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f57"}, {"title": "Combat", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f55"}, {"title": "A Theme of the Salamander", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f56"}, {"title": "Silvery Wings Again", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f54"}, {"title": "Sensation", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f53"}, {"title": "All is Vanity", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f52"}, {"title": "Serious Serious Serious", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f51"}, {"title": "Speed", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f50"}, {"title": "Dear Blue", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4f"}, {"title": "Power of Anger", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4e"}, {"title": "Planet Ratis", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4d"}, {"title": "Last Exit", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4c"}, {"title": "Theme of the Gorem", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4b"}, {"title": "Mechanical Boss Theme", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4a"}, {"title": "Living Body Boss Theme", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f49"}, {"title": "Prelude of the Last Battle", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f48"}, {"title": "Giga's Rage", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f46"}, {"title": "Beginning from the Endless", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f47"}, {"title": "What's Your Name", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f45"}, {"title": "Slash Fighter", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f44"}, {"title": "Sensation", "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f43"}], "id": "314"}
+{
+  "composed_by": [
+    "Miki Higashino",
+    "Hidenori Maezawa",
+    "Shinya Sakamoto",
+    "Satoe Terashima",
+    "Atsushi Fujio"
+  ],
+  "guid": "Salamander",
+  "id": "314",
+  "platform": "Arcade",
+  "playlist": [
+    {
+      "title": "Power of Anger",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f61"
+    },
+    {
+      "title": "Fly High",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f62"
+    },
+    {
+      "title": "Planet Ratis",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f60"
+    },
+    {
+      "title": "Starfield",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5f"
+    },
+    {
+      "title": "Burn the Wind",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5e"
+    },
+    {
+      "title": "Destroy them All",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5d"
+    },
+    {
+      "title": "Aircraft Carrier",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5c"
+    },
+    {
+      "title": "Poison of Snake",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f59"
+    },
+    {
+      "title": "Peace Again",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5b"
+    },
+    {
+      "title": "Crystal Forever",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f5a"
+    },
+    {
+      "title": "Thunderbolt",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f58"
+    },
+    {
+      "title": "Slash Fighter",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f57"
+    },
+    {
+      "title": "Combat",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f55"
+    },
+    {
+      "title": "A Theme of the Salamander",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f56"
+    },
+    {
+      "title": "Silvery Wings Again",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f54"
+    },
+    {
+      "title": "Sensation",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f53"
+    },
+    {
+      "title": "All is Vanity",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f52"
+    },
+    {
+      "title": "Serious Serious Serious",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f51"
+    },
+    {
+      "title": "Speed",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f50"
+    },
+    {
+      "title": "Dear Blue",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4f"
+    },
+    {
+      "title": "Power of Anger",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4e"
+    },
+    {
+      "title": "Planet Ratis",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4d"
+    },
+    {
+      "title": "Last Exit",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4c"
+    },
+    {
+      "title": "Theme of the Gorem",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4b"
+    },
+    {
+      "title": "Mechanical Boss Theme",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f4a"
+    },
+    {
+      "title": "Living Body Boss Theme",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f49"
+    },
+    {
+      "title": "Prelude of the Last Battle",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f48"
+    },
+    {
+      "title": "Giga's Rage",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f46"
+    },
+    {
+      "title": "Beginning from the Endless",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f47"
+    },
+    {
+      "title": "What's Your Name",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f45"
+    },
+    {
+      "title": "Slash Fighter",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f44"
+    },
+    {
+      "title": "Sensation",
+      "guid": "314-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7f43"
+    }
+  ],
+  "title": "Salamander"
+}

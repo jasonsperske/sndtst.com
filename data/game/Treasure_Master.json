@@ -1,1 +1,39 @@
-{"guid": "Treasure_Master", "platform": "NES", "title": "Treasure Master", "composed_by": ["Tim Follin"], "playlist": [{"title": "Title", "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ8000"}, {"title": "World 1", "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fff"}, {"title": "World 2", "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffe"}, {"title": "Worlds 3 & 5", "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffd"}, {"title": "World 4", "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffb"}, {"title": "World 6", "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffc"}, {"title": "World Complete", "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffa"}], "id": "381"}
+{
+  "composed_by": [
+    "Tim Follin"
+  ],
+  "guid": "Treasure_Master",
+  "id": "381",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ8000"
+    },
+    {
+      "title": "World 1",
+      "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7fff"
+    },
+    {
+      "title": "World 2",
+      "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffe"
+    },
+    {
+      "title": "Worlds 3 & 5",
+      "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffd"
+    },
+    {
+      "title": "World 4",
+      "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffb"
+    },
+    {
+      "title": "World 6",
+      "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffc"
+    },
+    {
+      "title": "World Complete",
+      "guid": "381-07b9189b819596ccOg5ce7acecOg1576f3c05fdOgLQ7ffa"
+    }
+  ],
+  "title": "Treasure Master"
+}

@@ -1,1 +1,69 @@
-{"guid": "Earthworm_Jim_(SNES)", "platform": "SNES", "title": "Earthworm Jim", "composed_by": [], "playlist": [{"title": "Main Title", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec5"}, {"title": "New Junk City", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec4"}, {"title": "What the Heck?", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec2"}, {"title": "Snot a Problem", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec3"}, {"title": "Level 5", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec1"}, {"title": "Who Turned Out the Lights?", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec0"}, {"title": "For Pete's Sake", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebf"}, {"title": "Buttville ~ The Descent", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebe"}, {"title": "Buttville ~ The Queen's Lair", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebc"}, {"title": "Andy Asteroids", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebd"}, {"title": "Rodeo Jim", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebb"}, {"title": "Lose Race", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eba"}, {"title": "Psycrow", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb9"}, {"title": "Ending", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb8"}, {"title": "Game Over", "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb7"}], "id": "113"}
+{
+  "composed_by": [],
+  "guid": "Earthworm_Jim_(SNES)",
+  "id": "113",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Main Title",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec5"
+    },
+    {
+      "title": "New Junk City",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec4"
+    },
+    {
+      "title": "What the Heck?",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec2"
+    },
+    {
+      "title": "Snot a Problem",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec3"
+    },
+    {
+      "title": "Level 5",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec1"
+    },
+    {
+      "title": "Who Turned Out the Lights?",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ec0"
+    },
+    {
+      "title": "For Pete's Sake",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebf"
+    },
+    {
+      "title": "Buttville ~ The Descent",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebe"
+    },
+    {
+      "title": "Buttville ~ The Queen's Lair",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebc"
+    },
+    {
+      "title": "Andy Asteroids",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebd"
+    },
+    {
+      "title": "Rodeo Jim",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ebb"
+    },
+    {
+      "title": "Lose Race",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eba"
+    },
+    {
+      "title": "Psycrow",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb9"
+    },
+    {
+      "title": "Ending",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb8"
+    },
+    {
+      "title": "Game Over",
+      "guid": "113-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7eb7"
+    }
+  ],
+  "title": "Earthworm Jim"
+}

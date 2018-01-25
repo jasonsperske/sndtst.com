@@ -1,1 +1,41 @@
-{"guid": "Super_Hang-On", "platform": "Genesis", "title": "Super Hang-On", "composed_by": [], "playlist": [{"title": "Select Your Class", "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6c"}, {"title": "Outride a Crisis", "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6b"}, {"title": "Sprinter", "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6a"}, {"title": "Winning Run", "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d69"}, {"title": "Hard Road", "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d67"}, {"title": "Finished", "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d68"}, {"title": "Enter Your Name", "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d66"}, {"title": "Winner (Shop BGM)", "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d65"}], "id": "128"}
+{
+  "composed_by": [],
+  "guid": "Super_Hang-On",
+  "id": "128",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Select Your Class",
+      "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6c"
+    },
+    {
+      "title": "Outride a Crisis",
+      "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6b"
+    },
+    {
+      "title": "Sprinter",
+      "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6a"
+    },
+    {
+      "title": "Winning Run",
+      "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d69"
+    },
+    {
+      "title": "Hard Road",
+      "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d67"
+    },
+    {
+      "title": "Finished",
+      "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d68"
+    },
+    {
+      "title": "Enter Your Name",
+      "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d66"
+    },
+    {
+      "title": "Winner (Shop BGM)",
+      "guid": "128-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d65"
+    }
+  ],
+  "title": "Super Hang-On"
+}

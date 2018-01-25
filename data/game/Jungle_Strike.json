@@ -1,1 +1,147 @@
-{"guid": "Jungle_Strike", "platform": "Genesis", "title": "Jungle Strike", "composed_by": ["Brian Schmidt"], "playlist": [{"title": "Title ~ Staff Roll", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd0"}, {"title": "Opening Part 1", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fcf"}, {"title": "Opening Part 2", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fce"}, {"title": "Opening Part 3", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fcd"}, {"title": "Opening Part 4", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fcc"}, {"title": "Opening Part 5", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fcb"}, {"title": "Campaign #1 Intro", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc9"}, {"title": "Campaign #1 Cutscene", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fca"}, {"title": "Campaign Clear", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc8"}, {"title": "Campaign #1 Ending", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc7"}, {"title": "Campaign #2 Intro", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc6"}, {"title": "Campaign #3 Intro", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc5"}, {"title": "Campaign #3 Cutscene", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc4"}, {"title": "Campaign #3 Ending", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc3"}, {"title": "Campaign #4 Intro", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc2"}, {"title": "Campaign #4 Cutscene", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc1"}, {"title": "Campaign #4 Ending", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc0"}, {"title": "Campaign #6 Intro", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbf"}, {"title": "Campaign #7 Intro", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbd"}, {"title": "Campaign #7 Cutscene", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbe"}, {"title": "Campaign #8 Intro", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbb"}, {"title": "Campaign #8 Ending", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbc"}, {"title": "Game Over", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb9"}, {"title": "Title Theme (No Intro)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fba"}, {"title": "Unknown (Sound Code 0B)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb8"}, {"title": "Unknown (Sound Code 0C)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb7"}, {"title": "Unknown (Sound Code 12)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb5"}, {"title": "Unknown (Sound Code 13)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb6"}, {"title": "Unknown (Sound Code 88)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb4"}, {"title": "Unknown (Sound Code 94)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb3"}, {"title": "Opening Part 3 (Untrimmed)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb2"}, {"title": "Opening Part 4 (Untrimmed)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb1"}, {"title": "Campaign #4 Intro (Untrimmed)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb0"}, {"title": "Campaign #4 Ending (Untrimmed)", "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7faf"}], "id": "338"}
+{
+  "composed_by": [
+    "Brian Schmidt"
+  ],
+  "guid": "Jungle_Strike",
+  "id": "338",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Title ~ Staff Roll",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fd0"
+    },
+    {
+      "title": "Opening Part 1",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fcf"
+    },
+    {
+      "title": "Opening Part 2",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fce"
+    },
+    {
+      "title": "Opening Part 3",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fcd"
+    },
+    {
+      "title": "Opening Part 4",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fcc"
+    },
+    {
+      "title": "Opening Part 5",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fcb"
+    },
+    {
+      "title": "Campaign #1 Intro",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc9"
+    },
+    {
+      "title": "Campaign #1 Cutscene",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fca"
+    },
+    {
+      "title": "Campaign Clear",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc8"
+    },
+    {
+      "title": "Campaign #1 Ending",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc7"
+    },
+    {
+      "title": "Campaign #2 Intro",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc6"
+    },
+    {
+      "title": "Campaign #3 Intro",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc5"
+    },
+    {
+      "title": "Campaign #3 Cutscene",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc4"
+    },
+    {
+      "title": "Campaign #3 Ending",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc3"
+    },
+    {
+      "title": "Campaign #4 Intro",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc2"
+    },
+    {
+      "title": "Campaign #4 Cutscene",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc1"
+    },
+    {
+      "title": "Campaign #4 Ending",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fc0"
+    },
+    {
+      "title": "Campaign #6 Intro",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbf"
+    },
+    {
+      "title": "Campaign #7 Intro",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbd"
+    },
+    {
+      "title": "Campaign #7 Cutscene",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbe"
+    },
+    {
+      "title": "Campaign #8 Intro",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbb"
+    },
+    {
+      "title": "Campaign #8 Ending",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fbc"
+    },
+    {
+      "title": "Game Over",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb9"
+    },
+    {
+      "title": "Title Theme (No Intro)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fba"
+    },
+    {
+      "title": "Unknown (Sound Code 0B)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb8"
+    },
+    {
+      "title": "Unknown (Sound Code 0C)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb7"
+    },
+    {
+      "title": "Unknown (Sound Code 12)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb5"
+    },
+    {
+      "title": "Unknown (Sound Code 13)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb6"
+    },
+    {
+      "title": "Unknown (Sound Code 88)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb4"
+    },
+    {
+      "title": "Unknown (Sound Code 94)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb3"
+    },
+    {
+      "title": "Opening Part 3 (Untrimmed)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb2"
+    },
+    {
+      "title": "Opening Part 4 (Untrimmed)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb1"
+    },
+    {
+      "title": "Campaign #4 Intro (Untrimmed)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7fb0"
+    },
+    {
+      "title": "Campaign #4 Ending (Untrimmed)",
+      "guid": "338-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7faf"
+    }
+  ],
+  "title": "Jungle Strike"
+}

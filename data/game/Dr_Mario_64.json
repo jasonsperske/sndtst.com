@@ -1,1 +1,77 @@
-{"guid": "Dr_Mario_64", "platform": "N64", "title": "Dr. Mario 64", "composed_by": [], "playlist": [{"title": "Title", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e97"}, {"title": "Select a Mode", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e98"}, {"title": "Fever", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e95"}, {"title": "Chill", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e96"}, {"title": "Cube", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e94"}, {"title": "Que Que", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e93"}, {"title": "Story Mode 1", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e92"}, {"title": "Story Mode 2", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e91"}, {"title": "Story Mode 3", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e90"}, {"title": "Story Mode 4", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8f"}, {"title": "Story Mode 5", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8e"}, {"title": "Vs. Rudy", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8c"}, {"title": "Round Clear", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8d"}, {"title": "You Win", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8b"}, {"title": "You Lose", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8a"}, {"title": "Credits", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e89"}, {"title": "Let's Try Another Challenge", "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e88"}], "id": "232"}
+{
+  "composed_by": [],
+  "guid": "Dr_Mario_64",
+  "id": "232",
+  "platform": "N64",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e97"
+    },
+    {
+      "title": "Select a Mode",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e98"
+    },
+    {
+      "title": "Fever",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e95"
+    },
+    {
+      "title": "Chill",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e96"
+    },
+    {
+      "title": "Cube",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e94"
+    },
+    {
+      "title": "Que Que",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e93"
+    },
+    {
+      "title": "Story Mode 1",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e92"
+    },
+    {
+      "title": "Story Mode 2",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e91"
+    },
+    {
+      "title": "Story Mode 3",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e90"
+    },
+    {
+      "title": "Story Mode 4",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8f"
+    },
+    {
+      "title": "Story Mode 5",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8e"
+    },
+    {
+      "title": "Vs. Rudy",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8c"
+    },
+    {
+      "title": "Round Clear",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8d"
+    },
+    {
+      "title": "You Win",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8b"
+    },
+    {
+      "title": "You Lose",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e8a"
+    },
+    {
+      "title": "Credits",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e89"
+    },
+    {
+      "title": "Let's Try Another Challenge",
+      "guid": "232-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7e88"
+    }
+  ],
+  "title": "Dr. Mario 64"
+}

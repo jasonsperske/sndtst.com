@@ -1,1 +1,105 @@
-{"guid": "Streets_of_Rage_2", "platform": "Genesis", "title": "Streets of Rage 2", "composed_by": [], "playlist": [{"title": "SOR Super Mix", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f07"}, {"title": "Player Select V2", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0a"}, {"title": "Go Straight", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f09"}, {"title": "In the Bar", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f08"}, {"title": "Never Return Alive", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f06"}, {"title": "Spin On the Bridge", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f03"}, {"title": "Ready Funk", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f05"}, {"title": "Dreamer", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f04"}, {"title": "Alien Power", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f01"}, {"title": "Under Logic", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f02"}, {"title": "Too Deep", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f00"}, {"title": "Slow Moon", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efe"}, {"title": "Wave 131", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eff"}, {"title": "Jungle Base", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efc"}, {"title": "Back to the Industry", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efd"}, {"title": "Expander", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efb"}, {"title": "Max Man", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef8"}, {"title": "Level Complete", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efa"}, {"title": "Revenge of Mr. X", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef9"}, {"title": "Game Over", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef7"}, {"title": "Good Ending", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef6"}, {"title": "Go Straight (Beatmix)", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef4"}, {"title": "Walking Bottom (Beta)", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef5"}, {"title": "Little Money Avenue (Unused)", "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef3"}], "id": "28"}
+{
+  "composed_by": [],
+  "guid": "Streets_of_Rage_2",
+  "id": "28",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "SOR Super Mix",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f07"
+    },
+    {
+      "title": "Player Select V2",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f0a"
+    },
+    {
+      "title": "Go Straight",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f09"
+    },
+    {
+      "title": "In the Bar",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f08"
+    },
+    {
+      "title": "Never Return Alive",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f06"
+    },
+    {
+      "title": "Spin On the Bridge",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f03"
+    },
+    {
+      "title": "Ready Funk",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f05"
+    },
+    {
+      "title": "Dreamer",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f04"
+    },
+    {
+      "title": "Alien Power",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f01"
+    },
+    {
+      "title": "Under Logic",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f02"
+    },
+    {
+      "title": "Too Deep",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f00"
+    },
+    {
+      "title": "Slow Moon",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efe"
+    },
+    {
+      "title": "Wave 131",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eff"
+    },
+    {
+      "title": "Jungle Base",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efc"
+    },
+    {
+      "title": "Back to the Industry",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efd"
+    },
+    {
+      "title": "Expander",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efb"
+    },
+    {
+      "title": "Max Man",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef8"
+    },
+    {
+      "title": "Level Complete",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7efa"
+    },
+    {
+      "title": "Revenge of Mr. X",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef9"
+    },
+    {
+      "title": "Game Over",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef7"
+    },
+    {
+      "title": "Good Ending",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef6"
+    },
+    {
+      "title": "Go Straight (Beatmix)",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef4"
+    },
+    {
+      "title": "Walking Bottom (Beta)",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef5"
+    },
+    {
+      "title": "Little Money Avenue (Unused)",
+      "guid": "28-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef3"
+    }
+  ],
+  "title": "Streets of Rage 2"
+}

@@ -1,1 +1,836 @@
-{"guid": "EarthBound", "platform": "SNES", "title": "EarthBound", "composed_by": ["Keiichi Suzuki", "Hirokazu Tanaka"], "playlist": [{"title": "The Evil Giygas Attacks! (part 1)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8e"}, {"title": "The Evil Giygas Attacks! (part 2)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8f"}, {"title": "Title Screen", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8d"}, {"title": "Opening Credits", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8c"}, {"title": "Choose a File", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8a"}, {"title": "Your Name, Please", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8b"}, {"title": "Your Name, Please (Noiseless)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e88"}, {"title": "Now, Let's Go!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e89"}, {"title": "One Fateful Night...", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e86"}, {"title": "Rude Awakening", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e85"}, {"title": "Unidentified Falling Object", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e87"}, {"title": "Alien Invasion 1", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e84"}, {"title": "Alien Invasion 2", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e83"}, {"title": "Someone's Knocking at the Door", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e82"}, {"title": "What an Annoying Knock!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e81"}, {"title": "Whoa!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e80"}, {"title": "Pokey", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7e"}, {"title": "A Good Buddy", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7f"}, {"title": "Buzz Buzz's Prophecy", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7d"}, {"title": "Onett Night 1", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7c"}, {"title": "Onett Night 2", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7b"}, {"title": "Onett Night 3", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7a"}, {"title": "Onett Buzz Buzz 1", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e79"}, {"title": "Onett Buzz Buzz 2", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e78"}, {"title": "Onett Buzz Buzz 3", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e76"}, {"title": "Otherworldly Foe", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e77"}, {"title": "Pokey's House", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e75"}, {"title": "Pokey's House (Buzz Buzz)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e74"}, {"title": "Onett Theme", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e72"}, {"title": "Sunrise & Onett Theme", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e73"}, {"title": "What a Great Picture!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e71"}, {"title": "Home Sweet Home", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e70"}, {"title": "Friendly Neighbors", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6f"}, {"title": "Buy Somethin' Will Ya!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6e"}, {"title": "Enjoy Your Stay", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6d"}, {"title": "A Good Night's Rest", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6c"}, {"title": "Bed and Breakfast", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6b"}, {"title": "Hospital", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6a"}, {"title": "Oncoming Foe", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e68"}, {"title": "Ambush!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e69"}, {"title": "Battle Against a Weak Opponent", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e66"}, {"title": "Battle Against a Weird Opponent", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e67"}, {"title": "Battle Against a Mobile Opponent", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e65"}, {"title": "You Win!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e64"}, {"title": "That Was Easy!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e63"}, {"title": "You Gained a Level!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e62"}, {"title": "Onett's Arcade", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e61"}, {"title": "Franky", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e60"}, {"title": "Battle Against an Unsettling Opponent", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5f"}, {"title": "Dangerous Caves", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5e"}, {"title": "Sanctuary Guardian's Challenge", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5d"}, {"title": "Oncoming Boss", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5c"}, {"title": "Sanctuary Guardian", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5b"}, {"title": "A Bad Dream", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5a"}, {"title": "You Defeated the Boss!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e59"}, {"title": "Welcome to Your Sanctuary", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e58"}, {"title": "Your Sanctuary ~ Fire Spring", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e50"}, {"title": "Your Sanctuary ~ Giant Step", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e57"}, {"title": "Your Sanctuary ~ Lilliput Steps", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e56"}, {"title": "Your Sanctuary ~ Lumine Hall", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e51"}, {"title": "Your Sanctuary ~ Magnet Hill", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e53"}, {"title": "Your Sanctuary ~ Milky Well", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e55"}, {"title": "Your Sanctuary ~ Pink Cloud", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e52"}, {"title": "Your Sanctuary ~ Rainy Circle", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e54"}, {"title": "A Flash of Memory", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4f"}, {"title": "Boy Meets Girl", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4e"}, {"title": "Apple Kid's Theme", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4d"}, {"title": "Ness' Bike", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4c"}, {"title": "Paula's Theme", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4b"}, {"title": "Flowing Water", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e49"}, {"title": "Peaceful Rest Valley", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4a"}, {"title": "Happy-Happy is Blue", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e48"}, {"title": "You've Got a New Friend!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e47"}, {"title": "Dead-End Chaos Theatre", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e46"}, {"title": "Runaway Five ~ The Daily Show", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e45"}, {"title": "Runaway Five Left the Building!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e44"}, {"title": "Runaway Five on the Move!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e43"}, {"title": "Threed, Zombie Central", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e42"}, {"title": "Heartless Hotel", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e41"}, {"title": "Whoops!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e40"}, {"title": "In Winters, There is a Genius", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3f"}, {"title": "Snowman", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3e"}, {"title": "Winters White", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3d"}, {"title": "Winters Wake Up Call", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3c"}, {"title": "Tessie Has Been Sighted!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3b"}, {"title": "Tessie!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3a"}, {"title": "Caverns of Winters", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e39"}, {"title": "Dr. Andonuts' Lab", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e38"}, {"title": "The Sky Runner", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e36"}, {"title": "Going Down!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e37"}, {"title": "Rough Landing", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e35"}, {"title": "Escargo Express at Your Service!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e34"}, {"title": "Zombie Paper", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e33"}, {"title": "Saturn Valley Caverns", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e32"}, {"title": "Hi Hi Hi", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e31"}, {"title": "Belch's Factory", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e30"}, {"title": "Battle Against Belch", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2f"}, {"title": "You've Come Far, Ness", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2e"}, {"title": "Threed, Free at Last", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2d"}, {"title": "Get on the Bus", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2c"}, {"title": "Super Dry Dance", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2b"}, {"title": "The Metropolis of Fourside", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e29"}, {"title": "Topolla Theatre, Home to the One & Only Venus", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2a"}, {"title": "Runaway Five's Final Performance", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e28"}, {"title": "Venus Live!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e27"}, {"title": "Save the Miners!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e26"}, {"title": "Boris' Cocktail", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e25"}, {"title": "Moonside Swing", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e24"}, {"title": "Bad Morning to You", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e23"}, {"title": "The Monkeys' Maze", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e22"}, {"title": "Runaway Five to the Rescue!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e21"}, {"title": "Summers, Eternal Tourist Trap", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e20"}, {"title": "In Dalaam, There is a Warrior", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1f"}, {"title": "The Floating Kingdom of Dalaam", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1e"}, {"title": "Mu Training", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1d"}, {"title": "Pink Cloud Shrine", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1c"}, {"title": "Sailing to Scaraba", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1b"}, {"title": "The Voyage Continues", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1a"}, {"title": "Kraken of the Sea", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e18"}, {"title": "Bazaar", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e19"}, {"title": "Morning in the Desert", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e17"}, {"title": "The Unforgiving Desert", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e16"}, {"title": "Pyramid", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e14"}, {"title": "Inside the Dungeon", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e15"}, {"title": "Megaton Walk", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e13"}, {"title": "The Submarine", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e12"}, {"title": "The Deep Darkness", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e10"}, {"title": "The Tendas' Cave", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e11"}, {"title": "Battle Against a Machine", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0f"}, {"title": "Stonehenge Base Shuts Down", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0e"}, {"title": "Falling Underground!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0d"}, {"title": "The Lost Underworld", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0c"}, {"title": "Lava Springs", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0b"}, {"title": "Sound Stone ~ Fire Spring", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e03"}, {"title": "Sound Stone ~ Fire Spring (Complete)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfa"}, {"title": "Sound Stone ~ Giant Step", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0a"}, {"title": "Sound Stone ~ Giant Step (Complete)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e01"}, {"title": "Sound Stone ~ Lilliput Steps", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e09"}, {"title": "Sound Stone ~ Lilliput Steps (Complete)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e00"}, {"title": "Sound Stone ~ Lumine Hall", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e04"}, {"title": "Sound Stone ~ Lumine Hall (Complete)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfb"}, {"title": "Sound Stone ~ Magnet Hill", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e06"}, {"title": "Sound Stone ~ Magnet Hill (Complete)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfd"}, {"title": "Sound Stone ~ Milky Well", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e08"}, {"title": "Sound Stone ~ Milky Well (Complete)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dff"}, {"title": "Sound Stone ~ No Sounds", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e02"}, {"title": "Sound Stone ~ No Sounds (Complete)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df9"}, {"title": "Sound Stone ~ Pink Cloud", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e05"}, {"title": "Sound Stone ~ Pink Cloud (Complete)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfc"}, {"title": "Sound Stone ~ Rainy Circle", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e07"}, {"title": "Sound Stone ~ Rainy Circle (Complete)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfe"}, {"title": "Eight Melodies", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df8"}, {"title": "The Nightmare Begins...", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df7"}, {"title": "Welcome Home", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df6"}, {"title": "The Jolly Flying Man", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df5"}, {"title": "Deeper into Ness' Subconscious", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df3"}, {"title": "Sea of Eden", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df4"}, {"title": "The Power", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df2"}, {"title": "Ness Awakens from the Nightmare", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df1"}, {"title": "Spacetoneer", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df0"}, {"title": "Phase Distorter Failed", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7def"}, {"title": "Phase Distorter Success", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dee"}, {"title": "The Cliff That Time Forgot", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ded"}, {"title": "The Place", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dec"}, {"title": "Giygas' Lair", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dea"}, {"title": "Giygas' Intro", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7deb"}, {"title": "Pokey Means Business!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de9"}, {"title": "Giygas Stirs", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de8"}, {"title": "Giygas' Intimidation", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de7"}, {"title": "Prayer for Safety", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de6"}, {"title": "Giygas is Wounded!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de5"}, {"title": "Giygas is Fatally Wounded!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de4"}, {"title": "Giygas Disintegrates", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de3"}, {"title": "Giygas' Static", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de2"}, {"title": "The Heroes Return (part 1)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de1"}, {"title": "The Heroes Return (part 2)", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de0"}, {"title": "Because I Love You", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ddf"}, {"title": "Good Friends, Bad Friends", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dde"}, {"title": "Smiles and Tears", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ddc"}, {"title": "Hidden Track", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ddd"}, {"title": "Unused Pokey Jingle", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ddb"}, {"title": "Unknown Jingle 1", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dda"}, {"title": "Unknown Jingle 2", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd9"}, {"title": "Mysterious Crash", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd8"}, {"title": "Onett's Trumpet Player", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd7"}, {"title": "Key Item Fanfare", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd6"}, {"title": "Spell Learned", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd5"}, {"title": "Secret Passage", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd4"}, {"title": "Spooky...", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd3"}, {"title": "Evil Mani Mani Statue", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd2"}, {"title": "Magic Butterfly", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd1"}, {"title": "Master of the Stars", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd0"}, {"title": "The Sphinx's Puzzle 1", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dcf"}, {"title": "The Sphinx's Puzzle 2", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dce"}, {"title": "The Sphinx's Puzzle 3", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dcd"}, {"title": "The Sphinx's Puzzle 4", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dcc"}, {"title": "The Sphinx's Puzzle 5", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dcb"}, {"title": "The Sphinx's Puzzle Solved!", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dca"}, {"title": "Teleportation", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc9"}, {"title": "Teleportation End", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc8"}, {"title": "Buzz Buzz's Demise", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc7"}, {"title": "Mechanical Tinkering", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc6"}, {"title": "Drilling", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc5"}, {"title": "Phone", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc4"}, {"title": "OK 'Ssuka?", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc3"}, {"title": "Burp", "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc2"}], "id": "38"}
+{
+  "composed_by": [
+    "Keiichi Suzuki",
+    "Hirokazu Tanaka"
+  ],
+  "guid": "EarthBound",
+  "id": "38",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "The Evil Giygas Attacks! (part 1)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8e"
+    },
+    {
+      "title": "The Evil Giygas Attacks! (part 2)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8f"
+    },
+    {
+      "title": "Title Screen",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8d"
+    },
+    {
+      "title": "Opening Credits",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8c"
+    },
+    {
+      "title": "Choose a File",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8a"
+    },
+    {
+      "title": "Your Name, Please",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e8b"
+    },
+    {
+      "title": "Your Name, Please (Noiseless)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e88"
+    },
+    {
+      "title": "Now, Let's Go!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e89"
+    },
+    {
+      "title": "One Fateful Night...",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e86"
+    },
+    {
+      "title": "Rude Awakening",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e85"
+    },
+    {
+      "title": "Unidentified Falling Object",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e87"
+    },
+    {
+      "title": "Alien Invasion 1",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e84"
+    },
+    {
+      "title": "Alien Invasion 2",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e83"
+    },
+    {
+      "title": "Someone's Knocking at the Door",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e82"
+    },
+    {
+      "title": "What an Annoying Knock!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e81"
+    },
+    {
+      "title": "Whoa!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e80"
+    },
+    {
+      "title": "Pokey",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7e"
+    },
+    {
+      "title": "A Good Buddy",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7f"
+    },
+    {
+      "title": "Buzz Buzz's Prophecy",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7d"
+    },
+    {
+      "title": "Onett Night 1",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7c"
+    },
+    {
+      "title": "Onett Night 2",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7b"
+    },
+    {
+      "title": "Onett Night 3",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e7a"
+    },
+    {
+      "title": "Onett Buzz Buzz 1",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e79"
+    },
+    {
+      "title": "Onett Buzz Buzz 2",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e78"
+    },
+    {
+      "title": "Onett Buzz Buzz 3",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e76"
+    },
+    {
+      "title": "Otherworldly Foe",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e77"
+    },
+    {
+      "title": "Pokey's House",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e75"
+    },
+    {
+      "title": "Pokey's House (Buzz Buzz)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e74"
+    },
+    {
+      "title": "Onett Theme",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e72"
+    },
+    {
+      "title": "Sunrise & Onett Theme",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e73"
+    },
+    {
+      "title": "What a Great Picture!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e71"
+    },
+    {
+      "title": "Home Sweet Home",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e70"
+    },
+    {
+      "title": "Friendly Neighbors",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6f"
+    },
+    {
+      "title": "Buy Somethin' Will Ya!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6e"
+    },
+    {
+      "title": "Enjoy Your Stay",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6d"
+    },
+    {
+      "title": "A Good Night's Rest",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6c"
+    },
+    {
+      "title": "Bed and Breakfast",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6b"
+    },
+    {
+      "title": "Hospital",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e6a"
+    },
+    {
+      "title": "Oncoming Foe",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e68"
+    },
+    {
+      "title": "Ambush!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e69"
+    },
+    {
+      "title": "Battle Against a Weak Opponent",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e66"
+    },
+    {
+      "title": "Battle Against a Weird Opponent",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e67"
+    },
+    {
+      "title": "Battle Against a Mobile Opponent",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e65"
+    },
+    {
+      "title": "You Win!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e64"
+    },
+    {
+      "title": "That Was Easy!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e63"
+    },
+    {
+      "title": "You Gained a Level!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e62"
+    },
+    {
+      "title": "Onett's Arcade",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e61"
+    },
+    {
+      "title": "Franky",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e60"
+    },
+    {
+      "title": "Battle Against an Unsettling Opponent",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5f"
+    },
+    {
+      "title": "Dangerous Caves",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5e"
+    },
+    {
+      "title": "Sanctuary Guardian's Challenge",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5d"
+    },
+    {
+      "title": "Oncoming Boss",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5c"
+    },
+    {
+      "title": "Sanctuary Guardian",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5b"
+    },
+    {
+      "title": "A Bad Dream",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e5a"
+    },
+    {
+      "title": "You Defeated the Boss!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e59"
+    },
+    {
+      "title": "Welcome to Your Sanctuary",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e58"
+    },
+    {
+      "title": "Your Sanctuary ~ Fire Spring",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e50"
+    },
+    {
+      "title": "Your Sanctuary ~ Giant Step",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e57"
+    },
+    {
+      "title": "Your Sanctuary ~ Lilliput Steps",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e56"
+    },
+    {
+      "title": "Your Sanctuary ~ Lumine Hall",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e51"
+    },
+    {
+      "title": "Your Sanctuary ~ Magnet Hill",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e53"
+    },
+    {
+      "title": "Your Sanctuary ~ Milky Well",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e55"
+    },
+    {
+      "title": "Your Sanctuary ~ Pink Cloud",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e52"
+    },
+    {
+      "title": "Your Sanctuary ~ Rainy Circle",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e54"
+    },
+    {
+      "title": "A Flash of Memory",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4f"
+    },
+    {
+      "title": "Boy Meets Girl",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4e"
+    },
+    {
+      "title": "Apple Kid's Theme",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4d"
+    },
+    {
+      "title": "Ness' Bike",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4c"
+    },
+    {
+      "title": "Paula's Theme",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4b"
+    },
+    {
+      "title": "Flowing Water",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e49"
+    },
+    {
+      "title": "Peaceful Rest Valley",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e4a"
+    },
+    {
+      "title": "Happy-Happy is Blue",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e48"
+    },
+    {
+      "title": "You've Got a New Friend!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e47"
+    },
+    {
+      "title": "Dead-End Chaos Theatre",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e46"
+    },
+    {
+      "title": "Runaway Five ~ The Daily Show",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e45"
+    },
+    {
+      "title": "Runaway Five Left the Building!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e44"
+    },
+    {
+      "title": "Runaway Five on the Move!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e43"
+    },
+    {
+      "title": "Threed, Zombie Central",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e42"
+    },
+    {
+      "title": "Heartless Hotel",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e41"
+    },
+    {
+      "title": "Whoops!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e40"
+    },
+    {
+      "title": "In Winters, There is a Genius",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3f"
+    },
+    {
+      "title": "Snowman",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3e"
+    },
+    {
+      "title": "Winters White",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3d"
+    },
+    {
+      "title": "Winters Wake Up Call",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3c"
+    },
+    {
+      "title": "Tessie Has Been Sighted!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3b"
+    },
+    {
+      "title": "Tessie!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e3a"
+    },
+    {
+      "title": "Caverns of Winters",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e39"
+    },
+    {
+      "title": "Dr. Andonuts' Lab",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e38"
+    },
+    {
+      "title": "The Sky Runner",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e36"
+    },
+    {
+      "title": "Going Down!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e37"
+    },
+    {
+      "title": "Rough Landing",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e35"
+    },
+    {
+      "title": "Escargo Express at Your Service!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e34"
+    },
+    {
+      "title": "Zombie Paper",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e33"
+    },
+    {
+      "title": "Saturn Valley Caverns",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e32"
+    },
+    {
+      "title": "Hi Hi Hi",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e31"
+    },
+    {
+      "title": "Belch's Factory",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e30"
+    },
+    {
+      "title": "Battle Against Belch",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2f"
+    },
+    {
+      "title": "You've Come Far, Ness",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2e"
+    },
+    {
+      "title": "Threed, Free at Last",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2d"
+    },
+    {
+      "title": "Get on the Bus",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2c"
+    },
+    {
+      "title": "Super Dry Dance",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2b"
+    },
+    {
+      "title": "The Metropolis of Fourside",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e29"
+    },
+    {
+      "title": "Topolla Theatre, Home to the One & Only Venus",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e2a"
+    },
+    {
+      "title": "Runaway Five's Final Performance",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e28"
+    },
+    {
+      "title": "Venus Live!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e27"
+    },
+    {
+      "title": "Save the Miners!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e26"
+    },
+    {
+      "title": "Boris' Cocktail",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e25"
+    },
+    {
+      "title": "Moonside Swing",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e24"
+    },
+    {
+      "title": "Bad Morning to You",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e23"
+    },
+    {
+      "title": "The Monkeys' Maze",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e22"
+    },
+    {
+      "title": "Runaway Five to the Rescue!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e21"
+    },
+    {
+      "title": "Summers, Eternal Tourist Trap",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e20"
+    },
+    {
+      "title": "In Dalaam, There is a Warrior",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1f"
+    },
+    {
+      "title": "The Floating Kingdom of Dalaam",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1e"
+    },
+    {
+      "title": "Mu Training",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1d"
+    },
+    {
+      "title": "Pink Cloud Shrine",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1c"
+    },
+    {
+      "title": "Sailing to Scaraba",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1b"
+    },
+    {
+      "title": "The Voyage Continues",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e1a"
+    },
+    {
+      "title": "Kraken of the Sea",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e18"
+    },
+    {
+      "title": "Bazaar",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e19"
+    },
+    {
+      "title": "Morning in the Desert",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e17"
+    },
+    {
+      "title": "The Unforgiving Desert",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e16"
+    },
+    {
+      "title": "Pyramid",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e14"
+    },
+    {
+      "title": "Inside the Dungeon",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e15"
+    },
+    {
+      "title": "Megaton Walk",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e13"
+    },
+    {
+      "title": "The Submarine",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e12"
+    },
+    {
+      "title": "The Deep Darkness",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e10"
+    },
+    {
+      "title": "The Tendas' Cave",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e11"
+    },
+    {
+      "title": "Battle Against a Machine",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0f"
+    },
+    {
+      "title": "Stonehenge Base Shuts Down",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0e"
+    },
+    {
+      "title": "Falling Underground!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0d"
+    },
+    {
+      "title": "The Lost Underworld",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0c"
+    },
+    {
+      "title": "Lava Springs",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0b"
+    },
+    {
+      "title": "Sound Stone ~ Fire Spring",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e03"
+    },
+    {
+      "title": "Sound Stone ~ Fire Spring (Complete)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfa"
+    },
+    {
+      "title": "Sound Stone ~ Giant Step",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e0a"
+    },
+    {
+      "title": "Sound Stone ~ Giant Step (Complete)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e01"
+    },
+    {
+      "title": "Sound Stone ~ Lilliput Steps",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e09"
+    },
+    {
+      "title": "Sound Stone ~ Lilliput Steps (Complete)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e00"
+    },
+    {
+      "title": "Sound Stone ~ Lumine Hall",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e04"
+    },
+    {
+      "title": "Sound Stone ~ Lumine Hall (Complete)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfb"
+    },
+    {
+      "title": "Sound Stone ~ Magnet Hill",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e06"
+    },
+    {
+      "title": "Sound Stone ~ Magnet Hill (Complete)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfd"
+    },
+    {
+      "title": "Sound Stone ~ Milky Well",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e08"
+    },
+    {
+      "title": "Sound Stone ~ Milky Well (Complete)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dff"
+    },
+    {
+      "title": "Sound Stone ~ No Sounds",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e02"
+    },
+    {
+      "title": "Sound Stone ~ No Sounds (Complete)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df9"
+    },
+    {
+      "title": "Sound Stone ~ Pink Cloud",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e05"
+    },
+    {
+      "title": "Sound Stone ~ Pink Cloud (Complete)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfc"
+    },
+    {
+      "title": "Sound Stone ~ Rainy Circle",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7e07"
+    },
+    {
+      "title": "Sound Stone ~ Rainy Circle (Complete)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dfe"
+    },
+    {
+      "title": "Eight Melodies",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df8"
+    },
+    {
+      "title": "The Nightmare Begins...",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df7"
+    },
+    {
+      "title": "Welcome Home",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df6"
+    },
+    {
+      "title": "The Jolly Flying Man",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df5"
+    },
+    {
+      "title": "Deeper into Ness' Subconscious",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df3"
+    },
+    {
+      "title": "Sea of Eden",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df4"
+    },
+    {
+      "title": "The Power",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df2"
+    },
+    {
+      "title": "Ness Awakens from the Nightmare",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df1"
+    },
+    {
+      "title": "Spacetoneer",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7df0"
+    },
+    {
+      "title": "Phase Distorter Failed",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7def"
+    },
+    {
+      "title": "Phase Distorter Success",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dee"
+    },
+    {
+      "title": "The Cliff That Time Forgot",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ded"
+    },
+    {
+      "title": "The Place",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dec"
+    },
+    {
+      "title": "Giygas' Lair",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dea"
+    },
+    {
+      "title": "Giygas' Intro",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7deb"
+    },
+    {
+      "title": "Pokey Means Business!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de9"
+    },
+    {
+      "title": "Giygas Stirs",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de8"
+    },
+    {
+      "title": "Giygas' Intimidation",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de7"
+    },
+    {
+      "title": "Prayer for Safety",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de6"
+    },
+    {
+      "title": "Giygas is Wounded!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de5"
+    },
+    {
+      "title": "Giygas is Fatally Wounded!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de4"
+    },
+    {
+      "title": "Giygas Disintegrates",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de3"
+    },
+    {
+      "title": "Giygas' Static",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de2"
+    },
+    {
+      "title": "The Heroes Return (part 1)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de1"
+    },
+    {
+      "title": "The Heroes Return (part 2)",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7de0"
+    },
+    {
+      "title": "Because I Love You",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ddf"
+    },
+    {
+      "title": "Good Friends, Bad Friends",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dde"
+    },
+    {
+      "title": "Smiles and Tears",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ddc"
+    },
+    {
+      "title": "Hidden Track",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ddd"
+    },
+    {
+      "title": "Unused Pokey Jingle",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ddb"
+    },
+    {
+      "title": "Unknown Jingle 1",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dda"
+    },
+    {
+      "title": "Unknown Jingle 2",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd9"
+    },
+    {
+      "title": "Mysterious Crash",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd8"
+    },
+    {
+      "title": "Onett's Trumpet Player",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd7"
+    },
+    {
+      "title": "Key Item Fanfare",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd6"
+    },
+    {
+      "title": "Spell Learned",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd5"
+    },
+    {
+      "title": "Secret Passage",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd4"
+    },
+    {
+      "title": "Spooky...",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd3"
+    },
+    {
+      "title": "Evil Mani Mani Statue",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd2"
+    },
+    {
+      "title": "Magic Butterfly",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd1"
+    },
+    {
+      "title": "Master of the Stars",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dd0"
+    },
+    {
+      "title": "The Sphinx's Puzzle 1",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dcf"
+    },
+    {
+      "title": "The Sphinx's Puzzle 2",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dce"
+    },
+    {
+      "title": "The Sphinx's Puzzle 3",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dcd"
+    },
+    {
+      "title": "The Sphinx's Puzzle 4",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dcc"
+    },
+    {
+      "title": "The Sphinx's Puzzle 5",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dcb"
+    },
+    {
+      "title": "The Sphinx's Puzzle Solved!",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dca"
+    },
+    {
+      "title": "Teleportation",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc9"
+    },
+    {
+      "title": "Teleportation End",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc8"
+    },
+    {
+      "title": "Buzz Buzz's Demise",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc7"
+    },
+    {
+      "title": "Mechanical Tinkering",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc6"
+    },
+    {
+      "title": "Drilling",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc5"
+    },
+    {
+      "title": "Phone",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc4"
+    },
+    {
+      "title": "OK 'Ssuka?",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc3"
+    },
+    {
+      "title": "Burp",
+      "guid": "38-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7dc2"
+    }
+  ],
+  "title": "EarthBound"
+}

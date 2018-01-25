@@ -1,1 +1,45 @@
-{"guid": "RoboCop", "platform": "NES", "title": "RoboCop", "composed_by": [], "playlist": [{"title": "Title Screen", "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4e"}, {"title": "Introduction", "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4d"}, {"title": "Getting Ready...", "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4c"}, {"title": "On Duty", "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4b"}, {"title": "Boss Battle", "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4a"}, {"title": "Stage Clear", "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e49"}, {"title": "Game Over", "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e48"}, {"title": "Victory!", "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e47"}, {"title": "Staff", "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e46"}], "id": "271"}
+{
+  "composed_by": [],
+  "guid": "RoboCop",
+  "id": "271",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title Screen",
+      "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4e"
+    },
+    {
+      "title": "Introduction",
+      "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4d"
+    },
+    {
+      "title": "Getting Ready...",
+      "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4c"
+    },
+    {
+      "title": "On Duty",
+      "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4b"
+    },
+    {
+      "title": "Boss Battle",
+      "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e4a"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e49"
+    },
+    {
+      "title": "Game Over",
+      "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e48"
+    },
+    {
+      "title": "Victory!",
+      "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e47"
+    },
+    {
+      "title": "Staff",
+      "guid": "271-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e46"
+    }
+  ],
+  "title": "RoboCop"
+}

@@ -1,1 +1,60 @@
-{"guid": "Altered_Beast", "platform": "Genesis", "title": "Altered Beast", "composed_by": ["Nau", "Tohru Nakabayashi (\u4e2d\u6797\u4ea8)"], "playlist": [{"title": "Rise From Your Grave (Voice)", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fb1"}, {"title": "Rise from Your Grave (Round 1)", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7faf"}, {"title": "Power Up!", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fb0"}, {"title": "Altered Beast (Transformation)", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fae"}, {"title": "Welcome to Your Doom", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fad"}, {"title": "Gaum-Hermer (Boss Theme)", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fab"}, {"title": "Crystal's Theme (Round Clear)", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fac"}, {"title": "Closed in Upon Me (Round 2)", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7faa"}, {"title": "I'll be Back (Round 3)", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fa9"}, {"title": "Ending Theme", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fa7"}, {"title": "Game Over, Name Entry", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fa8"}, {"title": "Hahahahaha", "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fa6"}], "id": "284"}
+{
+  "composed_by": [
+    "Nau",
+    "Tohru Nakabayashi (中林亨)"
+  ],
+  "guid": "Altered_Beast",
+  "id": "284",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Rise From Your Grave (Voice)",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fb1"
+    },
+    {
+      "title": "Rise from Your Grave (Round 1)",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7faf"
+    },
+    {
+      "title": "Power Up!",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fb0"
+    },
+    {
+      "title": "Altered Beast (Transformation)",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fae"
+    },
+    {
+      "title": "Welcome to Your Doom",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fad"
+    },
+    {
+      "title": "Gaum-Hermer (Boss Theme)",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fab"
+    },
+    {
+      "title": "Crystal's Theme (Round Clear)",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fac"
+    },
+    {
+      "title": "Closed in Upon Me (Round 2)",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7faa"
+    },
+    {
+      "title": "I'll be Back (Round 3)",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fa9"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fa7"
+    },
+    {
+      "title": "Game Over, Name Entry",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fa8"
+    },
+    {
+      "title": "Hahahahaha",
+      "guid": "284-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fa6"
+    }
+  ],
+  "title": "Altered Beast"
+}

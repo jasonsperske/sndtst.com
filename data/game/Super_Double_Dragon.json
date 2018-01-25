@@ -1,1 +1,87 @@
-{"guid": "Super_Double_Dragon", "platform": "SNES", "title": "Super Double Dragon", "composed_by": ["Kazunaka Yamane"], "playlist": [{"title": "Introduction", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd7"}, {"title": "Mission 1", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd6"}, {"title": "Mission 2", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd3"}, {"title": "Mission 3", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd5"}, {"title": "Mission 4", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd4"}, {"title": "Mission 5", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd2"}, {"title": "Mission 6", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd1"}, {"title": "Legend of the Double Dragons", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd0"}, {"title": "Double Dragon Theme", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fce"}, {"title": "Casino", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fcf"}, {"title": "Airport", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fcd"}, {"title": "Streets and Dojo", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fcc"}, {"title": "Train Ride", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fcb"}, {"title": "Apartment Stairs", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc9"}, {"title": "Forest", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fca"}, {"title": "Headquarters", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc8"}, {"title": "Staff Roll", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc7"}, {"title": "Unused Song 1", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc5"}, {"title": "Unused Song 2", "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc6"}], "id": "289"}
+{
+  "composed_by": [
+    "Kazunaka Yamane"
+  ],
+  "guid": "Super_Double_Dragon",
+  "id": "289",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Introduction",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd7"
+    },
+    {
+      "title": "Mission 1",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd6"
+    },
+    {
+      "title": "Mission 2",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd3"
+    },
+    {
+      "title": "Mission 3",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd5"
+    },
+    {
+      "title": "Mission 4",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd4"
+    },
+    {
+      "title": "Mission 5",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd2"
+    },
+    {
+      "title": "Mission 6",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd1"
+    },
+    {
+      "title": "Legend of the Double Dragons",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fd0"
+    },
+    {
+      "title": "Double Dragon Theme",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fce"
+    },
+    {
+      "title": "Casino",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fcf"
+    },
+    {
+      "title": "Airport",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fcd"
+    },
+    {
+      "title": "Streets and Dojo",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fcc"
+    },
+    {
+      "title": "Train Ride",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fcb"
+    },
+    {
+      "title": "Apartment Stairs",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc9"
+    },
+    {
+      "title": "Forest",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fca"
+    },
+    {
+      "title": "Headquarters",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc8"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc7"
+    },
+    {
+      "title": "Unused Song 1",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc5"
+    },
+    {
+      "title": "Unused Song 2",
+      "guid": "289-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc6"
+    }
+  ],
+  "title": "Super Double Dragon"
+}

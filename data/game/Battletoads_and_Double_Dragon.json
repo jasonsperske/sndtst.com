@@ -1,1 +1,81 @@
-{"guid": "Battletoads_and_Double_Dragon", "platform": "Genesis", "title": "Battletoads & Double Dragon-The Ultimate Team", "composed_by": [], "playlist": [{"title": "Title Theme", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffe"}, {"title": "Character Select", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ8000"}, {"title": "Introduction", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fff"}, {"title": "On da Ship's Tail (Stage 1)", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffd"}, {"title": "Stage Clear", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffb"}, {"title": "Next Stage", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffc"}, {"title": "Kick'n'Punch (Stage 2-1)", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffa"}, {"title": "Kick'n'Punch (Stage 2-1 ~ Alternate)", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff9"}, {"title": "Crazy Ride (Stage 2-2)", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff8"}, {"title": "Inside the Ship (Stage 3)", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff7"}, {"title": "Open Space (Stage 4)", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff6"}, {"title": "On da Missile (Stage 5)", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff5"}, {"title": "Rumble City (Stage 6)", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff3"}, {"title": "Queen's Lair (Stage 7)", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff4"}, {"title": "Boss Theme 1", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff2"}, {"title": "Boss Theme 2", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff1"}, {"title": "Continue", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff0"}, {"title": "Unused Track", "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fef"}], "id": "73"}
+{
+  "composed_by": [],
+  "guid": "Battletoads_and_Double_Dragon",
+  "id": "73",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Title Theme",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffe"
+    },
+    {
+      "title": "Character Select",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ8000"
+    },
+    {
+      "title": "Introduction",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fff"
+    },
+    {
+      "title": "On da Ship's Tail (Stage 1)",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffd"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffb"
+    },
+    {
+      "title": "Next Stage",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffc"
+    },
+    {
+      "title": "Kick'n'Punch (Stage 2-1)",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ffa"
+    },
+    {
+      "title": "Kick'n'Punch (Stage 2-1 ~ Alternate)",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff9"
+    },
+    {
+      "title": "Crazy Ride (Stage 2-2)",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff8"
+    },
+    {
+      "title": "Inside the Ship (Stage 3)",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff7"
+    },
+    {
+      "title": "Open Space (Stage 4)",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff6"
+    },
+    {
+      "title": "On da Missile (Stage 5)",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff5"
+    },
+    {
+      "title": "Rumble City (Stage 6)",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff3"
+    },
+    {
+      "title": "Queen's Lair (Stage 7)",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff4"
+    },
+    {
+      "title": "Boss Theme 1",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff2"
+    },
+    {
+      "title": "Boss Theme 2",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff1"
+    },
+    {
+      "title": "Continue",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7ff0"
+    },
+    {
+      "title": "Unused Track",
+      "guid": "73-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fef"
+    }
+  ],
+  "title": "Battletoads & Double Dragon-The Ultimate Team"
+}

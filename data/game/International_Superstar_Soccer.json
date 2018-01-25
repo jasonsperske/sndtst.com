@@ -1,1 +1,89 @@
-{"guid": "International_Superstar_Soccer", "platform": "SNES", "title": "International Superstar Soccer", "composed_by": [], "playlist": [{"title": "Main Menu", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d50"}, {"title": "International Cup", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d51"}, {"title": "International Cup Tournament", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4f"}, {"title": "International Cup Final", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4e"}, {"title": "Game 1", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4c"}, {"title": "Game 2", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4d"}, {"title": "Victory", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4b"}, {"title": "World Series Prelude", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4a"}, {"title": "World Series Season", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d49"}, {"title": "Victory 2nd Season", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d48"}, {"title": "Asian League", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d46"}, {"title": "Asian League Victory", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d47"}, {"title": "Training Mode", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d45"}, {"title": "Practicing", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d44"}, {"title": "Traning Clear", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d43"}, {"title": "Traning Miss", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d42"}, {"title": "Scenarios", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d40"}, {"title": "Scenario Mode Clear", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d41"}, {"title": "Staff Roll", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d3f"}, {"title": "Game Over", "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d3e"}], "id": "237"}
+{
+  "composed_by": [],
+  "guid": "International_Superstar_Soccer",
+  "id": "237",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Main Menu",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d50"
+    },
+    {
+      "title": "International Cup",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d51"
+    },
+    {
+      "title": "International Cup Tournament",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4f"
+    },
+    {
+      "title": "International Cup Final",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4e"
+    },
+    {
+      "title": "Game 1",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4c"
+    },
+    {
+      "title": "Game 2",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4d"
+    },
+    {
+      "title": "Victory",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4b"
+    },
+    {
+      "title": "World Series Prelude",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d4a"
+    },
+    {
+      "title": "World Series Season",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d49"
+    },
+    {
+      "title": "Victory 2nd Season",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d48"
+    },
+    {
+      "title": "Asian League",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d46"
+    },
+    {
+      "title": "Asian League Victory",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d47"
+    },
+    {
+      "title": "Training Mode",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d45"
+    },
+    {
+      "title": "Practicing",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d44"
+    },
+    {
+      "title": "Traning Clear",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d43"
+    },
+    {
+      "title": "Traning Miss",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d42"
+    },
+    {
+      "title": "Scenarios",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d40"
+    },
+    {
+      "title": "Scenario Mode Clear",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d41"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d3f"
+    },
+    {
+      "title": "Game Over",
+      "guid": "237-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7d3e"
+    }
+  ],
+  "title": "International Superstar Soccer"
+}

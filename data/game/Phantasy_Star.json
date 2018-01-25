@@ -1,1 +1,87 @@
-{"guid": "Phantasy_Star", "platform": "SMS", "title": "Phantasy Star", "composed_by": ["Tokuhiko Uwabo"], "playlist": [{"title": "Title Screen", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d4a"}, {"title": "Intro", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d49"}, {"title": "Town", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d47"}, {"title": "Shop", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d48"}, {"title": "Palma", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d45"}, {"title": "Battle", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d46"}, {"title": "Cave", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d43"}, {"title": "Church", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d44"}, {"title": "Vehicle", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d41"}, {"title": "Story / Conversations", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d42"}, {"title": "Motavia", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3f"}, {"title": "Final Dungeon", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d40"}, {"title": "Village", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3e"}, {"title": "Dezoris", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3d"}, {"title": "Tower", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3c"}, {"title": "La Shiec", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3b"}, {"title": "Dark Falz", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3a"}, {"title": "Ending", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d38"}, {"title": "Game Over", "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d39"}], "id": "131"}
+{
+  "composed_by": [
+    "Tokuhiko Uwabo"
+  ],
+  "guid": "Phantasy_Star",
+  "id": "131",
+  "platform": "SMS",
+  "playlist": [
+    {
+      "title": "Title Screen",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d4a"
+    },
+    {
+      "title": "Intro",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d49"
+    },
+    {
+      "title": "Town",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d47"
+    },
+    {
+      "title": "Shop",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d48"
+    },
+    {
+      "title": "Palma",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d45"
+    },
+    {
+      "title": "Battle",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d46"
+    },
+    {
+      "title": "Cave",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d43"
+    },
+    {
+      "title": "Church",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d44"
+    },
+    {
+      "title": "Vehicle",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d41"
+    },
+    {
+      "title": "Story / Conversations",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d42"
+    },
+    {
+      "title": "Motavia",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3f"
+    },
+    {
+      "title": "Final Dungeon",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d40"
+    },
+    {
+      "title": "Village",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3e"
+    },
+    {
+      "title": "Dezoris",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3d"
+    },
+    {
+      "title": "Tower",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3c"
+    },
+    {
+      "title": "La Shiec",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3b"
+    },
+    {
+      "title": "Dark Falz",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d3a"
+    },
+    {
+      "title": "Ending",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d38"
+    },
+    {
+      "title": "Game Over",
+      "guid": "131-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d39"
+    }
+  ],
+  "title": "Phantasy Star"
+}

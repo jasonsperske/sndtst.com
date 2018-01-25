@@ -1,1 +1,109 @@
-{"guid": "Final_Fantasy-Mystic_Quest", "platform": "SNES", "title": "Final Fantasy - Mystic Quest", "composed_by": [], "playlist": [{"title": "Mystic Quest", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f4b"}, {"title": "Hill of Fate", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f4c"}, {"title": "World", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f4a"}, {"title": "Beautiful Forest", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f48"}, {"title": "Battle 1", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f49"}, {"title": "Victory Fanfare", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f47"}, {"title": "City of Forest", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f45"}, {"title": "Fossil Labryrinth", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f46"}, {"title": "Battle 2", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f44"}, {"title": "Middle Tower", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f43"}, {"title": "Shrine of Light", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f42"}, {"title": "Rock Theme", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f41"}, {"title": "Fanfare of Friendship", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f40"}, {"title": "Dungeon of Ice", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3e"}, {"title": "Dungeon and Waterfall", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3f"}, {"title": "City of Fire ~ Faeria", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3d"}, {"title": "Rock 'n' Roll", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3c"}, {"title": "Lava Dome", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3b"}, {"title": "City of Wind ~ Windaria", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3a"}, {"title": "Mountain Range of Whirlwinds", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f39"}, {"title": "The Crystal", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f38"}, {"title": "Last Castle", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f37"}, {"title": "Battle 3", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f36"}, {"title": "Mystic Ballad", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f35"}, {"title": "Ending", "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f34"}], "id": "259"}
+{
+  "composed_by": [],
+  "guid": "Final_Fantasy-Mystic_Quest",
+  "id": "259",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Mystic Quest",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f4b"
+    },
+    {
+      "title": "Hill of Fate",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f4c"
+    },
+    {
+      "title": "World",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f4a"
+    },
+    {
+      "title": "Beautiful Forest",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f48"
+    },
+    {
+      "title": "Battle 1",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f49"
+    },
+    {
+      "title": "Victory Fanfare",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f47"
+    },
+    {
+      "title": "City of Forest",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f45"
+    },
+    {
+      "title": "Fossil Labryrinth",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f46"
+    },
+    {
+      "title": "Battle 2",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f44"
+    },
+    {
+      "title": "Middle Tower",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f43"
+    },
+    {
+      "title": "Shrine of Light",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f42"
+    },
+    {
+      "title": "Rock Theme",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f41"
+    },
+    {
+      "title": "Fanfare of Friendship",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f40"
+    },
+    {
+      "title": "Dungeon of Ice",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3e"
+    },
+    {
+      "title": "Dungeon and Waterfall",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3f"
+    },
+    {
+      "title": "City of Fire ~ Faeria",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3d"
+    },
+    {
+      "title": "Rock 'n' Roll",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3c"
+    },
+    {
+      "title": "Lava Dome",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3b"
+    },
+    {
+      "title": "City of Wind ~ Windaria",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f3a"
+    },
+    {
+      "title": "Mountain Range of Whirlwinds",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f39"
+    },
+    {
+      "title": "The Crystal",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f38"
+    },
+    {
+      "title": "Last Castle",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f37"
+    },
+    {
+      "title": "Battle 3",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f36"
+    },
+    {
+      "title": "Mystic Ballad",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f35"
+    },
+    {
+      "title": "Ending",
+      "guid": "259-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7f34"
+    }
+  ],
+  "title": "Final Fantasy - Mystic Quest"
+}

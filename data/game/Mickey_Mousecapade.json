@@ -1,1 +1,59 @@
-{"guid": "Mickey_Mousecapade", "platform": "NES", "title": "Mickey Mousecapade", "composed_by": ["Takeaki Kunimoto"], "playlist": [{"title": "Stage Start", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ8000"}, {"title": "Stage 1 (Fun House)", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffe"}, {"title": "Stage Clear", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7fff"}, {"title": "Stage 2 (The Ocean)", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffd"}, {"title": "Invincibilty", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffc"}, {"title": "Stage 3 (The Woods)", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffa"}, {"title": "Life Lost", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffb"}, {"title": "Game Over", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff9"}, {"title": "Stage 4 (Pirate Ship)", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff8"}, {"title": "Stage 5 (The Castle)", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff7"}, {"title": "Boss Battle", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff5"}, {"title": "Ending", "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff6"}], "id": "285"}
+{
+  "composed_by": [
+    "Takeaki Kunimoto"
+  ],
+  "guid": "Mickey_Mousecapade",
+  "id": "285",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Stage Start",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ8000"
+    },
+    {
+      "title": "Stage 1 (Fun House)",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffe"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7fff"
+    },
+    {
+      "title": "Stage 2 (The Ocean)",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffd"
+    },
+    {
+      "title": "Invincibilty",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffc"
+    },
+    {
+      "title": "Stage 3 (The Woods)",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffa"
+    },
+    {
+      "title": "Life Lost",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ffb"
+    },
+    {
+      "title": "Game Over",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff9"
+    },
+    {
+      "title": "Stage 4 (Pirate Ship)",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff8"
+    },
+    {
+      "title": "Stage 5 (The Castle)",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff7"
+    },
+    {
+      "title": "Boss Battle",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff5"
+    },
+    {
+      "title": "Ending",
+      "guid": "285-d903631022c53431OgLQ6eb3a1ccOg14c432e01fbOgLQ7ff6"
+    }
+  ],
+  "title": "Mickey Mousecapade"
+}

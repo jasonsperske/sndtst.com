@@ -1,1 +1,77 @@
-{"guid": "Gradius_II", "platform": "NES", "title": "Gradius II", "composed_by": [], "playlist": [{"title": "Power Meter Select", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2e"}, {"title": "Stage Interlude", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2d"}, {"title": "Boss", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2c"}, {"title": "Stage 1", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2b"}, {"title": "Stage 2", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2a"}, {"title": "Stage 3a", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f29"}, {"title": "Stage 3b", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f28"}, {"title": "Stage 4", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f27"}, {"title": "Stage 5a", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f26"}, {"title": "Stage 5b", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f25"}, {"title": "Stage 6", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f24"}, {"title": "Stage 7", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f23"}, {"title": "Final Boss", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f22"}, {"title": "Credits", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f21"}, {"title": "Game Over", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f20"}, {"title": "Pause", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f1f"}, {"title": "Play Select", "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f1e"}], "id": "108"}
+{
+  "composed_by": [],
+  "guid": "Gradius_II",
+  "id": "108",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Power Meter Select",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2e"
+    },
+    {
+      "title": "Stage Interlude",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2d"
+    },
+    {
+      "title": "Boss",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2c"
+    },
+    {
+      "title": "Stage 1",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2b"
+    },
+    {
+      "title": "Stage 2",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f2a"
+    },
+    {
+      "title": "Stage 3a",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f29"
+    },
+    {
+      "title": "Stage 3b",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f28"
+    },
+    {
+      "title": "Stage 4",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f27"
+    },
+    {
+      "title": "Stage 5a",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f26"
+    },
+    {
+      "title": "Stage 5b",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f25"
+    },
+    {
+      "title": "Stage 6",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f24"
+    },
+    {
+      "title": "Stage 7",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f23"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f22"
+    },
+    {
+      "title": "Credits",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f21"
+    },
+    {
+      "title": "Game Over",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f20"
+    },
+    {
+      "title": "Pause",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f1f"
+    },
+    {
+      "title": "Play Select",
+      "guid": "108-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f1e"
+    }
+  ],
+  "title": "Gradius II"
+}

@@ -1,1 +1,119 @@
-{"guid": "Wolf3D", "platform": "PC", "title": "Wolfenstein 3D", "composed_by": ["Bobby Prince"], "playlist": [{"title": "Horst-Wessel-Lied", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ8000"}, {"title": "Wondering About My Loved Ones", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fff"}, {"title": "Get Them Before They Get You", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffd"}, {"title": "Searching For the Enemy", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffe"}, {"title": "P.O.W.", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffc"}, {"title": "Suspense", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffa"}, {"title": "The March to War", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffb"}, {"title": "Enemy Around the Corner", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff9"}, {"title": "Nazi Anthem", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff8"}, {"title": "Lurking...", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff7"}, {"title": "Going After Hitler", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff6"}, {"title": "Pounding Headache", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff5"}, {"title": "Into the Dungeons", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff4"}, {"title": "Kill the S.O.B.", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff3"}, {"title": "The Nazi Rap", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff2"}, {"title": "Twelfth Hour", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff1"}, {"title": "Zero Hour", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff0"}, {"title": "The Ultimate Challenge", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fef"}, {"title": "Wolf Pac", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fed"}, {"title": "Funk You!", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fee"}, {"title": "End of Level", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fec"}, {"title": "U R A Hero", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7feb"}, {"title": "Roster", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fea"}, {"title": "Hitler Waltz", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fe8"}, {"title": "Salute", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fe9"}, {"title": "Victors", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fe7"}, {"title": "Victory March", "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fe6"}], "id": "17"}
+{
+  "composed_by": [
+    "Bobby Prince"
+  ],
+  "guid": "Wolf3D",
+  "id": "17",
+  "platform": "PC",
+  "playlist": [
+    {
+      "title": "Horst-Wessel-Lied",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ8000"
+    },
+    {
+      "title": "Wondering About My Loved Ones",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fff"
+    },
+    {
+      "title": "Get Them Before They Get You",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffd"
+    },
+    {
+      "title": "Searching For the Enemy",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffe"
+    },
+    {
+      "title": "P.O.W.",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffc"
+    },
+    {
+      "title": "Suspense",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffa"
+    },
+    {
+      "title": "The March to War",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ffb"
+    },
+    {
+      "title": "Enemy Around the Corner",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff9"
+    },
+    {
+      "title": "Nazi Anthem",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff8"
+    },
+    {
+      "title": "Lurking...",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff7"
+    },
+    {
+      "title": "Going After Hitler",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff6"
+    },
+    {
+      "title": "Pounding Headache",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff5"
+    },
+    {
+      "title": "Into the Dungeons",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff4"
+    },
+    {
+      "title": "Kill the S.O.B.",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff3"
+    },
+    {
+      "title": "The Nazi Rap",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff2"
+    },
+    {
+      "title": "Twelfth Hour",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff1"
+    },
+    {
+      "title": "Zero Hour",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ff0"
+    },
+    {
+      "title": "The Ultimate Challenge",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fef"
+    },
+    {
+      "title": "Wolf Pac",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fed"
+    },
+    {
+      "title": "Funk You!",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fee"
+    },
+    {
+      "title": "End of Level",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fec"
+    },
+    {
+      "title": "U R A Hero",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7feb"
+    },
+    {
+      "title": "Roster",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fea"
+    },
+    {
+      "title": "Hitler Waltz",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fe8"
+    },
+    {
+      "title": "Salute",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fe9"
+    },
+    {
+      "title": "Victors",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fe7"
+    },
+    {
+      "title": "Victory March",
+      "guid": "17-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7fe6"
+    }
+  ],
+  "title": "Wolfenstein 3D"
+}

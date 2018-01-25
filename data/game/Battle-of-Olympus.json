@@ -1,1 +1,101 @@
-{"guid": "Battle-of-Olympus", "platform": "NES", "title": "Battle of Olympus", "composed_by": [], "playlist": [{"title": "Title Screen", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ea1"}, {"title": "The Battle of Olympus", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ea0"}, {"title": "Name Entry", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9f"}, {"title": "Map", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9e"}, {"title": "Arcadia", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9d"}, {"title": "Attica", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9b"}, {"title": "Palace of Gods", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9c"}, {"title": "Argolis", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9a"}, {"title": "Peloponnesus", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e99"}, {"title": "Boss Battle", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e98"}, {"title": "Laconia", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e97"}, {"title": "Dark Passage", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e94"}, {"title": "Poseidon's Ocarina", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e96"}, {"title": "Pegasus' Harp", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e95"}, {"title": "Phthia", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e92"}, {"title": "Crete", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e93"}, {"title": "Phrygia", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e91"}, {"title": "Tartarus", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e90"}, {"title": "Hades' Lair", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8e"}, {"title": "Hades Defeated", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8f"}, {"title": "Love Melting Stone", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8d"}, {"title": "Ending", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8b"}, {"title": "Game Over", "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8c"}], "id": "34"}
+{
+  "composed_by": [],
+  "guid": "Battle-of-Olympus",
+  "id": "34",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title Screen",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ea1"
+    },
+    {
+      "title": "The Battle of Olympus",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ea0"
+    },
+    {
+      "title": "Name Entry",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9f"
+    },
+    {
+      "title": "Map",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9e"
+    },
+    {
+      "title": "Arcadia",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9d"
+    },
+    {
+      "title": "Attica",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9b"
+    },
+    {
+      "title": "Palace of Gods",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9c"
+    },
+    {
+      "title": "Argolis",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e9a"
+    },
+    {
+      "title": "Peloponnesus",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e99"
+    },
+    {
+      "title": "Boss Battle",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e98"
+    },
+    {
+      "title": "Laconia",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e97"
+    },
+    {
+      "title": "Dark Passage",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e94"
+    },
+    {
+      "title": "Poseidon's Ocarina",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e96"
+    },
+    {
+      "title": "Pegasus' Harp",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e95"
+    },
+    {
+      "title": "Phthia",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e92"
+    },
+    {
+      "title": "Crete",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e93"
+    },
+    {
+      "title": "Phrygia",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e91"
+    },
+    {
+      "title": "Tartarus",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e90"
+    },
+    {
+      "title": "Hades' Lair",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8e"
+    },
+    {
+      "title": "Hades Defeated",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8f"
+    },
+    {
+      "title": "Love Melting Stone",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8d"
+    },
+    {
+      "title": "Ending",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8b"
+    },
+    {
+      "title": "Game Over",
+      "guid": "34-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7e8c"
+    }
+  ],
+  "title": "Battle of Olympus"
+}

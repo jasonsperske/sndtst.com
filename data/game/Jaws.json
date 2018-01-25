@@ -1,1 +1,53 @@
-{"guid": "Jaws", "platform": "NES", "title": "Jaws", "composed_by": [], "playlist": [{"title": "Title", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fd0"}, {"title": "Get Ready!", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fd1"}, {"title": "Overworld", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fcd"}, {"title": "You've Hit Something!", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fcf"}, {"title": "Underwater", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fce"}, {"title": "Bonus Scene!", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fca"}, {"title": "Bonus Scene Results", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fcc"}, {"title": "Upgrade", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fcb"}, {"title": "Final Battle", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fc8"}, {"title": "Game Over", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fc9"}, {"title": "Ending", "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fc7"}], "id": "211"}
+{
+  "composed_by": [],
+  "guid": "Jaws",
+  "id": "211",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fd0"
+    },
+    {
+      "title": "Get Ready!",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fd1"
+    },
+    {
+      "title": "Overworld",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fcd"
+    },
+    {
+      "title": "You've Hit Something!",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fcf"
+    },
+    {
+      "title": "Underwater",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fce"
+    },
+    {
+      "title": "Bonus Scene!",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fca"
+    },
+    {
+      "title": "Bonus Scene Results",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fcc"
+    },
+    {
+      "title": "Upgrade",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fcb"
+    },
+    {
+      "title": "Final Battle",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fc8"
+    },
+    {
+      "title": "Game Over",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fc9"
+    },
+    {
+      "title": "Ending",
+      "guid": "211-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fc7"
+    }
+  ],
+  "title": "Jaws"
+}

@@ -1,1 +1,83 @@
-{"guid": "Whip_Rush", "platform": "Genesis", "title": "Whip Rush", "composed_by": ["Toshiko Tasaki"], "playlist": [{"title": "Opening Theme", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffe"}, {"title": "Title Theme", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ8000"}, {"title": "Game Start", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fff"}, {"title": "Stage 1", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffc"}, {"title": "Miniboss", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffd"}, {"title": "Boss Theme", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffb"}, {"title": "Stage Clear", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffa"}, {"title": "Stage 2 (Above Water)", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff9"}, {"title": "Stage 2 (Underwater)", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff8"}, {"title": "Stage 3", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff7"}, {"title": "Stage 4", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff6"}, {"title": "Stage 5", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff4"}, {"title": "Stage 5 Clear", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff5"}, {"title": "Stage 6", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff3"}, {"title": "Stage 7", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff2"}, {"title": "Ending Theme", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff0"}, {"title": "Game Over", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff1"}, {"title": "Continue", "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fef"}], "id": "318"}
+{
+  "composed_by": [
+    "Toshiko Tasaki"
+  ],
+  "guid": "Whip_Rush",
+  "id": "318",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffe"
+    },
+    {
+      "title": "Title Theme",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ8000"
+    },
+    {
+      "title": "Game Start",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fff"
+    },
+    {
+      "title": "Stage 1",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffc"
+    },
+    {
+      "title": "Miniboss",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffd"
+    },
+    {
+      "title": "Boss Theme",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffb"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ffa"
+    },
+    {
+      "title": "Stage 2 (Above Water)",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff9"
+    },
+    {
+      "title": "Stage 2 (Underwater)",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff8"
+    },
+    {
+      "title": "Stage 3",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff7"
+    },
+    {
+      "title": "Stage 4",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff6"
+    },
+    {
+      "title": "Stage 5",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff4"
+    },
+    {
+      "title": "Stage 5 Clear",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff5"
+    },
+    {
+      "title": "Stage 6",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff3"
+    },
+    {
+      "title": "Stage 7",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff2"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff0"
+    },
+    {
+      "title": "Game Over",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ff1"
+    },
+    {
+      "title": "Continue",
+      "guid": "318-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fef"
+    }
+  ],
+  "title": "Whip Rush"
+}

@@ -1,1 +1,143 @@
-{"guid": "Mega_Man_X3", "platform": "SNES", "title": "Mega Man X3", "composed_by": ["Setsuo Yamamoto", "Makoto Tomozawa", "Yuki Iwai", "Y\u016bko Takehara", "Toshihiko Horiyama"], "playlist": [{"title": "Introduction", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fff"}, {"title": "Title", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ8000"}, {"title": "Opening", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffc"}, {"title": "Zero", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffe"}, {"title": "Stage Select", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffd"}, {"title": "Stage Introduction", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffb"}, {"title": "Neon Tiger", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff9"}, {"title": "Gravity Beetle", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffa"}, {"title": "Blast Hornet", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff8"}, {"title": "Blizzard Buffalo", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff7"}, {"title": "Toxic Seahorse", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff6"}, {"title": "Tunnel Rhino", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff5"}, {"title": "Volt Catfish", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff3"}, {"title": "Crush Crawfish", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff4"}, {"title": "Maverick Introduction", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff2"}, {"title": "Maverick Battle", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff1"}, {"title": "Victory", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff0"}, {"title": "Get Weapon", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fef"}, {"title": "Password", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fee"}, {"title": "Capsule", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fed"}, {"title": "Vile", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fec"}, {"title": "Cain's Lab", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7feb"}, {"title": "Doppler Stage Revealed", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fea"}, {"title": "Doppler Stage", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe9"}, {"title": "Doppler Final Stage", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe7"}, {"title": "Doppler", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe8"}, {"title": "Doppler Battle", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe6"}, {"title": "Sigma", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe5"}, {"title": "Kaiser Sigma", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe4"}, {"title": "Ending", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe3"}, {"title": "Credits", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe1"}, {"title": "Capcom Logo", "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe2"}], "id": "380"}
+{
+  "composed_by": [
+    "Setsuo Yamamoto",
+    "Makoto Tomozawa",
+    "Yuki Iwai",
+    "Yūko Takehara",
+    "Toshihiko Horiyama"
+  ],
+  "guid": "Mega_Man_X3",
+  "id": "380",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Introduction",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fff"
+    },
+    {
+      "title": "Title",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ8000"
+    },
+    {
+      "title": "Opening",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffc"
+    },
+    {
+      "title": "Zero",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffe"
+    },
+    {
+      "title": "Stage Select",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffd"
+    },
+    {
+      "title": "Stage Introduction",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffb"
+    },
+    {
+      "title": "Neon Tiger",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff9"
+    },
+    {
+      "title": "Gravity Beetle",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ffa"
+    },
+    {
+      "title": "Blast Hornet",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff8"
+    },
+    {
+      "title": "Blizzard Buffalo",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff7"
+    },
+    {
+      "title": "Toxic Seahorse",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff6"
+    },
+    {
+      "title": "Tunnel Rhino",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff5"
+    },
+    {
+      "title": "Volt Catfish",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff3"
+    },
+    {
+      "title": "Crush Crawfish",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff4"
+    },
+    {
+      "title": "Maverick Introduction",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff2"
+    },
+    {
+      "title": "Maverick Battle",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff1"
+    },
+    {
+      "title": "Victory",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7ff0"
+    },
+    {
+      "title": "Get Weapon",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fef"
+    },
+    {
+      "title": "Password",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fee"
+    },
+    {
+      "title": "Capsule",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fed"
+    },
+    {
+      "title": "Vile",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fec"
+    },
+    {
+      "title": "Cain's Lab",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7feb"
+    },
+    {
+      "title": "Doppler Stage Revealed",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fea"
+    },
+    {
+      "title": "Doppler Stage",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe9"
+    },
+    {
+      "title": "Doppler Final Stage",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe7"
+    },
+    {
+      "title": "Doppler",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe8"
+    },
+    {
+      "title": "Doppler Battle",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe6"
+    },
+    {
+      "title": "Sigma",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe5"
+    },
+    {
+      "title": "Kaiser Sigma",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe4"
+    },
+    {
+      "title": "Ending",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe3"
+    },
+    {
+      "title": "Credits",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe1"
+    },
+    {
+      "title": "Capcom Logo",
+      "guid": "380-d2544d5254fbcc60OgLQ770e394aOg156fafa8db6OgLQ7fe2"
+    }
+  ],
+  "title": "Mega Man X3"
+}

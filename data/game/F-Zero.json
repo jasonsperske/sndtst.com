@@ -1,1 +1,69 @@
-{"guid": "F-Zero", "platform": "SNES", "title": "F-Zero", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ8000"}, {"title": "Big Blue", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fff"}, {"title": "Red Canyon", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffe"}, {"title": "Fire Field", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffc"}, {"title": "Silence", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffd"}, {"title": "White Land I", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffb"}, {"title": "White Land II", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffa"}, {"title": "Port Town", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff7"}, {"title": "Select Time Theme", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff9"}, {"title": "Mute City", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff8"}, {"title": "Sand Ocean", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff6"}, {"title": "Death Wind (No SFX)", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff5"}, {"title": "Ending Theme", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff2"}, {"title": "Lost Life", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff4"}, {"title": "Zoom", "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff3"}], "id": "62"}
+{
+  "composed_by": [],
+  "guid": "F-Zero",
+  "id": "62",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ8000"
+    },
+    {
+      "title": "Big Blue",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7fff"
+    },
+    {
+      "title": "Red Canyon",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffe"
+    },
+    {
+      "title": "Fire Field",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffc"
+    },
+    {
+      "title": "Silence",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffd"
+    },
+    {
+      "title": "White Land I",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffb"
+    },
+    {
+      "title": "White Land II",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ffa"
+    },
+    {
+      "title": "Port Town",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff7"
+    },
+    {
+      "title": "Select Time Theme",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff9"
+    },
+    {
+      "title": "Mute City",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff8"
+    },
+    {
+      "title": "Sand Ocean",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff6"
+    },
+    {
+      "title": "Death Wind (No SFX)",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff5"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff2"
+    },
+    {
+      "title": "Lost Life",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff4"
+    },
+    {
+      "title": "Zoom",
+      "guid": "62-d08f039f319d7895OgLQ3c9131d1Og14654c27845OgLQ7ff3"
+    }
+  ],
+  "title": "F-Zero"
+}

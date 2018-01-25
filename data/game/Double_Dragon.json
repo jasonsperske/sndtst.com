@@ -1,1 +1,57 @@
-{"guid": "Double_Dragon", "platform": "NES", "title": "Double Dragon", "composed_by": [], "playlist": [{"title": "Opening (Double Dragon)", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f5d"}, {"title": "Setting Off (A New Battle)", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f52"}, {"title": "The City Slums (The Black Warriors Arrive)", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f5c"}, {"title": "The Industrial Area (The Great Fray)", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f5b"}, {"title": "The Woods", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f5a"}, {"title": "The Cave", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f59"}, {"title": "The Giant Abobo Appears", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f58"}, {"title": "The Hideout (Willy the Nemesis)", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f57"}, {"title": "After the Battle", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f56"}, {"title": "Game Over", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f55"}, {"title": "Setting Off (A New Battle)", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f53"}, {"title": "Ending (Reunion With Marian)", "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f54"}], "id": "24"}
+{
+  "composed_by": [],
+  "guid": "Double_Dragon",
+  "id": "24",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Opening (Double Dragon)",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f5d"
+    },
+    {
+      "title": "Setting Off (A New Battle)",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f52"
+    },
+    {
+      "title": "The City Slums (The Black Warriors Arrive)",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f5c"
+    },
+    {
+      "title": "The Industrial Area (The Great Fray)",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f5b"
+    },
+    {
+      "title": "The Woods",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f5a"
+    },
+    {
+      "title": "The Cave",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f59"
+    },
+    {
+      "title": "The Giant Abobo Appears",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f58"
+    },
+    {
+      "title": "The Hideout (Willy the Nemesis)",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f57"
+    },
+    {
+      "title": "After the Battle",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f56"
+    },
+    {
+      "title": "Game Over",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f55"
+    },
+    {
+      "title": "Setting Off (A New Battle)",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f53"
+    },
+    {
+      "title": "Ending (Reunion With Marian)",
+      "guid": "24-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f54"
+    }
+  ],
+  "title": "Double Dragon"
+}

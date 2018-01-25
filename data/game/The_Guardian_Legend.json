@@ -1,1 +1,108 @@
-{"guid": "The_Guardian_Legend", "platform": "NES", "title": "The Guardian Legend", "composed_by": ["Masatomo Miyamoto (\u5bae\u672c\u660c\u77e5)", "Takeshi Santo"], "playlist": [{"title": "Intro Theme", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fff"}, {"title": "Enter Password", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ8000"}, {"title": "Boss Fight 1", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffe"}, {"title": "Sector Computer Room", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffd"}, {"title": "Base Level", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffb"}, {"title": "Passage", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffc"}, {"title": "Blue Lander", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffa"}, {"title": "Mini Boss Fight", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff9"}, {"title": "Game Over", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff8"}, {"title": "Entrance Corridor", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff7"}, {"title": "Aqua Sector Corridor", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff6"}, {"title": "Boss Fight 2", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff5"}, {"title": "Aqua Sector", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff4"}, {"title": "Complete Corridor", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff3"}, {"title": "Forest Sector", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff1"}, {"title": "Forest Sector Corridor", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff2"}, {"title": "Crystal Sector Corridor", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fef"}, {"title": "Crystal Sector", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff0"}, {"title": "Organic Sector Corridor", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fed"}, {"title": "Wasteland Sector Corridor", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fee"}, {"title": "Wasteland Sector", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fec"}, {"title": "Final Corridor", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7feb"}, {"title": "Game End", "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fea"}, {"title": "Extra Life", "guid": "12-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ff0"}], "id": "12"}
+{
+  "composed_by": [
+    "Masatomo Miyamoto (宮本昌知)",
+    "Takeshi Santo"
+  ],
+  "guid": "The_Guardian_Legend",
+  "id": "12",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Intro Theme",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fff"
+    },
+    {
+      "title": "Enter Password",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ8000"
+    },
+    {
+      "title": "Boss Fight 1",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffe"
+    },
+    {
+      "title": "Sector Computer Room",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffd"
+    },
+    {
+      "title": "Base Level",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffb"
+    },
+    {
+      "title": "Passage",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffc"
+    },
+    {
+      "title": "Blue Lander",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ffa"
+    },
+    {
+      "title": "Mini Boss Fight",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff9"
+    },
+    {
+      "title": "Game Over",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff8"
+    },
+    {
+      "title": "Entrance Corridor",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff7"
+    },
+    {
+      "title": "Aqua Sector Corridor",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff6"
+    },
+    {
+      "title": "Boss Fight 2",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff5"
+    },
+    {
+      "title": "Aqua Sector",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff4"
+    },
+    {
+      "title": "Complete Corridor",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff3"
+    },
+    {
+      "title": "Forest Sector",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff1"
+    },
+    {
+      "title": "Forest Sector Corridor",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff2"
+    },
+    {
+      "title": "Crystal Sector Corridor",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fef"
+    },
+    {
+      "title": "Crystal Sector",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7ff0"
+    },
+    {
+      "title": "Organic Sector Corridor",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fed"
+    },
+    {
+      "title": "Wasteland Sector Corridor",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fee"
+    },
+    {
+      "title": "Wasteland Sector",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fec"
+    },
+    {
+      "title": "Final Corridor",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7feb"
+    },
+    {
+      "title": "Game End",
+      "guid": "12-49badc1db8012157Og25b4f422Og1458fbf0fa2OgLQ7fea"
+    },
+    {
+      "title": "Extra Life",
+      "guid": "12-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7ff0"
+    }
+  ],
+  "title": "The Guardian Legend"
+}

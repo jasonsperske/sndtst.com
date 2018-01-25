@@ -1,1 +1,133 @@
-{"guid": "Castlevania-Bloodlines", "platform": "Genesis", "title": "Castlevania - Bloodlines", "composed_by": [], "playlist": [{"title": "Konami Logo", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dc0"}, {"title": "The Beating in Darkness (Title Theme)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbf"}, {"title": "A Vision of Dark Secrets (Opening Theme)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbb"}, {"title": "Bonds of Brave Men (Character Selection)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbe"}, {"title": "Arduous Journey (Map Theme)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbd"}, {"title": "Reincarnated Soul, Part 1 (Introduction)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbc"}, {"title": "Reincarnated Soul, Part 2 (Stage 1)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dba"}, {"title": "The Sinking Old Sanctuary (Stage 2)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db9"}, {"title": "The Discolored Wall (Stage 3)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db8"}, {"title": "Beginning (Classic Tune 1)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db7"}, {"title": "Bloody Tears (Classic Tune 2)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db6"}, {"title": "Vampire Killer (Classic Tune 3)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db4"}, {"title": "After the Good Fight (Game Over)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db5"}, {"title": "Mysterious Curse (Password)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db3"}, {"title": "Iron-Blue Intention (Stage 4)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db2"}, {"title": "The Prayer of a Tragic Queen (Stage 5)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db1"}, {"title": "Calling From Heaven (Stage 6)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dae"}, {"title": "Pressure (Invincibility)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db0"}, {"title": "Messenger From Devil (Area Boss Theme)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7daf"}, {"title": "Nothing to Lose (Stage 1D)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dad"}, {"title": "The Six Servants of the Devil (Stage Boss Theme)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dac"}, {"title": "Theme of Simon (Classic Tune 4)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dab"}, {"title": "The Vampire's Stomach (Final Boss Theme)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da8"}, {"title": "Stage Clear", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7daa"}, {"title": "Orb", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da9"}, {"title": "Energy Orb", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da7"}, {"title": "Dracula Orb", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da6"}, {"title": "All Clear", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da5"}, {"title": "Together Forever (Ending Theme)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da4"}, {"title": "Requiem for the Nameless Victims (Staff Roll)", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da2"}, {"title": "Death", "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da3"}], "id": "278"}
+{
+  "composed_by": [],
+  "guid": "Castlevania-Bloodlines",
+  "id": "278",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Konami Logo",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dc0"
+    },
+    {
+      "title": "The Beating in Darkness (Title Theme)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbf"
+    },
+    {
+      "title": "A Vision of Dark Secrets (Opening Theme)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbb"
+    },
+    {
+      "title": "Bonds of Brave Men (Character Selection)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbe"
+    },
+    {
+      "title": "Arduous Journey (Map Theme)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbd"
+    },
+    {
+      "title": "Reincarnated Soul, Part 1 (Introduction)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dbc"
+    },
+    {
+      "title": "Reincarnated Soul, Part 2 (Stage 1)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dba"
+    },
+    {
+      "title": "The Sinking Old Sanctuary (Stage 2)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db9"
+    },
+    {
+      "title": "The Discolored Wall (Stage 3)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db8"
+    },
+    {
+      "title": "Beginning (Classic Tune 1)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db7"
+    },
+    {
+      "title": "Bloody Tears (Classic Tune 2)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db6"
+    },
+    {
+      "title": "Vampire Killer (Classic Tune 3)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db4"
+    },
+    {
+      "title": "After the Good Fight (Game Over)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db5"
+    },
+    {
+      "title": "Mysterious Curse (Password)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db3"
+    },
+    {
+      "title": "Iron-Blue Intention (Stage 4)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db2"
+    },
+    {
+      "title": "The Prayer of a Tragic Queen (Stage 5)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db1"
+    },
+    {
+      "title": "Calling From Heaven (Stage 6)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dae"
+    },
+    {
+      "title": "Pressure (Invincibility)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7db0"
+    },
+    {
+      "title": "Messenger From Devil (Area Boss Theme)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7daf"
+    },
+    {
+      "title": "Nothing to Lose (Stage 1D)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dad"
+    },
+    {
+      "title": "The Six Servants of the Devil (Stage Boss Theme)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dac"
+    },
+    {
+      "title": "Theme of Simon (Classic Tune 4)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7dab"
+    },
+    {
+      "title": "The Vampire's Stomach (Final Boss Theme)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da8"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7daa"
+    },
+    {
+      "title": "Orb",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da9"
+    },
+    {
+      "title": "Energy Orb",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da7"
+    },
+    {
+      "title": "Dracula Orb",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da6"
+    },
+    {
+      "title": "All Clear",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da5"
+    },
+    {
+      "title": "Together Forever (Ending Theme)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da4"
+    },
+    {
+      "title": "Requiem for the Nameless Victims (Staff Roll)",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da2"
+    },
+    {
+      "title": "Death",
+      "guid": "278-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7da3"
+    }
+  ],
+  "title": "Castlevania - Bloodlines"
+}

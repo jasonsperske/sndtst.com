@@ -1,1 +1,125 @@
-{"guid": "GI_Joe-The_Atlantis_Factor", "platform": "NES", "title": "G.I. Joe: The Atlantis Factor", "composed_by": [], "playlist": [{"title": "Capcom Logo", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f3a"}, {"title": "Title Screen", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f39"}, {"title": "Intro To Atlantis Factor", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f38"}, {"title": "Briefing Theme I", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f37"}, {"title": "Level Battle Plan Map", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f36"}, {"title": "Character Select Screen", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f35"}, {"title": "Level Intro Music", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f34"}, {"title": "Level 01 (Ancient Ruins)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f33"}, {"title": "Mini-Boss Battle", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f31"}, {"title": "Briefing Theme II", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f32"}, {"title": "Level 02 (Swamp)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f30"}, {"title": "Level 03 & 16 (Rooftops)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2f"}, {"title": "Level 04 (Missile Silo)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2e"}, {"title": "Big Boss Battle", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2d"}, {"title": "Briefing Theme III", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2c"}, {"title": "Level 05 & 06 (Snow Mountain)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2a"}, {"title": "Lost A Life", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2b"}, {"title": "Level 07 (Cobra Prison)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f29"}, {"title": "Level 08 (Shuttle Launch)_Level 13 (Ancient Armory I)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f28"}, {"title": "Level 09 (Temple Entrance)_Level 11 (Forest)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f27"}, {"title": "Level 10 (Jungle Ruins)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f26"}, {"title": "Level 12 (Research Lab)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f25"}, {"title": "Level 14 (Wood Forest)_Level 19 (Atlantis Ruins)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f24"}, {"title": "Game Over", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f23"}, {"title": "Level 15 (Weapon Warehouse)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f21"}, {"title": "Level 17 (Ancient Armory II)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f22"}, {"title": "Level 18 (Sunset Ruins)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f20"}, {"title": "Level 20 (Cobra Commander's Bunker)", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f1f"}, {"title": "Ending", "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f1e"}], "id": "300"}
+{
+  "composed_by": [],
+  "guid": "GI_Joe-The_Atlantis_Factor",
+  "id": "300",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Capcom Logo",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f3a"
+    },
+    {
+      "title": "Title Screen",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f39"
+    },
+    {
+      "title": "Intro To Atlantis Factor",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f38"
+    },
+    {
+      "title": "Briefing Theme I",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f37"
+    },
+    {
+      "title": "Level Battle Plan Map",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f36"
+    },
+    {
+      "title": "Character Select Screen",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f35"
+    },
+    {
+      "title": "Level Intro Music",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f34"
+    },
+    {
+      "title": "Level 01 (Ancient Ruins)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f33"
+    },
+    {
+      "title": "Mini-Boss Battle",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f31"
+    },
+    {
+      "title": "Briefing Theme II",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f32"
+    },
+    {
+      "title": "Level 02 (Swamp)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f30"
+    },
+    {
+      "title": "Level 03 & 16 (Rooftops)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2f"
+    },
+    {
+      "title": "Level 04 (Missile Silo)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2e"
+    },
+    {
+      "title": "Big Boss Battle",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2d"
+    },
+    {
+      "title": "Briefing Theme III",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2c"
+    },
+    {
+      "title": "Level 05 & 06 (Snow Mountain)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2a"
+    },
+    {
+      "title": "Lost A Life",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f2b"
+    },
+    {
+      "title": "Level 07 (Cobra Prison)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f29"
+    },
+    {
+      "title": "Level 08 (Shuttle Launch)_Level 13 (Ancient Armory I)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f28"
+    },
+    {
+      "title": "Level 09 (Temple Entrance)_Level 11 (Forest)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f27"
+    },
+    {
+      "title": "Level 10 (Jungle Ruins)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f26"
+    },
+    {
+      "title": "Level 12 (Research Lab)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f25"
+    },
+    {
+      "title": "Level 14 (Wood Forest)_Level 19 (Atlantis Ruins)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f24"
+    },
+    {
+      "title": "Game Over",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f23"
+    },
+    {
+      "title": "Level 15 (Weapon Warehouse)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f21"
+    },
+    {
+      "title": "Level 17 (Ancient Armory II)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f22"
+    },
+    {
+      "title": "Level 18 (Sunset Ruins)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f20"
+    },
+    {
+      "title": "Level 20 (Cobra Commander's Bunker)",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f1f"
+    },
+    {
+      "title": "Ending",
+      "guid": "300-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f1e"
+    }
+  ],
+  "title": "G.I. Joe: The Atlantis Factor"
+}

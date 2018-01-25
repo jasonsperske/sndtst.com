@@ -1,1 +1,117 @@
-{"guid": "Sword_Of_Vermilion", "platform": "Genesis", "title": "Sword Of Vermilion", "composed_by": [], "playlist": [{"title": "Opening", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fa1"}, {"title": "Title", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f99"}, {"title": "Name Entry (Short)", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fa0"}, {"title": "Statts", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9f"}, {"title": "Erias", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9e"}, {"title": "Village A", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9d"}, {"title": "Fuyodol", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9c"}, {"title": "Shop (City)", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9b"}, {"title": "Shop (Village)", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9a"}, {"title": "Church", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f98"}, {"title": "Dungeon", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f97"}, {"title": "Dungeon 2", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f96"}, {"title": "Boss A", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f95"}, {"title": "Boss B", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f94"}, {"title": "3D Mode", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f92"}, {"title": "Battle", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f93"}, {"title": "Castle", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f91"}, {"title": "Player Dead", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f90"}, {"title": "Jiji Theme", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8e"}, {"title": "Enemy Appear", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8f"}, {"title": "Rest", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8d"}, {"title": "Level Up", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8c"}, {"title": "Set Flag", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8b"}, {"title": "Ending", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8a"}, {"title": "Last City", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f89"}, {"title": "Light Song", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f88"}, {"title": "Ending 2", "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f87"}], "id": "68"}
+{
+  "composed_by": [],
+  "guid": "Sword_Of_Vermilion",
+  "id": "68",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fa1"
+    },
+    {
+      "title": "Title",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f99"
+    },
+    {
+      "title": "Name Entry (Short)",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fa0"
+    },
+    {
+      "title": "Statts",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9f"
+    },
+    {
+      "title": "Erias",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9e"
+    },
+    {
+      "title": "Village A",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9d"
+    },
+    {
+      "title": "Fuyodol",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9c"
+    },
+    {
+      "title": "Shop (City)",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9b"
+    },
+    {
+      "title": "Shop (Village)",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f9a"
+    },
+    {
+      "title": "Church",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f98"
+    },
+    {
+      "title": "Dungeon",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f97"
+    },
+    {
+      "title": "Dungeon 2",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f96"
+    },
+    {
+      "title": "Boss A",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f95"
+    },
+    {
+      "title": "Boss B",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f94"
+    },
+    {
+      "title": "3D Mode",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f92"
+    },
+    {
+      "title": "Battle",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f93"
+    },
+    {
+      "title": "Castle",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f91"
+    },
+    {
+      "title": "Player Dead",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f90"
+    },
+    {
+      "title": "Jiji Theme",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8e"
+    },
+    {
+      "title": "Enemy Appear",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8f"
+    },
+    {
+      "title": "Rest",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8d"
+    },
+    {
+      "title": "Level Up",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8c"
+    },
+    {
+      "title": "Set Flag",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8b"
+    },
+    {
+      "title": "Ending",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f8a"
+    },
+    {
+      "title": "Last City",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f89"
+    },
+    {
+      "title": "Light Song",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f88"
+    },
+    {
+      "title": "Ending 2",
+      "guid": "68-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f87"
+    }
+  ],
+  "title": "Sword Of Vermilion"
+}

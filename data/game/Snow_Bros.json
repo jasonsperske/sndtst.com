@@ -1,1 +1,77 @@
-{"guid": "Snow_Bros", "platform": "Arcade", "title": "Snow Bros.", "composed_by": [], "playlist": [{"title": "YUKIDAMA ONDO (Stage 1, 3)", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec3"}, {"title": "YUKIDA MARCH (Stage 2, 4)", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec4"}, {"title": "DISCOLORATION (Item)", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec2"}, {"title": "BOSS YADE (Boss)", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec1"}, {"title": "DOSSKOI SNOW (Stage 5)", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec0"}, {"title": "BOSS DE SKA (The last Boss)", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebe"}, {"title": "YOH (Ending)", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebf"}, {"title": "GAME OVER", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebd"}, {"title": "Unused Music", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebc"}, {"title": "YUKIDAMA ONDO", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebb"}, {"title": "YUKIDA MARCH", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eba"}, {"title": "DISCOLORATION", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb9"}, {"title": "BOSS YADE", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb8"}, {"title": "DOSSKOI SNOW", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb6"}, {"title": "BOSS DE SKA", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb7"}, {"title": "YOH", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb4"}, {"title": "GAME OVER", "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb5"}], "id": "265"}
+{
+  "composed_by": [],
+  "guid": "Snow_Bros",
+  "id": "265",
+  "platform": "Arcade",
+  "playlist": [
+    {
+      "title": "YUKIDAMA ONDO (Stage 1, 3)",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec3"
+    },
+    {
+      "title": "YUKIDA MARCH (Stage 2, 4)",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec4"
+    },
+    {
+      "title": "DISCOLORATION (Item)",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec2"
+    },
+    {
+      "title": "BOSS YADE (Boss)",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec1"
+    },
+    {
+      "title": "DOSSKOI SNOW (Stage 5)",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ec0"
+    },
+    {
+      "title": "BOSS DE SKA (The last Boss)",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebe"
+    },
+    {
+      "title": "YOH (Ending)",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebf"
+    },
+    {
+      "title": "GAME OVER",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebd"
+    },
+    {
+      "title": "Unused Music",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebc"
+    },
+    {
+      "title": "YUKIDAMA ONDO",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7ebb"
+    },
+    {
+      "title": "YUKIDA MARCH",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eba"
+    },
+    {
+      "title": "DISCOLORATION",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb9"
+    },
+    {
+      "title": "BOSS YADE",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb8"
+    },
+    {
+      "title": "DOSSKOI SNOW",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb6"
+    },
+    {
+      "title": "BOSS DE SKA",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb7"
+    },
+    {
+      "title": "YOH",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb4"
+    },
+    {
+      "title": "GAME OVER",
+      "guid": "265-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7eb5"
+    }
+  ],
+  "title": "Snow Bros."
+}

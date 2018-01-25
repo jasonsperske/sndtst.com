@@ -1,1 +1,35 @@
-{"guid": "Solstice", "platform": "NES", "title": "Solstice", "composed_by": ["Tim Follin"], "playlist": [{"title": "Title Screen", "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fab"}, {"title": "Introduction", "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fac"}, {"title": "Main Theme", "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7faa"}, {"title": "Ending", "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fa9"}, {"title": "Credit / Continue", "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fa8"}, {"title": "Game Over", "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fa7"}], "id": "99"}
+{
+  "composed_by": [
+    "Tim Follin"
+  ],
+  "guid": "Solstice",
+  "id": "99",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title Screen",
+      "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fab"
+    },
+    {
+      "title": "Introduction",
+      "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fac"
+    },
+    {
+      "title": "Main Theme",
+      "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7faa"
+    },
+    {
+      "title": "Ending",
+      "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fa9"
+    },
+    {
+      "title": "Credit / Continue",
+      "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fa8"
+    },
+    {
+      "title": "Game Over",
+      "guid": "99-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fa7"
+    }
+  ],
+  "title": "Solstice"
+}

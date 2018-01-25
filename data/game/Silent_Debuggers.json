@@ -1,1 +1,33 @@
-{"guid": "Silent_Debuggers", "platform": "TG16", "title": "Silent Debuggers", "composed_by": [], "playlist": [{"title": "Opening", "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e60"}, {"title": "Input Your Name", "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5f"}, {"title": "Com Center", "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5e"}, {"title": "Boss", "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5d"}, {"title": "Level Clear", "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5c"}, {"title": "Ending", "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5b"}], "id": "146"}
+{
+  "composed_by": [],
+  "guid": "Silent_Debuggers",
+  "id": "146",
+  "platform": "TG16",
+  "playlist": [
+    {
+      "title": "Opening",
+      "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e60"
+    },
+    {
+      "title": "Input Your Name",
+      "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5f"
+    },
+    {
+      "title": "Com Center",
+      "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5e"
+    },
+    {
+      "title": "Boss",
+      "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5d"
+    },
+    {
+      "title": "Level Clear",
+      "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5c"
+    },
+    {
+      "title": "Ending",
+      "guid": "146-e23928424a65de06Og51524729Og146e61fe80cOgLQ7e5b"
+    }
+  ],
+  "title": "Silent Debuggers"
+}

@@ -1,1 +1,131 @@
-{"guid": "Zelda_A_Link_to_the_Past", "platform": "SNES", "title": "The Legend of Zelda: A Link to the Past", "composed_by": ["Koji Kondo"], "playlist": [{"title": "Title ~ Link to the Past", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fee"}, {"title": "Beginning of the Journey", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fef"}, {"title": "Seal of Seven Maidens", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fed"}, {"title": "Majestic Castle", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fec"}, {"title": "Princess Zelda's Rescue", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fea"}, {"title": "Safety in the Sanctuary", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7feb"}, {"title": "Hyrule Field Main Theme", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe9"}, {"title": "Kakariko Village", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe7"}, {"title": "Guessing-Game House", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe8"}, {"title": "Fortune Teller", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe6"}, {"title": "Soldiers of Kakariko Village", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe5"}, {"title": "Dank Dungeons", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe4"}, {"title": "Lost Ancient Ruins", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe3"}, {"title": "Anger of the Guardians", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe2"}, {"title": "Great Victory!", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe1"}, {"title": "The Silly Pink Rabbit!", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe0"}, {"title": "Forest of Mystery", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fdf"}, {"title": "Unsealing the Master Sword", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fde"}, {"title": "Priest of the Dark Order", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fdd"}, {"title": "Dark Golden Land", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fdc"}, {"title": "Black Mist", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fdb"}, {"title": "Dungeon of Shadows", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd9"}, {"title": "Meeting the Maidens", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fda"}, {"title": "The Goddess Appears", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd7"}, {"title": "Release of Ganon", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd8"}, {"title": "Ganon's Message", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd6"}, {"title": "The Prince of Darkness", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd5"}, {"title": "Power of the Gods", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd4"}, {"title": "Epilogue ~ Beautiful Hyrule", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd2"}, {"title": "Staff Roll", "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd3"}], "id": "65"}
+{
+  "composed_by": [
+    "Koji Kondo"
+  ],
+  "guid": "Zelda_A_Link_to_the_Past",
+  "id": "65",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Title ~ Link to the Past",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fee"
+    },
+    {
+      "title": "Beginning of the Journey",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fef"
+    },
+    {
+      "title": "Seal of Seven Maidens",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fed"
+    },
+    {
+      "title": "Majestic Castle",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fec"
+    },
+    {
+      "title": "Princess Zelda's Rescue",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fea"
+    },
+    {
+      "title": "Safety in the Sanctuary",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7feb"
+    },
+    {
+      "title": "Hyrule Field Main Theme",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe9"
+    },
+    {
+      "title": "Kakariko Village",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe7"
+    },
+    {
+      "title": "Guessing-Game House",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe8"
+    },
+    {
+      "title": "Fortune Teller",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe6"
+    },
+    {
+      "title": "Soldiers of Kakariko Village",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe5"
+    },
+    {
+      "title": "Dank Dungeons",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe4"
+    },
+    {
+      "title": "Lost Ancient Ruins",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe3"
+    },
+    {
+      "title": "Anger of the Guardians",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe2"
+    },
+    {
+      "title": "Great Victory!",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe1"
+    },
+    {
+      "title": "The Silly Pink Rabbit!",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fe0"
+    },
+    {
+      "title": "Forest of Mystery",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fdf"
+    },
+    {
+      "title": "Unsealing the Master Sword",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fde"
+    },
+    {
+      "title": "Priest of the Dark Order",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fdd"
+    },
+    {
+      "title": "Dark Golden Land",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fdc"
+    },
+    {
+      "title": "Black Mist",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fdb"
+    },
+    {
+      "title": "Dungeon of Shadows",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd9"
+    },
+    {
+      "title": "Meeting the Maidens",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fda"
+    },
+    {
+      "title": "The Goddess Appears",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd7"
+    },
+    {
+      "title": "Release of Ganon",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd8"
+    },
+    {
+      "title": "Ganon's Message",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd6"
+    },
+    {
+      "title": "The Prince of Darkness",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd5"
+    },
+    {
+      "title": "Power of the Gods",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd4"
+    },
+    {
+      "title": "Epilogue ~ Beautiful Hyrule",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd2"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "65-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7fd3"
+    }
+  ],
+  "title": "The Legend of Zelda: A Link to the Past"
+}

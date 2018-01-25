@@ -1,1 +1,135 @@
-{"guid": "Super_Bomberman_3", "platform": "SNES", "title": "Super Bomberman 3", "composed_by": ["Jun Chikuma"], "playlist": [{"title": "Select 1", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fd1"}, {"title": "Select 2", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fd2"}, {"title": "Title", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fd0"}, {"title": "BGM 1", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fcd"}, {"title": "Opening (part 1)", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fcf"}, {"title": "Opening (part 2)", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fce"}, {"title": "Battle", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fcc"}, {"title": "BGM 2", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fcb"}, {"title": "Password", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fca"}, {"title": "Game Over", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc9"}, {"title": "Staff Roll", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc7"}, {"title": "BGM 6", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc6"}, {"title": "BGM 6 Intro", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc8"}, {"title": "BGM 3", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc5"}, {"title": "BGM 5", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc4"}, {"title": "Select 4", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc3"}, {"title": "BGM 4", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc2"}, {"title": "Ending", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc1"}, {"title": "Clear", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc0"}, {"title": "Boss 1", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbf"}, {"title": "Boss 2", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbe"}, {"title": "Victory", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbd"}, {"title": "Select 3", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbb"}, {"title": "Battle Start", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb9"}, {"title": "Draw Game", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb7"}, {"title": "Hudson Soft", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbc"}, {"title": "Level Finished", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb5"}, {"title": "Level Start", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fba"}, {"title": "Lose Life", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb8"}, {"title": "Soccer Bomber", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb4"}, {"title": "Win Round", "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb6"}], "id": "294"}
+{
+  "composed_by": [
+    "Jun Chikuma"
+  ],
+  "guid": "Super_Bomberman_3",
+  "id": "294",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Select 1",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fd1"
+    },
+    {
+      "title": "Select 2",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fd2"
+    },
+    {
+      "title": "Title",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fd0"
+    },
+    {
+      "title": "BGM 1",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fcd"
+    },
+    {
+      "title": "Opening (part 1)",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fcf"
+    },
+    {
+      "title": "Opening (part 2)",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fce"
+    },
+    {
+      "title": "Battle",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fcc"
+    },
+    {
+      "title": "BGM 2",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fcb"
+    },
+    {
+      "title": "Password",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fca"
+    },
+    {
+      "title": "Game Over",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc9"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc7"
+    },
+    {
+      "title": "BGM 6",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc6"
+    },
+    {
+      "title": "BGM 6 Intro",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc8"
+    },
+    {
+      "title": "BGM 3",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc5"
+    },
+    {
+      "title": "BGM 5",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc4"
+    },
+    {
+      "title": "Select 4",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc3"
+    },
+    {
+      "title": "BGM 4",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc2"
+    },
+    {
+      "title": "Ending",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc1"
+    },
+    {
+      "title": "Clear",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fc0"
+    },
+    {
+      "title": "Boss 1",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbf"
+    },
+    {
+      "title": "Boss 2",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbe"
+    },
+    {
+      "title": "Victory",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbd"
+    },
+    {
+      "title": "Select 3",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbb"
+    },
+    {
+      "title": "Battle Start",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb9"
+    },
+    {
+      "title": "Draw Game",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb7"
+    },
+    {
+      "title": "Hudson Soft",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fbc"
+    },
+    {
+      "title": "Level Finished",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb5"
+    },
+    {
+      "title": "Level Start",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fba"
+    },
+    {
+      "title": "Lose Life",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb8"
+    },
+    {
+      "title": "Soccer Bomber",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb4"
+    },
+    {
+      "title": "Win Round",
+      "guid": "294-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb6"
+    }
+  ],
+  "title": "Super Bomberman 3"
+}

@@ -1,1 +1,135 @@
-{"guid": "Bomberman_Hero", "platform": "N64", "title": "Bomberman Hero", "composed_by": ["Jun Chikuma"], "playlist": [{"title": "Foehn", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fbc"}, {"title": "Supplement", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fbb"}, {"title": "Redial", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb9"}, {"title": "Monogenic", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fba"}, {"title": "Oropharynx", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb8"}, {"title": "Cell", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb7"}, {"title": "Dessert", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb6"}, {"title": "Realtor", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb5"}, {"title": "Fatidic", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb4"}, {"title": "Wok", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb3"}, {"title": "Mimesis", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb2"}, {"title": "Tripod", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb1"}, {"title": "Spiral", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb0"}, {"title": "Landlord", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7faf"}, {"title": "Zip", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fae"}, {"title": "Milky", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fad"}, {"title": "Beak", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fac"}, {"title": "Ooze", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fab"}, {"title": "Bomber Nebula", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7faa"}, {"title": "Bomber Vehicles", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa8"}, {"title": "Bomber Vehicles (alt)", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa9"}, {"title": "Bomberman Theme", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa7"}, {"title": "Enter", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa5"}, {"title": "Final Tally", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa6"}, {"title": "Intro", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa4"}, {"title": "Level Complete", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa3"}, {"title": "Unknown 1", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa2"}, {"title": "Unknown 2", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa1"}, {"title": "Unknown 3", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa0"}, {"title": "Unknown 4", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7f9f"}, {"title": "Unknown 5", "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7f9e"}], "id": "364"}
+{
+  "composed_by": [
+    "Jun Chikuma"
+  ],
+  "guid": "Bomberman_Hero",
+  "id": "364",
+  "platform": "N64",
+  "playlist": [
+    {
+      "title": "Foehn",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fbc"
+    },
+    {
+      "title": "Supplement",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fbb"
+    },
+    {
+      "title": "Redial",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb9"
+    },
+    {
+      "title": "Monogenic",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fba"
+    },
+    {
+      "title": "Oropharynx",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb8"
+    },
+    {
+      "title": "Cell",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb7"
+    },
+    {
+      "title": "Dessert",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb6"
+    },
+    {
+      "title": "Realtor",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb5"
+    },
+    {
+      "title": "Fatidic",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb4"
+    },
+    {
+      "title": "Wok",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb3"
+    },
+    {
+      "title": "Mimesis",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb2"
+    },
+    {
+      "title": "Tripod",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb1"
+    },
+    {
+      "title": "Spiral",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fb0"
+    },
+    {
+      "title": "Landlord",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7faf"
+    },
+    {
+      "title": "Zip",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fae"
+    },
+    {
+      "title": "Milky",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fad"
+    },
+    {
+      "title": "Beak",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fac"
+    },
+    {
+      "title": "Ooze",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fab"
+    },
+    {
+      "title": "Bomber Nebula",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7faa"
+    },
+    {
+      "title": "Bomber Vehicles",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa8"
+    },
+    {
+      "title": "Bomber Vehicles (alt)",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa9"
+    },
+    {
+      "title": "Bomberman Theme",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa7"
+    },
+    {
+      "title": "Enter",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa5"
+    },
+    {
+      "title": "Final Tally",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa6"
+    },
+    {
+      "title": "Intro",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa4"
+    },
+    {
+      "title": "Level Complete",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa3"
+    },
+    {
+      "title": "Unknown 1",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa2"
+    },
+    {
+      "title": "Unknown 2",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa1"
+    },
+    {
+      "title": "Unknown 3",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fa0"
+    },
+    {
+      "title": "Unknown 4",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7f9f"
+    },
+    {
+      "title": "Unknown 5",
+      "guid": "364-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7f9e"
+    }
+  ],
+  "title": "Bomberman Hero"
+}

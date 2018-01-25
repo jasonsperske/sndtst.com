@@ -1,1 +1,47 @@
-{"guid": "Tatsujin", "platform": "TG16", "title": "Tatsujin", "composed_by": ["Shotaro"], "playlist": [{"title": "Far Away [Stage 1]", "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f07"}, {"title": "Sally [Stage 2]", "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f06"}, {"title": "Hope [Stage 3]", "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f05"}, {"title": "Friend [Stage 4]", "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f04"}, {"title": "Unknown [Stage 5]", "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f03"}, {"title": "Crisis [Boss]", "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f02"}, {"title": "Recollection [Game Over]", "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f01"}, {"title": "Down Fall [Ranking]", "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f00"}, {"title": "Again [Continue]", "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7eff"}], "id": "379"}
+{
+  "composed_by": [
+    "Shotaro"
+  ],
+  "guid": "Tatsujin",
+  "id": "379",
+  "platform": "TG16",
+  "playlist": [
+    {
+      "title": "Far Away [Stage 1]",
+      "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f07"
+    },
+    {
+      "title": "Sally [Stage 2]",
+      "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f06"
+    },
+    {
+      "title": "Hope [Stage 3]",
+      "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f05"
+    },
+    {
+      "title": "Friend [Stage 4]",
+      "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f04"
+    },
+    {
+      "title": "Unknown [Stage 5]",
+      "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f03"
+    },
+    {
+      "title": "Crisis [Boss]",
+      "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f02"
+    },
+    {
+      "title": "Recollection [Game Over]",
+      "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f01"
+    },
+    {
+      "title": "Down Fall [Ranking]",
+      "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7f00"
+    },
+    {
+      "title": "Again [Continue]",
+      "guid": "379-4fa26a911ba32ba4Og17550603Og15522f2a35cOgLQ7eff"
+    }
+  ],
+  "title": "Tatsujin"
+}

@@ -1,1 +1,153 @@
-{"guid": "Phantasy_Star_III", "platform": "Genesis", "title": "Phantasy Star III", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f95"}, {"title": "Shop", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f96"}, {"title": "Town", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f94"}, {"title": "Royal Waltz", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f93"}, {"title": "Wedding", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f92"}, {"title": "Abduction", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f91"}, {"title": "Dungeon", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f90"}, {"title": "Dungeon (Variation)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7f"}, {"title": "World Map (Party of 1)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7e"}, {"title": "World Map (Party of 2)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7d"}, {"title": "World Map (Party of 3)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7c"}, {"title": "World Map (Party of 4)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7b"}, {"title": "World Map (Party of 5)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7a"}, {"title": "Battle Starts", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8f"}, {"title": "Battle (Normal)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f79"}, {"title": "Battle (Losing)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f78"}, {"title": "Battle (Winning)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f77"}, {"title": "Battle Won", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8e"}, {"title": "Boat Ride", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8d"}, {"title": "Shusoran", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8c"}, {"title": "Hospital", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8b"}, {"title": "Fortune Teller", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8a"}, {"title": "Castle", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f89"}, {"title": "Dead World Map", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f88"}, {"title": "Wren Transforms", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f86"}, {"title": "Laya's World", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f75"}, {"title": "Laya's Temple", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f76"}, {"title": "Skyhaven", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f87"}, {"title": "Satellite", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f85"}, {"title": "Lashute", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f84"}, {"title": "Dark Force", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f83"}, {"title": "Megido", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f82"}, {"title": "Ending Theme (Aron & Crys)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f74"}, {"title": "Ending Theme (Sean & Adan)", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f73"}, {"title": "Staff Roll", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f80"}, {"title": "Game Over", "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f81"}], "id": "22"}
+{
+  "composed_by": [],
+  "guid": "Phantasy_Star_III",
+  "id": "22",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f95"
+    },
+    {
+      "title": "Shop",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f96"
+    },
+    {
+      "title": "Town",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f94"
+    },
+    {
+      "title": "Royal Waltz",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f93"
+    },
+    {
+      "title": "Wedding",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f92"
+    },
+    {
+      "title": "Abduction",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f91"
+    },
+    {
+      "title": "Dungeon",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f90"
+    },
+    {
+      "title": "Dungeon (Variation)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7f"
+    },
+    {
+      "title": "World Map (Party of 1)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7e"
+    },
+    {
+      "title": "World Map (Party of 2)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7d"
+    },
+    {
+      "title": "World Map (Party of 3)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7c"
+    },
+    {
+      "title": "World Map (Party of 4)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7b"
+    },
+    {
+      "title": "World Map (Party of 5)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f7a"
+    },
+    {
+      "title": "Battle Starts",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8f"
+    },
+    {
+      "title": "Battle (Normal)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f79"
+    },
+    {
+      "title": "Battle (Losing)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f78"
+    },
+    {
+      "title": "Battle (Winning)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f77"
+    },
+    {
+      "title": "Battle Won",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8e"
+    },
+    {
+      "title": "Boat Ride",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8d"
+    },
+    {
+      "title": "Shusoran",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8c"
+    },
+    {
+      "title": "Hospital",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8b"
+    },
+    {
+      "title": "Fortune Teller",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f8a"
+    },
+    {
+      "title": "Castle",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f89"
+    },
+    {
+      "title": "Dead World Map",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f88"
+    },
+    {
+      "title": "Wren Transforms",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f86"
+    },
+    {
+      "title": "Laya's World",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f75"
+    },
+    {
+      "title": "Laya's Temple",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f76"
+    },
+    {
+      "title": "Skyhaven",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f87"
+    },
+    {
+      "title": "Satellite",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f85"
+    },
+    {
+      "title": "Lashute",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f84"
+    },
+    {
+      "title": "Dark Force",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f83"
+    },
+    {
+      "title": "Megido",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f82"
+    },
+    {
+      "title": "Ending Theme (Aron & Crys)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f74"
+    },
+    {
+      "title": "Ending Theme (Sean & Adan)",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f73"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f80"
+    },
+    {
+      "title": "Game Over",
+      "guid": "22-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f81"
+    }
+  ],
+  "title": "Phantasy Star III"
+}

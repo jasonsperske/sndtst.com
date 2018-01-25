@@ -1,1 +1,141 @@
-{"guid": "Warriors_of_the_Eternal_Sun", "platform": "Genesis", "title": "Dungeons & Dragons: Warriors of the Eternal Sun", "composed_by": ["Paul Mudra", "Frank Klepacki", "Dwight Okahara"], "playlist": [{"title": "Intro Theme 1", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa0"}, {"title": "Intro Theme 2", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa1"}, {"title": "Title Theme", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9f"}, {"title": "City Theme", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9e"}, {"title": "Wizard Theme", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9d"}, {"title": "Azcan Wander", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9c"}, {"title": "Azcan Combat", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9b"}, {"title": "Azcan Win", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9a"}, {"title": "Elven Wander", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f98"}, {"title": "Elven Combat", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f99"}, {"title": "Elven Win", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f97"}, {"title": "Beastman Wander", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f96"}, {"title": "Beastman Combat", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f95"}, {"title": "Beastman Win", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f94"}, {"title": "Jungle Wander", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f93"}, {"title": "Jungle Combat", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f92"}, {"title": "Jungle Win", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f91"}, {"title": "Lavapit Wander", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8f"}, {"title": "Lavapit Combat", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f90"}, {"title": "Lavapit Win", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8e"}, {"title": "Swamp Wander", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8c"}, {"title": "Swamp Combat", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8d"}, {"title": "Swamp Win", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8b"}, {"title": "City Destroyed", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8a"}, {"title": "Journey", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f89"}, {"title": "Credits", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f87"}, {"title": "Party Dead", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f88"}, {"title": "Oltec Theme (unused)", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f86"}, {"title": "Shop Theme 1 (unused)", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f84"}, {"title": "Shop Theme 2 (unused)", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f85"}, {"title": "Uklangor Battle (unused)", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f82"}, {"title": "Victory (unused)", "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f83"}], "id": "322"}
+{
+  "composed_by": [
+    "Paul Mudra",
+    "Frank Klepacki",
+    "Dwight Okahara"
+  ],
+  "guid": "Warriors_of_the_Eternal_Sun",
+  "id": "322",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Intro Theme 1",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa0"
+    },
+    {
+      "title": "Intro Theme 2",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa1"
+    },
+    {
+      "title": "Title Theme",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9f"
+    },
+    {
+      "title": "City Theme",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9e"
+    },
+    {
+      "title": "Wizard Theme",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9d"
+    },
+    {
+      "title": "Azcan Wander",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9c"
+    },
+    {
+      "title": "Azcan Combat",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9b"
+    },
+    {
+      "title": "Azcan Win",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f9a"
+    },
+    {
+      "title": "Elven Wander",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f98"
+    },
+    {
+      "title": "Elven Combat",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f99"
+    },
+    {
+      "title": "Elven Win",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f97"
+    },
+    {
+      "title": "Beastman Wander",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f96"
+    },
+    {
+      "title": "Beastman Combat",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f95"
+    },
+    {
+      "title": "Beastman Win",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f94"
+    },
+    {
+      "title": "Jungle Wander",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f93"
+    },
+    {
+      "title": "Jungle Combat",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f92"
+    },
+    {
+      "title": "Jungle Win",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f91"
+    },
+    {
+      "title": "Lavapit Wander",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8f"
+    },
+    {
+      "title": "Lavapit Combat",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f90"
+    },
+    {
+      "title": "Lavapit Win",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8e"
+    },
+    {
+      "title": "Swamp Wander",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8c"
+    },
+    {
+      "title": "Swamp Combat",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8d"
+    },
+    {
+      "title": "Swamp Win",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8b"
+    },
+    {
+      "title": "City Destroyed",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f8a"
+    },
+    {
+      "title": "Journey",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f89"
+    },
+    {
+      "title": "Credits",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f87"
+    },
+    {
+      "title": "Party Dead",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f88"
+    },
+    {
+      "title": "Oltec Theme (unused)",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f86"
+    },
+    {
+      "title": "Shop Theme 1 (unused)",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f84"
+    },
+    {
+      "title": "Shop Theme 2 (unused)",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f85"
+    },
+    {
+      "title": "Uklangor Battle (unused)",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f82"
+    },
+    {
+      "title": "Victory (unused)",
+      "guid": "322-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f83"
+    }
+  ],
+  "title": "Dungeons & Dragons: Warriors of the Eternal Sun"
+}

@@ -1,1 +1,104 @@
-{"guid": "Biker_Mice_from_Mars", "platform": "SNES", "title": "Biker Mice from Mars", "composed_by": ["Hideto Inoue", "Nobuyuki Akena"], "playlist": [{"title": "Theme", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed9"}, {"title": "Player Select", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed8"}, {"title": "Round Fanfare", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed7"}, {"title": "Shop", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed6"}, {"title": "Race Fanfare", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed5"}, {"title": "City", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed3"}, {"title": "Island", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed4"}, {"title": "Sewerage", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed2"}, {"title": "Circuit", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed1"}, {"title": "Fortress", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ecf"}, {"title": "Goal & Lap Screen - Ranked In", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed0"}, {"title": "Goal & Lap Screen - Ranked Out", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ece"}, {"title": "Race Result", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ecd"}, {"title": "Continue", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ecc"}, {"title": "Game Over", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ecb"}, {"title": "Round Result", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eca"}, {"title": "Password", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec9"}, {"title": "Congratulations", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec8"}, {"title": "Victory Speech - Bad Guys", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec6"}, {"title": "Victory Speech - Good Guys", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec7"}, {"title": "Staff", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec5"}, {"title": "Course Select", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec4"}, {"title": "Vs. Race", "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec3"}], "id": "329"}
+{
+  "composed_by": [
+    "Hideto Inoue",
+    "Nobuyuki Akena"
+  ],
+  "guid": "Biker_Mice_from_Mars",
+  "id": "329",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Theme",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed9"
+    },
+    {
+      "title": "Player Select",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed8"
+    },
+    {
+      "title": "Round Fanfare",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed7"
+    },
+    {
+      "title": "Shop",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed6"
+    },
+    {
+      "title": "Race Fanfare",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed5"
+    },
+    {
+      "title": "City",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed3"
+    },
+    {
+      "title": "Island",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed4"
+    },
+    {
+      "title": "Sewerage",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed2"
+    },
+    {
+      "title": "Circuit",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed1"
+    },
+    {
+      "title": "Fortress",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ecf"
+    },
+    {
+      "title": "Goal & Lap Screen - Ranked In",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ed0"
+    },
+    {
+      "title": "Goal & Lap Screen - Ranked Out",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ece"
+    },
+    {
+      "title": "Race Result",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ecd"
+    },
+    {
+      "title": "Continue",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ecc"
+    },
+    {
+      "title": "Game Over",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ecb"
+    },
+    {
+      "title": "Round Result",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eca"
+    },
+    {
+      "title": "Password",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec9"
+    },
+    {
+      "title": "Congratulations",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec8"
+    },
+    {
+      "title": "Victory Speech - Bad Guys",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec6"
+    },
+    {
+      "title": "Victory Speech - Good Guys",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec7"
+    },
+    {
+      "title": "Staff",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec5"
+    },
+    {
+      "title": "Course Select",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec4"
+    },
+    {
+      "title": "Vs. Race",
+      "guid": "329-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ec3"
+    }
+  ],
+  "title": "Biker Mice from Mars"
+}

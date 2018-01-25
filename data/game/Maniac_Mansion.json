@@ -1,1 +1,67 @@
-{"guid": "Maniac_Mansion", "platform": "NES", "title": "Maniac Mansion", "composed_by": ["Tsukasa Tawada"], "playlist": [{"title": "Opening Theme", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed9"}, {"title": "Dave's Theme", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed8"}, {"title": "Razor's Theme", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed7"}, {"title": "Bernard's Theme", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed6"}, {"title": "Syd's Theme", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed5"}, {"title": "Wendy's Theme", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed4"}, {"title": "Jeff's Theme", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed3"}, {"title": "Michael's Theme", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed0"}, {"title": "Edison Family & Tentacle Theme", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed2"}, {"title": "Piano", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed1"}, {"title": "The Three Guys Who'll Publish Anything TV Ad", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ecf"}, {"title": "Green Tentacle Demo Tape", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ece"}, {"title": "Wink Smiley's Talk Show", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ecc"}, {"title": "Credits", "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ecd"}], "id": "193"}
+{
+  "composed_by": [
+    "Tsukasa Tawada"
+  ],
+  "guid": "Maniac_Mansion",
+  "id": "193",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed9"
+    },
+    {
+      "title": "Dave's Theme",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed8"
+    },
+    {
+      "title": "Razor's Theme",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed7"
+    },
+    {
+      "title": "Bernard's Theme",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed6"
+    },
+    {
+      "title": "Syd's Theme",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed5"
+    },
+    {
+      "title": "Wendy's Theme",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed4"
+    },
+    {
+      "title": "Jeff's Theme",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed3"
+    },
+    {
+      "title": "Michael's Theme",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed0"
+    },
+    {
+      "title": "Edison Family & Tentacle Theme",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed2"
+    },
+    {
+      "title": "Piano",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ed1"
+    },
+    {
+      "title": "The Three Guys Who'll Publish Anything TV Ad",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ecf"
+    },
+    {
+      "title": "Green Tentacle Demo Tape",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ece"
+    },
+    {
+      "title": "Wink Smiley's Talk Show",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ecc"
+    },
+    {
+      "title": "Credits",
+      "guid": "193-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7ecd"
+    }
+  ],
+  "title": "Maniac Mansion"
+}

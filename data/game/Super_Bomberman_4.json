@@ -1,1 +1,115 @@
-{"guid": "Super_Bomberman_4", "platform": "SNES", "title": "Super Bomberman 4", "composed_by": ["Jun Chikuma"], "playlist": [{"title": "Hudson Soft Voice", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb3"}, {"title": "Introduction", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb2"}, {"title": "Title Screen", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb1"}, {"title": "Battle Preperations", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb0"}, {"title": "Battle Start", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7faf"}, {"title": "Battle Theme", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fad"}, {"title": "Battle Draw", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fae"}, {"title": "Time Up!", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fac"}, {"title": "Scoreboard", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fab"}, {"title": "Victory", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7faa"}, {"title": "Battle Solo", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa9"}, {"title": "Game Over", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa8"}, {"title": "Password Screen", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa6"}, {"title": "Level Start", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa7"}, {"title": "Level Clear", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa5"}, {"title": "World 1", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa4"}, {"title": "World 2", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa3"}, {"title": "World 3", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa2"}, {"title": "World 4", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa1"}, {"title": "World 5", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9f"}, {"title": "Bonus Stage", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa0"}, {"title": "Bad Bomber", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9e"}, {"title": "Big Bomber", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9d"}, {"title": "Warp", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9c"}, {"title": "Final Boss", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9b"}, {"title": "Ending Credits", "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9a"}], "id": "295"}
+{
+  "composed_by": [
+    "Jun Chikuma"
+  ],
+  "guid": "Super_Bomberman_4",
+  "id": "295",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Hudson Soft Voice",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb3"
+    },
+    {
+      "title": "Introduction",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb2"
+    },
+    {
+      "title": "Title Screen",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb1"
+    },
+    {
+      "title": "Battle Preperations",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fb0"
+    },
+    {
+      "title": "Battle Start",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7faf"
+    },
+    {
+      "title": "Battle Theme",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fad"
+    },
+    {
+      "title": "Battle Draw",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fae"
+    },
+    {
+      "title": "Time Up!",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fac"
+    },
+    {
+      "title": "Scoreboard",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fab"
+    },
+    {
+      "title": "Victory",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7faa"
+    },
+    {
+      "title": "Battle Solo",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa9"
+    },
+    {
+      "title": "Game Over",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa8"
+    },
+    {
+      "title": "Password Screen",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa6"
+    },
+    {
+      "title": "Level Start",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa7"
+    },
+    {
+      "title": "Level Clear",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa5"
+    },
+    {
+      "title": "World 1",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa4"
+    },
+    {
+      "title": "World 2",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa3"
+    },
+    {
+      "title": "World 3",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa2"
+    },
+    {
+      "title": "World 4",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa1"
+    },
+    {
+      "title": "World 5",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9f"
+    },
+    {
+      "title": "Bonus Stage",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fa0"
+    },
+    {
+      "title": "Bad Bomber",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9e"
+    },
+    {
+      "title": "Big Bomber",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9d"
+    },
+    {
+      "title": "Warp",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9c"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9b"
+    },
+    {
+      "title": "Ending Credits",
+      "guid": "295-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7f9a"
+    }
+  ],
+  "title": "Super Bomberman 4"
+}

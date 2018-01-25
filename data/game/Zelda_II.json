@@ -1,1 +1,71 @@
-{"guid": "Zelda_II", "platform": "NES", "title": "Zelda II: The Adventure of Link", "composed_by": ["Akito Nakatsuka"], "playlist": [{"title": "Title", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff5"}, {"title": "Overworld", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff6"}, {"title": "Battle", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff4"}, {"title": "Town", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff3"}, {"title": "House", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff2"}, {"title": "Palace", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fef"}, {"title": "Item", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff1"}, {"title": "Fairy", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff0"}, {"title": "Guardian", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fed"}, {"title": "Crystal", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fee"}, {"title": "Game Over", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fec"}, {"title": "Flute", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7feb"}, {"title": "The Great Palace", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fea"}, {"title": "Last Guardian", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe9"}, {"title": "Ending", "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe8"}], "id": "6"}
+{
+  "composed_by": [
+    "Akito Nakatsuka"
+  ],
+  "guid": "Zelda_II",
+  "id": "6",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff5"
+    },
+    {
+      "title": "Overworld",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff6"
+    },
+    {
+      "title": "Battle",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff4"
+    },
+    {
+      "title": "Town",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff3"
+    },
+    {
+      "title": "House",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff2"
+    },
+    {
+      "title": "Palace",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fef"
+    },
+    {
+      "title": "Item",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff1"
+    },
+    {
+      "title": "Fairy",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7ff0"
+    },
+    {
+      "title": "Guardian",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fed"
+    },
+    {
+      "title": "Crystal",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fee"
+    },
+    {
+      "title": "Game Over",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fec"
+    },
+    {
+      "title": "Flute",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7feb"
+    },
+    {
+      "title": "The Great Palace",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fea"
+    },
+    {
+      "title": "Last Guardian",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe9"
+    },
+    {
+      "title": "Ending",
+      "guid": "6-f70efbab7e631448Og6f5bb1edOg1458ca97af8OgLQ7fe8"
+    }
+  ],
+  "title": "Zelda II: The Adventure of Link"
+}

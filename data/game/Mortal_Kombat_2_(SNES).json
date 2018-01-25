@@ -1,1 +1,89 @@
-{"guid": "Mortal_Kombat_2_(SNES)", "platform": "SNES", "title": "Mortal Kombat 2", "composed_by": [], "playlist": [{"title": "Sculptured Software", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e1a"}, {"title": "Story", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e19"}, {"title": "Player Select", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e18"}, {"title": "Battle Plan", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e17"}, {"title": "Vs.", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e16"}, {"title": "The Dead Pool", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e15"}, {"title": "Kombat Tomb", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e14"}, {"title": "The Tower", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e13"}, {"title": "Living Forest", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e12"}, {"title": "The Armory", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e11"}, {"title": "The Pit II", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e10"}, {"title": "Shang Tsung", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0f"}, {"title": "Into the Earth", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0e"}, {"title": "Continue?", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0d"}, {"title": "Fatality", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0b"}, {"title": "Babality", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0c"}, {"title": "Showing Your Gentler Side", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0a"}, {"title": "Friendly Gift", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e09"}, {"title": "Disco with Liu Kang", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e07"}, {"title": "Secret Character Teaser", "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e08"}], "id": "122"}
+{
+  "composed_by": [],
+  "guid": "Mortal_Kombat_2_(SNES)",
+  "id": "122",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Sculptured Software",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e1a"
+    },
+    {
+      "title": "Story",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e19"
+    },
+    {
+      "title": "Player Select",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e18"
+    },
+    {
+      "title": "Battle Plan",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e17"
+    },
+    {
+      "title": "Vs.",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e16"
+    },
+    {
+      "title": "The Dead Pool",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e15"
+    },
+    {
+      "title": "Kombat Tomb",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e14"
+    },
+    {
+      "title": "The Tower",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e13"
+    },
+    {
+      "title": "Living Forest",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e12"
+    },
+    {
+      "title": "The Armory",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e11"
+    },
+    {
+      "title": "The Pit II",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e10"
+    },
+    {
+      "title": "Shang Tsung",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0f"
+    },
+    {
+      "title": "Into the Earth",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0e"
+    },
+    {
+      "title": "Continue?",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0d"
+    },
+    {
+      "title": "Fatality",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0b"
+    },
+    {
+      "title": "Babality",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0c"
+    },
+    {
+      "title": "Showing Your Gentler Side",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e0a"
+    },
+    {
+      "title": "Friendly Gift",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e09"
+    },
+    {
+      "title": "Disco with Liu Kang",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e07"
+    },
+    {
+      "title": "Secret Character Teaser",
+      "guid": "122-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e08"
+    }
+  ],
+  "title": "Mortal Kombat 2"
+}

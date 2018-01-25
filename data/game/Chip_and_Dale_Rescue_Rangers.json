@@ -1,1 +1,61 @@
-{"guid": "Chip_and_Dale_Rescue_Rangers", "platform": "NES", "title": "Chip and Dale Rescue Rangers", "composed_by": [], "playlist": [{"title": "Unknown", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff8"}, {"title": "Zone 0", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff7"}, {"title": "Zone A, C & E", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff6"}, {"title": "Zone B", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff5"}, {"title": "Zone D", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff3"}, {"title": "Zone G", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff4"}, {"title": "Zone F, H & I", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff2"}, {"title": "Zone J", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff1"}, {"title": "Boss", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff0"}, {"title": "Map", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fef"}, {"title": "Bonus Round", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fee"}, {"title": "Game Over", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fed"}, {"title": "Ending", "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fec"}], "id": "208"}
+{
+  "composed_by": [],
+  "guid": "Chip_and_Dale_Rescue_Rangers",
+  "id": "208",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Unknown",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff8"
+    },
+    {
+      "title": "Zone 0",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff7"
+    },
+    {
+      "title": "Zone A, C & E",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff6"
+    },
+    {
+      "title": "Zone B",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff5"
+    },
+    {
+      "title": "Zone D",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff3"
+    },
+    {
+      "title": "Zone G",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff4"
+    },
+    {
+      "title": "Zone F, H & I",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff2"
+    },
+    {
+      "title": "Zone J",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff1"
+    },
+    {
+      "title": "Boss",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7ff0"
+    },
+    {
+      "title": "Map",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fef"
+    },
+    {
+      "title": "Bonus Round",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fee"
+    },
+    {
+      "title": "Game Over",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fed"
+    },
+    {
+      "title": "Ending",
+      "guid": "208-c571e73d208abd03OgLQ251d7894Og148c35dab19OgLQ7fec"
+    }
+  ],
+  "title": "Chip and Dale Rescue Rangers"
+}

@@ -1,1 +1,73 @@
-{"guid": "Wild_Guns", "platform": "SNES", "title": "Wild Guns", "composed_by": [], "playlist": [{"title": "Theme of Wild Guns", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7c"}, {"title": "Select Player", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7b"}, {"title": "Practice", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d78"}, {"title": "Results", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7a"}, {"title": "Winner!", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d79"}, {"title": "Good Luck!", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d77"}, {"title": "Carson City", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d75"}, {"title": "Game Over!", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d76"}, {"title": "Boss", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d74"}, {"title": "Desolation Canyon", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d73"}, {"title": "Ammunition Depot", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d72"}, {"title": "Gold Mine", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d70"}, {"title": "Armored Train", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d71"}, {"title": "Final Fight (Part 1)", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6f"}, {"title": "Final Fight (Part 2)", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6e"}, {"title": "Finale", "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6d"}], "id": "127"}
+{
+  "composed_by": [],
+  "guid": "Wild_Guns",
+  "id": "127",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Theme of Wild Guns",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7c"
+    },
+    {
+      "title": "Select Player",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7b"
+    },
+    {
+      "title": "Practice",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d78"
+    },
+    {
+      "title": "Results",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d7a"
+    },
+    {
+      "title": "Winner!",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d79"
+    },
+    {
+      "title": "Good Luck!",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d77"
+    },
+    {
+      "title": "Carson City",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d75"
+    },
+    {
+      "title": "Game Over!",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d76"
+    },
+    {
+      "title": "Boss",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d74"
+    },
+    {
+      "title": "Desolation Canyon",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d73"
+    },
+    {
+      "title": "Ammunition Depot",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d72"
+    },
+    {
+      "title": "Gold Mine",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d70"
+    },
+    {
+      "title": "Armored Train",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d71"
+    },
+    {
+      "title": "Final Fight (Part 1)",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6f"
+    },
+    {
+      "title": "Final Fight (Part 2)",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6e"
+    },
+    {
+      "title": "Finale",
+      "guid": "127-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7d6d"
+    }
+  ],
+  "title": "Wild Guns"
+}

@@ -1,1 +1,139 @@
-{"guid": "Mega_Man_X2", "platform": "SNES", "title": "Mega Man X2", "composed_by": ["Yuki Iwai"], "playlist": [{"title": "Capcom Logo", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc4"}, {"title": "Plot of the X-Hunters", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc2"}, {"title": "Title Screen", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc3"}, {"title": "The Mavericks' Last Stand", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbe"}, {"title": "Password", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc1"}, {"title": "Second Wave", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc0"}, {"title": "Maverick Stage Intro", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbf"}, {"title": "Weather Wizard", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbd"}, {"title": "Panzer des Drachens", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbc"}, {"title": "Dangerous Reef", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fba"}, {"title": "Volcano's Fury", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbb"}, {"title": "Wasteland", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb9"}, {"title": "Red Alert", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb8"}, {"title": "Sinister Gleam", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb7"}, {"title": "Dust Devil", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb3"}, {"title": "Maverick Sighted!", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb6"}, {"title": "The Battle Ensues", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb5"}, {"title": "Mission Accomplished!", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb4"}, {"title": "The Victor's Spoils", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb2"}, {"title": "Mentor's Gift", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb1"}, {"title": "Base of Operations", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb0"}, {"title": "Final Destination", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fae"}, {"title": "Absolute Zero", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7faf"}, {"title": "Deeper Into the Abyss", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fad"}, {"title": "Conspiracy to Murder", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fac"}, {"title": "Approaching Assassin", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fab"}, {"title": "Mortal Combat", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa9"}, {"title": "Zero's Rebirth", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7faa"}, {"title": "Grim Vigilante", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa8"}, {"title": "Judgement Day", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa7"}, {"title": "The Wake of Destruction", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa5"}, {"title": "Hail the Conquering Hero", "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa6"}], "id": "290"}
+{
+  "composed_by": [
+    "Yuki Iwai"
+  ],
+  "guid": "Mega_Man_X2",
+  "id": "290",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Capcom Logo",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc4"
+    },
+    {
+      "title": "Plot of the X-Hunters",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc2"
+    },
+    {
+      "title": "Title Screen",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc3"
+    },
+    {
+      "title": "The Mavericks' Last Stand",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbe"
+    },
+    {
+      "title": "Password",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc1"
+    },
+    {
+      "title": "Second Wave",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fc0"
+    },
+    {
+      "title": "Maverick Stage Intro",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbf"
+    },
+    {
+      "title": "Weather Wizard",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbd"
+    },
+    {
+      "title": "Panzer des Drachens",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbc"
+    },
+    {
+      "title": "Dangerous Reef",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fba"
+    },
+    {
+      "title": "Volcano's Fury",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fbb"
+    },
+    {
+      "title": "Wasteland",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb9"
+    },
+    {
+      "title": "Red Alert",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb8"
+    },
+    {
+      "title": "Sinister Gleam",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb7"
+    },
+    {
+      "title": "Dust Devil",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb3"
+    },
+    {
+      "title": "Maverick Sighted!",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb6"
+    },
+    {
+      "title": "The Battle Ensues",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb5"
+    },
+    {
+      "title": "Mission Accomplished!",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb4"
+    },
+    {
+      "title": "The Victor's Spoils",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb2"
+    },
+    {
+      "title": "Mentor's Gift",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb1"
+    },
+    {
+      "title": "Base of Operations",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fb0"
+    },
+    {
+      "title": "Final Destination",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fae"
+    },
+    {
+      "title": "Absolute Zero",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7faf"
+    },
+    {
+      "title": "Deeper Into the Abyss",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fad"
+    },
+    {
+      "title": "Conspiracy to Murder",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fac"
+    },
+    {
+      "title": "Approaching Assassin",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fab"
+    },
+    {
+      "title": "Mortal Combat",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa9"
+    },
+    {
+      "title": "Zero's Rebirth",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7faa"
+    },
+    {
+      "title": "Grim Vigilante",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa8"
+    },
+    {
+      "title": "Judgement Day",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa7"
+    },
+    {
+      "title": "The Wake of Destruction",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa5"
+    },
+    {
+      "title": "Hail the Conquering Hero",
+      "guid": "290-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ7fa6"
+    }
+  ],
+  "title": "Mega Man X2"
+}

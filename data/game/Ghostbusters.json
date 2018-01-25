@@ -1,1 +1,99 @@
-{"guid": "Ghostbusters", "platform": "Genesis", "title": "Ghostbusters", "composed_by": ["Kazuhiko Nagai"], "playlist": [{"title": "Main Theme", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe5"}, {"title": "Character Select", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe6"}, {"title": "Character Selected", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe4"}, {"title": "Stage Select", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe3"}, {"title": "Stage Introduction", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe2"}, {"title": "1st Case - Home Sweet Home", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fdf"}, {"title": "Pause Menu", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe1"}, {"title": "Encounter!", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe0"}, {"title": "Mid-Ghost Captured", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fde"}, {"title": "Boss Theme", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fdc"}, {"title": "Stage Clear", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fdd"}, {"title": "Stage Epilogue", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fdb"}, {"title": "Shop", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fda"}, {"title": "2nd Case - Apartment", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd9"}, {"title": "3rd Case - Woody House", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd8"}, {"title": "4th Case - High-Rise Building", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd7"}, {"title": "5th Case - Castle", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd3"}, {"title": "Final Case Start", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd6"}, {"title": "Final Case - Deep Hole", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd5"}, {"title": "Final Boss", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd4"}, {"title": "Ending Theme", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd1"}, {"title": "Game Over", "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd2"}], "id": "320"}
+{
+  "composed_by": [
+    "Kazuhiko Nagai"
+  ],
+  "guid": "Ghostbusters",
+  "id": "320",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Main Theme",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe5"
+    },
+    {
+      "title": "Character Select",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe6"
+    },
+    {
+      "title": "Character Selected",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe4"
+    },
+    {
+      "title": "Stage Select",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe3"
+    },
+    {
+      "title": "Stage Introduction",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe2"
+    },
+    {
+      "title": "1st Case - Home Sweet Home",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fdf"
+    },
+    {
+      "title": "Pause Menu",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe1"
+    },
+    {
+      "title": "Encounter!",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fe0"
+    },
+    {
+      "title": "Mid-Ghost Captured",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fde"
+    },
+    {
+      "title": "Boss Theme",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fdc"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fdd"
+    },
+    {
+      "title": "Stage Epilogue",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fdb"
+    },
+    {
+      "title": "Shop",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fda"
+    },
+    {
+      "title": "2nd Case - Apartment",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd9"
+    },
+    {
+      "title": "3rd Case - Woody House",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd8"
+    },
+    {
+      "title": "4th Case - High-Rise Building",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd7"
+    },
+    {
+      "title": "5th Case - Castle",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd3"
+    },
+    {
+      "title": "Final Case Start",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd6"
+    },
+    {
+      "title": "Final Case - Deep Hole",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd5"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd4"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd1"
+    },
+    {
+      "title": "Game Over",
+      "guid": "320-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fd2"
+    }
+  ],
+  "title": "Ghostbusters"
+}

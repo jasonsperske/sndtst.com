@@ -1,1 +1,45 @@
-{"guid": "NHL_95", "platform": "Genesis", "title": "NHL All-Star Hockey '95", "composed_by": [], "playlist": [{"title": "Unknown", "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4f"}, {"title": "Unknown", "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4e"}, {"title": "Unknown", "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4d"}, {"title": "Unknown", "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4c"}, {"title": "Unknown", "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4a"}, {"title": "Unknown", "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4b"}, {"title": "Unknown", "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f48"}, {"title": "Unknown", "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f49"}, {"title": "Unknown", "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f47"}], "id": "105"}
+{
+  "composed_by": [],
+  "guid": "NHL_95",
+  "id": "105",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Unknown",
+      "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4f"
+    },
+    {
+      "title": "Unknown",
+      "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4e"
+    },
+    {
+      "title": "Unknown",
+      "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4d"
+    },
+    {
+      "title": "Unknown",
+      "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4c"
+    },
+    {
+      "title": "Unknown",
+      "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4a"
+    },
+    {
+      "title": "Unknown",
+      "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f4b"
+    },
+    {
+      "title": "Unknown",
+      "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f48"
+    },
+    {
+      "title": "Unknown",
+      "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f49"
+    },
+    {
+      "title": "Unknown",
+      "guid": "105-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f47"
+    }
+  ],
+  "title": "NHL All-Star Hockey '95"
+}

@@ -1,1 +1,61 @@
-{"guid": "Trampoline_Terror", "platform": "Genesis", "title": "Trampoline Terror!", "composed_by": [], "playlist": [{"title": "Title Theme", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f61"}, {"title": "Stages 1-4", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5e"}, {"title": "Stage Clear", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f60"}, {"title": "Stages 5-8", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5f"}, {"title": "Stages 9-12", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5d"}, {"title": "Stages 13-16", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5c"}, {"title": "Stages 17-20", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f59"}, {"title": "Stages 21-24", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5b"}, {"title": "Stages 25-28", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5a"}, {"title": "Stages 29-32", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f58"}, {"title": "Stage 33", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f57"}, {"title": "Ending Theme", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f55"}, {"title": "Game Over", "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f56"}], "id": "71"}
+{
+  "composed_by": [],
+  "guid": "Trampoline_Terror",
+  "id": "71",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Title Theme",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f61"
+    },
+    {
+      "title": "Stages 1-4",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5e"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f60"
+    },
+    {
+      "title": "Stages 5-8",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5f"
+    },
+    {
+      "title": "Stages 9-12",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5d"
+    },
+    {
+      "title": "Stages 13-16",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5c"
+    },
+    {
+      "title": "Stages 17-20",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f59"
+    },
+    {
+      "title": "Stages 21-24",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5b"
+    },
+    {
+      "title": "Stages 25-28",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f5a"
+    },
+    {
+      "title": "Stages 29-32",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f58"
+    },
+    {
+      "title": "Stage 33",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f57"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f55"
+    },
+    {
+      "title": "Game Over",
+      "guid": "71-bdb1d279a34c3e8fOg20ef68a3Og1465d871442OgLQ7f56"
+    }
+  ],
+  "title": "Trampoline Terror!"
+}

@@ -1,1 +1,87 @@
-{"guid": "Urban_Strike", "platform": "SNES", "title": "Urban Strike", "composed_by": ["Don Veca"], "playlist": [{"title": "Urban Strike", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f94"}, {"title": "Rally for a Madman", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f96"}, {"title": "Prelude to War", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f95"}, {"title": "The Commander's Theme", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f93"}, {"title": "Trouble in Paradise", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f92"}, {"title": "Chopper Flight", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f91"}, {"title": "Mission Complete", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f90"}, {"title": "Victory!", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8f"}, {"title": "Military Tactics", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8e"}, {"title": "Bombing the Oil Rig", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8d"}, {"title": "Southern Assault", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8c"}, {"title": "Ground Assault Vehicle", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8b"}, {"title": "Disturbance at the Bay", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8a"}, {"title": "Malone's Last Stand", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f89"}, {"title": "To the Underground Hideout", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f88"}, {"title": "Staff Roll", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f86"}, {"title": "Game Over", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f87"}, {"title": "Explosion", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f85"}, {"title": "Ignition", "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f84"}], "id": "340"}
+{
+  "composed_by": [
+    "Don Veca"
+  ],
+  "guid": "Urban_Strike",
+  "id": "340",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Urban Strike",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f94"
+    },
+    {
+      "title": "Rally for a Madman",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f96"
+    },
+    {
+      "title": "Prelude to War",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f95"
+    },
+    {
+      "title": "The Commander's Theme",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f93"
+    },
+    {
+      "title": "Trouble in Paradise",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f92"
+    },
+    {
+      "title": "Chopper Flight",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f91"
+    },
+    {
+      "title": "Mission Complete",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f90"
+    },
+    {
+      "title": "Victory!",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8f"
+    },
+    {
+      "title": "Military Tactics",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8e"
+    },
+    {
+      "title": "Bombing the Oil Rig",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8d"
+    },
+    {
+      "title": "Southern Assault",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8c"
+    },
+    {
+      "title": "Ground Assault Vehicle",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8b"
+    },
+    {
+      "title": "Disturbance at the Bay",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f8a"
+    },
+    {
+      "title": "Malone's Last Stand",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f89"
+    },
+    {
+      "title": "To the Underground Hideout",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f88"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f86"
+    },
+    {
+      "title": "Game Over",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f87"
+    },
+    {
+      "title": "Explosion",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f85"
+    },
+    {
+      "title": "Ignition",
+      "guid": "340-239cf5016198823cOgLQ6fbcda69Og14eaa20fad3OgLQ7f84"
+    }
+  ],
+  "title": "Urban Strike"
+}

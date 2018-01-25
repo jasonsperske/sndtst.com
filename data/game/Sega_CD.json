@@ -1,1 +1,24 @@
-{"guid": "Sega_CD", "platform": "Genesis", "title": "Sega CD", "composed_by": ["Sachio Ogawa", "David Javelosa"], "playlist": [{"title": "Mega CD", "guid": "362-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fdb"}, {"title": "Sega CD version 1", "guid": "362-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fd9"}, {"title": "Sega CD version 2", "guid": "362-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fda"}], "id": "362"}
+{
+  "composed_by": [
+    "Sachio Ogawa",
+    "David Javelosa"
+  ],
+  "guid": "Sega_CD",
+  "id": "362",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Mega CD",
+      "guid": "362-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fdb"
+    },
+    {
+      "title": "Sega CD version 1",
+      "guid": "362-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fd9"
+    },
+    {
+      "title": "Sega CD version 2",
+      "guid": "362-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fda"
+    }
+  ],
+  "title": "Sega CD"
+}

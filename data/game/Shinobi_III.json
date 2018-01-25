@@ -1,1 +1,117 @@
-{"guid": "Shinobi_III", "platform": "Genesis", "title": "Shinobi III - Return of the Ninja Master", "composed_by": ["Hirofumi Murasaki", "Morihiko Akiyama", "Masayuki Nagao"], "playlist": [{"title": "He Runs", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f2c"}, {"title": "Ninja Soul", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f2b"}, {"title": "Shadows", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f2a"}, {"title": "Hassou!", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f29"}, {"title": "Inner Darkside", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f28"}, {"title": "Shinobi Walk", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f27"}, {"title": "Rush and Beat", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f24"}, {"title": "Storm Wind", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f26"}, {"title": "Round Clear", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f25"}, {"title": "Wabi", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f23"}, {"title": "Sabi", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f22"}, {"title": "Shinobi", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f20"}, {"title": "Getufu", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f21"}, {"title": "Sakura", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1f"}, {"title": "Idaten", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1d"}, {"title": "Game Over", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1e"}, {"title": "Japonesque", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1c"}, {"title": "Solitary", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1b"}, {"title": "Izayoi", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f19"}, {"title": "My Dear D", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1a"}, {"title": "Stage Clear", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f18"}, {"title": "Trap Boogie", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f17"}, {"title": "Mandara", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f16"}, {"title": "Shadow Master", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f15"}, {"title": "Ground Zero", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f14"}, {"title": "Whirlwind", "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f13"}], "id": "326"}
+{
+  "composed_by": [
+    "Hirofumi Murasaki",
+    "Morihiko Akiyama",
+    "Masayuki Nagao"
+  ],
+  "guid": "Shinobi_III",
+  "id": "326",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "He Runs",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f2c"
+    },
+    {
+      "title": "Ninja Soul",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f2b"
+    },
+    {
+      "title": "Shadows",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f2a"
+    },
+    {
+      "title": "Hassou!",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f29"
+    },
+    {
+      "title": "Inner Darkside",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f28"
+    },
+    {
+      "title": "Shinobi Walk",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f27"
+    },
+    {
+      "title": "Rush and Beat",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f24"
+    },
+    {
+      "title": "Storm Wind",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f26"
+    },
+    {
+      "title": "Round Clear",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f25"
+    },
+    {
+      "title": "Wabi",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f23"
+    },
+    {
+      "title": "Sabi",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f22"
+    },
+    {
+      "title": "Shinobi",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f20"
+    },
+    {
+      "title": "Getufu",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f21"
+    },
+    {
+      "title": "Sakura",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1f"
+    },
+    {
+      "title": "Idaten",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1d"
+    },
+    {
+      "title": "Game Over",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1e"
+    },
+    {
+      "title": "Japonesque",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1c"
+    },
+    {
+      "title": "Solitary",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1b"
+    },
+    {
+      "title": "Izayoi",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f19"
+    },
+    {
+      "title": "My Dear D",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f1a"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f18"
+    },
+    {
+      "title": "Trap Boogie",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f17"
+    },
+    {
+      "title": "Mandara",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f16"
+    },
+    {
+      "title": "Shadow Master",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f15"
+    },
+    {
+      "title": "Ground Zero",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f14"
+    },
+    {
+      "title": "Whirlwind",
+      "guid": "326-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f13"
+    }
+  ],
+  "title": "Shinobi III - Return of the Ninja Master"
+}

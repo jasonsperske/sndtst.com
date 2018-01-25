@@ -1,1 +1,69 @@
-{"guid": "Super_Contra", "platform": "NES", "title": "Super Contra", "composed_by": [], "playlist": [{"title": "Stage 1 - Lightning and Grenades", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f81"}, {"title": "Stage 2 - Military Fortress", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f82"}, {"title": "Stage 3 - Jungle", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f80"}, {"title": "Steel Spider", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7f"}, {"title": "Stage 4 - Mechanic Factory", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7d"}, {"title": "Stage 5 - Perilous Cliff", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7e"}, {"title": "Stage 6 - Under the Feet", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7c"}, {"title": "Stage 7 - Xenophobic Organs", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7b"}, {"title": "Boss (Simple)", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7a"}, {"title": "Stage Clear", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f79"}, {"title": "Stage 8 - The Falling Wall", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f78"}, {"title": "Boss", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f77"}, {"title": "Stage Clear All", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f76"}, {"title": "The Return of Heros' Helicopter", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f74"}, {"title": "Game Over", "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f75"}], "id": "102"}
+{
+  "composed_by": [],
+  "guid": "Super_Contra",
+  "id": "102",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Stage 1 - Lightning and Grenades",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f81"
+    },
+    {
+      "title": "Stage 2 - Military Fortress",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f82"
+    },
+    {
+      "title": "Stage 3 - Jungle",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f80"
+    },
+    {
+      "title": "Steel Spider",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7f"
+    },
+    {
+      "title": "Stage 4 - Mechanic Factory",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7d"
+    },
+    {
+      "title": "Stage 5 - Perilous Cliff",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7e"
+    },
+    {
+      "title": "Stage 6 - Under the Feet",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7c"
+    },
+    {
+      "title": "Stage 7 - Xenophobic Organs",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7b"
+    },
+    {
+      "title": "Boss (Simple)",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f7a"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f79"
+    },
+    {
+      "title": "Stage 8 - The Falling Wall",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f78"
+    },
+    {
+      "title": "Boss",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f77"
+    },
+    {
+      "title": "Stage Clear All",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f76"
+    },
+    {
+      "title": "The Return of Heros' Helicopter",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f74"
+    },
+    {
+      "title": "Game Over",
+      "guid": "102-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f75"
+    }
+  ],
+  "title": "Super Contra"
+}

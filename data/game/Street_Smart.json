@@ -1,1 +1,71 @@
-{"guid": "Street_Smart", "platform": "Genesis", "title": "Street Smart", "composed_by": ["Yoshihiko Kitamura"], "playlist": [{"title": "Title Theme, Ending Theme", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fff"}, {"title": "High Scores", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ8000"}, {"title": "Vs Matchup", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffe"}, {"title": "Stage 1 (City Streets), Stage 8 (White House)", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffd"}, {"title": "Status Display, Name Entry", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffc"}, {"title": "Stage Clear", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffb"}, {"title": "Stage 2 (Back Alley)", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffa"}, {"title": "Stage 3 (Gas Station)", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff9"}, {"title": "Stage 4 (Beach)", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff8"}, {"title": "Stage 5 (Boat)", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff7"}, {"title": "Stage 6 (Casino)", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff5"}, {"title": "Stage 7 (Club)", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff6"}, {"title": "Stage 9 (Train)", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff4"}, {"title": "Staff Roll", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff2"}, {"title": "Game Over", "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff3"}], "id": "360"}
+{
+  "composed_by": [
+    "Yoshihiko Kitamura"
+  ],
+  "guid": "Street_Smart",
+  "id": "360",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Title Theme, Ending Theme",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7fff"
+    },
+    {
+      "title": "High Scores",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ8000"
+    },
+    {
+      "title": "Vs Matchup",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffe"
+    },
+    {
+      "title": "Stage 1 (City Streets), Stage 8 (White House)",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffd"
+    },
+    {
+      "title": "Status Display, Name Entry",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffc"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffb"
+    },
+    {
+      "title": "Stage 2 (Back Alley)",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ffa"
+    },
+    {
+      "title": "Stage 3 (Gas Station)",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff9"
+    },
+    {
+      "title": "Stage 4 (Beach)",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff8"
+    },
+    {
+      "title": "Stage 5 (Boat)",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff7"
+    },
+    {
+      "title": "Stage 6 (Casino)",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff5"
+    },
+    {
+      "title": "Stage 7 (Club)",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff6"
+    },
+    {
+      "title": "Stage 9 (Train)",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff4"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff2"
+    },
+    {
+      "title": "Game Over",
+      "guid": "360-998f5b3fa47625f6Og4a2f6fb0Og152fab97c43OgLQ7ff3"
+    }
+  ],
+  "title": "Street Smart"
+}

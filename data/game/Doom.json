@@ -1,1 +1,103 @@
-{"guid": "Doom", "platform": "PC", "title": "Doom", "composed_by": ["Bobby Prince"], "playlist": [{"title": "Introduction", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ8000"}, {"title": "At Doom's Gate", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffe"}, {"title": "The Imp's Song", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fff"}, {"title": "Dark Halls", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffd"}, {"title": "Kitchen Ace (and Taking Names)", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffc"}, {"title": "Suspense", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffb"}, {"title": "On the Hunt", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffa"}, {"title": "Demons On the Prey", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff9"}, {"title": "Signs of Evil", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff8"}, {"title": "Hiding the Secrets", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff7"}, {"title": "I Sawed the Demons", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff5"}, {"title": "The Demons From Adrian's Pen", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff6"}, {"title": "Intermission From DOOM", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff4"}, {"title": "They're Going to Get You", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff3"}, {"title": "Sinister", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff2"}, {"title": "Waltz of the Demons", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff1"}, {"title": "Nobody Told Me About id", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff0"}, {"title": "Untitled", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fef"}, {"title": "Donna to the Rescue", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fee"}, {"title": "Deep Into the Code", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fed"}, {"title": "Facing the Spider", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fec"}, {"title": "The End of DOOM", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fea"}, {"title": "Sweet Little Dead Bunny", "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7feb"}], "id": "16"}
+{
+  "composed_by": [
+    "Bobby Prince"
+  ],
+  "guid": "Doom",
+  "id": "16",
+  "platform": "PC",
+  "playlist": [
+    {
+      "title": "Introduction",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ8000"
+    },
+    {
+      "title": "At Doom's Gate",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffe"
+    },
+    {
+      "title": "The Imp's Song",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fff"
+    },
+    {
+      "title": "Dark Halls",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffd"
+    },
+    {
+      "title": "Kitchen Ace (and Taking Names)",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffc"
+    },
+    {
+      "title": "Suspense",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffb"
+    },
+    {
+      "title": "On the Hunt",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ffa"
+    },
+    {
+      "title": "Demons On the Prey",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff9"
+    },
+    {
+      "title": "Signs of Evil",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff8"
+    },
+    {
+      "title": "Hiding the Secrets",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff7"
+    },
+    {
+      "title": "I Sawed the Demons",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff5"
+    },
+    {
+      "title": "The Demons From Adrian's Pen",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff6"
+    },
+    {
+      "title": "Intermission From DOOM",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff4"
+    },
+    {
+      "title": "They're Going to Get You",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff3"
+    },
+    {
+      "title": "Sinister",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff2"
+    },
+    {
+      "title": "Waltz of the Demons",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff1"
+    },
+    {
+      "title": "Nobody Told Me About id",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7ff0"
+    },
+    {
+      "title": "Untitled",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fef"
+    },
+    {
+      "title": "Donna to the Rescue",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fee"
+    },
+    {
+      "title": "Deep Into the Code",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fed"
+    },
+    {
+      "title": "Facing the Spider",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fec"
+    },
+    {
+      "title": "The End of DOOM",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7fea"
+    },
+    {
+      "title": "Sweet Little Dead Bunny",
+      "guid": "16-1ede1a3f0d7337a9Og77ee4c52Og1459f6e3024OgLQ7feb"
+    }
+  ],
+  "title": "Doom"
+}

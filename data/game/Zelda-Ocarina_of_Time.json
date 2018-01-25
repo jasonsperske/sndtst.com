@@ -1,1 +1,357 @@
-{"guid": "Zelda-Ocarina_of_Time", "platform": "N64", "title": "The Legend of Zelda: Ocarina of Time", "composed_by": [], "playlist": [{"title": "Title Theme", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fa2"}, {"title": "Enter Ganondorf", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fa3"}, {"title": "Deku Tree", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fa1"}, {"title": "Fairy Flying", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fa0"}, {"title": "House", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9f"}, {"title": "Kokiri Forest", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9c"}, {"title": "Open Treasure Box", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9e"}, {"title": "Item Catch", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9d"}, {"title": "Small Item Catch", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9b"}, {"title": "Shop", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9a"}, {"title": "Battle", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f99"}, {"title": "Inside the Deku Tree", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f96"}, {"title": "Boss Battle", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f98"}, {"title": "Boss Clear", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f97"}, {"title": "Get Heart Container", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f95"}, {"title": "Legend of Hyrule", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f92"}, {"title": "Get Spiritual Stone", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f94"}, {"title": "Get Fairy Ocarina", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f93"}, {"title": "Hyrule Field Battle", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f91"}, {"title": "Hyrule Field Main Theme", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f90"}, {"title": "Hyrule Field Theme Menu", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8f"}, {"title": "Kaepora Gaebora's Theme", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8e"}, {"title": "Market", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8d"}, {"title": "Shooting Gallery", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8c"}, {"title": "Hyrule Castle Courtyard", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8b"}, {"title": "Enter Zelda", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8a"}, {"title": "Ocarina ~Zelda's Lullaby~", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f89"}, {"title": "Zelda's Theme", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f87"}, {"title": "Ocarina ~Epona's Theme~", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f88"}, {"title": "Lon Lon Ranch", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f85"}, {"title": "Mini Game", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f86"}, {"title": "Kakariko Village", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f83"}, {"title": "Ocarina ~Sun's Song~", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f84"}, {"title": "Hyrule Field Morning Theme", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f82"}, {"title": "Goron City", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7f"}, {"title": "Ocarina ~Saria's Song~", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f81"}, {"title": "Lost Woods", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f80"}, {"title": "Dodongo's Cavern", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7d"}, {"title": "Middle Boss Battle", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7e"}, {"title": "Dinosaur Boss Battle", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7c"}, {"title": "Zora's Domain", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7a"}, {"title": "Great Fairy's Fountain", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7b"}, {"title": "Potion Shop", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f79"}, {"title": "Inside Jabu-Jabu's Belly", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f77"}, {"title": "Ocarina ~Song Of Time~", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f78"}, {"title": "Temple of Time", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f76"}, {"title": "Open Door of Temple of Time", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f75"}, {"title": "Master Sword", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f74"}, {"title": "Ganondorf's Theme", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f73"}, {"title": "Chamber of Sages", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f71"}, {"title": "Medal Get Fanfare", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f72"}, {"title": "Sheik's Theme", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f70"}, {"title": "Horse Race", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6e"}, {"title": "Horse Race Goal", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6f"}, {"title": "Ingo's Theme", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6d"}, {"title": "Escape from Lon Lon Ranch", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6c"}, {"title": "Kakariko Village Orchestral Version", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f69"}, {"title": "Ocarina ~Song of Storms~", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6b"}, {"title": "Windmill Hut", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6a"}, {"title": "Minuet of Forest", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f68"}, {"title": "Forest Temple", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f66"}, {"title": "Bolero of Fire", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f67"}, {"title": "Fire Temple", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f65"}, {"title": "Ice Cavern", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f64"}, {"title": "Serenade of Water", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f63"}, {"title": "Water Temple", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5f"}, {"title": "Nocturne of Shadow", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f62"}, {"title": "Prelude of Light", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f61"}, {"title": "Shadow Temple", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f60"}, {"title": "Gerudo Valley", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5e"}, {"title": "Spirit Temple", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5c"}, {"title": "Requiem of Spirit", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5d"}, {"title": "Kotake & Koume's Theme", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5b"}, {"title": "Meet Zelda Again", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f59"}, {"title": "Game Over", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5a"}, {"title": "Ganon's Castle Bridge", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f58"}, {"title": "Ganon's Castle Underground", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f57"}, {"title": "Inside Ganon's Castle", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f55"}, {"title": "Ganondorf Battle", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f56"}, {"title": "Escape from Ganon's Castle", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f54"}, {"title": "Last Battle", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f51"}, {"title": "Seal of Six Sages", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f53"}, {"title": "Ocarina of Time ~Zelda's Ocarina~", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f52"}, {"title": "End Credits A", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f4f"}, {"title": "End Credits B", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f50"}, {"title": "End Credits C", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f4e"}, {"title": "End Credits D", "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f4d"}], "id": "138"}
+{
+  "composed_by": [],
+  "guid": "Zelda-Ocarina_of_Time",
+  "id": "138",
+  "platform": "N64",
+  "playlist": [
+    {
+      "title": "Title Theme",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fa2"
+    },
+    {
+      "title": "Enter Ganondorf",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fa3"
+    },
+    {
+      "title": "Deku Tree",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fa1"
+    },
+    {
+      "title": "Fairy Flying",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7fa0"
+    },
+    {
+      "title": "House",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9f"
+    },
+    {
+      "title": "Kokiri Forest",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9c"
+    },
+    {
+      "title": "Open Treasure Box",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9e"
+    },
+    {
+      "title": "Item Catch",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9d"
+    },
+    {
+      "title": "Small Item Catch",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9b"
+    },
+    {
+      "title": "Shop",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f9a"
+    },
+    {
+      "title": "Battle",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f99"
+    },
+    {
+      "title": "Inside the Deku Tree",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f96"
+    },
+    {
+      "title": "Boss Battle",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f98"
+    },
+    {
+      "title": "Boss Clear",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f97"
+    },
+    {
+      "title": "Get Heart Container",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f95"
+    },
+    {
+      "title": "Legend of Hyrule",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f92"
+    },
+    {
+      "title": "Get Spiritual Stone",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f94"
+    },
+    {
+      "title": "Get Fairy Ocarina",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f93"
+    },
+    {
+      "title": "Hyrule Field Battle",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f91"
+    },
+    {
+      "title": "Hyrule Field Main Theme",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f90"
+    },
+    {
+      "title": "Hyrule Field Theme Menu",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8f"
+    },
+    {
+      "title": "Kaepora Gaebora's Theme",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8e"
+    },
+    {
+      "title": "Market",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8d"
+    },
+    {
+      "title": "Shooting Gallery",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8c"
+    },
+    {
+      "title": "Hyrule Castle Courtyard",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8b"
+    },
+    {
+      "title": "Enter Zelda",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f8a"
+    },
+    {
+      "title": "Ocarina ~Zelda's Lullaby~",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f89"
+    },
+    {
+      "title": "Zelda's Theme",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f87"
+    },
+    {
+      "title": "Ocarina ~Epona's Theme~",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f88"
+    },
+    {
+      "title": "Lon Lon Ranch",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f85"
+    },
+    {
+      "title": "Mini Game",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f86"
+    },
+    {
+      "title": "Kakariko Village",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f83"
+    },
+    {
+      "title": "Ocarina ~Sun's Song~",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f84"
+    },
+    {
+      "title": "Hyrule Field Morning Theme",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f82"
+    },
+    {
+      "title": "Goron City",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7f"
+    },
+    {
+      "title": "Ocarina ~Saria's Song~",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f81"
+    },
+    {
+      "title": "Lost Woods",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f80"
+    },
+    {
+      "title": "Dodongo's Cavern",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7d"
+    },
+    {
+      "title": "Middle Boss Battle",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7e"
+    },
+    {
+      "title": "Dinosaur Boss Battle",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7c"
+    },
+    {
+      "title": "Zora's Domain",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7a"
+    },
+    {
+      "title": "Great Fairy's Fountain",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f7b"
+    },
+    {
+      "title": "Potion Shop",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f79"
+    },
+    {
+      "title": "Inside Jabu-Jabu's Belly",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f77"
+    },
+    {
+      "title": "Ocarina ~Song Of Time~",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f78"
+    },
+    {
+      "title": "Temple of Time",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f76"
+    },
+    {
+      "title": "Open Door of Temple of Time",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f75"
+    },
+    {
+      "title": "Master Sword",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f74"
+    },
+    {
+      "title": "Ganondorf's Theme",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f73"
+    },
+    {
+      "title": "Chamber of Sages",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f71"
+    },
+    {
+      "title": "Medal Get Fanfare",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f72"
+    },
+    {
+      "title": "Sheik's Theme",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f70"
+    },
+    {
+      "title": "Horse Race",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6e"
+    },
+    {
+      "title": "Horse Race Goal",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6f"
+    },
+    {
+      "title": "Ingo's Theme",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6d"
+    },
+    {
+      "title": "Escape from Lon Lon Ranch",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6c"
+    },
+    {
+      "title": "Kakariko Village Orchestral Version",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f69"
+    },
+    {
+      "title": "Ocarina ~Song of Storms~",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6b"
+    },
+    {
+      "title": "Windmill Hut",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f6a"
+    },
+    {
+      "title": "Minuet of Forest",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f68"
+    },
+    {
+      "title": "Forest Temple",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f66"
+    },
+    {
+      "title": "Bolero of Fire",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f67"
+    },
+    {
+      "title": "Fire Temple",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f65"
+    },
+    {
+      "title": "Ice Cavern",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f64"
+    },
+    {
+      "title": "Serenade of Water",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f63"
+    },
+    {
+      "title": "Water Temple",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5f"
+    },
+    {
+      "title": "Nocturne of Shadow",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f62"
+    },
+    {
+      "title": "Prelude of Light",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f61"
+    },
+    {
+      "title": "Shadow Temple",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f60"
+    },
+    {
+      "title": "Gerudo Valley",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5e"
+    },
+    {
+      "title": "Spirit Temple",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5c"
+    },
+    {
+      "title": "Requiem of Spirit",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5d"
+    },
+    {
+      "title": "Kotake & Koume's Theme",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5b"
+    },
+    {
+      "title": "Meet Zelda Again",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f59"
+    },
+    {
+      "title": "Game Over",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f5a"
+    },
+    {
+      "title": "Ganon's Castle Bridge",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f58"
+    },
+    {
+      "title": "Ganon's Castle Underground",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f57"
+    },
+    {
+      "title": "Inside Ganon's Castle",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f55"
+    },
+    {
+      "title": "Ganondorf Battle",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f56"
+    },
+    {
+      "title": "Escape from Ganon's Castle",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f54"
+    },
+    {
+      "title": "Last Battle",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f51"
+    },
+    {
+      "title": "Seal of Six Sages",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f53"
+    },
+    {
+      "title": "Ocarina of Time ~Zelda's Ocarina~",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f52"
+    },
+    {
+      "title": "End Credits A",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f4f"
+    },
+    {
+      "title": "End Credits B",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f50"
+    },
+    {
+      "title": "End Credits C",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f4e"
+    },
+    {
+      "title": "End Credits D",
+      "guid": "138-e23928424a65de06Og51524729Og146e61fe80cOgLQ7f4d"
+    }
+  ],
+  "title": "The Legend of Zelda: Ocarina of Time"
+}

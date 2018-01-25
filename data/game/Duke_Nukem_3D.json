@@ -1,1 +1,132 @@
-{"guid": "Duke_Nukem_3D", "platform": "PC", "title": "Duke Nukem 3D", "composed_by": ["Lee Jackson", "Bobby Prince"], "playlist": [{"title": "Grabbag", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef2"}, {"title": "Stalker", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef1"}, {"title": "Taking the Death Toll", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef0"}, {"title": "The City Streets", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eee"}, {"title": "Water World", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eef"}, {"title": "Sneaky Snake", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eed"}, {"title": "The Call of Death", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eec"}, {"title": "Ah, Geeze!", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eeb"}, {"title": "Future Military Conquests", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee9"}, {"title": "Space Storm", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eea"}, {"title": "Gut Wrencher", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee7"}, {"title": "RoboCreeping", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee8"}, {"title": "Stalag 3-D", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee6"}, {"title": "Pissed!", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee4"}, {"title": "Aliens, Say Your Prayers!", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee5"}, {"title": "Plasma", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee2"}, {"title": "Alfred H.", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee3"}, {"title": "Gloomy", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee1"}, {"title": "In Tents", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee0"}, {"title": "In Hiding", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7edf"}, {"title": "Going After the Fat Commander", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ede"}, {"title": "Taking Names", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7edd"}, {"title": "Subway", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7edb"}, {"title": "Invader", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7edc"}, {"title": "Gotham", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eda"}, {"title": "233.778 Celsius", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed9"}, {"title": "Lord of L.A.", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed8"}, {"title": "Urban Jungle", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed7"}, {"title": "Spook", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed6"}, {"title": "Whomp", "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed5"}], "id": "29"}
+{
+  "composed_by": [
+    "Lee Jackson",
+    "Bobby Prince"
+  ],
+  "guid": "Duke_Nukem_3D",
+  "id": "29",
+  "platform": "PC",
+  "playlist": [
+    {
+      "title": "Grabbag",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef2"
+    },
+    {
+      "title": "Stalker",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef1"
+    },
+    {
+      "title": "Taking the Death Toll",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ef0"
+    },
+    {
+      "title": "The City Streets",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eee"
+    },
+    {
+      "title": "Water World",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eef"
+    },
+    {
+      "title": "Sneaky Snake",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eed"
+    },
+    {
+      "title": "The Call of Death",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eec"
+    },
+    {
+      "title": "Ah, Geeze!",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eeb"
+    },
+    {
+      "title": "Future Military Conquests",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee9"
+    },
+    {
+      "title": "Space Storm",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eea"
+    },
+    {
+      "title": "Gut Wrencher",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee7"
+    },
+    {
+      "title": "RoboCreeping",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee8"
+    },
+    {
+      "title": "Stalag 3-D",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee6"
+    },
+    {
+      "title": "Pissed!",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee4"
+    },
+    {
+      "title": "Aliens, Say Your Prayers!",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee5"
+    },
+    {
+      "title": "Plasma",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee2"
+    },
+    {
+      "title": "Alfred H.",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee3"
+    },
+    {
+      "title": "Gloomy",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee1"
+    },
+    {
+      "title": "In Tents",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ee0"
+    },
+    {
+      "title": "In Hiding",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7edf"
+    },
+    {
+      "title": "Going After the Fat Commander",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ede"
+    },
+    {
+      "title": "Taking Names",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7edd"
+    },
+    {
+      "title": "Subway",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7edb"
+    },
+    {
+      "title": "Invader",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7edc"
+    },
+    {
+      "title": "Gotham",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7eda"
+    },
+    {
+      "title": "233.778 Celsius",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed9"
+    },
+    {
+      "title": "Lord of L.A.",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed8"
+    },
+    {
+      "title": "Urban Jungle",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed7"
+    },
+    {
+      "title": "Spook",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed6"
+    },
+    {
+      "title": "Whomp",
+      "guid": "29-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7ed5"
+    }
+  ],
+  "title": "Duke Nukem 3D"
+}

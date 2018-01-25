@@ -1,1 +1,37 @@
-{"guid": "After_Burner", "platform": "Arcade", "title": "After Burner", "composed_by": [], "playlist": [{"title": "Maximum Power", "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5f"}, {"title": "Final Take Off", "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5e"}, {"title": "After Burner", "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5c"}, {"title": "Red Out", "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5d"}, {"title": "Super Stripe", "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e59"}, {"title": "City 202", "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5b"}, {"title": "SE Collection", "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5a"}], "id": "269"}
+{
+  "composed_by": [],
+  "guid": "After_Burner",
+  "id": "269",
+  "platform": "Arcade",
+  "playlist": [
+    {
+      "title": "Maximum Power",
+      "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5f"
+    },
+    {
+      "title": "Final Take Off",
+      "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5e"
+    },
+    {
+      "title": "After Burner",
+      "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5c"
+    },
+    {
+      "title": "Red Out",
+      "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5d"
+    },
+    {
+      "title": "Super Stripe",
+      "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e59"
+    },
+    {
+      "title": "City 202",
+      "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5b"
+    },
+    {
+      "title": "SE Collection",
+      "guid": "269-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e5a"
+    }
+  ],
+  "title": "After Burner"
+}

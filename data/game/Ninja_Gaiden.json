@@ -1,1 +1,61 @@
-{"guid": "Ninja_Gaiden", "platform": "NES", "title": "Ninja Gaiden", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff7"}, {"title": "Galesburg", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffc"}, {"title": "Outpost", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff5"}, {"title": "Death Valley", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffe"}, {"title": "Battlefield", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7fff"}, {"title": "Prison of the Dead", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff6"}, {"title": "Basilisk Mine Field", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff8"}, {"title": "Foster's Theme", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffd"}, {"title": "Bloody Malth's Theme", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffb"}, {"title": "Nails of Lukifell", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffa"}, {"title": "Ryu and Irene", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff4"}, {"title": "Masked Devil", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff9"}, {"title": "Death of Ken Hayabusa", "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ8000"}], "id": "45"}
+{
+  "composed_by": [],
+  "guid": "Ninja_Gaiden",
+  "id": "45",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff7"
+    },
+    {
+      "title": "Galesburg",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffc"
+    },
+    {
+      "title": "Outpost",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff5"
+    },
+    {
+      "title": "Death Valley",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffe"
+    },
+    {
+      "title": "Battlefield",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7fff"
+    },
+    {
+      "title": "Prison of the Dead",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff6"
+    },
+    {
+      "title": "Basilisk Mine Field",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff8"
+    },
+    {
+      "title": "Foster's Theme",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffd"
+    },
+    {
+      "title": "Bloody Malth's Theme",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffb"
+    },
+    {
+      "title": "Nails of Lukifell",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ffa"
+    },
+    {
+      "title": "Ryu and Irene",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff4"
+    },
+    {
+      "title": "Masked Devil",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ7ff9"
+    },
+    {
+      "title": "Death of Ken Hayabusa",
+      "guid": "45-437c20cdeab73145Oga3bec25Og145b4cf817bOgLQ8000"
+    }
+  ],
+  "title": "Ninja Gaiden"
+}

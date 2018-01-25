@@ -1,1 +1,129 @@
-{"guid": "Sonic_The_Hedgehog_2", "platform": "Genesis", "title": "Sonic The Hedgehog 2", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7df3"}, {"title": "Options", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7df2"}, {"title": "Emerald Hill Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7def"}, {"title": "Act Clear", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7df1"}, {"title": "Chemical Plant Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7df0"}, {"title": "Drowning", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dee"}, {"title": "Aquatic Ruin Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dec"}, {"title": "Casino Night Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ded"}, {"title": "Hill Top Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7deb"}, {"title": "Mystic Cave Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dea"}, {"title": "Oil Ocean Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de9"}, {"title": "Metropolis Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de8"}, {"title": "Sky Chase Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de7"}, {"title": "Wing Fortress Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de5"}, {"title": "Death Egg Zone", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de6"}, {"title": "Boss", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de4"}, {"title": "Final Boss", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de3"}, {"title": "Continue", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de2"}, {"title": "Ending Theme", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de1"}, {"title": "Staff Roll", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ddf"}, {"title": "Game Over", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de0"}, {"title": "Invincibility", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dde"}, {"title": "Super Sonic", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ddc"}, {"title": "Extra Life", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ddd"}, {"title": "2 Player Results", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ddb"}, {"title": "Emerald Hill (2 Player)", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dda"}, {"title": "Casino Night (2 Player)", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dd9"}, {"title": "Mystic Cave (2 Player)", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dd8"}, {"title": "Special Stage", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dd7"}, {"title": "Chaos Emerald", "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dd6"}], "id": "124"}
+{
+  "composed_by": [],
+  "guid": "Sonic_The_Hedgehog_2",
+  "id": "124",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7df3"
+    },
+    {
+      "title": "Options",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7df2"
+    },
+    {
+      "title": "Emerald Hill Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7def"
+    },
+    {
+      "title": "Act Clear",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7df1"
+    },
+    {
+      "title": "Chemical Plant Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7df0"
+    },
+    {
+      "title": "Drowning",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dee"
+    },
+    {
+      "title": "Aquatic Ruin Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dec"
+    },
+    {
+      "title": "Casino Night Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ded"
+    },
+    {
+      "title": "Hill Top Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7deb"
+    },
+    {
+      "title": "Mystic Cave Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dea"
+    },
+    {
+      "title": "Oil Ocean Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de9"
+    },
+    {
+      "title": "Metropolis Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de8"
+    },
+    {
+      "title": "Sky Chase Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de7"
+    },
+    {
+      "title": "Wing Fortress Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de5"
+    },
+    {
+      "title": "Death Egg Zone",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de6"
+    },
+    {
+      "title": "Boss",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de4"
+    },
+    {
+      "title": "Final Boss",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de3"
+    },
+    {
+      "title": "Continue",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de2"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de1"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ddf"
+    },
+    {
+      "title": "Game Over",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7de0"
+    },
+    {
+      "title": "Invincibility",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dde"
+    },
+    {
+      "title": "Super Sonic",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ddc"
+    },
+    {
+      "title": "Extra Life",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ddd"
+    },
+    {
+      "title": "2 Player Results",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ddb"
+    },
+    {
+      "title": "Emerald Hill (2 Player)",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dda"
+    },
+    {
+      "title": "Casino Night (2 Player)",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dd9"
+    },
+    {
+      "title": "Mystic Cave (2 Player)",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dd8"
+    },
+    {
+      "title": "Special Stage",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dd7"
+    },
+    {
+      "title": "Chaos Emerald",
+      "guid": "124-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7dd6"
+    }
+  ],
+  "title": "Sonic The Hedgehog 2"
+}

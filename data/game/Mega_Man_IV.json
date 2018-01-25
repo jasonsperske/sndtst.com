@@ -1,1 +1,120 @@
-{"guid": "Mega_Man_IV", "platform": "NES", "title": "Mega Man IV", "composed_by": ["Minae Fujii", "Yasuaki Fujita"], "playlist": [{"title": "Prologue", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb4"}, {"title": "Prologue II", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb5"}, {"title": "Title Screen", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb2"}, {"title": "Passcode", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb3"}, {"title": "Stage Select", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb1"}, {"title": "Enemy Selected", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb0"}, {"title": "Dust Man", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eaf"}, {"title": "Skull Man", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eae"}, {"title": "Dive Man", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ead"}, {"title": "Drill Man", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eac"}, {"title": "Toad Man", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eab"}, {"title": "Bright Man", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eaa"}, {"title": "Pharaoh Man", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea9"}, {"title": "Ring Man", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea8"}, {"title": "Boss Battle", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea7"}, {"title": "Victory", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea6"}, {"title": "Weapon Acquired", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea5"}, {"title": "Dr. Cossack's Fortress Intro", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea4"}, {"title": "Dr. Cossack Fortress", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea3"}, {"title": "Dr. Cossack Fortress II", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea2"}, {"title": "Dr. Wily's Castle Intro", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea1"}, {"title": "Dr. Wily's Castle", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea0"}, {"title": "Dr. Wily's Castle II", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9f"}, {"title": "Final Battle", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9e"}, {"title": "Wily's Defeat", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9d"}, {"title": "Epilogue", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9c"}, {"title": "Credits", "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9b"}], "id": "331"}
+{
+  "composed_by": [
+    "Minae Fujii",
+    "Yasuaki Fujita"
+  ],
+  "guid": "Mega_Man_IV",
+  "id": "331",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Prologue",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb4"
+    },
+    {
+      "title": "Prologue II",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb5"
+    },
+    {
+      "title": "Title Screen",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb2"
+    },
+    {
+      "title": "Passcode",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb3"
+    },
+    {
+      "title": "Stage Select",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb1"
+    },
+    {
+      "title": "Enemy Selected",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eb0"
+    },
+    {
+      "title": "Dust Man",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eaf"
+    },
+    {
+      "title": "Skull Man",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eae"
+    },
+    {
+      "title": "Dive Man",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ead"
+    },
+    {
+      "title": "Drill Man",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eac"
+    },
+    {
+      "title": "Toad Man",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eab"
+    },
+    {
+      "title": "Bright Man",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7eaa"
+    },
+    {
+      "title": "Pharaoh Man",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea9"
+    },
+    {
+      "title": "Ring Man",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea8"
+    },
+    {
+      "title": "Boss Battle",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea7"
+    },
+    {
+      "title": "Victory",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea6"
+    },
+    {
+      "title": "Weapon Acquired",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea5"
+    },
+    {
+      "title": "Dr. Cossack's Fortress Intro",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea4"
+    },
+    {
+      "title": "Dr. Cossack Fortress",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea3"
+    },
+    {
+      "title": "Dr. Cossack Fortress II",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea2"
+    },
+    {
+      "title": "Dr. Wily's Castle Intro",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea1"
+    },
+    {
+      "title": "Dr. Wily's Castle",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7ea0"
+    },
+    {
+      "title": "Dr. Wily's Castle II",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9f"
+    },
+    {
+      "title": "Final Battle",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9e"
+    },
+    {
+      "title": "Wily's Defeat",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9d"
+    },
+    {
+      "title": "Epilogue",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9c"
+    },
+    {
+      "title": "Credits",
+      "guid": "331-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7e9b"
+    }
+  ],
+  "title": "Mega Man IV"
+}

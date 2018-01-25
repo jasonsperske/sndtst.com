@@ -1,1 +1,33 @@
-{"guid": "Tetris", "platform": "NES", "title": "Tetris", "composed_by": [], "playlist": [{"title": "Music 1", "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fb1"}, {"title": "Music 2", "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fb2"}, {"title": "Music 3", "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7faf"}, {"title": "B-Type:Success!", "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fb0"}, {"title": "Ending", "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fae"}, {"title": "High Score (Tetris Master)", "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fad"}], "id": "98"}
+{
+  "composed_by": [],
+  "guid": "Tetris",
+  "id": "98",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Music 1",
+      "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fb1"
+    },
+    {
+      "title": "Music 2",
+      "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fb2"
+    },
+    {
+      "title": "Music 3",
+      "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7faf"
+    },
+    {
+      "title": "B-Type:Success!",
+      "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fb0"
+    },
+    {
+      "title": "Ending",
+      "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fae"
+    },
+    {
+      "title": "High Score (Tetris Master)",
+      "guid": "98-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7fad"
+    }
+  ],
+  "title": "Tetris"
+}

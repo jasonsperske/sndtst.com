@@ -1,1 +1,37 @@
-{"guid": "Top_Gear_2", "platform": "SNES", "title": "Top Gear 2", "composed_by": ["Paul Hiley", "Patrick Phelan", "Ashley Bennett"], "playlist": [{"title": "Title", "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e0b"}, {"title": "Auckland", "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e0a"}, {"title": "Ayers Rock", "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e07"}, {"title": "Canterbury Plains", "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e09"}, {"title": "Qualified", "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e08"}, {"title": "Ending Theme", "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e06"}], "id": "357"}
+{
+  "composed_by": [
+    "Paul Hiley",
+    "Patrick Phelan",
+    "Ashley Bennett"
+  ],
+  "guid": "Top_Gear_2",
+  "id": "357",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e0b"
+    },
+    {
+      "title": "Auckland",
+      "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e0a"
+    },
+    {
+      "title": "Ayers Rock",
+      "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e07"
+    },
+    {
+      "title": "Canterbury Plains",
+      "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e09"
+    },
+    {
+      "title": "Qualified",
+      "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e08"
+    },
+    {
+      "title": "Ending Theme",
+      "guid": "357-4de615b67c630c54Ogd954710Og14f3d2a6bd9OgLQ7e06"
+    }
+  ],
+  "title": "Top Gear 2"
+}

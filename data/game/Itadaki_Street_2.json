@@ -1,1 +1,117 @@
-{"guid": "Itadaki_Street_2", "platform": "SNES", "title": "Itadaki Street 2: Neon Sign wa Bara Iro ni", "composed_by": [], "playlist": [{"title": "Perfect Love", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e36"}, {"title": "Happy Kitchen", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e37"}, {"title": "Fresco", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e35"}, {"title": "Solution of Tears", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e34"}, {"title": "Well, Then", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e33"}, {"title": "Evil Carousel", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e32"}, {"title": "Ride the Star Ferry", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e31"}, {"title": "The Other Side of the Satin", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e30"}, {"title": "Uptown", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2f"}, {"title": "Mistral", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2e"}, {"title": "Farewell, Maggie", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2d"}, {"title": "Long Way to the Cape", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2b"}, {"title": "Stardust Princess", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2c"}, {"title": "Gloom of the Depths", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e29"}, {"title": "Dream About You", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2a"}, {"title": "Sophie's Doubt", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e27"}, {"title": "Beach Paradise", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e28"}, {"title": "Traversing the Wilderness", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e25"}, {"title": "You Are LaPrince", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e26"}, {"title": "Green Street", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e24"}, {"title": "Champagne and Dice", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e23"}, {"title": "Pariah Dancing", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e21"}, {"title": "Nervous Heel", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e22"}, {"title": "Rebel of the Bay", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e20"}, {"title": "Someday for Sure", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e1f"}, {"title": "Wheel That Flew Off", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e1e"}, {"title": "Say Nothing More", "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e1d"}], "id": "273"}
+{
+  "composed_by": [],
+  "guid": "Itadaki_Street_2",
+  "id": "273",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Perfect Love",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e36"
+    },
+    {
+      "title": "Happy Kitchen",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e37"
+    },
+    {
+      "title": "Fresco",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e35"
+    },
+    {
+      "title": "Solution of Tears",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e34"
+    },
+    {
+      "title": "Well, Then",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e33"
+    },
+    {
+      "title": "Evil Carousel",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e32"
+    },
+    {
+      "title": "Ride the Star Ferry",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e31"
+    },
+    {
+      "title": "The Other Side of the Satin",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e30"
+    },
+    {
+      "title": "Uptown",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2f"
+    },
+    {
+      "title": "Mistral",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2e"
+    },
+    {
+      "title": "Farewell, Maggie",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2d"
+    },
+    {
+      "title": "Long Way to the Cape",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2b"
+    },
+    {
+      "title": "Stardust Princess",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2c"
+    },
+    {
+      "title": "Gloom of the Depths",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e29"
+    },
+    {
+      "title": "Dream About You",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e2a"
+    },
+    {
+      "title": "Sophie's Doubt",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e27"
+    },
+    {
+      "title": "Beach Paradise",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e28"
+    },
+    {
+      "title": "Traversing the Wilderness",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e25"
+    },
+    {
+      "title": "You Are LaPrince",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e26"
+    },
+    {
+      "title": "Green Street",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e24"
+    },
+    {
+      "title": "Champagne and Dice",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e23"
+    },
+    {
+      "title": "Pariah Dancing",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e21"
+    },
+    {
+      "title": "Nervous Heel",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e22"
+    },
+    {
+      "title": "Rebel of the Bay",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e20"
+    },
+    {
+      "title": "Someday for Sure",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e1f"
+    },
+    {
+      "title": "Wheel That Flew Off",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e1e"
+    },
+    {
+      "title": "Say Nothing More",
+      "guid": "273-506aa9346fb986dcOgLQ33e32277Og14a3c1c1266OgLQ7e1d"
+    }
+  ],
+  "title": "Itadaki Street 2: Neon Sign wa Bara Iro ni"
+}

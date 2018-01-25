@@ -1,1 +1,21 @@
-{"guid": "Circus_Charlie", "platform": "NES", "title": "Circus Charlie", "composed_by": [], "playlist": [{"title": "Stage 1", "guid": "280-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7ffe"}, {"title": "Stage 2", "guid": "280-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ8000"}, {"title": "Stage 5", "guid": "280-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fff"}], "id": "280"}
+{
+  "composed_by": [],
+  "guid": "Circus_Charlie",
+  "id": "280",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Stage 1",
+      "guid": "280-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7ffe"
+    },
+    {
+      "title": "Stage 2",
+      "guid": "280-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ8000"
+    },
+    {
+      "title": "Stage 5",
+      "guid": "280-74bc0ed4f92b52e2OgLQ65b3ab50Og14bc191c50cOgLQ7fff"
+    }
+  ],
+  "title": "Circus Charlie"
+}

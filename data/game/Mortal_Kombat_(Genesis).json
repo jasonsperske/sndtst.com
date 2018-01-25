@@ -1,1 +1,69 @@
-{"guid": "Mortal_Kombat_(Genesis)", "platform": "Genesis", "title": "Mortal Kombat", "composed_by": [], "playlist": [{"title": "Opening Theme", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e7b"}, {"title": "Test Your Might, Fatality", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e7c"}, {"title": "Courtyard", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e79"}, {"title": "Courtyard Victory", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e7a"}, {"title": "Warrior's Shrine", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e77"}, {"title": "Warrior's Shrine Victory", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e78"}, {"title": "The Pit", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e76"}, {"title": "The Pit Victory", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e75"}, {"title": "Hall", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e71"}, {"title": "Hall Victory", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e74"}, {"title": "Goro's Lair", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e73"}, {"title": "Goro's Lair Victory", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e72"}, {"title": "Entrance", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e70"}, {"title": "Entrance Victory", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e6e"}, {"title": "2-Player vs", "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e6f"}], "id": "118"}
+{
+  "composed_by": [],
+  "guid": "Mortal_Kombat_(Genesis)",
+  "id": "118",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Opening Theme",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e7b"
+    },
+    {
+      "title": "Test Your Might, Fatality",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e7c"
+    },
+    {
+      "title": "Courtyard",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e79"
+    },
+    {
+      "title": "Courtyard Victory",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e7a"
+    },
+    {
+      "title": "Warrior's Shrine",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e77"
+    },
+    {
+      "title": "Warrior's Shrine Victory",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e78"
+    },
+    {
+      "title": "The Pit",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e76"
+    },
+    {
+      "title": "The Pit Victory",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e75"
+    },
+    {
+      "title": "Hall",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e71"
+    },
+    {
+      "title": "Hall Victory",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e74"
+    },
+    {
+      "title": "Goro's Lair",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e73"
+    },
+    {
+      "title": "Goro's Lair Victory",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e72"
+    },
+    {
+      "title": "Entrance",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e70"
+    },
+    {
+      "title": "Entrance Victory",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e6e"
+    },
+    {
+      "title": "2-Player vs",
+      "guid": "118-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7e6f"
+    }
+  ],
+  "title": "Mortal Kombat"
+}

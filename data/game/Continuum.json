@@ -1,1 +1,43 @@
-{"guid": "Continuum", "platform": "PC", "title": "Continuum", "composed_by": ["Frederic Mentzen"], "playlist": [{"title": "Title", "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc1"}, {"title": "Accumulation d'Energie", "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc8"}, {"title": "Adaptation", "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc7"}, {"title": "Decontraction", "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc6"}, {"title": "Hyper Vigilance", "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc5"}, {"title": "Meditation", "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc3"}, {"title": "Motivation", "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc4"}, {"title": "Stimulation", "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc2"}], "id": "76"}
+{
+  "composed_by": [
+    "Frederic Mentzen"
+  ],
+  "guid": "Continuum",
+  "id": "76",
+  "platform": "PC",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc1"
+    },
+    {
+      "title": "Accumulation d'Energie",
+      "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc8"
+    },
+    {
+      "title": "Adaptation",
+      "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc7"
+    },
+    {
+      "title": "Decontraction",
+      "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc6"
+    },
+    {
+      "title": "Hyper Vigilance",
+      "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc5"
+    },
+    {
+      "title": "Meditation",
+      "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc3"
+    },
+    {
+      "title": "Motivation",
+      "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc4"
+    },
+    {
+      "title": "Stimulation",
+      "guid": "76-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fc2"
+    }
+  ],
+  "title": "Continuum"
+}

@@ -1,1 +1,121 @@
-{"guid": "Castlevania_III", "platform": "NES", "title": "Castlevania III:Dracula's Curse", "composed_by": [], "playlist": [{"title": "Prelude (Intro)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9d"}, {"title": "Prayer (Opening)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9e"}, {"title": "Beginning (Block-1)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9c"}, {"title": "Boss Fight (Boss)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9b"}, {"title": "Stage Clear", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9a"}, {"title": "Destiny (Path Selection)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f99"}, {"title": "Clockwork (Block-2)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f98"}, {"title": "Mad Forest (Block-3)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f97"}, {"title": "Anxiety (Block-4)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f96"}, {"title": "Rising (Block-5)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f95"}, {"title": "Stream (Block-6)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f94"}, {"title": "Dead Beat (Block-4)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f93"}, {"title": "Nightmare (Block-5)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f92"}, {"title": "Aquarius (Block-6)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f91"}, {"title": "Demon Seed (Block-7)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f90"}, {"title": "Deja Vu (Vampire Killer) (Block-8)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8f"}, {"title": "Riddle (Block-9)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8d"}, {"title": "Pressure (Block-A)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8e"}, {"title": "Overture (Dracula's Room)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8b"}, {"title": "Big Battle 1 (Dracula's 2nd Form)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8c"}, {"title": "Big Battle 2 (Dracula's 3rd Form)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8a"}, {"title": "All Clear", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f89"}, {"title": "Encounter (Spirit Meeting)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f88"}, {"title": "Epitaph (Password)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f87"}, {"title": "Evergreen (Ending)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f85"}, {"title": "Flashback (Staff Roll)", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f86"}, {"title": "Player Lose A Life", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f84"}, {"title": "Game Over", "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f83"}], "id": "101"}
+{
+  "composed_by": [],
+  "guid": "Castlevania_III",
+  "id": "101",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Prelude (Intro)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9d"
+    },
+    {
+      "title": "Prayer (Opening)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9e"
+    },
+    {
+      "title": "Beginning (Block-1)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9c"
+    },
+    {
+      "title": "Boss Fight (Boss)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9b"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f9a"
+    },
+    {
+      "title": "Destiny (Path Selection)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f99"
+    },
+    {
+      "title": "Clockwork (Block-2)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f98"
+    },
+    {
+      "title": "Mad Forest (Block-3)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f97"
+    },
+    {
+      "title": "Anxiety (Block-4)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f96"
+    },
+    {
+      "title": "Rising (Block-5)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f95"
+    },
+    {
+      "title": "Stream (Block-6)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f94"
+    },
+    {
+      "title": "Dead Beat (Block-4)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f93"
+    },
+    {
+      "title": "Nightmare (Block-5)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f92"
+    },
+    {
+      "title": "Aquarius (Block-6)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f91"
+    },
+    {
+      "title": "Demon Seed (Block-7)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f90"
+    },
+    {
+      "title": "Deja Vu (Vampire Killer) (Block-8)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8f"
+    },
+    {
+      "title": "Riddle (Block-9)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8d"
+    },
+    {
+      "title": "Pressure (Block-A)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8e"
+    },
+    {
+      "title": "Overture (Dracula's Room)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8b"
+    },
+    {
+      "title": "Big Battle 1 (Dracula's 2nd Form)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8c"
+    },
+    {
+      "title": "Big Battle 2 (Dracula's 3rd Form)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f8a"
+    },
+    {
+      "title": "All Clear",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f89"
+    },
+    {
+      "title": "Encounter (Spirit Meeting)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f88"
+    },
+    {
+      "title": "Epitaph (Password)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f87"
+    },
+    {
+      "title": "Evergreen (Ending)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f85"
+    },
+    {
+      "title": "Flashback (Staff Roll)",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f86"
+    },
+    {
+      "title": "Player Lose A Life",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f84"
+    },
+    {
+      "title": "Game Over",
+      "guid": "101-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7f83"
+    }
+  ],
+  "title": "Castlevania III:Dracula's Curse"
+}

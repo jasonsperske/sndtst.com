@@ -1,1 +1,128 @@
-{"guid": "Super_Punch-Out", "platform": "SNES", "title": "Super Punch-Out!!", "composed_by": ["Takashi Kumegawa", "Masaru Sakakibara"], "playlist": [{"title": "Title", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe7"}, {"title": "Tutorial", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe6"}, {"title": "Menu", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe4"}, {"title": "Gabby Jay", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe5"}, {"title": "Bear Hugger", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe3"}, {"title": "Piston Hurricane", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe2"}, {"title": "Bald Bull", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe1"}, {"title": "Bob Charlie", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fdf"}, {"title": "Dragon Chan", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe0"}, {"title": "Masked Muscle", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fde"}, {"title": "Mr. Sandman", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fdd"}, {"title": "Aran Ryan", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fdc"}, {"title": "Heike Kagero", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fdb"}, {"title": "Mad Clown", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fda"}, {"title": "Super Machoman", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd9"}, {"title": "Narcis Prince", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd8"}, {"title": "Hoy Quarlow", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd7"}, {"title": "Rick Bruiser", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd6"}, {"title": "Nick Bruiser", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd5"}, {"title": "Minor Circuit", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd3"}, {"title": "Major Circuit", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd4"}, {"title": "World Circuit", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd1"}, {"title": "Special Circuit", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd2"}, {"title": "Player Down", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd0"}, {"title": "Opponent Down", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fcf"}, {"title": "Lose", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fce"}, {"title": "Win", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fcd"}, {"title": "Circuit Clear", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fcc"}, {"title": "Staff Roll", "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fcb"}], "id": "307"}
+{
+  "composed_by": [
+    "Takashi Kumegawa",
+    "Masaru Sakakibara"
+  ],
+  "guid": "Super_Punch-Out",
+  "id": "307",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Title",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe7"
+    },
+    {
+      "title": "Tutorial",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe6"
+    },
+    {
+      "title": "Menu",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe4"
+    },
+    {
+      "title": "Gabby Jay",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe5"
+    },
+    {
+      "title": "Bear Hugger",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe3"
+    },
+    {
+      "title": "Piston Hurricane",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe2"
+    },
+    {
+      "title": "Bald Bull",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe1"
+    },
+    {
+      "title": "Bob Charlie",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fdf"
+    },
+    {
+      "title": "Dragon Chan",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fe0"
+    },
+    {
+      "title": "Masked Muscle",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fde"
+    },
+    {
+      "title": "Mr. Sandman",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fdd"
+    },
+    {
+      "title": "Aran Ryan",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fdc"
+    },
+    {
+      "title": "Heike Kagero",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fdb"
+    },
+    {
+      "title": "Mad Clown",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fda"
+    },
+    {
+      "title": "Super Machoman",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd9"
+    },
+    {
+      "title": "Narcis Prince",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd8"
+    },
+    {
+      "title": "Hoy Quarlow",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd7"
+    },
+    {
+      "title": "Rick Bruiser",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd6"
+    },
+    {
+      "title": "Nick Bruiser",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd5"
+    },
+    {
+      "title": "Minor Circuit",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd3"
+    },
+    {
+      "title": "Major Circuit",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd4"
+    },
+    {
+      "title": "World Circuit",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd1"
+    },
+    {
+      "title": "Special Circuit",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd2"
+    },
+    {
+      "title": "Player Down",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fd0"
+    },
+    {
+      "title": "Opponent Down",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fcf"
+    },
+    {
+      "title": "Lose",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fce"
+    },
+    {
+      "title": "Win",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fcd"
+    },
+    {
+      "title": "Circuit Clear",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fcc"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "307-071cda6e1f6ec050Og61f6cc62Og14d448cb0bcOgLQ7fcb"
+    }
+  ],
+  "title": "Super Punch-Out!!"
+}

@@ -1,1 +1,133 @@
-{"guid": "Strider", "platform": "Genesis", "title": "Strider", "composed_by": [], "playlist": [{"title": "Defense Line", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ce0"}, {"title": "Raid!", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cde"}, {"title": "Coup", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cdf"}, {"title": "Mosque the Cold-Hearted", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cdc"}, {"title": "Beasts", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cdd"}, {"title": "Uroboros The Iron Ruler", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cda"}, {"title": "Stage Clear", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cdb"}, {"title": "Introduction 1", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd9"}, {"title": "Siberian Tunnel", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd8"}, {"title": "Driving Wheel", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd7"}, {"title": "Big Run", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd6"}, {"title": "Mass of Cloud", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd5"}, {"title": "Fu-Jin", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd4"}, {"title": "Introduction 2", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd3"}, {"title": "Short Spin", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd2"}, {"title": "Gravity Unusual", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd1"}, {"title": "Capture!", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ccf"}, {"title": "Introduction 3", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd0"}, {"title": "War Drum", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cce"}, {"title": "Encirclement", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ccd"}, {"title": "Valleys and Rivers", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ccb"}, {"title": "Roaring", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ccc"}, {"title": "African Formidable", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cca"}, {"title": "Introduction 4", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc9"}, {"title": "Hiryu", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc8"}, {"title": "Theme for Counterattack", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc7"}, {"title": "Grandmaster", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc5"}, {"title": "Stage Finish", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc6"}, {"title": "Ending", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc3"}, {"title": "Game Over", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc4"}, {"title": "Continue", "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc2"}], "id": "133"}
+{
+  "composed_by": [],
+  "guid": "Strider",
+  "id": "133",
+  "platform": "Genesis",
+  "playlist": [
+    {
+      "title": "Defense Line",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ce0"
+    },
+    {
+      "title": "Raid!",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cde"
+    },
+    {
+      "title": "Coup",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cdf"
+    },
+    {
+      "title": "Mosque the Cold-Hearted",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cdc"
+    },
+    {
+      "title": "Beasts",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cdd"
+    },
+    {
+      "title": "Uroboros The Iron Ruler",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cda"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cdb"
+    },
+    {
+      "title": "Introduction 1",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd9"
+    },
+    {
+      "title": "Siberian Tunnel",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd8"
+    },
+    {
+      "title": "Driving Wheel",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd7"
+    },
+    {
+      "title": "Big Run",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd6"
+    },
+    {
+      "title": "Mass of Cloud",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd5"
+    },
+    {
+      "title": "Fu-Jin",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd4"
+    },
+    {
+      "title": "Introduction 2",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd3"
+    },
+    {
+      "title": "Short Spin",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd2"
+    },
+    {
+      "title": "Gravity Unusual",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd1"
+    },
+    {
+      "title": "Capture!",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ccf"
+    },
+    {
+      "title": "Introduction 3",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cd0"
+    },
+    {
+      "title": "War Drum",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cce"
+    },
+    {
+      "title": "Encirclement",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ccd"
+    },
+    {
+      "title": "Valleys and Rivers",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ccb"
+    },
+    {
+      "title": "Roaring",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7ccc"
+    },
+    {
+      "title": "African Formidable",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cca"
+    },
+    {
+      "title": "Introduction 4",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc9"
+    },
+    {
+      "title": "Hiryu",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc8"
+    },
+    {
+      "title": "Theme for Counterattack",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc7"
+    },
+    {
+      "title": "Grandmaster",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc5"
+    },
+    {
+      "title": "Stage Finish",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc6"
+    },
+    {
+      "title": "Ending",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc3"
+    },
+    {
+      "title": "Game Over",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc4"
+    },
+    {
+      "title": "Continue",
+      "guid": "133-d5edf3ed8ef51117OgLQ60d141aeOg146cd614001OgLQ7cc2"
+    }
+  ],
+  "title": "Strider"
+}

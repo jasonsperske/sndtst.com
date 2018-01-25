@@ -1,1 +1,93 @@
-{"guid": "Final_Fight", "platform": "SNES", "title": "Final Fight", "composed_by": [], "playlist": [{"title": "Capcom Logo", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb1"}, {"title": "Mad Gear Gang", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb0"}, {"title": "Selection", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7faf"}, {"title": "Game Start", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fae"}, {"title": "Slum Alleyway", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fad"}, {"title": "Trashcan Trasher", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fac"}, {"title": "A Moment of Joy", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fab"}, {"title": "Slim Subway Smash", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7faa"}, {"title": "Big Katana Boss", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa9"}, {"title": "Glass Smashin'", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa8"}, {"title": "Double Andore", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa7"}, {"title": "Something Putrid by the Bay", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa6"}, {"title": "Toilet Gang", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa5"}, {"title": "Burnin' Cycle", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa4"}, {"title": "Street of Luxury", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa3"}, {"title": "Nothing Spoiled", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa2"}, {"title": "Ending", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa1"}, {"title": "Tool Grabbing", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa0"}, {"title": "Whheee-Haa!", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7f9f"}, {"title": "Boil 'em Up", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7f9e"}, {"title": "Pause", "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7f9d"}], "id": "78"}
+{
+  "composed_by": [],
+  "guid": "Final_Fight",
+  "id": "78",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Capcom Logo",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb1"
+    },
+    {
+      "title": "Mad Gear Gang",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fb0"
+    },
+    {
+      "title": "Selection",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7faf"
+    },
+    {
+      "title": "Game Start",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fae"
+    },
+    {
+      "title": "Slum Alleyway",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fad"
+    },
+    {
+      "title": "Trashcan Trasher",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fac"
+    },
+    {
+      "title": "A Moment of Joy",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fab"
+    },
+    {
+      "title": "Slim Subway Smash",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7faa"
+    },
+    {
+      "title": "Big Katana Boss",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa9"
+    },
+    {
+      "title": "Glass Smashin'",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa8"
+    },
+    {
+      "title": "Double Andore",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa7"
+    },
+    {
+      "title": "Something Putrid by the Bay",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa6"
+    },
+    {
+      "title": "Toilet Gang",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa5"
+    },
+    {
+      "title": "Burnin' Cycle",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa4"
+    },
+    {
+      "title": "Street of Luxury",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa3"
+    },
+    {
+      "title": "Nothing Spoiled",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa2"
+    },
+    {
+      "title": "Ending",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa1"
+    },
+    {
+      "title": "Tool Grabbing",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7fa0"
+    },
+    {
+      "title": "Whheee-Haa!",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7f9f"
+    },
+    {
+      "title": "Boil 'em Up",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7f9e"
+    },
+    {
+      "title": "Pause",
+      "guid": "78-29d62d5fe3375a5dOgLQ270489dbOg1466dddd889OgLQ7f9d"
+    }
+  ],
+  "title": "Final Fight"
+}

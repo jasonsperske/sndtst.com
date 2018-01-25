@@ -1,1 +1,55 @@
-{"guid": "Life_Force", "platform": "NES", "title": "Life Force", "composed_by": ["Miki Higashino", "Hidenori Maezawa", "Shinya Sakamoto", "Satoe Terashima", "Atsushi Fujio"], "playlist": [{"title": "Power of Anger", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ffc"}, {"title": "Starfield", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ffd"}, {"title": "Planet Ratis", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ffa"}, {"title": "Burn the Wind", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ffb"}, {"title": "Thunderbolt", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff9"}, {"title": "Aircraft Carrier", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff8"}, {"title": "Destroy Them All", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff6"}, {"title": "Poison of Snake", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff7"}, {"title": "Crystal Forever", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff5"}, {"title": "Peace Again", "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff4"}], "id": "15"}
+{
+  "composed_by": [
+    "Miki Higashino",
+    "Hidenori Maezawa",
+    "Shinya Sakamoto",
+    "Satoe Terashima",
+    "Atsushi Fujio"
+  ],
+  "guid": "Life_Force",
+  "id": "15",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Power of Anger",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ffc"
+    },
+    {
+      "title": "Starfield",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ffd"
+    },
+    {
+      "title": "Planet Ratis",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ffa"
+    },
+    {
+      "title": "Burn the Wind",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ffb"
+    },
+    {
+      "title": "Thunderbolt",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff9"
+    },
+    {
+      "title": "Aircraft Carrier",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff8"
+    },
+    {
+      "title": "Destroy Them All",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff6"
+    },
+    {
+      "title": "Poison of Snake",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff7"
+    },
+    {
+      "title": "Crystal Forever",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff5"
+    },
+    {
+      "title": "Peace Again",
+      "guid": "15-d21c252a1c85354fOgLQ2e2c60c0Og1459abd8f52OgLQ7ff4"
+    }
+  ],
+  "title": "Life Force"
+}

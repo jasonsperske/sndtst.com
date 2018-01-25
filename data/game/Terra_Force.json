@@ -1,1 +1,53 @@
-{"guid": "Terra_Force", "platform": "Arcade", "title": "Terra Force", "composed_by": [], "playlist": [{"title": "Coin", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd5"}, {"title": "Game Start ~ Ground Music", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd3"}, {"title": "Restart", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd4"}, {"title": "Last Start", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd2"}, {"title": "Underground Music", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd0"}, {"title": "Bulgar", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd1"}, {"title": "Griffon", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bcf"}, {"title": "Goround", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bcd"}, {"title": "Game Over", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bce"}, {"title": "Ending", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bcc"}, {"title": "Name Entry", "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bcb"}], "id": "250"}
+{
+  "composed_by": [],
+  "guid": "Terra_Force",
+  "id": "250",
+  "platform": "Arcade",
+  "playlist": [
+    {
+      "title": "Coin",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd5"
+    },
+    {
+      "title": "Game Start ~ Ground Music",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd3"
+    },
+    {
+      "title": "Restart",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd4"
+    },
+    {
+      "title": "Last Start",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd2"
+    },
+    {
+      "title": "Underground Music",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd0"
+    },
+    {
+      "title": "Bulgar",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bd1"
+    },
+    {
+      "title": "Griffon",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bcf"
+    },
+    {
+      "title": "Goround",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bcd"
+    },
+    {
+      "title": "Game Over",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bce"
+    },
+    {
+      "title": "Ending",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bcc"
+    },
+    {
+      "title": "Name Entry",
+      "guid": "250-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7bcb"
+    }
+  ],
+  "title": "Terra Force"
+}

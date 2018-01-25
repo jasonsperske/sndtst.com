@@ -1,1 +1,71 @@
-{"guid": "Dragon_Spirit", "platform": "TG16", "title": "Dragon Spirit", "composed_by": ["Shinji Hosoe"], "playlist": [{"title": "Umi", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ8000"}, {"title": "Kodai", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fff"}, {"title": "Ryuu", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffe"}, {"title": "Kazan", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffd"}, {"title": "Hinotori", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffc"}, {"title": "Mitsurin", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffb"}, {"title": "Hanakumo", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffa"}, {"title": "Sabaku", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff9"}, {"title": "Doukutsu", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff8"}, {"title": "Hyouga", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff7"}, {"title": "Ankoku", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff6"}, {"title": "Makyuu", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff5"}, {"title": "Yamata", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff4"}, {"title": "Zawell", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff3"}, {"title": "Alisha", "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff2"}], "id": "46"}
+{
+  "composed_by": [
+    "Shinji Hosoe"
+  ],
+  "guid": "Dragon_Spirit",
+  "id": "46",
+  "platform": "TG16",
+  "playlist": [
+    {
+      "title": "Umi",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ8000"
+    },
+    {
+      "title": "Kodai",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7fff"
+    },
+    {
+      "title": "Ryuu",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffe"
+    },
+    {
+      "title": "Kazan",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffd"
+    },
+    {
+      "title": "Hinotori",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffc"
+    },
+    {
+      "title": "Mitsurin",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffb"
+    },
+    {
+      "title": "Hanakumo",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ffa"
+    },
+    {
+      "title": "Sabaku",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff9"
+    },
+    {
+      "title": "Doukutsu",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff8"
+    },
+    {
+      "title": "Hyouga",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff7"
+    },
+    {
+      "title": "Ankoku",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff6"
+    },
+    {
+      "title": "Makyuu",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff5"
+    },
+    {
+      "title": "Yamata",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff4"
+    },
+    {
+      "title": "Zawell",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff3"
+    },
+    {
+      "title": "Alisha",
+      "guid": "46-3a073fe0183084feOgLQ6deeca96Og145cefb2deaOgLQ7ff2"
+    }
+  ],
+  "title": "Dragon Spirit"
+}

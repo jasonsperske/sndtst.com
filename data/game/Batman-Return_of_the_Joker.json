@@ -1,1 +1,65 @@
-{"guid": "Batman-Return_of_the_Joker", "platform": "NES", "title": "Batman: Return of the Joker", "composed_by": [], "playlist": [{"title": "Opening ~Main Theme~", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f02"}, {"title": "Demo BGM", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f01"}, {"title": "Stages 1 & 6 ~Gotham in Danger~", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7eff"}, {"title": "Demo", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f00"}, {"title": "Stages 2-1 & 5-1 ~High Above and Deep Below~", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efe"}, {"title": "Stages 2-2 & 5-2 ~Urgent Situation~", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efd"}, {"title": "Stage 3 ~Dangerous Ways~", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efc"}, {"title": "Stage 4 ~Snowy Night~", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efb"}, {"title": "Stage 7 ~Decisive Fight~", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efa"}, {"title": "VS Boss", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef9"}, {"title": "Boss ~Joker's Minion~", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef8"}, {"title": "Stage Clear", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef7"}, {"title": "Ending", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef5"}, {"title": "Game Over", "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef6"}], "id": "226"}
+{
+  "composed_by": [],
+  "guid": "Batman-Return_of_the_Joker",
+  "id": "226",
+  "platform": "NES",
+  "playlist": [
+    {
+      "title": "Opening ~Main Theme~",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f02"
+    },
+    {
+      "title": "Demo BGM",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f01"
+    },
+    {
+      "title": "Stages 1 & 6 ~Gotham in Danger~",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7eff"
+    },
+    {
+      "title": "Demo",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7f00"
+    },
+    {
+      "title": "Stages 2-1 & 5-1 ~High Above and Deep Below~",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efe"
+    },
+    {
+      "title": "Stages 2-2 & 5-2 ~Urgent Situation~",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efd"
+    },
+    {
+      "title": "Stage 3 ~Dangerous Ways~",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efc"
+    },
+    {
+      "title": "Stage 4 ~Snowy Night~",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efb"
+    },
+    {
+      "title": "Stage 7 ~Decisive Fight~",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7efa"
+    },
+    {
+      "title": "VS Boss",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef9"
+    },
+    {
+      "title": "Boss ~Joker's Minion~",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef8"
+    },
+    {
+      "title": "Stage Clear",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef7"
+    },
+    {
+      "title": "Ending",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef5"
+    },
+    {
+      "title": "Game Over",
+      "guid": "226-27ee5769a4533a2fOg4ef2f680Og14952a807c4OgLQ7ef6"
+    }
+  ],
+  "title": "Batman: Return of the Joker"
+}

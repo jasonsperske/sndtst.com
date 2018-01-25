@@ -1,1 +1,49 @@
-{"guid": "Dragon_Ball_Z-Super_Butouden_3", "platform": "SNES", "title": "Dragon Ball Z: Super Butouden 3", "composed_by": [], "playlist": [{"title": "Pre-Battle Tension", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f1b"}, {"title": "Prelude to the Tournament", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f1a"}, {"title": "Fighter Select", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f17"}, {"title": "Exhibition Battle 1", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f19"}, {"title": "Exhibition Battle 2", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f18"}, {"title": "Exhibition Battle 3", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f16"}, {"title": "Exhibition Battle 4", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f15"}, {"title": "Tenkaichi Budoukai", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f14"}, {"title": "Budoukai Final Round", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f13"}, {"title": "Staff Roll", "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f12"}], "id": "187"}
+{
+  "composed_by": [],
+  "guid": "Dragon_Ball_Z-Super_Butouden_3",
+  "id": "187",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Pre-Battle Tension",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f1b"
+    },
+    {
+      "title": "Prelude to the Tournament",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f1a"
+    },
+    {
+      "title": "Fighter Select",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f17"
+    },
+    {
+      "title": "Exhibition Battle 1",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f19"
+    },
+    {
+      "title": "Exhibition Battle 2",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f18"
+    },
+    {
+      "title": "Exhibition Battle 3",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f16"
+    },
+    {
+      "title": "Exhibition Battle 4",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f15"
+    },
+    {
+      "title": "Tenkaichi Budoukai",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f14"
+    },
+    {
+      "title": "Budoukai Final Round",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f13"
+    },
+    {
+      "title": "Staff Roll",
+      "guid": "187-fa2dfa70fe3ee5d0Og5c6a8946Og1477e3a80b8OgLQ7f12"
+    }
+  ],
+  "title": "Dragon Ball Z: Super Butouden 3"
+}

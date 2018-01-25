@@ -1,1 +1,107 @@
-{"guid": "Sunset_Riders", "platform": "SNES", "title": "Sunset Riders", "composed_by": ["Naohisa Morota"], "playlist": [{"title": "Introduction", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb8"}, {"title": "Player Select", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb9"}, {"title": "Wanted", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb7"}, {"title": "Stage 1", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb5"}, {"title": "Simon Greedwell", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb6"}, {"title": "Stage 2", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb4"}, {"title": "Hawkeye Hank Hatfield", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb3"}, {"title": "Stage 3", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb1"}, {"title": "Dark Horse", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb2"}, {"title": "Intermezzo 1", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb0"}, {"title": "The Smith Brothers", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fae"}, {"title": "Intemezzo 2", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7faf"}, {"title": "El Greco", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fad"}, {"title": "Stage 6", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fac"}, {"title": "Chief Scalpem", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fab"}, {"title": "Paco Loco", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7faa"}, {"title": "Intermezzo 3", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa9"}, {"title": "Sir Richard Rose", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa7"}, {"title": "Victory", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa8"}, {"title": "Bonus", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa6"}, {"title": "Continue", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa5"}, {"title": "Ending", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa3"}, {"title": "Continue", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa4"}, {"title": "Game Over", "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa2"}], "id": "321"}
+{
+  "composed_by": [
+    "Naohisa Morota"
+  ],
+  "guid": "Sunset_Riders",
+  "id": "321",
+  "platform": "SNES",
+  "playlist": [
+    {
+      "title": "Introduction",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb8"
+    },
+    {
+      "title": "Player Select",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb9"
+    },
+    {
+      "title": "Wanted",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb7"
+    },
+    {
+      "title": "Stage 1",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb5"
+    },
+    {
+      "title": "Simon Greedwell",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb6"
+    },
+    {
+      "title": "Stage 2",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb4"
+    },
+    {
+      "title": "Hawkeye Hank Hatfield",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb3"
+    },
+    {
+      "title": "Stage 3",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb1"
+    },
+    {
+      "title": "Dark Horse",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb2"
+    },
+    {
+      "title": "Intermezzo 1",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fb0"
+    },
+    {
+      "title": "The Smith Brothers",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fae"
+    },
+    {
+      "title": "Intemezzo 2",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7faf"
+    },
+    {
+      "title": "El Greco",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fad"
+    },
+    {
+      "title": "Stage 6",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fac"
+    },
+    {
+      "title": "Chief Scalpem",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fab"
+    },
+    {
+      "title": "Paco Loco",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7faa"
+    },
+    {
+      "title": "Intermezzo 3",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa9"
+    },
+    {
+      "title": "Sir Richard Rose",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa7"
+    },
+    {
+      "title": "Victory",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa8"
+    },
+    {
+      "title": "Bonus",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa6"
+    },
+    {
+      "title": "Continue",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa5"
+    },
+    {
+      "title": "Ending",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa3"
+    },
+    {
+      "title": "Continue",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa4"
+    },
+    {
+      "title": "Game Over",
+      "guid": "321-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7fa2"
+    }
+  ],
+  "title": "Sunset Riders"
+}
