@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Chip_and_Dale_Rescue_Rangers",
   "id": "208",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Unknown",

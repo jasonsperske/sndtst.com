@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Bad_News_Baseball",
   "id": "276",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Bad News Baseball Intro",

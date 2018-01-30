@@ -4,7 +4,10 @@
   ],
   "guid": "X-Men_(Genesis)",
   "id": "286",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "guid": "286-7379cfb70d0c8d08Og57f63cd8Og14c5c4cb8b2OgLQ8000",

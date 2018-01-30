@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Ys_III_(SNES)",
   "id": "136",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

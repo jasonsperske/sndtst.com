@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Mario_Bros",
   "id": "36",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Above Ground BGM",

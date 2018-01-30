@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Breath_of_Fire",
   "id": "239",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Lightning",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Windows_XP",
   "id": "242",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Startup",

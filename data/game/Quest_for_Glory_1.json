@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Quest_for_Glory_1",
   "id": "190",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Main Title - Hero Selection",

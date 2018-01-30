@@ -8,7 +8,10 @@
   ],
   "guid": "Life_Force",
   "id": "15",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Power of Anger",

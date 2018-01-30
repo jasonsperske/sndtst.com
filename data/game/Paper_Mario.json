@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Paper_Mario",
   "id": "234",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Story of the Stolen Spirits",

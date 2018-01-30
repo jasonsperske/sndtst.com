@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Illusion-of-Gaia",
   "id": "185",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Illusion of Gaia",

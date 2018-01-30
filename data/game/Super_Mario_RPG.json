@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Mario_RPG",
   "id": "140",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Happy Adventure, Delightful Adventure",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Earthworm_Jim_(Genesis)",
   "id": "130",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "New Junk City",

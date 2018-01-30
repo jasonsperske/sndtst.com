@@ -6,7 +6,10 @@
   ],
   "guid": "Devils_Crush",
   "id": "355",
-  "platform": "TG16",
+  "platform": {
+    "guid": "TG16",
+    "title": "Turbo Grafx-16"
+  },
   "playlist": [
     {
       "title": "Title",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Zelda-Ocarina_of_Time",
   "id": "138",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Title Theme",

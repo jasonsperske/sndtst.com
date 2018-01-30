@@ -5,7 +5,10 @@
   ],
   "guid": "Kirby_Super_Star",
   "id": "353",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Kirby Super Star",

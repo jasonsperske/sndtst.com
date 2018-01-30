@@ -4,7 +4,10 @@
   ],
   "guid": "Shatterhand",
   "id": "352",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Introduction (US Version)",

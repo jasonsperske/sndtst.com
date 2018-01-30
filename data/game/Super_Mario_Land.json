@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Mario_Land",
   "id": "50",
-  "platform": "GameBoy",
+  "platform": {
+    "guid": "GameBoy",
+    "title": "Game Boy"
+  },
   "playlist": [
     {
       "title": "World 1 - Above Ground",

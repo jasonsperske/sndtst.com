@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Dodge_Ball",
   "id": "228",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

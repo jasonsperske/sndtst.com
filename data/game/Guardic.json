@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Guardic",
   "id": "292",
-  "platform": "MSX",
+  "platform": {
+    "guid": "MSX",
+    "title": "MSX"
+  },
   "playlist": [
     {
       "guid": "292-be1bdd1b577bad5aOg3901fc1aOg14cafa43b93OgLQ7fef",

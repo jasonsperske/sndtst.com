@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Revenge_of_Shinobi",
   "id": "75",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening",

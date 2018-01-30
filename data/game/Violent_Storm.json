@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Violent_Storm",
   "id": "254",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Pleased To Meet You (Player Shoukai Demo)",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Street_Fighter_Alpha_2",
   "id": "268",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "opening",

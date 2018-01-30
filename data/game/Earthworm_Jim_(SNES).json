@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Earthworm_Jim_(SNES)",
   "id": "113",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Main Title",

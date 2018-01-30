@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Final_Fight",
   "id": "78",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Capcom Logo",

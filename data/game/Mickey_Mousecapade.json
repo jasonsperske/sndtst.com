@@ -4,7 +4,10 @@
   ],
   "guid": "Mickey_Mousecapade",
   "id": "285",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Stage Start",

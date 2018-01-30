@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Axelay",
   "id": "244",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Axelay",

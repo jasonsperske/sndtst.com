@@ -4,7 +4,10 @@
   ],
   "guid": "Duck_Hunt",
   "id": "366",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title",

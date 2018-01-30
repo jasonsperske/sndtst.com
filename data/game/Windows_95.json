@@ -4,7 +4,10 @@
   ],
   "guid": "Windows_95",
   "id": "376",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Startup",

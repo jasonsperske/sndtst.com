@@ -41,7 +41,8 @@ fs.readdir('./data/game/', (err, filenames) => {
     let game = read(`game/${filename}`)
     games.push({
       guid: game.guid,
-      title: game.title
+      title: game.title,
+      platform: game.platform
     })
     save(`game/${filename}`, game)
   })

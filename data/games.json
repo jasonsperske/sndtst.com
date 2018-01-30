@@ -2,1547 +2,3091 @@
   "games": [
     {
       "guid": "Actraiser",
-      "title": "ActRaiser"
+      "title": "ActRaiser",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Adventures_of_Batman_and_Robin",
-      "title": "The Adventures of Batman & Robin"
+      "title": "The Adventures of Batman & Robin",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Adventure_Island",
-      "title": "Adventure Island"
+      "title": "Adventure Island",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Aero_Fighters",
-      "title": "Aero Fighters"
+      "title": "Aero Fighters",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "After_Burner",
-      "title": "After Burner"
+      "title": "After Burner",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Akumajou_Densetsu",
-      "title": "Akumajou Densetsu"
+      "title": "Akumajou Densetsu",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Aladdin_(Genesis)",
-      "title": "Aladdin"
+      "title": "Aladdin",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Alex_Kidd_in_Miracle_World",
-      "title": "Alex Kidd in Miracle World"
+      "title": "Alex Kidd in Miracle World",
+      "platform": {
+        "guid": "SMS",
+        "title": "Master System"
+      }
     },
     {
       "guid": "Alien_Soldier",
-      "title": "Alien Soldier"
+      "title": "Alien Soldier",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Altered_Beast",
-      "title": "Altered Beast"
+      "title": "Altered Beast",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Animal_Crossing-Cherry",
-      "title": "Animal Crossing: Hourly Music (Cherry)"
+      "title": "Animal Crossing: Hourly Music (Cherry)",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Animal_Crossing-Default",
-      "title": "Animal Crossing: Hourly Music (default)"
+      "title": "Animal Crossing: Hourly Music (default)",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Animal_Crossing-Winter",
-      "title": "Animal Crossing: Hourly Music (Winter)"
+      "title": "Animal Crossing: Hourly Music (Winter)",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Antarctic_Adventure",
-      "title": "Antarctic Adventure"
+      "title": "Antarctic Adventure",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Arcana",
-      "title": "Arcana"
+      "title": "Arcana",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Arnold_Palmer_Tournament_Golf",
-      "title": "Arnold Palmer Tournament Golf"
+      "title": "Arnold Palmer Tournament Golf",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Axelay",
-      "title": "Axelay"
+      "title": "Axelay",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Bad_News_Baseball",
-      "title": "Bad News Baseball"
+      "title": "Bad News Baseball",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Balloon_Fight",
-      "title": "Balloon Fight"
+      "title": "Balloon Fight",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Banjo-Kazooie",
-      "title": "Banjo-Kazooie"
+      "title": "Banjo-Kazooie",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Batman-Return_of_the_Joker",
-      "title": "Batman: Return of the Joker"
+      "title": "Batman: Return of the Joker",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Batman",
-      "title": "Batman"
+      "title": "Batman",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Batman_Returns",
-      "title": "Batman Returns"
+      "title": "Batman Returns",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Batman_Returns_(SNES)",
-      "title": "Batman Returns"
+      "title": "Batman Returns",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Battle-of-Olympus",
-      "title": "Battle of Olympus"
+      "title": "Battle of Olympus",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Battletoads",
-      "title": "Battletoads"
+      "title": "Battletoads",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Battletoads_(Genesis)",
-      "title": "Battletoads"
+      "title": "Battletoads",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Battletoads_and_Double_Dragon",
-      "title": "Battletoads & Double Dragon-The Ultimate Team"
+      "title": "Battletoads & Double Dragon-The Ultimate Team",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Battletoads_in_Battlemaniacs",
-      "title": "Battletoads in Battlemaniacs"
+      "title": "Battletoads in Battlemaniacs",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Battle_Garegga",
-      "title": "Battle Garegga"
+      "title": "Battle Garegga",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Biker_Mice_from_Mars",
-      "title": "Biker Mice from Mars"
+      "title": "Biker Mice from Mars",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Bionic_Commando",
-      "title": "Bionic Commando"
+      "title": "Bionic Commando",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Blades_of_Steel",
-      "title": "Blades of Steel"
+      "title": "Blades of Steel",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Blaster_Master",
-      "title": "Blaster Master"
+      "title": "Blaster Master",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Blazing_Lazers",
-      "title": "Blazing Lazers"
+      "title": "Blazing Lazers",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Bloody_Wolf",
-      "title": "Bloody Wolf"
+      "title": "Bloody Wolf",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Bomberman_Hero",
-      "title": "Bomberman Hero"
+      "title": "Bomberman Hero",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Bonks_Adventure",
-      "title": "Bonk's Adventure"
+      "title": "Bonk's Adventure",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Breath_of_Fire",
-      "title": "Breath of Fire"
+      "title": "Breath of Fire",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Breath_of_Fire_II",
-      "title": "Breath of Fire II"
+      "title": "Breath of Fire II",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Bubble_Bobble",
-      "title": "Bubble Bobble"
+      "title": "Bubble Bobble",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Cadillacs_and_Dinosaurs",
-      "title": "Cadillacs & Dinosaurs"
+      "title": "Cadillacs & Dinosaurs",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Captain_Tsubasa_Vol_II",
-      "title": "Captain Tsubasa Vol. II: Super Striker"
+      "title": "Captain Tsubasa Vol. II: Super Striker",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Castlevania-Bloodlines",
-      "title": "Castlevania - Bloodlines"
+      "title": "Castlevania - Bloodlines",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Castlevania",
-      "title": "Castlevania"
+      "title": "Castlevania",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Castlevania_II",
-      "title": "Castlevania II: Simon's Quest"
+      "title": "Castlevania II: Simon's Quest",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Castlevania_III",
-      "title": "Castlevania III:Dracula's Curse"
+      "title": "Castlevania III:Dracula's Curse",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Chakan",
-      "title": "Chakan - The Forever Man"
+      "title": "Chakan - The Forever Man",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Chip_and_Dale_Rescue_Rangers",
-      "title": "Chip and Dale Rescue Rangers"
+      "title": "Chip and Dale Rescue Rangers",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Chrono_Trigger",
-      "title": "Chrono Trigger"
+      "title": "Chrono Trigger",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Chuck_Rock",
-      "title": "Chuck Rock"
+      "title": "Chuck Rock",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Chuck_Rock_II",
-      "title": "Chuck Rock II: Son of Chuck"
+      "title": "Chuck Rock II: Son of Chuck",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Circus_Charlie",
-      "title": "Circus Charlie"
+      "title": "Circus Charlie",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Civilization-Call_To_Power",
-      "title": "Civilization: Call To Power"
+      "title": "Civilization: Call To Power",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Columns",
-      "title": "Columns"
+      "title": "Columns",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Comix_Zone",
-      "title": "Comix Zone"
+      "title": "Comix Zone",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Continuum",
-      "title": "Continuum"
+      "title": "Continuum",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Contra-Hard_Corps",
-      "title": "Contra: Hard Corps"
+      "title": "Contra: Hard Corps",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Contra",
-      "title": "Contra"
+      "title": "Contra",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Contra_III",
-      "title": "Contra III: The Alien Wars"
+      "title": "Contra III: The Alien Wars",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Cool_Spot",
-      "title": "Cool Spot"
+      "title": "Cool Spot",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Crude_Buster",
-      "title": "Crude Buster"
+      "title": "Crude Buster",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Cruis_n_World",
-      "title": "Cruis'n World"
+      "title": "Cruis'n World",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Crusader_of_Centy",
-      "title": "Crusader of Centy"
+      "title": "Crusader of Centy",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Dashin_Desperadoes",
-      "title": "Dashin' Desperadoes"
+      "title": "Dashin' Desperadoes",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Demons_Crest",
-      "title": "Demon's Crest"
+      "title": "Demon's Crest",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Desert_Strike",
-      "title": "Desert Strike"
+      "title": "Desert Strike",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Devils_Crush",
-      "title": "Devil's Crush"
+      "title": "Devil's Crush",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Diablo",
-      "title": "Diablo"
+      "title": "Diablo",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Diddy_Kong_Racing",
-      "title": "Diddy Kong Racing"
+      "title": "Diddy Kong Racing",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Donkey_Kong",
-      "title": "Donkey Kong"
+      "title": "Donkey Kong",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Donkey_Kong_64",
-      "title": "Donkey Kong 64"
+      "title": "Donkey Kong 64",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Donkey_Kong_Country",
-      "title": "Donkey Kong Country"
+      "title": "Donkey Kong Country",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Donkey_Kong_Country_2",
-      "title": "Donkey Kong Country 2"
+      "title": "Donkey Kong Country 2",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Donkey_Kong_Country_3",
-      "title": "Donkey Kong Country 3"
+      "title": "Donkey Kong Country 3",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Doom",
-      "title": "Doom"
+      "title": "Doom",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "DOOM_II",
-      "title": "Doom II: Hell on Earth"
+      "title": "Doom II: Hell on Earth",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Double_Dragon",
-      "title": "Double Dragon"
+      "title": "Double Dragon",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Double_Dragon_II",
-      "title": "Double Dragon II: The Revenge"
+      "title": "Double Dragon II: The Revenge",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Double_Dragon_III",
-      "title": "Double Dragon III: The Sacred Stones"
+      "title": "Double Dragon III: The Sacred Stones",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Dragon_Ball_Z-Super_Butouden",
-      "title": "Dragon Ball Z: Super Butouden"
+      "title": "Dragon Ball Z: Super Butouden",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Dragon_Ball_Z-Super_Butouden_2",
-      "title": "Dragon Ball Z: Super Butouden 2"
+      "title": "Dragon Ball Z: Super Butouden 2",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Dragon_Ball_Z-Super_Butouden_3",
-      "title": "Dragon Ball Z: Super Butouden 3"
+      "title": "Dragon Ball Z: Super Butouden 3",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Dragon_Saber",
-      "title": "Dragon Saber-After Story of Dragon Spirit"
+      "title": "Dragon Saber-After Story of Dragon Spirit",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Dragon_Spirit",
-      "title": "Dragon Spirit"
+      "title": "Dragon Spirit",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Dragon_Spirit_(NES)",
-      "title": "Dragon Spirit: The New Legend"
+      "title": "Dragon Spirit: The New Legend",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Dragon_Warrior",
-      "title": "Dragon Warrior"
+      "title": "Dragon Warrior",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Dr_Mario_64",
-      "title": "Dr. Mario 64"
+      "title": "Dr. Mario 64",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Dr_Robotniks_Mean_Bean_Machine",
-      "title": "Dr. Robotnik's Mean Bean Machine"
+      "title": "Dr. Robotnik's Mean Bean Machine",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Duck_Hunt",
-      "title": "Duck Hunt"
+      "title": "Duck Hunt",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Duck_Tales",
-      "title": "Duck Tales"
+      "title": "Duck Tales",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Duke_Nukem_3D",
-      "title": "Duke Nukem 3D"
+      "title": "Duke Nukem 3D",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Dune_II",
-      "title": "Dune II: The Building of a Dynasty"
+      "title": "Dune II: The Building of a Dynasty",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "EarthBound",
-      "title": "EarthBound"
+      "title": "EarthBound",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Earthworm_Jim_(Genesis)",
-      "title": "Earthworm Jim"
+      "title": "Earthworm Jim",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Earthworm_Jim_(SNES)",
-      "title": "Earthworm Jim"
+      "title": "Earthworm Jim",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Earthworm_Jim_2_(Genesis)",
-      "title": "Earthworm Jim 2"
+      "title": "Earthworm Jim 2",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Earthworm_Jim_2_(SNES)",
-      "title": "Earthworm Jim 2"
+      "title": "Earthworm Jim 2",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Ecco-Tides_of_Time",
-      "title": "Ecco: Tides of Time"
+      "title": "Ecco: Tides of Time",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Ecco_the_Dolphin",
-      "title": "Ecco the Dolphin"
+      "title": "Ecco the Dolphin",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Elemental_Master",
-      "title": "Elemental Master"
+      "title": "Elemental Master",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "El_Viento",
-      "title": "El Viento"
+      "title": "El Viento",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "ESWAT_City_Under_Siege",
-      "title": "ESWAT: City Under Siege"
+      "title": "ESWAT: City Under Siege",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Excitebike",
-      "title": "Excitebike"
+      "title": "Excitebike",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Excitebike_64",
-      "title": "Excitebike 64"
+      "title": "Excitebike 64",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "F-Zero",
-      "title": "F-Zero"
+      "title": "F-Zero",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "F-Zero_X",
-      "title": "F-Zero X"
+      "title": "F-Zero X",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Fatal_Fury",
-      "title": "Fatal Fury"
+      "title": "Fatal Fury",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Fatal_Fury_Special",
-      "title": "Fatal Fury Special"
+      "title": "Fatal Fury Special",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Faxanadu",
-      "title": "Faxanadu"
+      "title": "Faxanadu",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "FIFA_Soccer_95",
-      "title": "FIFA Soccer '95"
+      "title": "FIFA Soccer '95",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Final_Fantasy-Mystic_Quest",
-      "title": "Final Fantasy - Mystic Quest"
+      "title": "Final Fantasy - Mystic Quest",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Final_Fantasy_III",
-      "title": "Final Fantasy III"
+      "title": "Final Fantasy III",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Final_Fantasy_IV",
-      "title": "Final Fantasy IV"
+      "title": "Final Fantasy IV",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Final_Fantasy_V",
-      "title": "Final Fantasy V"
+      "title": "Final Fantasy V",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Final_Fantasy_VI",
-      "title": "Final Fantasy VI"
+      "title": "Final Fantasy VI",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Final_Fight",
-      "title": "Final Fight"
+      "title": "Final Fight",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Fire_Emblem_MotE",
-      "title": "Fire Emblem: Mystery of the Emblem"
+      "title": "Fire Emblem: Mystery of the Emblem",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Fire_Shark",
-      "title": "Fire Shark"
+      "title": "Fire Shark",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Forgotten_Worlds",
-      "title": "Forgotten Worlds"
+      "title": "Forgotten Worlds",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Galaxy_Force_II",
-      "title": "Galaxy Force II"
+      "title": "Galaxy Force II",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Gauntlet",
-      "title": "Gauntlet"
+      "title": "Gauntlet",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Gauntlet_IV",
-      "title": "Gauntlet IV"
+      "title": "Gauntlet IV",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Ghostbusters",
-      "title": "Ghostbusters"
+      "title": "Ghostbusters",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Ghosts_N_Goblins",
-      "title": "Ghosts 'N Goblins"
+      "title": "Ghosts 'N Goblins",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Ghouls_n_Ghosts",
-      "title": "Ghouls 'n Ghosts"
+      "title": "Ghouls 'n Ghosts",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Gimmick",
-      "title": "Gimmick!"
+      "title": "Gimmick!",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "GI_Joe-The_Atlantis_Factor",
-      "title": "G.I. Joe: The Atlantis Factor"
+      "title": "G.I. Joe: The Atlantis Factor",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "GI_Joe",
-      "title": "G.I. Joe: A Real American Hero"
+      "title": "G.I. Joe: A Real American Hero",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "GoldenEye_007",
-      "title": "GoldenEye 007"
+      "title": "GoldenEye 007",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Golden_Axe",
-      "title": "Golden Axe"
+      "title": "Golden Axe",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Gradius",
-      "title": "Gradius"
+      "title": "Gradius",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Gradius_II",
-      "title": "Gradius II"
+      "title": "Gradius II",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Gradius_III",
-      "title": "Gradius III"
+      "title": "Gradius III",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Guardic",
-      "title": "Guardic"
+      "title": "Guardic",
+      "platform": {
+        "guid": "MSX",
+        "title": "MSX"
+      }
     },
     {
       "guid": "Gunstar_Heroes",
-      "title": "Gunstar Heroes"
+      "title": "Gunstar Heroes",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Gun_Smoke",
-      "title": "Gun Smoke"
+      "title": "Gun Smoke",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Herzog_Zwei",
-      "title": "Herzog Zwei"
+      "title": "Herzog Zwei",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "HyperZone",
-      "title": "HyperZone"
+      "title": "HyperZone",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Illusion-of-Gaia",
-      "title": "Illusion of Gaia"
+      "title": "Illusion of Gaia",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "International_Superstar_Soccer",
-      "title": "International Superstar Soccer"
+      "title": "International Superstar Soccer",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Ironsword-Wizards_Warriors_II",
-      "title": "Ironsword: Wizards & Warriors II"
+      "title": "Ironsword: Wizards & Warriors II",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Itadaki_Street_2",
-      "title": "Itadaki Street 2: Neon Sign wa Bara Iro ni"
+      "title": "Itadaki Street 2: Neon Sign wa Bara Iro ni",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Jackal",
-      "title": "Jackal"
+      "title": "Jackal",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Jackie_Chan_s_Action_Kung_Fu",
-      "title": "Jackie Chan's Action Kung Fu"
+      "title": "Jackie Chan's Action Kung Fu",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "James_Bond_Jr",
-      "title": "James Bond Jr."
+      "title": "James Bond Jr.",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Jaws",
-      "title": "Jaws"
+      "title": "Jaws",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Journey_to_Silius",
-      "title": "Journey to Silius"
+      "title": "Journey to Silius",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Jungle_Strike",
-      "title": "Jungle Strike"
+      "title": "Jungle Strike",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Jurassic_Park_(Genesis)",
-      "title": "Jurassic Park"
+      "title": "Jurassic Park",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Jurassic_Park_(SNES)",
-      "title": "Jurassic Park"
+      "title": "Jurassic Park",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Karnov",
-      "title": "Karnov"
+      "title": "Karnov",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Keith_Courage_in_Alpha_Zones",
-      "title": "Keith Courage in Alpha Zones"
+      "title": "Keith Courage in Alpha Zones",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Killer_Instinct",
-      "title": "Killer Instinct"
+      "title": "Killer Instinct",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Kirbys_Adventure",
-      "title": "Kirby's Adventure"
+      "title": "Kirby's Adventure",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Kirby_Super_Star",
-      "title": "Kirby Super Star"
+      "title": "Kirby Super Star",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Landstalker",
-      "title": "Landstalker - The Treasures of King Nole"
+      "title": "Landstalker - The Treasures of King Nole",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Legendary_Axe_II",
-      "title": "The Legendary Axe II"
+      "title": "The Legendary Axe II",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Legendary_Wings",
-      "title": "Legendary Wings"
+      "title": "Legendary Wings",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Legend_of_Kage",
-      "title": "Legend of Kage"
+      "title": "Legend of Kage",
+      "platform": {
+        "guid": "SMS",
+        "title": "Master System"
+      }
     },
     {
       "guid": "Legend_of_Zelda-Majoras_Mask",
-      "title": "The Legend of Zelda: Majora's Mask"
+      "title": "The Legend of Zelda: Majora's Mask",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Legend_of_Zelda",
-      "title": "The Legend of Zelda"
+      "title": "The Legend of Zelda",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Lemmings",
-      "title": "Lemmings"
+      "title": "Lemmings",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Life_Force",
-      "title": "Life Force"
+      "title": "Life Force",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Little_Samson",
-      "title": "Little Samson"
+      "title": "Little Samson",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Lotus_II-RECS",
-      "title": "Lotus II - R.E.C.S."
+      "title": "Lotus II - R.E.C.S.",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Lotus_Turbo_Challenge",
-      "title": "Lotus Turbo Challenge"
+      "title": "Lotus Turbo Challenge",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Lufia",
-      "title": "Lufia & The Fortress of Doom"
+      "title": "Lufia & The Fortress of Doom",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Lufia_II",
-      "title": "Lufia II - Rise of the Sinistrals"
+      "title": "Lufia II - Rise of the Sinistrals",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Magical_Chase",
-      "title": "Magical Chase"
+      "title": "Magical Chase",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Magical_Hat_no_Buttobi_Turbo",
-      "title": "Magical Hat no Buttobi Turbo! Daibouken"
+      "title": "Magical Hat no Buttobi Turbo! Daibouken",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Magic_Johnsons_Fast_Break",
-      "title": "Magic Johnson's Fast Break"
+      "title": "Magic Johnson's Fast Break",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Maniac_Mansion",
-      "title": "Maniac Mansion"
+      "title": "Maniac Mansion",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Mario_Golf_64",
-      "title": "Mario Golf 64"
+      "title": "Mario Golf 64",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Mario_Kart_64",
-      "title": "Mario Kart 64"
+      "title": "Mario Kart 64",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Mario_Paint",
-      "title": "Mario Paint"
+      "title": "Mario Paint",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Mario_Tennis",
-      "title": "Mario Tennis"
+      "title": "Mario Tennis",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Mega_Bomberman",
-      "title": "Mega Bomberman"
+      "title": "Mega Bomberman",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Mega_Man",
-      "title": "Mega Man"
+      "title": "Mega Man",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Mega_Man_7",
-      "title": "Mega Man 7"
+      "title": "Mega Man 7",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Mega_Man_II",
-      "title": "Mega Man II"
+      "title": "Mega Man II",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Mega_Man_III",
-      "title": "Mega Man III"
+      "title": "Mega Man III",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Mega_Man_IV",
-      "title": "Mega Man IV"
+      "title": "Mega Man IV",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Mega_Man_V",
-      "title": "Mega Man V"
+      "title": "Mega Man V",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Mega_Man_VI",
-      "title": "Mega Man VI"
+      "title": "Mega Man VI",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Mega_Man_X",
-      "title": "Mega Man X"
+      "title": "Mega Man X",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Mega_Man_X2",
-      "title": "Mega Man X2"
+      "title": "Mega Man X2",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Mega_Man_X3",
-      "title": "Mega Man X3"
+      "title": "Mega Man X3",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Metal_Slug",
-      "title": "Metal Slug"
+      "title": "Metal Slug",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Metroid",
-      "title": "Metroid"
+      "title": "Metroid",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Metroid_Fusion",
-      "title": "Metroid Fusion"
+      "title": "Metroid Fusion",
+      "platform": {
+        "guid": "GBA",
+        "title": "Game Boy Advance"
+      }
     },
     {
       "guid": "Michael_Jacksons_Moonwalker",
-      "title": "Michael Jackson's Moonwalker"
+      "title": "Michael Jackson's Moonwalker",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Mickey_Mousecapade",
-      "title": "Mickey Mousecapade"
+      "title": "Mickey Mousecapade",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Midnight_Resistance",
-      "title": "Midnight Resistance"
+      "title": "Midnight Resistance",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Mike_Tysons_Punch-Out",
-      "title": "Mike Tyson's Punch-Out!!"
+      "title": "Mike Tyson's Punch-Out!!",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Military_Madness",
-      "title": "Military Madness"
+      "title": "Military Madness",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Mortal_Kombat_(Arcade)",
-      "title": "Mortal Kombat"
+      "title": "Mortal Kombat",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Mortal_Kombat_(Genesis)",
-      "title": "Mortal Kombat"
+      "title": "Mortal Kombat",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Mortal_Kombat_(SNES)",
-      "title": "Mortal Kombat"
+      "title": "Mortal Kombat",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Mortal_Kombat_2_(Genesis)",
-      "title": "Mortal Kombat 2"
+      "title": "Mortal Kombat 2",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Mortal_Kombat_2_(SNES)",
-      "title": "Mortal Kombat 2"
+      "title": "Mortal Kombat 2",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Mortal_Kombat_3_(Genesis)",
-      "title": "Mortal Kombat 3"
+      "title": "Mortal Kombat 3",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Mortal_Kombat_3_(SNES)",
-      "title": "Mortal Kombat 3"
+      "title": "Mortal Kombat 3",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Mother",
-      "title": "Mother"
+      "title": "Mother",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Mother_3",
-      "title": "Mother 3"
+      "title": "Mother 3",
+      "platform": {
+        "guid": "GBA",
+        "title": "Game Boy Advance"
+      }
     },
     {
       "guid": "Neutopia",
-      "title": "Neutopia"
+      "title": "Neutopia",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "NHL_95",
-      "title": "NHL All-Star Hockey '95"
+      "title": "NHL All-Star Hockey '95",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Ninja_Gaiden",
-      "title": "Ninja Gaiden"
+      "title": "Ninja Gaiden",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Ninja_Gaiden_II",
-      "title": "Ninja Gaiden II - The Dark Sword of Chaos"
+      "title": "Ninja Gaiden II - The Dark Sword of Chaos",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Ninja_Spirit",
-      "title": "Ninja Spirit"
+      "title": "Ninja Spirit",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Olympic_Summer_Games",
-      "title": "Olympic Summer Games"
+      "title": "Olympic Summer Games",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Out_Run",
-      "title": "Out Run"
+      "title": "Out Run",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Out_Zone",
-      "title": "Out Zone"
+      "title": "Out Zone",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Paper_Mario",
-      "title": "Paper Mario"
+      "title": "Paper Mario",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Phantasy_Star",
-      "title": "Phantasy Star"
+      "title": "Phantasy Star",
+      "platform": {
+        "guid": "SMS",
+        "title": "Master System"
+      }
     },
     {
       "guid": "Phantasy_Star_II",
-      "title": "Phantasy Star II"
+      "title": "Phantasy Star II",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Phantasy_Star_III",
-      "title": "Phantasy Star III"
+      "title": "Phantasy Star III",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Phantasy_Star_IV",
-      "title": "Phantasy Star IV"
+      "title": "Phantasy Star IV",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Pilotwings",
-      "title": "Pilotwings"
+      "title": "Pilotwings",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Plok",
-      "title": "Plok"
+      "title": "Plok",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Pokemon_Blue",
-      "title": "Pokémon Blue"
+      "title": "Pokémon Blue",
+      "platform": {
+        "guid": "GameBoy",
+        "title": "Game Boy"
+      }
     },
     {
       "guid": "Pokemon_Red",
-      "title": "Pokémon Red"
+      "title": "Pokémon Red",
+      "platform": {
+        "guid": "GameBoy",
+        "title": "Game Boy"
+      }
     },
     {
       "guid": "Pokemon_Stadium",
-      "title": "Pokémon Stadium"
+      "title": "Pokémon Stadium",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Porky_Pigs_Haunted_Holiday",
-      "title": "Porky Pig's Haunted Holiday"
+      "title": "Porky Pig's Haunted Holiday",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Power_Blade",
-      "title": "Power Blade"
+      "title": "Power Blade",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Power_Strike",
-      "title": "Power Strike"
+      "title": "Power Strike",
+      "platform": {
+        "guid": "SMS",
+        "title": "Master System"
+      }
     },
     {
       "guid": "Prince_of_Persia",
-      "title": "Prince of Persia"
+      "title": "Prince of Persia",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "QuackShot",
-      "title": "QuackShot"
+      "title": "QuackShot",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Quest_for_Glory_1",
-      "title": "Quest for Glory 1"
+      "title": "Quest for Glory 1",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "R-Type",
-      "title": "R-Type"
+      "title": "R-Type",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Rad_Racer",
-      "title": "Rad Racer"
+      "title": "Rad Racer",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Rambo_III",
-      "title": "Rambo III"
+      "title": "Rambo III",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "RC_Pro-Am",
-      "title": "R.C. Pro-Am"
+      "title": "R.C. Pro-Am",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Red_Zone",
-      "title": "Red Zone"
+      "title": "Red Zone",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Revenge_of_Shinobi",
-      "title": "The Revenge of Shinobi"
+      "title": "The Revenge of Shinobi",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Rise_of_the_Triad",
-      "title": "Rise of the Triad"
+      "title": "Rise of the Triad",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Ristar",
-      "title": "Ristar"
+      "title": "Ristar",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "River_City_Ransom",
-      "title": "River City Ransom"
+      "title": "River City Ransom",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Road_Rash",
-      "title": "Road Rash"
+      "title": "Road Rash",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Road_Rash_II",
-      "title": "Road Rash II"
+      "title": "Road Rash II",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "RoboCop",
-      "title": "RoboCop"
+      "title": "RoboCop",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "RoboCop_3",
-      "title": "RoboCop 3"
+      "title": "RoboCop 3",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Rocket_Knight_Adventures",
-      "title": "Rocket Knight Adventures"
+      "title": "Rocket Knight Adventures",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Rock_n_Roll_Racing",
-      "title": "Rock n' Roll Racing"
+      "title": "Rock n' Roll Racing",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Rush_n_Attack",
-      "title": "Rush'n Attack"
+      "title": "Rush'n Attack",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Rygar",
-      "title": "Rygar"
+      "title": "Rygar",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Salamander",
-      "title": "Salamander"
+      "title": "Salamander",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Secret_of_Evermore",
-      "title": "Secret of Evermore"
+      "title": "Secret of Evermore",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Secret_of_Mana",
-      "title": "Secret of Mana"
+      "title": "Secret of Mana",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Section_Z",
-      "title": "Section Z"
+      "title": "Section Z",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Sega_CD",
-      "title": "Sega CD"
+      "title": "Sega CD",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Shadowrun",
-      "title": "Shadowrun"
+      "title": "Shadowrun",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Shadow_Dancer",
-      "title": "Shadow Dancer: The Secret of Shinobi"
+      "title": "Shadow Dancer: The Secret of Shinobi",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Shadow_of_the_Beast",
-      "title": "Shadow of the Beast"
+      "title": "Shadow of the Beast",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Shatterhand",
-      "title": "Shatterhand"
+      "title": "Shatterhand",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Shining_In_The_Darkness",
-      "title": "Shining In The Darkness"
+      "title": "Shining In The Darkness",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Shinobi_III",
-      "title": "Shinobi III - Return of the Ninja Master"
+      "title": "Shinobi III - Return of the Ninja Master",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Silent_Debuggers",
-      "title": "Silent Debuggers"
+      "title": "Silent Debuggers",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Silver_Surfer",
-      "title": "Silver Surfer"
+      "title": "Silver Surfer",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Sim_City_2000",
-      "title": "Sim City 2000"
+      "title": "Sim City 2000",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Sim_City_SNES",
-      "title": "Sim City"
+      "title": "Sim City",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Snow_Bros",
-      "title": "Snow Bros."
+      "title": "Snow Bros.",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Solstice",
-      "title": "Solstice"
+      "title": "Solstice",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Sonic_Advance",
-      "title": "Sonic Advance"
+      "title": "Sonic Advance",
+      "platform": {
+        "guid": "GBA",
+        "title": "Game Boy Advance"
+      }
     },
     {
       "guid": "Sonic_Advance_2",
-      "title": "Sonic Advance 2"
+      "title": "Sonic Advance 2",
+      "platform": {
+        "guid": "GBA",
+        "title": "Game Boy Advance"
+      }
     },
     {
       "guid": "Sonic_Advance_3",
-      "title": "Sonic Advance 3"
+      "title": "Sonic Advance 3",
+      "platform": {
+        "guid": "GBA",
+        "title": "Game Boy Advance"
+      }
     },
     {
       "guid": "Sonic_Spinball",
-      "title": "Sonic the Hedgehog Spinball"
+      "title": "Sonic the Hedgehog Spinball",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Sonic_The_Hedgehog",
-      "title": "Sonic The Hedgehog"
+      "title": "Sonic The Hedgehog",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Sonic_The_Hedgehog_(SMS)",
-      "title": "Sonic The Hedgehog"
+      "title": "Sonic The Hedgehog",
+      "platform": {
+        "guid": "SMS",
+        "title": "Master System"
+      }
     },
     {
       "guid": "Sonic_The_Hedgehog_2",
-      "title": "Sonic The Hedgehog 2"
+      "title": "Sonic The Hedgehog 2",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Sonic_The_Hedgehog_3_Knuckles",
-      "title": "Sonic The Hedgehog 3 & Knuckles"
+      "title": "Sonic The Hedgehog 3 & Knuckles",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Space_Harrier_II",
-      "title": "Space Harrier II"
+      "title": "Space Harrier II",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "SpiderMan_Venom_MaximumCarnage",
-      "title": "Spider-Man & Venom-Maximum Carnage"
+      "title": "Spider-Man & Venom-Maximum Carnage",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Splatterhouse",
-      "title": "Splatterhouse"
+      "title": "Splatterhouse",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Spy_Hunter",
-      "title": "Spy Hunter"
+      "title": "Spy Hunter",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Star_Fox",
-      "title": "Star Fox"
+      "title": "Star Fox",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Star_Fox_64",
-      "title": "Star Fox 64"
+      "title": "Star Fox 64",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Star_Tropics",
-      "title": "Star Tropics"
+      "title": "Star Tropics",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Streets_of_Rage",
-      "title": "Streets of Rage"
+      "title": "Streets of Rage",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Streets_of_Rage_2",
-      "title": "Streets of Rage 2"
+      "title": "Streets of Rage 2",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Streets_of_Rage_3",
-      "title": "Streets of Rage 3"
+      "title": "Streets of Rage 3",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Street_Fighter_Alpha_2",
-      "title": "Street Fighter Alpha 2"
+      "title": "Street Fighter Alpha 2",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Street_Fighter_II-Champion",
-      "title": "Street Fighter II: Special Champion Edition"
+      "title": "Street Fighter II: Special Champion Edition",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Street_Fighter_II",
-      "title": "Street Fighter II"
+      "title": "Street Fighter II",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Street_Fighter_II_Turbo",
-      "title": "Street Fighter II Turbo"
+      "title": "Street Fighter II Turbo",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Street_Smart",
-      "title": "Street Smart"
+      "title": "Street Smart",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Strider",
-      "title": "Strider"
+      "title": "Strider",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Sunset_Riders",
-      "title": "Sunset Riders"
+      "title": "Sunset Riders",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Adventure_Island",
-      "title": "Super Adventure Island"
+      "title": "Super Adventure Island",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Bomberman",
-      "title": "Super Bomberman"
+      "title": "Super Bomberman",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Bomberman_2",
-      "title": "Super Bomberman 2"
+      "title": "Super Bomberman 2",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Bomberman_3",
-      "title": "Super Bomberman 3"
+      "title": "Super Bomberman 3",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Bomberman_4",
-      "title": "Super Bomberman 4"
+      "title": "Super Bomberman 4",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Bomberman_5",
-      "title": "Super Bomberman 5"
+      "title": "Super Bomberman 5",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Castlevania_IV",
-      "title": "Super Castlevania IV"
+      "title": "Super Castlevania IV",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Conflict",
-      "title": "Super Conflict: The Mideast"
+      "title": "Super Conflict: The Mideast",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Contra",
-      "title": "Super Contra"
+      "title": "Super Contra",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Super_Dodge_Ball",
-      "title": "Super Dodge Ball"
+      "title": "Super Dodge Ball",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Super_Double_Dragon",
-      "title": "Super Double Dragon"
+      "title": "Super Double Dragon",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Ghouls_n_Ghosts",
-      "title": "Super Ghouls 'n Ghosts"
+      "title": "Super Ghouls 'n Ghosts",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Hang-On",
-      "title": "Super Hang-On"
+      "title": "Super Hang-On",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Super_Mario_64",
-      "title": "Super Mario 64"
+      "title": "Super Mario 64",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Super_Mario_All-Stars",
-      "title": "Super Mario All-Stars"
+      "title": "Super Mario All-Stars",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Mario_Bros",
-      "title": "Super Mario Bros."
+      "title": "Super Mario Bros.",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Super_Mario_Bros_2",
-      "title": "Super Mario Bros. 2"
+      "title": "Super Mario Bros. 2",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Super_Mario_Bros_3",
-      "title": "Super Mario Bros. 3"
+      "title": "Super Mario Bros. 3",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Super_Mario_Kart",
-      "title": "Super Mario Kart"
+      "title": "Super Mario Kart",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Mario_Land",
-      "title": "Super Mario Land"
+      "title": "Super Mario Land",
+      "platform": {
+        "guid": "GameBoy",
+        "title": "Game Boy"
+      }
     },
     {
       "guid": "Super_Mario_Land_2",
-      "title": "Super Mario Land 2"
+      "title": "Super Mario Land 2",
+      "platform": {
+        "guid": "GameBoy",
+        "title": "Game Boy"
+      }
     },
     {
       "guid": "Super_Mario_RPG",
-      "title": "Super Mario RPG: Legend of the Seven Stars"
+      "title": "Super Mario RPG: Legend of the Seven Stars",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Mario_World",
-      "title": "Super Mario World"
+      "title": "Super Mario World",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Mario_World_2",
-      "title": "Super Mario World 2 - Yoshi's Island"
+      "title": "Super Mario World 2 - Yoshi's Island",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Metroid",
-      "title": "Super Metroid"
+      "title": "Super Metroid",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Monaco_GP",
-      "title": "Super Monaco GP"
+      "title": "Super Monaco GP",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Super_Off_Road",
-      "title": "Super Off Road"
+      "title": "Super Off Road",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Punch-Out",
-      "title": "Super Punch-Out!!"
+      "title": "Super Punch-Out!!",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_R-Type",
-      "title": "Super R-Type"
+      "title": "Super R-Type",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Star_Wars",
-      "title": "Super Star Wars"
+      "title": "Super Star Wars",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Super_Street_Fighter_II",
-      "title": "Super Street Fighter II:The New Challengers"
+      "title": "Super Street Fighter II:The New Challengers",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Sword_Of_Vermilion",
-      "title": "Sword Of Vermilion"
+      "title": "Sword Of Vermilion",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Target_Earth",
-      "title": "Target Earth"
+      "title": "Target Earth",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Tatsujin",
-      "title": "Tatsujin"
+      "title": "Tatsujin",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Tecmo_Bowl",
-      "title": "Tecmo Bowl"
+      "title": "Tecmo Bowl",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Tecmo_World_Cup_Soccer",
-      "title": "Tecmo World Cup Soccer"
+      "title": "Tecmo World Cup Soccer",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Teenage_Mutant_Ninja_Turtles",
-      "title": "Teenage Mutant Ninja Turtles"
+      "title": "Teenage Mutant Ninja Turtles",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Terranigma",
-      "title": "Terranigma"
+      "title": "Terranigma",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Terra_Force",
-      "title": "Terra Force"
+      "title": "Terra Force",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Tetris",
-      "title": "Tetris"
+      "title": "Tetris",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Tetrisphere",
-      "title": "Tetrisphere"
+      "title": "Tetrisphere",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Tetris_(GameBoy)",
-      "title": "Tetris"
+      "title": "Tetris",
+      "platform": {
+        "guid": "GameBoy",
+        "title": "Game Boy"
+      }
     },
     {
       "guid": "The_Adventures_of_Bayou_Billy",
-      "title": "The Adventures of Bayou Billy"
+      "title": "The Adventures of Bayou Billy",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "The_Goonies_II",
-      "title": "The Goonies II"
+      "title": "The Goonies II",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "The_Guardian_Legend",
-      "title": "The Guardian Legend"
+      "title": "The Guardian Legend",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "The_Legendary_Axe",
-      "title": "The Legendary Axe"
+      "title": "The Legendary Axe",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "The_Legend_of_Kyrandia_1",
-      "title": "The Legend of Kyrandia (book 1)"
+      "title": "The Legend of Kyrandia (book 1)",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "The_Ninja_Warriors",
-      "title": "The Ninja Warriors"
+      "title": "The Ninja Warriors",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "The_Tick",
-      "title": "The Tick"
+      "title": "The Tick",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Thunder_Force_II",
-      "title": "Thunder Force II"
+      "title": "Thunder Force II",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Thunder_Force_III",
-      "title": "Thunder Force III"
+      "title": "Thunder Force III",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Thunder_Force_IV",
-      "title": "Thunder Force IV"
+      "title": "Thunder Force IV",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "TMNT2_The_Arcade_Game",
-      "title": "Teenage Mutant Ninja Turtles 2: The Arcade Game"
+      "title": "Teenage Mutant Ninja Turtles 2: The Arcade Game",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "TMNT3_The_Manhattan_Project",
-      "title": "Teenage Mutant Ninja Turtles 3: The Manhattan Project"
+      "title": "Teenage Mutant Ninja Turtles 3: The Manhattan Project",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "TMNT4_Turtles_In_Time",
-      "title": "Teenage Mutant Ninja Turtles IV: Turtles in Time"
+      "title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "TMNT_Arcade",
-      "title": "Teenage Mutant Ninja Turtles"
+      "title": "Teenage Mutant Ninja Turtles",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "TMNT_Turtles_In_Time_Arcade",
-      "title": "Teenage Mutant Ninja Turtles: Turtles In Time"
+      "title": "Teenage Mutant Ninja Turtles: Turtles In Time",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "ToeJam_Earl",
-      "title": "ToeJam & Earl"
+      "title": "ToeJam & Earl",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Top_Gear",
-      "title": "Top Gear"
+      "title": "Top Gear",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Top_Gear_2",
-      "title": "Top Gear 2"
+      "title": "Top Gear 2",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Top_Gear_3000",
-      "title": "Top Gear 3000"
+      "title": "Top Gear 3000",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Trampoline_Terror",
-      "title": "Trampoline Terror!"
+      "title": "Trampoline Terror!",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Treasure_Master",
-      "title": "Treasure Master"
+      "title": "Treasure Master",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "True_Lies",
-      "title": "True Lies"
+      "title": "True Lies",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Truxton",
-      "title": "Truxton"
+      "title": "Truxton",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Turrican",
-      "title": "Turrican"
+      "title": "Turrican",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "T_and_C_Surf_Designs",
-      "title": "T&C Surf Designs"
+      "title": "T&C Surf Designs",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Uniracers",
-      "title": "Uniracers"
+      "title": "Uniracers",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "UN_Squadron",
-      "title": "U.N. Squadron"
+      "title": "U.N. Squadron",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Urban_Strike",
-      "title": "Urban Strike"
+      "title": "Urban Strike",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Vampire_Killer",
-      "title": "Vampire Killer"
+      "title": "Vampire Killer",
+      "platform": {
+        "guid": "MSX",
+        "title": "MSX"
+      }
     },
     {
       "guid": "Vectorman",
-      "title": "Vectorman"
+      "title": "Vectorman",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Vectorman_2",
-      "title": "Vectorman 2"
+      "title": "Vectorman 2",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Victory_Run",
-      "title": "Victory Run"
+      "title": "Victory Run",
+      "platform": {
+        "guid": "TG16",
+        "title": "Turbo Grafx-16"
+      }
     },
     {
       "guid": "Violent_Storm",
-      "title": "Violent Storm"
+      "title": "Violent Storm",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "Wacky_Wheels",
-      "title": "Wacky Wheels"
+      "title": "Wacky Wheels",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Warriors_of_the_Eternal_Sun",
-      "title": "Dungeons & Dragons: Warriors of the Eternal Sun"
+      "title": "Dungeons & Dragons: Warriors of the Eternal Sun",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Wave_Race_64",
-      "title": "Wave Race 64"
+      "title": "Wave Race 64",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Ween-The_Prophecy",
-      "title": "Ween - The Prophecy"
+      "title": "Ween - The Prophecy",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Werewolf_The_Last_Warrior",
-      "title": "Werewolf: The Last Warrior"
+      "title": "Werewolf: The Last Warrior",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "WFW_311",
-      "title": "Windows for Workgroups 3.11"
+      "title": "Windows for Workgroups 3.11",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Whip_Rush",
-      "title": "Whip Rush"
+      "title": "Whip Rush",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Wild_Guns",
-      "title": "Wild Guns"
+      "title": "Wild Guns",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Windows_95",
-      "title": "Windows 95"
+      "title": "Windows 95",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Windows_XP",
-      "title": "Windows XP"
+      "title": "Windows XP",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "WipEout_64",
-      "title": "WipEout 64"
+      "title": "WipEout 64",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Wizards_and_Warriors",
-      "title": "Wizards & Warriors"
+      "title": "Wizards & Warriors",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Wolf3D",
-      "title": "Wolfenstein 3D"
+      "title": "Wolfenstein 3D",
+      "platform": {
+        "guid": "PC",
+        "title": "PC"
+      }
     },
     {
       "guid": "Wonder_Boy",
-      "title": "Wonder Boy"
+      "title": "Wonder Boy",
+      "platform": {
+        "guid": "SMS",
+        "title": "Master System"
+      }
     },
     {
       "guid": "World_Heroes_2",
-      "title": "World Heroes 2"
+      "title": "World Heroes 2",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "X-Men",
-      "title": "X-Men"
+      "title": "X-Men",
+      "platform": {
+        "guid": "Arcade",
+        "title": "Arcade"
+      }
     },
     {
       "guid": "X-Men_(Genesis)",
-      "title": "X-Men"
+      "title": "X-Men",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "X-Men_2",
-      "title": "X-Men 2: Clone Wars"
+      "title": "X-Men 2: Clone Wars",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     },
     {
       "guid": "Ys_III_(SNES)",
-      "title": "Ys III - Wanderers From Ys"
+      "title": "Ys III - Wanderers From Ys",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Zelda-Ocarina_of_Time",
-      "title": "The Legend of Zelda: Ocarina of Time"
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "platform": {
+        "guid": "N64",
+        "title": "N64"
+      }
     },
     {
       "guid": "Zelda_A_Link_to_the_Past",
-      "title": "The Legend of Zelda: A Link to the Past"
+      "title": "The Legend of Zelda: A Link to the Past",
+      "platform": {
+        "guid": "SNES",
+        "title": "SNES"
+      }
     },
     {
       "guid": "Zelda_II",
-      "title": "Zelda II: The Adventure of Link"
+      "title": "Zelda II: The Adventure of Link",
+      "platform": {
+        "guid": "NES",
+        "title": "NES"
+      }
     },
     {
       "guid": "Zero_Wing",
-      "title": "Zero Wing"
+      "title": "Zero Wing",
+      "platform": {
+        "guid": "Genesis",
+        "title": "Genesis"
+      }
     }
   ]
 }

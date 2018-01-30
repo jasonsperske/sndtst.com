@@ -4,7 +4,10 @@
   ],
   "guid": "Batman",
   "id": "256",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

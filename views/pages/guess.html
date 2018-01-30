@@ -1,0 +1,132 @@
+<style type="text/css">
+  html, body {
+    background-image: url(https://s3-us-west-2.amazonaws.com/media.sndtst.com/common/game/title);
+  }
+  #Playlist {
+    margin-left: 10px;
+  }
+  .typeahead {
+    width: 100%;
+    font-size: 40px;
+    color: #333;
+  }
+  #Playlist,#GuessTheGame,.jp-title {
+    display: none;
+  }
+  #Playlist small {
+    display: none;
+  }
+  #Playlist .jp-playing-track small {
+    display: inline;
+  }
+  .Hint {
+    display: none;
+  }
+</style>
+<div class="row">
+	<div class="col-12">
+		<h1 id="GameTitle">Can You Guess this Game?</h1>
+  </div>
+</div>
+<div class="row">
+	<div class="col-md-9">
+    <button id="ActionPlay" class="btn btn-info" disabled="disabled">Let's A Go!</button>
+    <div id="GuessTheGame">
+			<input class="typeahead" type="text" placeholder="Type your guess">
+		</div>
+		<ol id="Playlist">
+    <: game.playlist.forEach((track) => { :>
+      <li data-song='<:=track.guid:>' data-title='<:=track.title:>'><:=track.title:></li>
+    <: }) :>
+    </ol>
+	</div>
+	<div class="col-md-3">
+    <h3 class='Hint'>Need help?</h3>
+    <button id='ActionHint' class='btn btn-danger Hint'>Ask Clippy</button>
+    <h3>Want a different game?</h3>
+    <a href='/game/' class='btn btn-info'>Reset</a>
+
+    <h3>Tell others that you like this</h3>
+    <p>
+      <a href="https://twitter.com/intent/tweet?url=<:=encodeURIComponent('https://sndtst.com/game/'):>&amp;text=<:=encodeURIComponent('Playing Guess the Game! @SND_TST'):>" target="_blank" class="btn btn-success btn-sm"><i class="fa fa-twitter"></i> Twitter</a>
+    </p>
+    <p>
+      <a href="https://www.facebook.com/dialog/share?app_id=1468367333395700&amp;display=popup&amp;href=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>&amp;redirect_uri=<:=encodeURIComponent('https://sndtst.com/game/'):>" target="_blank" class="btn btn-info btn-sm"><i class="fa fa-facebook-square"></i> Facebook</a>
+    </p>
+	</div>
+</div>
+<script>
+  $(function () {
+    var load = function (url) {
+      var list = []
+      $.ajax({
+        url: url,
+        dataType: 'json',
+        async: false,
+        success: function (data) {
+          list = data.games
+        }
+      })
+      return {
+        name: 'best-guess',
+        display: 'title',
+        templates: {
+          empty: '<div class="empty-message">unable to find any game with that name</div>',
+          suggestion: function (game) {
+            return '<p><strong>'+game.title+'</strong> – <small>'+game.platform.title+'</small></p>'
+          }
+        },
+        source: new Bloodhound({
+          identify: function(o) { return o.guid; },
+          datumTokenizer: Bloodhound.tokenizers.obj.whitespace('title'),
+          queryTokenizer: Bloodhound.tokenizers.whitespace,
+          local: list
+        })
+      };
+    }
+
+    var hints = [
+      'This game was released on the <:=game.platform.title:>',
+      'This game starts with the letter "<:=game.title[0]:>"',
+      '<:= (game.title.split(' ').length === 1 ? "This is a one word title" : "The first word of this game is " + game.title.split(' ')[0]) :>'
+    ].reverse()
+    $('#GuessTheGame .typeahead').typeahead({
+      minLength: 1,
+      highlight: true,
+    },load('/data/games.json')).on('typeahead:selected', function (e, item) {
+      if(item.guid === '<:=game.guid:>') {
+        $('#GameTitle').html('<:=game.title:>')
+        $('#GuessTheGame').hide()
+        $('#Playlist,.jp-title ').fadeIn()
+        $('html, body').css({'background-image':"url(https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/title)"})
+      } else {
+        alert("Sorry this isn't it")
+      }
+    })
+		SNDTST.init('#Playlist', 'https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/song/', function () {
+			$('#ActionPlay').on('click', function () {
+				SNDTST.play()
+				$('#GuessTheGame').fadeIn()
+				$('#ActionPlay').hide()
+				clippy.load('Clippy', function (agent) {
+					$('.Hint').show()
+					$('#ActionHint').on('click', function () {
+						var hint = hints.pop()
+						agent.show()
+						agent.play('GetAttention')
+						if (hint) {
+							agent.speak(hint)
+						} else {
+							agent.speak('Sorry there are no more hints, here you go!')
+							$('#GameTitle').html('<:=game.title:>')
+							$('#GuessTheGame').hide()
+							$('.Hint').hide()
+							$('#Playlist,.jp-title ').fadeIn()
+							$('html, body').css({'background-image':"url(https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/title)"})
+						}
+					})
+				})
+			}).prop('disabled', false)
+		})
+  })
+</script>

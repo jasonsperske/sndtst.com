@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Civilization-Call_To_Power",
   "id": "207",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Arabian Nights",

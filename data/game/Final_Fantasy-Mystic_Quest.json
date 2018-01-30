@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Final_Fantasy-Mystic_Quest",
   "id": "259",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Mystic Quest",

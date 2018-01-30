@@ -4,7 +4,10 @@
   ],
   "guid": "Midnight_Resistance",
   "id": "263",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Flood of Power (BGM 1)",

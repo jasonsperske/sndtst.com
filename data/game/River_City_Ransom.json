@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "River_City_Ransom",
   "id": "198",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Game Mode & Character Select",

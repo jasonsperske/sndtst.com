@@ -5,7 +5,10 @@
   ],
   "guid": "Metroid_Fusion",
   "id": "308",
-  "platform": "GBA",
+  "platform": {
+    "guid": "GBA",
+    "title": "Game Boy Advance"
+  },
   "playlist": [
     {
       "title": "Opening (part 1)",

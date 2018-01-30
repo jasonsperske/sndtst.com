@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Star_Wars",
   "id": "275",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "In Stereo",

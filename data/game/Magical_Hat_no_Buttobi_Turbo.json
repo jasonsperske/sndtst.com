@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Magical_Hat_no_Buttobi_Turbo",
   "id": "139",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening Theme",

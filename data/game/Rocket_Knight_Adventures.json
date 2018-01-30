@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Rocket_Knight_Adventures",
   "id": "177",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Konami Logo",

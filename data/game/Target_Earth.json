@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Target_Earth",
   "id": "270",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Title Theme",

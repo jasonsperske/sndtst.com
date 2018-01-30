@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Fatal_Fury_Special",
   "id": "247",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Garou Densetsu Special (Title)",

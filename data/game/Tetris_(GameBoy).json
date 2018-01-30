@@ -6,7 +6,10 @@
   ],
   "guid": "Tetris_(GameBoy)",
   "id": "245",
-  "platform": "GameBoy",
+  "platform": {
+    "guid": "GameBoy",
+    "title": "Game Boy"
+  },
   "playlist": [
     {
       "title": "Title",

@@ -5,7 +5,10 @@
   ],
   "guid": "Biker_Mice_from_Mars",
   "id": "329",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Theme",

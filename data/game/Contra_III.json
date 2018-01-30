@@ -6,7 +6,10 @@
   ],
   "guid": "Contra_III",
   "id": "384",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Red Falcon's Revenge",

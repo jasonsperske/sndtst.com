@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Legend_of_Kage",
   "id": "100",
-  "platform": "SMS",
+  "platform": {
+    "guid": "SMS",
+    "title": "Master System"
+  },
   "playlist": [
     {
       "title": "Unknown",

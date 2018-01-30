@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Cool_Spot",
   "id": "220",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Wipeout Tune",

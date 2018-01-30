@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Lufia",
   "id": "170",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Departure",

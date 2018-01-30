@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "TMNT4_Turtles_In_Time",
   "id": "37",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Turtle Power",

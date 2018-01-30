@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Gimmick",
   "id": "217",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Good Morning",

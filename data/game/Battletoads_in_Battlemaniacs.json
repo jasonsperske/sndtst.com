@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Battletoads_in_Battlemaniacs",
   "id": "112",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Main Theme",

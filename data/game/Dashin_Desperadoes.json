@@ -6,7 +6,10 @@
   ],
   "guid": "Dashin_Desperadoes",
   "id": "323",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Data East Logo",

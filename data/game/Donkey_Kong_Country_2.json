@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Donkey_Kong_Country_2",
   "id": "154",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "K. Rool Returns",

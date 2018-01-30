@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Spy_Hunter",
   "id": "279",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Opening Theme",

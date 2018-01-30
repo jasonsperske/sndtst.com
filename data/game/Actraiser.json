@@ -4,7 +4,10 @@
   ],
   "guid": "Actraiser",
   "id": "4",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "guid": "4-bebed752afaa6473OgLQ107364faOg1458c1ed17eOgLQ7fff",

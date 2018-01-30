@@ -5,7 +5,10 @@
   ],
   "guid": "Aero_Fighters",
   "id": "152",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Opening",

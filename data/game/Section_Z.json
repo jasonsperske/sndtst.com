@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Section_Z",
   "id": "81",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title",

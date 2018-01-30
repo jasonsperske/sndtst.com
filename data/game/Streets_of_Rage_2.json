@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Streets_of_Rage_2",
   "id": "28",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "SOR Super Mix",

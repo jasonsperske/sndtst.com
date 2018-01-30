@@ -5,7 +5,10 @@
   ],
   "guid": "Gauntlet_IV",
   "id": "368",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Main Theme",

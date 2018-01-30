@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Streets_of_Rage",
   "id": "27",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "The Street of Rage",

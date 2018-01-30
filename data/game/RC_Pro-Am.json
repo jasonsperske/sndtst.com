@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "RC_Pro-Am",
   "id": "229",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Unknown",

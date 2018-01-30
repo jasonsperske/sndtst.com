@@ -4,7 +4,10 @@
   ],
   "guid": "Gunstar_Heroes",
   "id": "306",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Intro",

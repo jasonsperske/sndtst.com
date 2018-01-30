@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Tetris",
   "id": "98",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Music 1",

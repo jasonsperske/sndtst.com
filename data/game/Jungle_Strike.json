@@ -4,7 +4,10 @@
   ],
   "guid": "Jungle_Strike",
   "id": "338",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Title ~ Staff Roll",

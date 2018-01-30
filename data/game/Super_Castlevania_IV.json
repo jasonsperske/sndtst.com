@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Castlevania_IV",
   "id": "135",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Konami Logo",

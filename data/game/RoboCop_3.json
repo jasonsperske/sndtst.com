@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "RoboCop_3",
   "id": "309",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

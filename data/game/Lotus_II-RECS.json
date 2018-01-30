@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Lotus_II-RECS",
   "id": "165",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Main Theme",

@@ -4,7 +4,10 @@
   ],
   "guid": "Balloon_Fight",
   "id": "312",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Ballon Trip:Bonus Round",

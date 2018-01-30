@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Rad_Racer",
   "id": "225",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Unknown",

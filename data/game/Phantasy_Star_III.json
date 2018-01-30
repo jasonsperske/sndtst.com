@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Phantasy_Star_III",
   "id": "22",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening Theme",

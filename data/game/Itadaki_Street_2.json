@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Itadaki_Street_2",
   "id": "273",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Perfect Love",

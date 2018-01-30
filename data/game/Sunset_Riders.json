@@ -4,7 +4,10 @@
   ],
   "guid": "Sunset_Riders",
   "id": "321",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Introduction",

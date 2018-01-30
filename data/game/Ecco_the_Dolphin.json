@@ -6,7 +6,10 @@
   ],
   "guid": "Ecco_the_Dolphin",
   "id": "180",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening Theme",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "TMNT2_The_Arcade_Game",
   "id": "214",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "We Gotta Save April!",

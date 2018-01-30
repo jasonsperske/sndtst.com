@@ -6,7 +6,10 @@
   ],
   "guid": "Power_Strike",
   "id": "291",
-  "platform": "SMS",
+  "platform": {
+    "guid": "SMS",
+    "title": "Master System"
+  },
   "playlist": [
     {
       "title": "Aleste",

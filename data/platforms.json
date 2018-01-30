@@ -1,0 +1,35 @@
+{
+  "Arcade": {
+    "title": "Arcade"
+  },
+  "GameBoy": {
+    "title": "Game Boy"
+  },
+  "GBA": {
+    "title": "Game Boy Advance"
+  },
+  "Genesis": {
+    "title": "Genesis"
+  },
+  "SMS": {
+    "title": "Master System"
+  },
+  "MSX": {
+    "title": "MSX"
+  },
+  "N64": {
+    "title": "N64"
+  },
+  "NES": {
+    "title": "NES"
+  },
+  "PC": {
+    "title": "PC"
+  },
+  "SNES": {
+    "title": "SNES"
+  },
+  "TG16": {
+    "title": "Turbo Grafx-16"
+  }
+}

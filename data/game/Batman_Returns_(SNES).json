@@ -6,7 +6,10 @@
   ],
   "guid": "Batman_Returns_(SNES)",
   "id": "324",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "guid": "324-56bb0e5247865bc0Ogbcc454bOg14da147efe6OgLQ7f61",

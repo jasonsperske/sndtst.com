@@ -4,7 +4,10 @@
   ],
   "guid": "Plok",
   "id": "212",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Main Theme",

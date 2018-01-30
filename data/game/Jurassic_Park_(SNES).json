@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Jurassic_Park_(SNES)",
   "id": "104",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Ocean Flyover Intro",

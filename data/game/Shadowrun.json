@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Shadowrun",
   "id": "80",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Seattle 2050",

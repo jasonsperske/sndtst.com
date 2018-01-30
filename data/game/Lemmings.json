@@ -4,7 +4,10 @@
   ],
   "guid": "Lemmings",
   "id": "337",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

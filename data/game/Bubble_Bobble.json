@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Bubble_Bobble",
   "id": "209",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "The Quest Begins...",

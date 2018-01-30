@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Final_Fantasy_VI",
   "id": "90",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Opening Theme (part 1)",

@@ -5,7 +5,10 @@
   ],
   "guid": "Chrono_Trigger",
   "id": "87",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Presentiment",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Castlevania_III",
   "id": "101",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Prelude (Intro)",

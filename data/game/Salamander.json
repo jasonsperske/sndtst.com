@@ -8,7 +8,10 @@
   ],
   "guid": "Salamander",
   "id": "314",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Power of Anger",

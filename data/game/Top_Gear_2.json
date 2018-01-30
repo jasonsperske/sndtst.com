@@ -6,7 +6,10 @@
   ],
   "guid": "Top_Gear_2",
   "id": "357",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Terranigma",
   "id": "153",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Origins",

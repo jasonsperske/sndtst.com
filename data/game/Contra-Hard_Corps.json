@@ -8,7 +8,10 @@
   ],
   "guid": "Contra-Hard_Corps",
   "id": "297",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Konami Music",

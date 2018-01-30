@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Blades_of_Steel",
   "id": "227",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Blades of Steelp",

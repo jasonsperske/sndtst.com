@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Bomberman_3",
   "id": "294",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Select 1",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Shining_In_The_Darkness",
   "id": "54",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Welcome to Storm",

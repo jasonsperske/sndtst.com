@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Comix_Zone",
   "id": "103",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Sega Logo",

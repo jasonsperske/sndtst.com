@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Mario_Golf_64",
   "id": "235",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "All Complete Bonus Song",

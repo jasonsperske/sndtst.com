@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Bomberman_2",
   "id": "141",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "The Five Dastardly Bombers",

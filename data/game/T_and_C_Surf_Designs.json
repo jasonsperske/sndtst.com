@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "T_and_C_Surf_Designs",
   "id": "33",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "In-Game",

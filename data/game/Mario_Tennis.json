@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Mario_Tennis",
   "id": "233",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Opening - Entrance",

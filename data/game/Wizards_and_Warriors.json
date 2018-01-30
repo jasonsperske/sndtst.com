@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Wizards_and_Warriors",
   "id": "192",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Wizards & Warriors Title",

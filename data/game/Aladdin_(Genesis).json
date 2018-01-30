@@ -5,7 +5,10 @@
   ],
   "guid": "Aladdin_(Genesis)",
   "id": "221",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Storyline",

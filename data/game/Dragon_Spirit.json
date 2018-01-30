@@ -4,7 +4,10 @@
   ],
   "guid": "Dragon_Spirit",
   "id": "46",
-  "platform": "TG16",
+  "platform": {
+    "guid": "TG16",
+    "title": "Turbo Grafx-16"
+  },
   "playlist": [
     {
       "title": "Umi",

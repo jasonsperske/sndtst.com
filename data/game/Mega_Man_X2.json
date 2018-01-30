@@ -4,7 +4,10 @@
   ],
   "guid": "Mega_Man_X2",
   "id": "290",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Capcom Logo",

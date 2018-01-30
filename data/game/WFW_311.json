@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "WFW_311",
   "id": "26",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Startup",

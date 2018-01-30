@@ -6,7 +6,10 @@
   ],
   "guid": "Werewolf_The_Last_Warrior",
   "id": "391",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Data East Logo",

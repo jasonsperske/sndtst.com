@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Double_Dragon_III",
   "id": "202",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Double Dragon 3 - Theme",

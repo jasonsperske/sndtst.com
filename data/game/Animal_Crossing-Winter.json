@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Animal_Crossing-Winter",
   "id": "305",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "12 am Hourly Music",

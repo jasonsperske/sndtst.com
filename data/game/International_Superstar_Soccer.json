@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "International_Superstar_Soccer",
   "id": "237",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Main Menu",

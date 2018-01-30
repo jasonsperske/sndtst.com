@@ -5,7 +5,10 @@
   ],
   "guid": "Mega_Man",
   "id": "19",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Stage Select",

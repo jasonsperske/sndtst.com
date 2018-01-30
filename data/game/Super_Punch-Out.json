@@ -5,7 +5,10 @@
   ],
   "guid": "Super_Punch-Out",
   "id": "307",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title",

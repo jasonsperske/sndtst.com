@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Faxanadu",
   "id": "97",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Introduction - Man That's A Big Tree",

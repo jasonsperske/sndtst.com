@@ -4,7 +4,10 @@
   ],
   "guid": "Legend_of_Zelda",
   "id": "5",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Intro",

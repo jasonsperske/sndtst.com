@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Strider",
   "id": "133",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Defense Line",

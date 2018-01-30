@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Sonic_Advance",
   "id": "204",
-  "platform": "GBA",
+  "platform": {
+    "guid": "GBA",
+    "title": "Game Boy Advance"
+  },
   "playlist": [
     {
       "title": "Opening",

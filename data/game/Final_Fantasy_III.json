@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Final_Fantasy_III",
   "id": "156",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "The Prelude",

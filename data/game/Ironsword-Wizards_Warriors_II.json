@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Ironsword-Wizards_Warriors_II",
   "id": "231",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Intro",

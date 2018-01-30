@@ -12,6 +12,7 @@ gulp.task('script', () => {
     'node_modules/popper.js/dist/umd/popper.js',
     'node_modules/bootstrap/dist/js/bootstrap.js',
     'node_modules/jplayer/dist/jplayer/jquery.jplayer.js',
+    'node_modules/typeahead.js/dist/typeahead.bundle.js',
     'src/js/clippy.js',
     'src/js/sndtst.js'], {base: '.'})
     .pipe(uglify())

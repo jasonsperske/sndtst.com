@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "GI_Joe-The_Atlantis_Factor",
   "id": "300",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Capcom Logo",

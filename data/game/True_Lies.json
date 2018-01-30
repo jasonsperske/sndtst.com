@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "True_Lies",
   "id": "79",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "True Lies",

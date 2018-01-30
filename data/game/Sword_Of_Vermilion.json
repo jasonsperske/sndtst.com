@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Sword_Of_Vermilion",
   "id": "68",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening",

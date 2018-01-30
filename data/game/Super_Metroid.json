@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Metroid",
   "id": "109",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Opening ~ Destruction of the Space Colony",

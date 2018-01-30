@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_R-Type",
   "id": "241",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "R-9, to the Front!",

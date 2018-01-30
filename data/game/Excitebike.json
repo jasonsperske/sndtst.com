@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Excitebike",
   "id": "188",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Excitebike Theme",

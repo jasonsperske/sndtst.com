@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "GoldenEye_007",
   "id": "137",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Captured! (surface)",

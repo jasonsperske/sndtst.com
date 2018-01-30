@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Ninja_Gaiden",
   "id": "45",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Opening Theme",

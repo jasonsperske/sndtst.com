@@ -4,7 +4,10 @@
   ],
   "guid": "Mother_3",
   "id": "365",
-  "platform": "GBA",
+  "platform": {
+    "guid": "GBA",
+    "title": "Game Boy Advance"
+  },
   "playlist": [
     {
       "title": "Let's Begin!",

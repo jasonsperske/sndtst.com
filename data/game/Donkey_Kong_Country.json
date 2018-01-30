@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Donkey_Kong_Country",
   "id": "61",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Theme",

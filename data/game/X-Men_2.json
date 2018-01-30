@@ -4,7 +4,10 @@
   ],
   "guid": "X-Men_2",
   "id": "287",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening Level",

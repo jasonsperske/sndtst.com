@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Ghouls_n_Ghosts",
   "id": "52",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Main Theme",

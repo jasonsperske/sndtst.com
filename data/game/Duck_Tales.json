@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Duck_Tales",
   "id": "3",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title",

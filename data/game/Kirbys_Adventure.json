@@ -5,7 +5,10 @@
   ],
   "guid": "Kirbys_Adventure",
   "id": "186",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "First You Draw a Circle...",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Porky_Pigs_Haunted_Holiday",
   "id": "162",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Sunsoft Fanfare",

@@ -4,7 +4,10 @@
   ],
   "guid": "Tatsujin",
   "id": "379",
-  "platform": "TG16",
+  "platform": {
+    "guid": "TG16",
+    "title": "Turbo Grafx-16"
+  },
   "playlist": [
     {
       "title": "Far Away [Stage 1]",

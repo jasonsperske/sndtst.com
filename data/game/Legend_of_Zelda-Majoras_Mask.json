@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Legend_of_Zelda-Majoras_Mask",
   "id": "149",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Title Demo",

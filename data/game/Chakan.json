@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Chakan",
   "id": "169",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Intro Theme",

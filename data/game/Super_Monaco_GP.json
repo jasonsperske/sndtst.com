@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Monaco_GP",
   "id": "56",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Extreme Tension",

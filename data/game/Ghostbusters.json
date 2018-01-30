@@ -4,7 +4,10 @@
   ],
   "guid": "Ghostbusters",
   "id": "320",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Main Theme",

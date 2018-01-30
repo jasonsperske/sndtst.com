@@ -4,7 +4,10 @@
   ],
   "guid": "Truxton",
   "id": "378",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Brave Man (Take Off)",

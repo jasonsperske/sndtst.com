@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Lufia_II",
   "id": "171",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Time of Judgement",

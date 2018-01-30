@@ -4,7 +4,10 @@
   ],
   "guid": "Metroid",
   "id": "194",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Intro",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Battletoads_(Genesis)",
   "id": "72",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Theme",

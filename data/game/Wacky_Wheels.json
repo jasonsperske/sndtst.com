@@ -4,7 +4,10 @@
   ],
   "guid": "Wacky_Wheels",
   "id": "356",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Apogee Fanfare",

@@ -4,7 +4,10 @@
   ],
   "guid": "Legendary_Axe_II",
   "id": "145",
-  "platform": "TG16",
+  "platform": {
+    "guid": "TG16",
+    "title": "Turbo Grafx-16"
+  },
   "playlist": [
     {
       "title": "Opening",

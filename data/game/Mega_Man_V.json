@@ -4,7 +4,10 @@
   ],
   "guid": "Mega_Man_V",
   "id": "332",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Intro",

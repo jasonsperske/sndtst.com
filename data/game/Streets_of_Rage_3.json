@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Streets_of_Rage_3",
   "id": "224",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Spinning Machine",

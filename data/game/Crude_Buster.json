@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Crude_Buster",
   "id": "252",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Crude Buster-The Lifeline of New York",

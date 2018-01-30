@@ -4,7 +4,10 @@
   ],
   "guid": "Rock_n_Roll_Racing",
   "id": "178",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Bad to the Bone",

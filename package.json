@@ -25,6 +25,7 @@
     "nconf": "^0.10.0",
     "optional-require": "^1.0.0",
     "popper.js": "^1.12.9",
-    "serve-favicon": "^2.4.5"
+    "serve-favicon": "^2.4.5",
+    "typeahead.js": "^0.11.1"
   }
 }

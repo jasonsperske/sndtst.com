@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Mario_Land_2",
   "id": "243",
-  "platform": "GameBoy",
+  "platform": {
+    "guid": "GameBoy",
+    "title": "Game Boy"
+  },
   "playlist": [
     {
       "title": "Level 1",

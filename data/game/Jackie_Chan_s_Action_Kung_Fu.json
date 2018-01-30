@@ -4,7 +4,10 @@
   ],
   "guid": "Jackie_Chan_s_Action_Kung_Fu",
   "id": "348",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Intro",

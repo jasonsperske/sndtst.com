@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Double_Dragon",
   "id": "24",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Opening (Double Dragon)",

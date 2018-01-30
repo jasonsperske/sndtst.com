@@ -4,7 +4,10 @@
   ],
   "guid": "Wonder_Boy",
   "id": "330",
-  "platform": "SMS",
+  "platform": {
+    "guid": "SMS",
+    "title": "Master System"
+  },
   "playlist": [
     {
       "title": "Title Screen",

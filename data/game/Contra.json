@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Contra",
   "id": "30",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title",

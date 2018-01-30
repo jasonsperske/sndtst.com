@@ -6,7 +6,10 @@
   ],
   "guid": "Thunder_Force_IV",
   "id": "327",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Lightning Strikes Again (Opening Theme)",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Battle_Garegga",
   "id": "246",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Rebellion (Opening)",

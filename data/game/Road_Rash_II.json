@@ -6,7 +6,10 @@
   ],
   "guid": "Road_Rash_II",
   "id": "335",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Main Theme",

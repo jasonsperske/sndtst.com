@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Mortal_Kombat_2_(SNES)",
   "id": "122",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Sculptured Software",

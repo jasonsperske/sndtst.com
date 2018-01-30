@@ -4,7 +4,10 @@
   ],
   "guid": "Ristar",
   "id": "126",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening Theme 1 - Ebony Force",

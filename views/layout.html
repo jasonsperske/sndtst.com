@@ -4,8 +4,8 @@
     <meta charset='utf-8'>
     <meta http-equiv='content-type' content='text/html;charset=UTF-8' />
     <title>
-      <:if(locals.game) { :>
-        <:= game.title :>-SNDTST
+      <:if(locals.page_title) { :>
+        <:= page_title :>
       <: } else { :>
         Sound Test
       <: } :>
@@ -30,10 +30,18 @@
     <meta property='twitter:site' content='@snd_tst'/>
     <meta property='twitter:creator' content='@snd_tst'/>
 
-
-    <: if (locals.game) { :>
+    <: if (locals.page_title === 'Guess the Game') { :>
       <meta property="twitter:card" content="summary"/>
-      <meta property="sndtst:title" content="ActRaiser"/>
+      <meta property="og:title" content="Guess the Game"/>
+      <meta property="og:type" content="game"/>
+      <meta property="og:url" content="https://sndtst.com/game/"/>
+      <meta property="og:image" content="https://s3-us-west-2.amazonaws.com/media.sndtst.com/common/game/title"/>
+
+      <meta property='og:description' content="Guess the Game by it's music"/>
+      <meta property='twitter:description' content="Guess the Game by it's music"/>
+    <: } else if (locals.game) { :>
+      <meta property="twitter:card" content="summary"/>
+      <meta property="sndtst:title" content="<:=game.title:>"/>
     <: game.composed_by.forEach((composer) => { :>
       <meta property="sndtst:composed_by" content="<:=composer:>" role="Composer"/>
     <: }) :>
@@ -62,11 +70,21 @@
 	<body>
     <header>
       <div class='container'>
-        <div class="navbar navbar-dark">
+        <div class="navbar navbar-dark navbar-expand-md">
           <div class="container d-flex justify-content-between">
             <a href="/" class="navbar-brand d-flex align-items-center">
               <strong>Sound Test</strong>
             </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                  <a class="nav-link" href="/game/">Guess the Game</a>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>

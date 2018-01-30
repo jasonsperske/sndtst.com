@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Castlevania_II",
   "id": "92",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "The Silence of The Daylight (Town Stage BGM)",

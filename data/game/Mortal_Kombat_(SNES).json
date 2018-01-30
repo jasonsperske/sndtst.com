@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Mortal_Kombat_(SNES)",
   "id": "121",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title",

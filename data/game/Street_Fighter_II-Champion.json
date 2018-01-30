@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Street_Fighter_II-Champion",
   "id": "397",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Capcom Logo",

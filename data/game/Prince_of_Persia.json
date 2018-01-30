@@ -5,7 +5,10 @@
   ],
   "guid": "Prince_of_Persia",
   "id": "367",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Prologue A (Roland MT-32)",

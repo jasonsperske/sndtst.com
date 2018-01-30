@@ -4,7 +4,10 @@
   ],
   "guid": "Mega_Man_X",
   "id": "83",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

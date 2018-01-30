@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Dragon_Warrior",
   "id": "93",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Theme",

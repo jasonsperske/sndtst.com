@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Fire_Shark",
   "id": "39",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Fire Shark",

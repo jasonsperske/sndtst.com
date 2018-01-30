@@ -4,7 +4,10 @@
   ],
   "guid": "Wave_Race_64",
   "id": "372",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Main Title",

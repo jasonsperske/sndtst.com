@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Rygar",
   "id": "59",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Sunset",

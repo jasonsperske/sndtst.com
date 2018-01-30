@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Battletoads_and_Double_Dragon",
   "id": "73",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Title Theme",

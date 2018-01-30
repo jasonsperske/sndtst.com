@@ -978,8 +978,8 @@ globule@~0.1.0:
     minimatch "~0.2.11"
 
 glogg@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/glogg/-/glogg-1.0.0.tgz#7fe0f199f57ac906cf512feead8f90ee4a284fc5"
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/glogg/-/glogg-1.0.1.tgz#dcf758e44789cc3f3d32c1f3562a3676e6a34810"
   dependencies:
     sparkles "^1.0.0"
 
@@ -1443,13 +1443,13 @@ jplayer@^2.9.2:
   dependencies:
     jquery ">1.7.0"
 
-jquery@>1.7.0, jquery@^3.3.1:
+jquery@>1.7.0, jquery@>=1.7, jquery@^3.3.1:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca"
 
 js-base64@^2.1.8:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.4.1.tgz#e02813181cd53002888e918935467acb2910e596"
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.4.3.tgz#2e545ec2b0f2957f41356510205214e98fad6582"
 
 jsbn@~0.1.0:
   version "0.1.1"
@@ -2716,9 +2716,15 @@ type-is@~1.6.15:
     media-typer "0.3.0"
     mime-types "~2.1.15"
 
+typeahead.js@^0.11.1:
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/typeahead.js/-/typeahead.js-0.11.1.tgz#4e64e671b22310a8606f4aec805924ba84b015b8"
+  dependencies:
+    jquery ">=1.7"
+
 uglify-js@^3.0.5:
-  version "3.3.8"
-  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.3.8.tgz#51e9a5db73afb53ac98603d08224edcd0be45fd8"
+  version "3.3.9"
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.3.9.tgz#33869666c8ab7f7658ce3d22f0f1ced40097d33a"
   dependencies:
     commander "~2.13.0"
     source-map "~0.6.1"

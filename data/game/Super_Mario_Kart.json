@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Mario_Kart",
   "id": "60",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Nintendo Logo",

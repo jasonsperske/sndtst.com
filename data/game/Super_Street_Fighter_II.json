@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Street_Fighter_II",
   "id": "253",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Opening Demo",

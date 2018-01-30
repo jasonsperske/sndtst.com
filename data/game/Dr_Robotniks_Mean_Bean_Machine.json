@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Dr_Robotniks_Mean_Bean_Machine",
   "id": "223",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening Theme",

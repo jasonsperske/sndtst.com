@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Excitebike_64",
   "id": "195",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Excitebike 64 Intro",

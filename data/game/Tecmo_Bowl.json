@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Tecmo_Bowl",
   "id": "230",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen Roll",

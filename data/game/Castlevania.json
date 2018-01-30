@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Castlevania",
   "id": "89",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Introduction (Castle Gate)",

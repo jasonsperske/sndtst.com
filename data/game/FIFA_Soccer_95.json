@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "FIFA_Soccer_95",
   "id": "219",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "EA Sports Theme",

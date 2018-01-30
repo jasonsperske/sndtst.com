@@ -4,7 +4,10 @@
   ],
   "guid": "Phantasy_Star",
   "id": "131",
-  "platform": "SMS",
+  "platform": {
+    "guid": "SMS",
+    "title": "Master System"
+  },
   "playlist": [
     {
       "title": "Title Screen",

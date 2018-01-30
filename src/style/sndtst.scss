@@ -42,6 +42,9 @@ html, body {
     color: #fff;
   }
 }
+.navbar-brand {
+	font-size: 1.05rem;
+}
 .Platform h1 {
 	font-size: 60px;
 }
@@ -140,4 +143,13 @@ header>.container, main>.container, footer>.container {
 	animation-iteration-count: infinite;
 	animation-timing-function: cubic-bezier(1.0,0,0,1.0);
 	animation-duration: 1s;
+}
+.tt-dropdown-menu {
+	width: 100%;
+}
+.tt-suggestions {
+	background-color: #fff;
+	color: #000;
+	cursor: pointer;
+	padding: 10px;
 }

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "The_Legend_of_Kyrandia_1",
   "id": "2",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Introduction",

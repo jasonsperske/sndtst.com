@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Ninja_Gaiden_II",
   "id": "172",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Approaching Evil [Opening]",

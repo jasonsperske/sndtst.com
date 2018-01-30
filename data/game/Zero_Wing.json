@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Zero_Wing",
   "id": "236",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Introduction (Part 1)",

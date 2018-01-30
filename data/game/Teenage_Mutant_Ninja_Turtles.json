@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Teenage_Mutant_Ninja_Turtles",
   "id": "32",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title",

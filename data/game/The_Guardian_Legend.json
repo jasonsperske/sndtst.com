@@ -5,7 +5,10 @@
   ],
   "guid": "The_Guardian_Legend",
   "id": "12",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Intro Theme",

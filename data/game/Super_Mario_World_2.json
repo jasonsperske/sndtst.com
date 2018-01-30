@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Mario_World_2",
   "id": "283",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Nintendo Mark",

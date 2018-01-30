@@ -6,7 +6,10 @@
   ],
   "guid": "Sim_City_2000",
   "id": "359",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Track 01",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "The_Ninja_Warriors",
   "id": "151",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Opening",

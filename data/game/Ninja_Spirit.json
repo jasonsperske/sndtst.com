@@ -4,7 +4,10 @@
   ],
   "guid": "Ninja_Spirit",
   "id": "64",
-  "platform": "TG16",
+  "platform": {
+    "guid": "TG16",
+    "title": "Turbo Grafx-16"
+  },
   "playlist": [
     {
       "title": "Iza [Title]",

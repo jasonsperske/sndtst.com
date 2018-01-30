@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Space_Harrier_II",
   "id": "70",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Motion (Title Screen)",

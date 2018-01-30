@@ -5,7 +5,10 @@
   ],
   "guid": "GI_Joe",
   "id": "301",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

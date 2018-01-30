@@ -5,7 +5,10 @@
   ],
   "guid": "Super_Bomberman_5",
   "id": "296",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Hudson Soft",

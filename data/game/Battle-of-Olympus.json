@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Battle-of-Olympus",
   "id": "34",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

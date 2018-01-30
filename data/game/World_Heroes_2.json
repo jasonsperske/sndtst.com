@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "World_Heroes_2",
   "id": "248",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Hell's Goddess no Sasayaki",

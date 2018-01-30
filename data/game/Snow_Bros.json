@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Snow_Bros",
   "id": "265",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "YUKIDAMA ONDO (Stage 1, 3)",

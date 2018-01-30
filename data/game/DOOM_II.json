@@ -4,7 +4,10 @@
   ],
   "guid": "DOOM_II",
   "id": "23",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "guid": "23-40cca6fa22d7d3a2Og20a393ecOg145a0912a0aOgLQ7f72",

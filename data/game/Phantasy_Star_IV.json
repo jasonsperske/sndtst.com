@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Phantasy_Star_IV",
   "id": "182",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "The End of the Millennium",

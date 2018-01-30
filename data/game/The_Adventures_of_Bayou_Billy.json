@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "The_Adventures_of_Bayou_Billy",
   "id": "147",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "How Far Will You Go for the Girl of Your Dreams? (Intro)",

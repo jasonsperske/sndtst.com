@@ -7,7 +7,10 @@
   ],
   "guid": "Akumajou_Densetsu",
   "id": "363",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Prelude (Intro)",

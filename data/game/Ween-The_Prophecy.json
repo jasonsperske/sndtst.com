@@ -4,7 +4,10 @@
   ],
   "guid": "Ween-The_Prophecy",
   "id": "313",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Intro 1 - On That Day",

@@ -4,7 +4,10 @@
   ],
   "guid": "Thunder_Force_II",
   "id": "369",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "The Wind Blew All Day Long (Opening Theme)",

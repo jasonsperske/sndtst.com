@@ -4,7 +4,10 @@
   ],
   "guid": "Pokemon_Red",
   "id": "160",
-  "platform": "GameBoy",
+  "platform": {
+    "guid": "GameBoy",
+    "title": "Game Boy"
+  },
   "playlist": [
     {
       "title": "Unknown",

@@ -4,7 +4,10 @@
   ],
   "guid": "Continuum",
   "id": "76",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Title",

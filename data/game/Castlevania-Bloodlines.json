@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Castlevania-Bloodlines",
   "id": "278",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Konami Logo",

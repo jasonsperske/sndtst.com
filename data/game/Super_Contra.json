@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Contra",
   "id": "102",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Stage 1 - Lightning and Grenades",

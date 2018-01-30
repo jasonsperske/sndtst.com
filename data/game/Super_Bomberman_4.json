@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Bomberman_4",
   "id": "295",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Hudson Soft Voice",

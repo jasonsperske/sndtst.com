@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "HyperZone",
   "id": "272",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Halken Logo",

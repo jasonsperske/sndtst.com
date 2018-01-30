@@ -6,7 +6,10 @@
   ],
   "guid": "Mike_Tysons_Punch-Out",
   "id": "179",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Punch Out!! Theme",

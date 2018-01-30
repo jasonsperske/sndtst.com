@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Jackal",
   "id": "189",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title",

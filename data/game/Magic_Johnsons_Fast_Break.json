@@ -4,7 +4,10 @@
   ],
   "guid": "Magic_Johnsons_Fast_Break",
   "id": "382",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

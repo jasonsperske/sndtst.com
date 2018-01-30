@@ -4,7 +4,10 @@
   ],
   "guid": "James_Bond_Jr",
   "id": "341",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

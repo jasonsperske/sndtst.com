@@ -4,7 +4,10 @@
   ],
   "guid": "Fatal_Fury",
   "id": "325",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Opening Theme",

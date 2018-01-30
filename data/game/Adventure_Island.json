@@ -4,7 +4,10 @@
   ],
   "guid": "Adventure_Island",
   "id": "35",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

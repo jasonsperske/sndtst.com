@@ -7,7 +7,10 @@
   ],
   "guid": "Rise_of_the_Triad",
   "id": "274",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Apogee Fanfare",

@@ -4,7 +4,10 @@
   ],
   "guid": "Vectorman",
   "id": "116",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Title Theme",

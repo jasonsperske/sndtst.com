@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Terra_Force",
   "id": "250",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Coin",

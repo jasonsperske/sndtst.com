@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Double_Dragon",
   "id": "289",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Introduction",

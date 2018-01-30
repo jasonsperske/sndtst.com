@@ -4,7 +4,10 @@
   ],
   "guid": "El_Viento",
   "id": "344",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening Theme",

@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Mario_Bros_2",
   "id": "13",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

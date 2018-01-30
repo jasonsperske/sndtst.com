@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Donkey_Kong",
   "id": "148",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title",

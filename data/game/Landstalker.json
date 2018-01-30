@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Landstalker",
   "id": "184",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Title Theme",

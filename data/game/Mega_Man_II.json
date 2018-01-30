@@ -6,7 +6,10 @@
   ],
   "guid": "Mega_Man_II",
   "id": "20",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Opening and Title",

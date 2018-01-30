@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Shadow_of_the_Beast",
   "id": "277",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "The Thing",

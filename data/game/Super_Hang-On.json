@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Hang-On",
   "id": "128",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Select Your Class",

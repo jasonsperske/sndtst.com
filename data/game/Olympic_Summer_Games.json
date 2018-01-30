@@ -4,7 +4,10 @@
   ],
   "guid": "Olympic_Summer_Games",
   "id": "346",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Main Theme",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Blaster_Master",
   "id": "18",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Intro",

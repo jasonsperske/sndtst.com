@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Antarctic_Adventure",
   "id": "281",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Press Start",

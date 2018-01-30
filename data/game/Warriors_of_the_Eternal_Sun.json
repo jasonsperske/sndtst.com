@@ -6,7 +6,10 @@
   ],
   "guid": "Warriors_of_the_Eternal_Sun",
   "id": "322",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Intro Theme 1",

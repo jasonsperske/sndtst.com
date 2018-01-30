@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Final_Fantasy_IV",
   "id": "358",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "The Prelude",

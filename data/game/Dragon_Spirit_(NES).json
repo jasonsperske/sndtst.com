@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Dragon_Spirit_(NES)",
   "id": "200",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title",

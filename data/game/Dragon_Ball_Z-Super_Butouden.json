@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Dragon_Ball_Z-Super_Butouden",
   "id": "167",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Opening Title",

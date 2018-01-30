@@ -4,7 +4,10 @@
   ],
   "guid": "Doom",
   "id": "16",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Introduction",

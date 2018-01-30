@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "The_Tick",
   "id": "328",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Fox Fanfare",

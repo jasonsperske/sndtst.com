@@ -5,7 +5,10 @@
   ],
   "guid": "Duke_Nukem_3D",
   "id": "29",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Grabbag",

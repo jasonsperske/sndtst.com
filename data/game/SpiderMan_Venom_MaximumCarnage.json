@@ -6,7 +6,10 @@
   ],
   "guid": "SpiderMan_Venom_MaximumCarnage",
   "id": "315",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Main Theme",

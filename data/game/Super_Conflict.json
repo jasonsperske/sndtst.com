@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Conflict",
   "id": "299",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Opening",

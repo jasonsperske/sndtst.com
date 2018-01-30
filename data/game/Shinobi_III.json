@@ -6,7 +6,10 @@
   ],
   "guid": "Shinobi_III",
   "id": "326",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "He Runs",

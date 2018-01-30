@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Gradius_II",
   "id": "108",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Power Meter Select",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Sonic_The_Hedgehog",
   "id": "7",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Title Screen",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Arnold_Palmer_Tournament_Golf",
   "id": "222",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Title Theme",

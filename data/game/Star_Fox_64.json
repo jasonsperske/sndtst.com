@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Star_Fox_64",
   "id": "176",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Opening",

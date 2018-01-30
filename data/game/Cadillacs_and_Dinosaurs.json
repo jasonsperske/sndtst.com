@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Cadillacs_and_Dinosaurs",
   "id": "249",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Continue",

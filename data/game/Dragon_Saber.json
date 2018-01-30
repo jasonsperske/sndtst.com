@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Dragon_Saber",
   "id": "262",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Story of Dragon Saber (Opening 1)",

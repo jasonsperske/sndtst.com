@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Out_Zone",
   "id": "266",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Out Zone (Arranged Version)",

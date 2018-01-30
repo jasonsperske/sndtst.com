@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "The_Goonies_II",
   "id": "106",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Good Enough - Main Theme",

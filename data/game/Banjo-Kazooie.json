@@ -4,7 +4,10 @@
   ],
   "guid": "Banjo-Kazooie",
   "id": "354",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Nintendo & Rare Logo",

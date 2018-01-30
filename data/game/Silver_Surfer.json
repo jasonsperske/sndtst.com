@@ -4,7 +4,10 @@
   ],
   "guid": "Silver_Surfer",
   "id": "310",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Donkey_Kong_Country_3",
   "id": "155",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Fanfare",

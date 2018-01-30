@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Ghosts_N_Goblins",
   "id": "96",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Introduction",

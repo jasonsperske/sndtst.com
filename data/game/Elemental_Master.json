@@ -5,7 +5,10 @@
   ],
   "guid": "Elemental_Master",
   "id": "388",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Great Spirit Overture (Opening Theme)",

@@ -4,7 +4,10 @@
   ],
   "guid": "Victory_Run",
   "id": "40",
-  "platform": "TG16",
+  "platform": {
+    "guid": "TG16",
+    "title": "Turbo Grafx-16"
+  },
   "playlist": [
     {
       "title": "Title",

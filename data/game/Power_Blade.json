@@ -4,7 +4,10 @@
   ],
   "guid": "Power_Blade",
   "id": "351",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Nova Was Summoned (Intro)",

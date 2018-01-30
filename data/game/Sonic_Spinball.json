@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Sonic_Spinball",
   "id": "203",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "SEGA",

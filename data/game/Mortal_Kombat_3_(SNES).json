@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Mortal_Kombat_3_(SNES)",
   "id": "123",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title Screen",

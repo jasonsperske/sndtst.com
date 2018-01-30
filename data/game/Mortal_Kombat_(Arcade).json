@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Mortal_Kombat_(Arcade)",
   "id": "251",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "It Has Begun",

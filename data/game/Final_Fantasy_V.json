@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Final_Fantasy_V",
   "id": "166",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Ahead on our Way",

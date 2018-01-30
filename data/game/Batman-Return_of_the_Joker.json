@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Batman-Return_of_the_Joker",
   "id": "226",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Opening ~Main Theme~",

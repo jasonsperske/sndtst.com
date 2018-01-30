@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Jurassic_Park_(Genesis)",
   "id": "218",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Sega Logo",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Tecmo_World_Cup_Soccer",
   "id": "199",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Unknown",

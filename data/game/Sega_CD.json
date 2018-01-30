@@ -5,7 +5,10 @@
   ],
   "guid": "Sega_CD",
   "id": "362",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Mega CD",

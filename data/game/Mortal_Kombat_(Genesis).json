@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Mortal_Kombat_(Genesis)",
   "id": "118",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Opening Theme",

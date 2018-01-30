@@ -6,7 +6,10 @@
   ],
   "guid": "Captain_Tsubasa_Vol_II",
   "id": "350",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Opening Theme 1",

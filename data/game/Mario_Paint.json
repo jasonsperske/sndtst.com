@@ -6,7 +6,10 @@
   ],
   "guid": "Mario_Paint",
   "id": "66",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Mario Paint",

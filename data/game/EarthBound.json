@@ -5,7 +5,10 @@
   ],
   "guid": "EarthBound",
   "id": "38",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "The Evil Giygas Attacks! (part 1)",

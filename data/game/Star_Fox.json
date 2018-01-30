@@ -4,7 +4,10 @@
   ],
   "guid": "Star_Fox",
   "id": "11",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title Demo",

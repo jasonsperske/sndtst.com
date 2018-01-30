@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Sonic_The_Hedgehog_3_Knuckles",
   "id": "125",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Title Screen",

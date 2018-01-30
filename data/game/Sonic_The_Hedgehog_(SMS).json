@@ -5,7 +5,10 @@
   ],
   "guid": "Sonic_The_Hedgehog_(SMS)",
   "id": "377",
-  "platform": "SMS",
+  "platform": {
+    "guid": "SMS",
+    "title": "Master System"
+  },
   "playlist": [
     {
       "title": "Title Screen",

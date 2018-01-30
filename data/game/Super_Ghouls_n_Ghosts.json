@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Super_Ghouls_n_Ghosts",
   "id": "158",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Capcom",

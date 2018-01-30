@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Dune_II",
   "id": "91",
-  "platform": "PC",
+  "platform": {
+    "guid": "PC",
+    "title": "PC"
+  },
   "playlist": [
     {
       "title": "Introduction",

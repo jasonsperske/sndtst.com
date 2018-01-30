@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Street_Fighter_II_Turbo",
   "id": "10",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Character Select",

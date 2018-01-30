@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "After_Burner",
   "id": "269",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Maximum Power",

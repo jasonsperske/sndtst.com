@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Vectorman_2",
   "id": "117",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Title (Title Theme)",

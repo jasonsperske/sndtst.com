@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Vampire_Killer",
   "id": "293",
-  "platform": "MSX",
+  "platform": {
+    "guid": "MSX",
+    "title": "MSX"
+  },
   "playlist": [
     {
       "title": "Prologue",

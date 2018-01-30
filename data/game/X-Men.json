@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "X-Men",
   "id": "255",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "All That X-Men",

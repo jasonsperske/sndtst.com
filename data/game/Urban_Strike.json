@@ -4,7 +4,10 @@
   ],
   "guid": "Urban_Strike",
   "id": "340",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Urban Strike",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Demons_Crest",
   "id": "142",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Legend of Firebrand",

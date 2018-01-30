@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Wild_Guns",
   "id": "127",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Theme of Wild Guns",

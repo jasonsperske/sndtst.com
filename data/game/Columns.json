@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Columns",
   "id": "53",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Filthy (Select)",

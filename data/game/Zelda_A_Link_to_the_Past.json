@@ -4,7 +4,10 @@
   ],
   "guid": "Zelda_A_Link_to_the_Past",
   "id": "65",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title ~ Link to the Past",

@@ -5,7 +5,10 @@
   ],
   "guid": "Pilotwings",
   "id": "57",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Opening",

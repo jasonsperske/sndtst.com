@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Adventure_Island",
   "id": "317",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Follow Wind",

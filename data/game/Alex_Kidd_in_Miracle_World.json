@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Alex_Kidd_in_Miracle_World",
   "id": "370",
-  "platform": "SMS",
+  "platform": {
+    "guid": "SMS",
+    "title": "Master System"
+  },
   "playlist": [
     {
       "title": "Castle",

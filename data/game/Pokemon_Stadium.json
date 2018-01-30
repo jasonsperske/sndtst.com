@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Pokemon_Stadium",
   "id": "174",
-  "platform": "N64",
+  "platform": {
+    "guid": "N64",
+    "title": "N64"
+  },
   "playlist": [
     {
       "title": "Opening Demo",

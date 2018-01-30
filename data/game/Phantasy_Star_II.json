@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Phantasy_Star_II",
   "id": "42",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Phantasy",

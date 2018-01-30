@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Sim_City_SNES",
   "id": "9",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Opening",

@@ -5,7 +5,10 @@
   ],
   "guid": "Arcana",
   "id": "95",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Grass Flute",

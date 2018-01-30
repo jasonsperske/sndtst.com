@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Silent_Debuggers",
   "id": "146",
-  "platform": "TG16",
+  "platform": {
+    "guid": "TG16",
+    "title": "Turbo Grafx-16"
+  },
   "playlist": [
     {
       "title": "Opening",

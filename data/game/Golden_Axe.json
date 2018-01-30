@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Golden_Axe",
   "id": "8",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "The Battle",

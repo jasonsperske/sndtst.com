@@ -6,7 +6,10 @@
   ],
   "guid": "Mega_Man_7",
   "id": "349",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Capcom Logo",

@@ -9,7 +9,10 @@
   ],
   "guid": "Blazing_Lazers",
   "id": "47",
-  "platform": "TG16",
+  "platform": {
+    "guid": "TG16",
+    "title": "Turbo Grafx-16"
+  },
   "playlist": [
     {
       "title": "Opening",

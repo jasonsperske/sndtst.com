@@ -4,7 +4,10 @@
   ],
   "guid": "Galaxy_Force_II",
   "id": "345",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Credit",

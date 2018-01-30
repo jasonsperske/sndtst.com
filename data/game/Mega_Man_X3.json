@@ -8,7 +8,10 @@
   ],
   "guid": "Mega_Man_X3",
   "id": "380",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Introduction",

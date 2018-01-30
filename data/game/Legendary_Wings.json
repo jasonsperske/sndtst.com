@@ -6,7 +6,10 @@
   ],
   "guid": "Legendary_Wings",
   "id": "387",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Stage 1P",

@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "Out_Run",
   "id": "85",
-  "platform": "Genesis",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
   "playlist": [
     {
       "title": "Magical Sound Shower",

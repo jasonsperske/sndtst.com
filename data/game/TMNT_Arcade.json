@@ -2,7 +2,10 @@
   "composed_by": [],
   "guid": "TMNT_Arcade",
   "id": "267",
-  "platform": "Arcade",
+  "platform": {
+    "guid": "Arcade",
+    "title": "Arcade"
+  },
   "playlist": [
     {
       "title": "Theme",

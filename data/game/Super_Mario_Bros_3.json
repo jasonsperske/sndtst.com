@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Mario_Bros_3",
   "id": "111",
-  "platform": "NES",
+  "platform": {
+    "guid": "NES",
+    "title": "NES"
+  },
   "playlist": [
     {
       "title": "Grass Land",

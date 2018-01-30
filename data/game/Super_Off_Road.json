@@ -4,7 +4,10 @@
   ],
   "guid": "Super_Off_Road",
   "id": "77",
-  "platform": "SNES",
+  "platform": {
+    "guid": "SNES",
+    "title": "SNES"
+  },
   "playlist": [
     {
       "title": "Title Demo",
