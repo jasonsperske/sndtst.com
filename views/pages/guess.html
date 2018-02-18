@@ -108,7 +108,7 @@
 				SNDTST.play()
 				$('#GuessTheGame').fadeIn()
 				$('#ActionPlay').hide()
-				clippy.load('Clippy', function (agent) {
+				clippy.load({name:'Clippy', path:'/static/images/agents/'}, function (agent) {
 					$('.Hint').show()
 					$('#ActionHint').on('click', function () {
 						var hint = hints.pop()
