@@ -22,12 +22,12 @@ gulp.task('script', () => {
 
 gulp.task('style', () => {
   return gulp.src('src/style/sndtst.scss')
-             .pipe(sass({
-               paths: [ '.' ]
-             }))
-             .pipe(cleanCSS())
-             .pipe(rename('sndtst.min.css'))
-             .pipe(gulp.dest('static/css/'))
+    .pipe(sass({
+      paths: [ '.' ]
+    }))
+    .pipe(cleanCSS())
+    .pipe(rename('sndtst.min.css'))
+    .pipe(gulp.dest('static/css/'))
 })
 
 gulp.task('jplayer', () => {
@@ -44,7 +44,7 @@ gulp.task('fonts', () => {
     .pipe(gulp.dest('static/fonts/'))
 })
 
-gulp.task('watch', () => {
+gulp.task('watch', ['default'], () => {
   gulp.watch('./src/js/*.js', ['script'])
   gulp.watch('./src/style/*.scss', ['style'])
 })

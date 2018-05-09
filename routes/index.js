@@ -29,6 +29,23 @@ module.exports = (app, settings) => {
       res.redirect('/')
     }
   })
+  app.get('/:game/track/:track', (req, res) => {
+    let game = optionalRequire(`../data/game/${req.params.game}`)
+    if (game) {
+      if (req.params.track > 0 && req.params.track <= game.playlist.length) {
+        let track = game.playlist[req.params.track - 1]
+        res.render(`pages/track`, {
+          game: game,
+          track: track,
+          page_title: `"${track.title}" from "${game.title}" | Sound Test`
+        })
+      } else {
+        res.redirect(`/${req.params.game}`)
+      }
+    } else {
+      res.redirect('/')
+    }
+  })
   app.get('/data/games.json', (req, res) => {
     res.json(require('../data/games.json'))
   })

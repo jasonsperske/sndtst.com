@@ -36,6 +36,9 @@ html, body {
 	-ms-interpolation-mode: nearest-neighbor;
 	color: #fff;
 }
+a:hover {
+	text-decoration: none;
+}
 .jumbotron {
   background-color: #000;
   h1,p {
@@ -144,12 +147,13 @@ header>.container, main>.container, footer>.container {
 	animation-timing-function: cubic-bezier(1.0,0,0,1.0);
 	animation-duration: 1s;
 }
-.tt-dropdown-menu {
-	width: 100%;
-}
-.tt-suggestions {
+.tt-menu {
 	background-color: #fff;
 	color: #000;
+	width: 100%;
+	padding-left: 10px;
 	cursor: pointer;
-	padding: 10px;
+}
+.tt-dropdown-menu {
+	width: 100%;
 }
