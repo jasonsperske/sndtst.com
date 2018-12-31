@@ -1,0 +1,102 @@
+{
+  "composed_by": [
+    "Naoki Kodaka"
+  ],
+  "guid": "Jewel_Master",
+  "id": "Jewel_Master",
+  "platform": {
+    "guid": "Genesis",
+    "title": "Genesis"
+  },
+  "playlist": [
+    {
+      "title": "Close to the Edge",
+      "guid": "01-Close_to_the_Edge"
+    },
+    {
+      "title": "Tinkle of Rings",
+      "guid": "02-Tinkle_of_Rings"
+    },
+    {
+      "title": "Jewel Master",
+      "guid": "03-Jewel_Master"
+    },
+    {
+      "title": "Vital Signs",
+      "guid": "04-Vital_Signs"
+    },
+    {
+      "title": "Spier Tiger",
+      "guid": "05-Spier_Tiger"
+    },
+    {
+      "title": "The Gate of Delirium",
+      "guid": "06-The_Gate_of_Delirium"
+    },
+    {
+      "title": "Alone in Love",
+      "guid": "07-Alone_in_Love"
+    },
+    {
+      "title": "Fire Bird",
+      "guid": "08-Fire_Bird"
+    },
+    {
+      "title": "Talk to the Wind",
+      "guid": "09-Talk_to_the_Wind"
+    },
+    {
+      "title": "Now You're Gone",
+      "guid": "10-Now_You_re_Gone"
+    },
+    {
+      "title": "King Turtle",
+      "guid": "11-King_Turtle"
+    },
+    {
+      "title": "Fish Out of Water",
+      "guid": "12-Fish_Out_of_Water"
+    },
+    {
+      "title": "Dragonspawn",
+      "guid": "13-Dragonspawn"
+    },
+    {
+      "title": "Chaos Dragon",
+      "guid": "14-Chaos_Dragon"
+    },
+    {
+      "title": "Time to Kill",
+      "guid": "15-Time_to_Kill"
+    },
+    {
+      "title": "Intergalactic Strut",
+      "guid": "16-Intergalactic_Strut"
+    },
+    {
+      "title": "Darkness",
+      "guid": "17-Darkness"
+    },
+    {
+      "title": "Burning Bridges",
+      "guid": "18-Burning_Bridges"
+    },
+    {
+      "title": "Demon King",
+      "guid": "19-Demon_King"
+    },
+    {
+      "title": "To be Over",
+      "guid": "20-To_be_Over"
+    },
+    {
+      "title": "I Got It!",
+      "guid": "21-I_Got_It"
+    },
+    {
+      "title": "The Dream's Over",
+      "guid": "22-The_Dream_s_Over"
+    }
+  ],
+  "title": "Jewel Master"
+}
