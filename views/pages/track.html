@@ -1,53 +1,139 @@
-<style type="text/css">
-  html, body {
-    background-image: url(https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/title);
-  }
-  #Playlist {
-    margin-left: 10px;
-  }
-</style>
-<div class="row">
-	<div class="col-12">
-    <h1>"<:=track.title:>"</h1>
-		<h2>From <a href="/<:=game.guid:>"><:=game.title:></a></h2>
-  </div>
-</div>
-<div class="row">
-	<div class="col-md-9">
-    <button id="ActionPlay" class="btn btn-info" disabled="disabled">Play Song</button>
-		<ol id="Playlist">
-      <li data-song='<:=track.guid:>' data-title='<:=track.title:>'><:=track.title:></li>
-    </ol>
-	</div>
-	<div class="col-md-3">
-    <h3>Composed By</h3>
-    <: if(game.composed_by.length > 0) { :>
-      <: game.composed_by.forEach((composer) => { :>
-        <p><:=composer:></p>
-      <: }) :>
-    <: } else { :>
-      <p>???</p>
-    <: } :>
-    <h3>Tell others that you like this</h3>
-    <p>
-      <a href="https://twitter.com/intent/tweet?url=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>&amp;text=<:=encodeURIComponent('Listening to "'+track.title+'" from "'+game.title+'" @SND_TST'):>" target="_blank" class="btn btn-success btn-sm"><i class="fa fa-twitter"></i> Twitter</a>
-    </p>
-    <p>
-      <a href="https://www.facebook.com/dialog/share?app_id=1468367333395700&amp;display=popup&amp;href=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>&amp;redirect_uri=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>" target="_blank" class="btn btn-info btn-sm"><i class="fa fa-facebook-square"></i> Facebook</a>
-    </p>
-	</div>
-</div>
-<style>
-  #Playlist {
-    display: none;
-  }
-</style>
-<script>
-  $(function () {
-    SNDTST.init('#Playlist', 'https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/song/', function () {
-      $('#ActionPlay').on('click', function () {
-        SNDTST.play()
-      }).prop('disabled', false)
-    })
-  })
-</script>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv='content-type' content='text/html;charset=UTF-8' />
+    <title><:if(locals.page_title) { :><:= page_title :><: } else { :>Sound Test<: } :></title>
+    <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>
+    <script src='/static/js/sndtst.min.js' type='text/javascript'></script>
+    <link type='text/css' href='/static/css/sndtst.min.css' rel='stylesheet' />
+    <link rel="apple-touch-icon" href="/static/images/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/static/images/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/static/images/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/static/images/touch-icon-ipad-retina.png">
+    <link rel="shortcut icon" href="/static/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="Sound Test">
+    <meta name="application-name" content="Sound Test">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <meta property='og:site_name' content='Sound Test'/>
+    <meta property="fb:app_id" content="1468367333395700"/>
+    <meta property='twitter:site' content='@snd_tst'/>
+    <meta property='twitter:creator' content='@snd_tst'/>
+    <meta property="twitter:card" content="summary"/>
+    <meta property="sndtst:title" content="<:=game.title:>"/>
+  <: game.composed_by.forEach((composer) => { :>
+    <meta property="sndtst:composed_by" content="<:=composer:>" role="Composer"/>
+  <: }) :>
+    <meta property="sndtst:url" content="https://sndtst.com/<:=game.guid:>"/>
+    <meta property="og:title" content="<:= game.title :>"/>
+    <meta property="og:type" content="game"/>
+    <meta property="og:url" content="https://sndtst.com/<:=game.guid:>"/>
+    <meta property="og:image" content="https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/title"/>
+    <meta property='og:description' content='Music from the game "<:=game.title:>"'/>
+    <meta property='twitter:description' content='Music from the game "<:=game.title:>"'/>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-50241201-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-50241201-1');
+    </script>
+  </head>
+	<body>
+    <header>
+      <div class='container'>
+        <div class="navbar navbar-dark navbar-expand-md">
+          <div class="container d-flex justify-content-between">
+            <a href="/" class="navbar-brand d-flex align-items-center">
+              <strong>Sound Test</strong>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                  <a class="nav-link" href="/game/">Guess the Game</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main role="main">
+      <div class='container'>
+        <style type="text/css">
+          html, body {
+            background-image: url(https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/title);
+          }
+          #Playlist {
+            margin-left: 10px;
+          }
+        </style>
+        <div class="row">
+	        <div class="col-12">
+            <h1>"<:=track.title:>"</h1>
+		        <h2>From <a href="/<:=game.guid:>/"><:=game.title:></a></h2>
+          </div>
+        </div>
+        <div class="row">
+	        <div class="col-md-9">
+            <button id="ActionPlay" class="btn btn-info" disabled="disabled">Play Song</button>
+		        <ol id="Playlist">
+              <li data-song='<:=track.guid:>' data-title='<:=track.title:>'><:=track.title:></li>
+            </ol>
+	        </div>
+	        <div class="col-md-3">
+            <h3>Composed By</h3>
+            <: if(game.composed_by.length > 0) { :>
+              <: game.composed_by.forEach((composer) => { :>
+                <p><:=composer:></p>
+              <: }) :>
+            <: } else { :>
+              <p>???</p>
+            <: } :>
+            <h3>Tell others that you like this</h3>
+            <p>
+              <a href="https://twitter.com/intent/tweet?url=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>&amp;text=<:=encodeURIComponent('Listening to "'+track.title+'" from "'+game.title+'" @SND_TST'):>" target="_blank" class="btn btn-success btn-sm"><i class="fa fa-twitter"></i> Twitter</a>
+            </p>
+            <p>
+              <a href="https://www.facebook.com/dialog/share?app_id=1468367333395700&amp;display=popup&amp;href=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>&amp;redirect_uri=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>" target="_blank" class="btn btn-info btn-sm"><i class="fa fa-facebook-square"></i> Facebook</a>
+            </p>
+	        </div>
+        </div>
+        <style>
+          #Playlist {
+            display: none;
+          }
+        </style>
+        <script>
+          $(function () {
+            SNDTST.init('#Playlist', 'https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/song/', function () {
+              $('#ActionPlay').on('click', function () {
+                SNDTST.play()
+              }).prop('disabled', false)
+            })
+          })
+        </script>
+      </div>
+    </main>
+    <footer class="text-muted">
+      <div class='container'>
+        <p class='text-muted'><small>Created with &#9825; by <a href='http://jason.sperske.com/'>Jason Sperske</a> &mdash; <a href='mailto:feedback@sndtst.com'>Any Suggestions?</a> &mdash; <a href='/about/privacy/'>Privacy Policy</a></small></p>
+      </div>
+    </footer>
+    <div id="jplayer_1" class="jp-jplayer"></div>
+    <div id="jp_container_1" class="jp-audio">
+      <div class="jp-controls">
+        <a href="#" class="jp-play"><span class="fa fa-play fa-2x"></span></a>
+        <a href="#" class="jp-pause"><span class="fa fa-pause fa-2x"></span></a>
+      </div>
+      <div class="jp-current-time"></div>
+      <div class="jp-title"></div>
+      <div class="jp-seek-bar"><div class="jp-play-bar"></div></div>
+    </div>
+  </body>
+</html>

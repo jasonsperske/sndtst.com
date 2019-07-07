@@ -13,6 +13,7 @@
     "express-ejs-layouts": "^2.4.0",
     "font-awesome": "^4.7.0",
     "forcedomain": "^0.8.1",
+    "graceful-fs": "^4.2.0",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.9.4",
     "gulp-concat": "^2.6.1",
@@ -23,8 +24,11 @@
     "jplayer": "^2.9.2",
     "jquery": "^3.3.1",
     "nconf": "^0.10.0",
+    "ncp": "^2.0.0",
+    "node-wget": "^0.4.3",
     "optional-require": "^1.0.0",
     "popper.js": "^1.14.3",
+    "request": "^2.88.0",
     "serve-favicon": "^2.5.0",
     "typeahead.js": "^0.11.1"
   }

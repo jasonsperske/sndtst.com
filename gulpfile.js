@@ -14,7 +14,7 @@ gulp.task('script', () => {
     'node_modules/jplayer/dist/jplayer/jquery.jplayer.js',
     'node_modules/typeahead.js/dist/typeahead.bundle.js',
     'src/js/clippy.js',
-    'src/js/sndtst.js'], {base: '.'})
+    'src/js/sndtst.js'], { base: '.' })
     .pipe(uglify())
     .pipe(concat('sndtst.min.js'))
     .pipe(gulp.dest('static/js/'))
@@ -32,14 +32,14 @@ gulp.task('style', () => {
 
 gulp.task('jplayer', () => {
   return gulp.src([
-    'node_modules/jplayer/dist/jplayer/*.swf'], {base: './'})
+    'node_modules/jplayer/dist/jplayer/*.swf'], { base: './' })
     .pipe(flatten())
     .pipe(gulp.dest('static/js/'))
 })
 
 gulp.task('fonts', () => {
   return gulp.src([
-    'node_modules/font-awesome/fonts/*'], {base: './'})
+    'node_modules/font-awesome/fonts/*'], { base: './' })
     .pipe(flatten())
     .pipe(gulp.dest('static/fonts/'))
 })
