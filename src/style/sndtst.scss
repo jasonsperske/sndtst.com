@@ -157,3 +157,32 @@ header>.container, main>.container, footer>.container {
 .tt-dropdown-menu {
 	width: 100%;
 }
+.rainbowtron {
+  background: linear-gradient(223deg, #00ffbd, #7d00ff, #ef583a);
+  background-size: 600% 600%;
+
+  -webkit-animation: RainbowTron 5s ease infinite;
+  -moz-animation: RainbowTron 5s ease infinite;
+  animation: RainbowTron 5s ease infinite;
+
+  h1, p {
+    color: white;
+    text-shadow: 2px 1px 1px #aaa;
+  }
+}
+
+@-webkit-keyframes RainbowTron {
+  0%{background-position:81% 0%}
+  50%{background-position:20% 100%}
+  100%{background-position:81% 0%}
+}
+@-moz-keyframes RainbowTron {
+  0%{background-position:81% 0%}
+  50%{background-position:20% 100%}
+  100%{background-position:81% 0%}
+}
+@keyframes RainbowTron {
+  0%{background-position:81% 0%}
+  50%{background-position:20% 100%}
+  100%{background-position:81% 0%}
+}
