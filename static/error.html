@@ -1,0 +1,10 @@
+<script>
+  var path = window.location.pathname.split('/')
+  if (path.length === 2) {
+    window.location.href = window.location.pathname + '/index.html'
+  } else if (path.length === 4 && path[2] === 'track') {
+    window.location.href = window.location.pathname + '.html'
+  } else {
+    window.location.href = '/'
+  }
+</script>

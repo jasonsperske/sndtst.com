@@ -25,10 +25,10 @@
   <: game.composed_by.forEach((composer) => { :>
     <meta property="sndtst:composed_by" content="<:=composer:>" role="Composer"/>
   <: }) :>
-    <meta property="sndtst:url" content="https://sndtst.com/<:=game.guid:>"/>
+    <meta property="sndtst:url" content="https://sndtst.com/<:=game.guid:>/index.html"/>
     <meta property="og:title" content="<:= game.title :>"/>
     <meta property="og:type" content="game"/>
-    <meta property="og:url" content="https://sndtst.com/<:=game.guid:>"/>
+    <meta property="og:url" content="https://sndtst.com/<:=game.guid:>/index.html"/>
     <meta property="og:image" content="https://s3-us-west-2.amazonaws.com/media.sndtst.com/game/<:=game.id:>/title"/>
     <meta property='og:description' content='Music from the game "<:=game.title:>"'/>
     <meta property='twitter:description' content='Music from the game "<:=game.title:>"'/>
@@ -55,7 +55,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                  <a class="nav-link" href="/game/">Guess the Game</a>
+                  <a class="nav-link" href="/game/index.html">Guess the Game</a>
                 </li>
               </ul>
             </div>
@@ -76,7 +76,7 @@
         <div class="row">
 	        <div class="col-12">
             <h1>"<:=track.title:>"</h1>
-		        <h2>From <a href="/<:=game.guid:>/"><:=game.title:></a></h2>
+		        <h2>From <a href="/<:=game.guid:>/index.html"><:=game.title:></a></h2>
           </div>
         </div>
         <div class="row">
@@ -97,10 +97,10 @@
             <: } :>
             <h3>Tell others that you like this</h3>
             <p>
-              <a href="https://twitter.com/intent/tweet?url=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>&amp;text=<:=encodeURIComponent('Listening to "'+track.title+'" from "'+game.title+'" @SND_TST'):>" target="_blank" class="btn btn-success btn-sm"><i class="fa fa-twitter"></i> Twitter</a>
+              <a href="https://twitter.com/intent/tweet?url=<:=encodeURIComponent('https://sndtst.com/'+game.guid+'/index.html'):>&amp;text=<:=encodeURIComponent('Listening to "'+track.title+'" from "'+game.title+'" @SND_TST'):>" target="_blank" class="btn btn-success btn-sm"><i class="fa fa-twitter"></i> Twitter</a>
             </p>
             <p>
-              <a href="https://www.facebook.com/dialog/share?app_id=1468367333395700&amp;display=popup&amp;href=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>&amp;redirect_uri=<:=encodeURIComponent('https://sndtst.com/'+game.guid):>" target="_blank" class="btn btn-info btn-sm"><i class="fa fa-facebook-square"></i> Facebook</a>
+              <a href="https://www.facebook.com/dialog/share?app_id=1468367333395700&amp;display=popup&amp;href=<:=encodeURIComponent('https://sndtst.com/'+game.guid+'/index.html'):>&amp;redirect_uri=<:=encodeURIComponent('https://sndtst.com/'+game.guid+'/index.html'):>" target="_blank" class="btn btn-info btn-sm"><i class="fa fa-facebook-square"></i> Facebook</a>
             </p>
 	        </div>
         </div>
