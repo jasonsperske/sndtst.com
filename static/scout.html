@@ -27,11 +27,11 @@
     <main role="main">
       <div class="container">
         <ul id="locations"></ul>
-        <button type="button" id="AddLocation" class="btn btn-xs btn-default">+</button>
+        <button type="button" id="AddLocation" class="btn btn-xs btn-info">+</button>
       </div>
     </main>
     <script type="module">
-      import LatLon from 'https://cdn.jsdelivr.net/npm/geodesy@2/latlon-spherical.min.js';
+      import LatLon from 'https://cdn.jsdelivr.net/npm/geodesy@2/latlon-ellipsoidal-vincenty.js';
       const addLocation = document.getElementById("AddLocation");
       const list = document.getElementById("locations");
 
@@ -69,7 +69,7 @@
       function createRow(location, distanceTo) {
         let row = document.createElement('li');
         let distance = document.createElement('span');
-        distance.innerText = distanceTo + ' km';
+        distance.innerText = distanceTo + ' m';
         row.innerText = location.label + " ";
         row.appendChild(distance);
         return row;
@@ -85,12 +85,14 @@
 
       let points = loadData();
 
-      navigator.geolocation.getCurrentPosition(
+      navigator.geolocation.watchPosition(
         (position) => {
           const from = LatLon.parse(position.coords.latitude, position.coords.longitude);
           drawList(points, from);
         }, () => {
           alert('Position could not be determined.');
+        }, {
+          enableHighAccuracy: true
         }
       );
       addLocation.onclick = () => {
@@ -98,16 +100,20 @@
           (position) => {
             const from = LatLon.parse(position.coords.latitude, position.coords.longitude)
             const label = prompt("What do you call this place?");
-            points.push({
-              label: label,
-              lat: position.coords.latitude,
-              lon: position.coords.longitude,
-              point: from
-            });
-            saveData(points);
-            drawList(points, from);
+            if (label.length > 0) {
+              points.push({
+                label: label,
+                lat: position.coords.latitude,
+                lon: position.coords.longitude,
+                point: from
+              });
+              saveData(points);
+              drawList(points, from);
+            }
           }, () => {
             alert('Position could not be determined.');
+          }, {
+            enableHighAccuracy: true
           }
         );
       }
