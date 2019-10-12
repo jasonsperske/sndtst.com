@@ -32,91 +32,122 @@
     </main>
     <script type="module">
       import LatLon from 'https://cdn.jsdelivr.net/npm/geodesy@2/latlon-ellipsoidal-vincenty.js';
-      const addLocation = document.getElementById("AddLocation");
-      const list = document.getElementById("locations");
 
-      function loadData() {
-        let data = window.localStorage.getItem('locations');
-        if (data) {
-          let information = JSON.parse(data);
-          let points = [];
-          information.forEach((record) => {
-            points.push({
-              label: record.label,
-              lat: record.lat,
-              lon: record.lon,
-              point: LatLon.parse(record.lat, record.lon)
-            });
-          });
-          return points;
-        } else {
-          return [];
+      class PointOfIntrest {
+        constructor(record) {
+          this.label = record.label;
+          this.lat = record.lat;
+          this.lon = record.lon;
+          this.point = LatLon.parse(this.lat, this.lon);
+        }
+        toJSON() {
+          let {label, lat, lon} = this;
+          return {label, lat, lon};
+        }
+        distanceTo(position) {
+          return parseFloat(this.point.distanceTo(position));
+        }
+      }
+      class PointOfIntrestFrom {
+        constructor(point, position) {
+          this.point_ = point;
+          this.distanceTo_ = point.distanceTo(position);
+        }
+        get lable() {
+          return this.point_.label;
+        }
+        get distanceTo() {
+          return this.distanceTo_;
         }
       }
 
-      function saveData(points) {
-        let data = [];
-        points.forEach((point) => {
-          data.push({
-            label: point.label,
-            lat: point.lat,
-            lon: point.lon
-          });
-        });
-        window.localStorage.setItem('locations', JSON.stringify(data));
-      }
-
-      function createRow(location, distanceTo) {
-        let row = document.createElement('li');
-        let distance = document.createElement('span');
-        distance.innerText = distanceTo + ' m';
-        row.innerText = location.label + " ";
-        row.appendChild(distance);
-        return row;
-      }
-
-      function drawList(points, from) {
-        list.innerHTML = '';
-        points.forEach((location, index) => {
-          const dist = parseFloat(from.distanceTo(location.point));
-          list.appendChild(createRow(location, dist));
-        });
-      }
-
-      let points = loadData();
-
-      navigator.geolocation.watchPosition(
-        (position) => {
-          const from = LatLon.parse(position.coords.latitude, position.coords.longitude);
-          drawList(points, from);
-        }, () => {
-          alert('Position could not be determined.');
-        }, {
-          enableHighAccuracy: true
+      class LocationsStorage {
+        constructor(storageName) {
+          this.storageName_ = storageName || 'locations';
+          this.points_ = this.load_();
         }
-      );
-      addLocation.onclick = () => {
-        navigator.geolocation.getCurrentPosition(
-          (position) => {
-            const from = LatLon.parse(position.coords.latitude, position.coords.longitude)
-            const label = prompt("What do you call this place?");
-            if (label.length > 0) {
-              points.push({
-                label: label,
-                lat: position.coords.latitude,
-                lon: position.coords.longitude,
-                point: from
-              });
-              saveData(points);
-              drawList(points, from);
-            }
-          }, () => {
-            alert('Position could not be determined.');
-          }, {
-            enableHighAccuracy: true
+        load_() {
+          let data = window.localStorage.getItem(this.storageName_);
+          if (data) {
+            return JSON.parse(data).map(d => new PointOfIntrest(d));
+          } else {
+            return [];
           }
-        );
+        }
+        save_() {
+          window.localStorage.setItem(this.storageName_, JSON.stringify(this.points_));
+        }
+        add(label, position) {
+          let newPoint = new PointOfIntrest({
+            label: label,
+            lat: position.latitude,
+            lon: position.longitude
+          });
+
+          this.points_.push(newPoint);
+          this.save_();
+
+          return newPoint;
+        }
+        forEach(action, position) {
+          let pointsFrom = this.points_.map(p => new PointOfIntrestFrom(p, position));
+          pointsFrom.sort((a, b) => a.distanceTo - b.distanceTo);
+          pointsFrom.forEach(action);
+        }
       }
+
+      class UI {
+        constructor() {
+          this.storage_ = new LocationsStorage('locations');
+          this.addLocationButton_ = document.getElementById('AddLocation');
+          this.listOfLocations_ = document.getElementById('locations');
+
+          this.addLocationButton_.onclick = () => {
+            this.addLocationButton_.disabled = true;
+            navigator.geolocation.getCurrentPosition(
+              (position) => {
+                const label = prompt("What do you call this place?");
+                if (label.length > 0) {
+                  this.update(this.storage_.add(label, position.coords));
+                }
+                this.addLocationButton_.disabled = true;
+              }, () => {
+                alert('Position could not be determined.');
+                this.addLocationButton_.disabled = true;
+              }, {
+                enableHighAccuracy: true
+              }
+            );
+          }
+          navigator.geolocation.watchPosition(
+            (position) => {
+              this.update(LatLon.parse(position.coords.latitude, position.coords.longitude));
+            }, () => {
+              alert('Position could not be determined.');
+            }, {
+              enableHighAccuracy: true
+            }
+          );
+        }
+
+        createRow_(point) {
+          const row = document.createElement('li');
+          const distance = document.createElement('span');
+          distance.innerText = point.distanceTo + ' m';
+          row.innerText = point.label + " ";
+          row.appendChild(distance);
+          return row;
+        }
+
+        update(position) {
+          this.listOfLocations_.innerHTML = '';
+          this.storage_.forEach((location, index) => {
+            this.listOfLocations_.appendChild(this.createRow_(location));
+          }, position);
+        }
+      }
+
+      const ui = new UI();
     </script>
   </body>
 </html>
