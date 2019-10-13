@@ -5,30 +5,76 @@
     <meta http-equiv='content-type' content='text/html;charset=UTF-8' />
     <title>Scout's App</title>
     <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>
-    <link type='text/css' href='/static/css/sndtst.min.css' rel='stylesheet' />
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:300&display=swap" rel="stylesheet">
     <link rel="apple-touch-icon" href="/static/images/touch-icon-iphone.png">
     <link rel="apple-touch-icon" sizes="76x76" href="/static/images/touch-icon-ipad.png">
     <link rel="apple-touch-icon" sizes="120x120" href="/static/images/touch-icon-iphone-retina.png">
     <link rel="apple-touch-icon" sizes="152x152" href="/static/images/touch-icon-ipad-retina.png">
     <link rel="shortcut icon" href="/static/favicon.ico">
+    <style>
+      body {
+        font-family: 'Quicksand', sans-serif;
+        margin: 0;
+      }
+      header {
+        padding: 19px;
+        position: fixed;
+        height: 30px;
+        background: #fff;
+        width: 100%;
+        font-size: 20px;
+        color: #aaa;
+      }
+      main {
+        padding-top: 60px;
+      }
+      .btn {
+      	box-shadow: 6px 6px 10px -8px #276873;
+      	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+      	background-color:#599bb3;
+        border: none;
+      	border-radius:3px;
+      	display:inline-block;
+      	cursor:pointer;
+      	color:#fff;
+      	font-family: 'Quicksand', sans-serif;
+      	font-size:18px;
+      	padding:14px 19px;
+      	text-decoration:none;
+        margin: 10px;
+      }
+      .btn:hover {
+      	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+      	background-color:#408c99;
+      }
+      .btn:active {
+      	position:relative;
+      	top:1px;
+      }
+      table#locations td {
+        border-bottom: 1px #aaa solid;
+        font-size: 40px;
+        padding: 8px;
+      }
+      table#locations tr td {
+        border-bottom: 1px #aaa solid;
+      }
+      table#locations tr:last-child td {
+        border-bottom: none;
+      }
+      table#locations td.label {
+      }
+      table#locations td.distance {
+        font-weight: bold;
+        vertical-align: bottom;
+      }
+    </style>
   </head>
 	<body>
-    <header>
-      <div class='container'>
-        <div class="navbar navbar-dark navbar-expand-md">
-          <div class="container d-flex justify-content-between">
-            <a href="/" class="navbar-brand d-flex align-items-center">
-              <strong>Scout's App</strong>
-            </a>
-          </div>
-        </div>
-      </div>
-    </header>
-    <main role="main">
-      <div class="container">
-        <ul id="locations"></ul>
-        <button type="button" id="AddLocation" class="btn btn-xs btn-info">+</button>
-      </div>
+    <header>Scout's App</header>
+    <main>
+      <table id="locations"></table>
+      <button type="button" id="AddLocation" class="btn">+</button>
     </main>
     <script type="module">
       import LatLon from 'https://cdn.jsdelivr.net/npm/geodesy@2/latlon-ellipsoidal-vincenty.js';
@@ -58,6 +104,14 @@
         }
         get distanceTo() {
           return this.distanceTo_;
+        }
+        get formattedDistanceTo() {
+          const distance = this.distanceTo_;
+          if (distance < 800) {
+            return distance.toFixed(0) + '&nbsp;m';
+          } else if (distance < 10000) {
+            return (distance / 1000).toFixed(2) + '$nbsp;km';
+          }
         }
       }
 
@@ -119,7 +173,8 @@
               }
             );
           }
-          navigator.geolocation.watchPosition(
+
+          navigator.geolocation.getCurrentPosition(
             (position) => {
               this.update(LatLon.parse(position.coords.latitude, position.coords.longitude));
             }, () => {
@@ -131,10 +186,15 @@
         }
 
         createRow_(point) {
-          const row = document.createElement('li');
-          const distance = document.createElement('span');
-          distance.innerText = point.distanceTo + ' m';
-          row.innerText = point.label + " ";
+          const row = document.createElement('tr');
+          const label = document.createElement('td');
+          const distance = document.createElement('td');
+          distance.innerHTML = point.formattedDistanceTo;
+          label.innerText = point.label;
+          label.classList.add('label');
+          distance.classList.add('distance');
+
+          row.appendChild(label);
           row.appendChild(distance);
           return row;
         }
