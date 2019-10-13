@@ -190,7 +190,7 @@
             );
           }
 
-          navigator.geolocation.getCurrentPosition(
+          navigator.geolocation.watchPosition(
             (position) => {
               this.update(LatLon.parse(position.coords.latitude, position.coords.longitude));
             }, () => {
