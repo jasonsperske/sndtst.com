@@ -51,6 +51,9 @@
       	position:relative;
       	top:1px;
       }
+      table#locations {
+        width: 100%;
+      }
       table#locations td {
         border-bottom: 1px #aaa solid;
         font-size: 40px;
@@ -67,6 +70,7 @@
       table#locations td.distance {
         font-weight: bold;
         vertical-align: bottom;
+        text-align: right;
       }
     </style>
   </head>
@@ -109,8 +113,8 @@
           const distance = this.distanceTo_;
           if (distance < 800) {
             return distance.toFixed(0) + '&nbsp;m';
-          } else if (distance < 10000) {
-            return (distance / 1000).toFixed(2) + '$nbsp;km';
+          } else {
+            return (distance / 1000).toFixed(2) + '&nbsp;km';
           }
         }
       }
