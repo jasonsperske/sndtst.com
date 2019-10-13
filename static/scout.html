@@ -53,6 +53,7 @@
       }
       table#locations {
         width: 100%;
+        border-collapse: collapse;
       }
       table#locations td {
         border-bottom: 1px #aaa solid;
@@ -66,6 +67,7 @@
         border-bottom: none;
       }
       table#locations td.label {
+        font-size: 30px;
       }
       table#locations td.distance {
         font-weight: bold;
@@ -101,16 +103,18 @@
       class PointOfIntrestFrom {
         constructor(point, position) {
           this.point_ = point;
-          this.distanceTo_ = point.distanceTo(position);
+          if (position) {
+            this.distanceTo_ = point.distanceTo(position);
+          }
         }
         get label() {
           return this.point_.label;
         }
         get distanceTo() {
-          return this.distanceTo_;
+          return this.distanceTo_ || 0;
         }
         get formattedDistanceTo() {
-          const distance = this.distanceTo_;
+          const distance = this.distanceTo_ || 0;
           if (distance < 800) {
             return distance.toFixed(0) + '&nbsp;m';
           } else {
@@ -127,7 +131,9 @@
         load_() {
           let data = window.localStorage.getItem(this.storageName_);
           if (data) {
-            return JSON.parse(data).map(d => new PointOfIntrest(d));
+            return JSON.parse(data)
+                       .filter(d => d.label)
+                       .map(d => new PointOfIntrest(d));
           } else {
             return [];
           }
@@ -142,10 +148,16 @@
             lon: position.longitude
           });
 
-          this.points_.push(newPoint);
+          let index = this.points_.findIndex(d => d.label.toUpperCase()===label.toUpperCase());
+          if (index === -1) {
+            this.points_.push(newPoint);
+          } else {
+            this.points_[index] = newPoint;
+          }
+
           this.save_();
 
-          return newPoint;
+          return newPoint.point;
         }
         forEach(action, position) {
           let pointsFrom = this.points_.map(p => new PointOfIntrestFrom(p, position));
