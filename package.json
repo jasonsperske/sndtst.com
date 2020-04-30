@@ -22,7 +22,7 @@
     "gulp-sass": "^3.2.1",
     "gulp-uglify": "^3.0.0",
     "jplayer": "^2.9.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "nconf": "^0.10.0",
     "ncp": "^2.0.0",
     "node-wget": "^0.4.3",
