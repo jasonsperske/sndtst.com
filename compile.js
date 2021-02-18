@@ -25,7 +25,10 @@ function dumpPlatforms () {
   const platforms = optionalRequire('./data/platforms.json')
   Object.keys(platforms).forEach((guid) => {
     let platform = optionalRequire(`./data/platform/${guid}`)
-    dumpPage('platform/view', { platform: platform }, `platform/${guid}.html`)
+    dumpPage('platform/view', {
+      platform: platform,
+      data_path: `/data/platform/${guid}.json`
+    }, `platform/${guid}.html`)
   })
 }
 
@@ -41,7 +44,8 @@ function dumpGame (guid) {
   fs.mkdirSync(`build/${guid}`, { recursive: true }, (err) => { if (err) throw err })
   dumpPage('view', {
     game: game,
-    page_title: `"${game.title}" | Sound Test`
+    page_title: `"${game.title}" | Sound Test`,
+    data_path: `/data/game/${guid}.json`
   }, `${game.guid}/index.html`)
 
   fs.mkdirSync(`build/${guid}/track`, { recursive: true }, (err) => { if (err) throw err })
@@ -49,7 +53,8 @@ function dumpGame (guid) {
     dumpPage('track', {
       game: game,
       track: track,
-      page_title: `"${track.title}" from "${game.title}" | Sound Test`
+      page_title: `"${track.title}" from "${game.title}" | Sound Test`,
+      data_path: `/data/game/${guid}.json`
     }, `${guid}/track/${i + 1}.html`)
   })
 }

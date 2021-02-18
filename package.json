@@ -6,6 +6,13 @@
   "repository": "https://github.com/jasonsperske/sndtst.com.git",
   "author": "Jason Sperske <jason@sperske.com>",
   "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "node ./node_modules/gulp-cli/bin/gulp.js",
+    "buildWatch": "node ./node_modules/gulp-cli/bin/gulp.js watch",
+    "compile": "node compile.js",
+    "start": "node localhost.js"
+  },
   "dependencies": {
     "bootstrap": "^4.1.1",
     "ejs": "^2.6.1",
@@ -14,13 +21,6 @@
     "font-awesome": "^4.7.0",
     "forcedomain": "^0.8.1",
     "graceful-fs": "^4.2.0",
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^3.9.4",
-    "gulp-concat": "^2.6.1",
-    "gulp-flatten": "^0.4.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^3.2.1",
-    "gulp-uglify": "^3.0.0",
     "jplayer": "^2.9.2",
     "jquery": "^3.3.1",
     "nconf": "^0.10.0",
@@ -31,5 +31,14 @@
     "request": "^2.88.0",
     "serve-favicon": "^2.5.0",
     "typeahead.js": "^0.11.1"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-flatten": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*"
   }
 }
