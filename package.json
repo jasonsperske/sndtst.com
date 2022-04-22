@@ -23,7 +23,7 @@
     "graceful-fs": "^4.2.0",
     "jplayer": "^2.9.2",
     "jquery": "^3.3.1",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "ncp": "^2.0.0",
     "node-wget": "^0.4.3",
     "optional-require": "^1.0.0",
